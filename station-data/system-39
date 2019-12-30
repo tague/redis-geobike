@@ -1,0 +1,2934 @@
+{
+  "last_updated": 1530239587,
+  "ttl": 10,
+  "data": {
+    "stations": [
+      {
+        "station_id": "3",
+        "name": "Colleges of the Fenway - Fenway at Avenue Louis Pasteur",
+        "short_name": "B32006",
+        "lat": 42.34011512249236,
+        "lon": -71.10061883926392,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=3",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "4",
+        "name": "Tremont St at E Berkeley St",
+        "short_name": "C32000",
+        "lat": 42.345392,
+        "lon": -71.069616,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=4",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "5",
+        "name": "Northeastern University - North Parking Lot",
+        "short_name": "B32012",
+        "lat": 42.341814,
+        "lon": -71.090179,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=5",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "6",
+        "name": "Cambridge St at Joy St",
+        "short_name": "D32000",
+        "lat": 42.36129095030584,
+        "lon": -71.06526192286765,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=6",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "7",
+        "name": "Fan Pier",
+        "short_name": "A32000",
+        "lat": 42.3533905070523,
+        "lon": -71.04457139968872,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=7",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "8",
+        "name": "Union Square - Brighton Ave at Cambridge St",
+        "short_name": "A32001",
+        "lat": 42.353334,
+        "lon": -71.137313,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=8",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "9",
+        "name": "Commonwealth Ave at Amory St",
+        "short_name": "A32002",
+        "lat": 42.35062177153799,
+        "lon": -71.11288218766276,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=9",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "10",
+        "name": "B.U. Central - 725 Comm. Ave.",
+        "short_name": "A32003",
+        "lat": 42.350406,
+        "lon": -71.108279,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 11,
+        "rental_url": "https://www.bluebikes.com/app?station_id=10",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "11",
+        "name": "Longwood Ave at Binney St",
+        "short_name": "A32004",
+        "lat": 42.338629,
+        "lon": -71.1065,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=11",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "12",
+        "name": "Ruggles T Stop - Columbus Ave at Melnea Cass Blvd",
+        "short_name": "B32002",
+        "lat": 42.33624444796878,
+        "lon": -71.08798563480377,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 14,
+        "rental_url": "https://www.bluebikes.com/app?station_id=12",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "13",
+        "name": "Boston Medical Center - E Concord St at Harrison Ave",
+        "short_name": "C32002",
+        "lat": 42.336437,
+        "lon": -71.073089,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=13",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "14",
+        "name": "HMS/HSPH - Avenue Louis Pasteur at Longwood Ave",
+        "short_name": "B32003",
+        "lat": 42.3374174845973,
+        "lon": -71.10286116600037,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 21,
+        "rental_url": "https://www.bluebikes.com/app?station_id=14",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "15",
+        "name": "Brighton Mills - 370 Western Ave",
+        "short_name": "A32005",
+        "lat": 42.3615457081725,
+        "lon": -71.13776206970215,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=15",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "16",
+        "name": "Back Bay T Stop - Dartmouth St at Stuart St",
+        "short_name": "C32003",
+        "lat": 42.34807412317439,
+        "lon": -71.07657015323639,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=16",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "17",
+        "name": "Soldiers Field Park - 111 Western Ave",
+        "short_name": "A32006",
+        "lat": 42.364263440638524,
+        "lon": -71.1182756971175,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=17",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "19",
+        "name": "Park Dr at Buswell St",
+        "short_name": "A32008",
+        "lat": 42.347241,
+        "lon": -71.105301,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=19",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "20",
+        "name": "Aquarium T Stop - 200 Atlantic Ave",
+        "short_name": "B32004",
+        "lat": 42.35991176110118,
+        "lon": -71.0514298081398,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=20",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "21",
+        "name": "Prudential Center - Belvedere St",
+        "short_name": "C32007",
+        "lat": 42.34652003998412,
+        "lon": -71.08065776545118,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 18,
+        "rental_url": "https://www.bluebikes.com/app?station_id=21",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "22",
+        "name": "South Station - 700 Atlantic Ave",
+        "short_name": "A32010",
+        "lat": 42.352175,
+        "lon": -71.055547,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 47,
+        "rental_url": "https://www.bluebikes.com/app?station_id=22",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "23",
+        "name": "Boston City Hall - 28 State St",
+        "short_name": "B32008",
+        "lat": 42.35892,
+        "lon": -71.057629,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 21,
+        "rental_url": "https://www.bluebikes.com/app?station_id=23",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "24",
+        "name": "Seaport Square - Seaport Blvd at Northern Ave",
+        "short_name": "B32007",
+        "lat": 42.35148193460858,
+        "lon": -71.04436084628105,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=24",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "25",
+        "name": "South End Library - Tremont St at W Newton St",
+        "short_name": "A32009",
+        "lat": 42.341332,
+        "lon": -71.076847,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=25",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "26",
+        "name": "Washington St at Waltham St",
+        "short_name": "D32002",
+        "lat": 42.341522,
+        "lon": -71.068922,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=26",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "27",
+        "name": "Roxbury Crossing T Stop - Columbus Ave at Tremont St",
+        "short_name": "C32001",
+        "lat": 42.331184,
+        "lon": -71.095171,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=27",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "29",
+        "name": "Innovation Lab - 125 Western Ave at Batten Way",
+        "short_name": "A32011",
+        "lat": 42.363732,
+        "lon": -71.124565,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=29",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "30",
+        "name": "Brigham Circle - Francis St at Huntington Ave",
+        "short_name": "B32013",
+        "lat": 42.33462893055976,
+        "lon": -71.10407917767589,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=30",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "31",
+        "name": "Seaport Hotel - Congress St at Seaport Ln",
+        "short_name": "B32014",
+        "lat": 42.34881026188269,
+        "lon": -71.04167744055303,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=31",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "32",
+        "name": "Landmark Center - Brookline Ave at Park Dr",
+        "short_name": "B32015",
+        "lat": 42.34519428944095,
+        "lon": -71.1016970872879,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=32",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "33",
+        "name": "Kenmore Square",
+        "short_name": "B32010",
+        "lat": 42.348706,
+        "lon": -71.097009,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=33",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "35",
+        "name": "Arch St at Franklin St",
+        "short_name": "D32004",
+        "lat": 42.355335019412564,
+        "lon": -71.0582291708306,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "https://www.bluebikes.com/app?station_id=35",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "36",
+        "name": "Copley Square - Dartmouth St at Boylston St",
+        "short_name": "D32005",
+        "lat": 42.34993463611888,
+        "lon": -71.07738554477692,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 25,
+        "rental_url": "https://www.bluebikes.com/app?station_id=36",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "37",
+        "name": "New Balance - 20 Guest St",
+        "short_name": "D32001",
+        "lat": 42.35732921867706,
+        "lon": -71.14673539996147,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=37",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "39",
+        "name": "Washington St at Rutland St",
+        "short_name": "C32006",
+        "lat": 42.338514601785995,
+        "lon": -71.07404083013535,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=39",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "40",
+        "name": "Lewis Wharf at Atlantic Ave",
+        "short_name": "D32006",
+        "lat": 42.363871,
+        "lon": -71.050877,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=40",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "41",
+        "name": "Packard's Corner - Commonwealth Ave at Brighton Ave",
+        "short_name": "A32012",
+        "lat": 42.352261,
+        "lon": -71.123831,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=41",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "42",
+        "name": "Boylston St at Arlington St",
+        "short_name": "D32007",
+        "lat": 42.35204262229712,
+        "lon": -71.0704493522644,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "https://www.bluebikes.com/app?station_id=42",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "43",
+        "name": "Rowes Wharf at Atlantic Ave",
+        "short_name": "D32008",
+        "lat": 42.357143,
+        "lon": -71.050699,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=43",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "44",
+        "name": "Congress St at North St",
+        "short_name": "D32009",
+        "lat": 42.36041774637169,
+        "lon": -71.05752243543975,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=44",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "45",
+        "name": "Jersey St. at Boylston St.",
+        "short_name": "B32011",
+        "lat": 42.3446808403874,
+        "lon": -71.09785348176956,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=45",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "46",
+        "name": "Christian Science Plaza - Massachusetts Ave at Westland Ave",
+        "short_name": "B32005",
+        "lat": 42.3436658245146,
+        "lon": -71.08582377433777,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=46",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "47",
+        "name": "Cross St at Hanover St",
+        "short_name": "D32010",
+        "lat": 42.362811,
+        "lon": -71.056067,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=47",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "48",
+        "name": "Post Office Square - Pearl St at Milk St",
+        "short_name": "D32012",
+        "lat": 42.356755,
+        "lon": -71.055407,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=48",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "49",
+        "name": "Stuart St at Charles St",
+        "short_name": "D32011",
+        "lat": 42.351146,
+        "lon": -71.066289,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 18,
+        "rental_url": "https://www.bluebikes.com/app?station_id=49",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "50",
+        "name": "Boylston St at Berkeley St",
+        "short_name": "D32013",
+        "lat": 42.3511419825475,
+        "lon": -71.07329249382019,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=50",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "51",
+        "name": "Washington St at Lenox St",
+        "short_name": "C32005",
+        "lat": 42.3350989929096,
+        "lon": -71.07903778553009,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=51",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "52",
+        "name": "Newbury St at Hereford St",
+        "short_name": "B32000",
+        "lat": 42.348717,
+        "lon": -71.085954,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "https://www.bluebikes.com/app?station_id=52",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "53",
+        "name": "Beacon St at Massachusetts Ave",
+        "short_name": "B32016",
+        "lat": 42.35082680669095,
+        "lon": -71.0898108780384,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=53",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "54",
+        "name": "Tremont St at West St",
+        "short_name": "D32014",
+        "lat": 42.354979,
+        "lon": -71.063348,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=54",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "55",
+        "name": "Boylston St at Massachusetts Ave",
+        "short_name": "B32018",
+        "lat": 42.347265,
+        "lon": -71.088088,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=55",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "56",
+        "name": "Dudley Square - Dudley St at Warren St",
+        "short_name": "B32017",
+        "lat": 42.32854046293402,
+        "lon": -71.08416482806204,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 14,
+        "rental_url": "https://www.bluebikes.com/app?station_id=56",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "57",
+        "name": "Columbus Ave at Massachusetts Ave",
+        "short_name": "C32004",
+        "lat": 42.340542615516355,
+        "lon": -71.08138847914233,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 14,
+        "rental_url": "https://www.bluebikes.com/app?station_id=57",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "58",
+        "name": "Beacon St at Arlington St",
+        "short_name": "D32017",
+        "lat": 42.355536284897084,
+        "lon": -71.07286870479584,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=58",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "59",
+        "name": "Chinatown Gate Plaza",
+        "short_name": "D32015",
+        "lat": 42.351356,
+        "lon": -71.059367,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=59",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "60",
+        "name": "Charles Circle - Charles St at Cambridge St",
+        "short_name": "D32016",
+        "lat": 42.36018499796463,
+        "lon": -71.07086597688976,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=60",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "61",
+        "name": "Boylston St at Fairfield St",
+        "short_name": "C32008",
+        "lat": 42.348762,
+        "lon": -71.082383,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=61",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "63",
+        "name": "Dorchester Ave at Gillette Park",
+        "short_name": "C32009",
+        "lat": 42.344040510016356,
+        "lon": -71.05737626552582,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=63",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "64",
+        "name": "Congress St at Sleeper St",
+        "short_name": "C32010",
+        "lat": 42.351004495946704,
+        "lon": -71.04930013418198,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=64",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "65",
+        "name": "Boston Convention and Exhibition Center - Summer St at West Side Dr",
+        "short_name": "D32018",
+        "lat": 42.347763454147454,
+        "lon": -71.0453599691391,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=65",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "66",
+        "name": "Allston Green District - Griggs St at Commonwealth Ave",
+        "short_name": "A32017",
+        "lat": 42.34922469338298,
+        "lon": -71.13275302578586,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=66",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "67",
+        "name": "MIT at Mass Ave / Amherst St",
+        "short_name": "M32006",
+        "lat": 42.3581,
+        "lon": -71.093198,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "https://www.bluebikes.com/app?station_id=67",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "68",
+        "name": "Central Square at Mass Ave / Essex St",
+        "short_name": "M32011",
+        "lat": 42.36507,
+        "lon": -71.1031,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=68",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "69",
+        "name": "Coolidge Corner - Beacon St @ Centre St",
+        "short_name": "K32001",
+        "lat": 42.341598,
+        "lon": -71.123338,
+        "region_id": 4,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=69",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "70",
+        "name": "Harvard Kennedy School at Bennett St / Eliot St",
+        "short_name": "M32016",
+        "lat": 42.3722168027866,
+        "lon": -71.12188071012497,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "https://www.bluebikes.com/app?station_id=70",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "71",
+        "name": "Conway Park - Somerville Avenue",
+        "short_name": "S32004",
+        "lat": 42.383405,
+        "lon": -71.107593,
+        "region_id": 9,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=71",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "72",
+        "name": "One Broadway / Kendall Sq at Main St / 3rd St",
+        "short_name": "M32003",
+        "lat": 42.362613,
+        "lon": -71.084105,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=72",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "73",
+        "name": "Harvard Square at Brattle St / Eliot St",
+        "short_name": "M32017",
+        "lat": 42.373231,
+        "lon": -71.120886,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=73",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "74",
+        "name": "Harvard Square at Mass Ave/ Dunster",
+        "short_name": "M32018",
+        "lat": 42.373268,
+        "lon": -71.118579,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=74",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "75",
+        "name": "Lafayette Square at Mass Ave / Main St / Columbia St",
+        "short_name": "M32009",
+        "lat": 42.36346469304347,
+        "lon": -71.10057324171066,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=75",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "76",
+        "name": "Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St",
+        "short_name": "M32012",
+        "lat": 42.366426,
+        "lon": -71.105495,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 17,
+        "rental_url": "https://www.bluebikes.com/app?station_id=76",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "77",
+        "name": "Somerville City Hall",
+        "short_name": "S32001",
+        "lat": 42.386844,
+        "lon": -71.09812,
+        "region_id": 9,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=77",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "78",
+        "name": "Union Square - Somerville",
+        "short_name": "S32002",
+        "lat": 42.37980717512428,
+        "lon": -71.09387040138245,
+        "region_id": 9,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=78",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "79",
+        "name": "Beacon St at Washington / Kirkland",
+        "short_name": "S32003",
+        "lat": 42.37842,
+        "lon": -71.105668,
+        "region_id": 9,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=79",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "80",
+        "name": "MIT Stata Center at Vassar St / Main St",
+        "short_name": "M32005",
+        "lat": 42.3621312344991,
+        "lon": -71.09115600585936,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 35,
+        "rental_url": "https://www.bluebikes.com/app?station_id=80",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "81",
+        "name": "Chinatown T Stop",
+        "short_name": "D32019",
+        "lat": 42.352409,
+        "lon": -71.062679,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=81",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "82",
+        "name": "Beacon St at Tappan St",
+        "short_name": "K32002",
+        "lat": 42.33826680058037,
+        "lon": -71.13894682028331,
+        "region_id": 4,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=82",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "84",
+        "name": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+        "short_name": "M32019",
+        "lat": 42.366981,
+        "lon": -71.076472,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=84",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "85",
+        "name": "Spaulding Rehabilitation Hospital - Charlestown Navy Yard",
+        "short_name": "D32023",
+        "lat": 42.378338,
+        "lon": -71.048927,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=85",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "87",
+        "name": "Harvard University Housing - 115 Putnam Ave at Peabody Terrace",
+        "short_name": "M32014",
+        "lat": 42.366621,
+        "lon": -71.114214,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=87",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "88",
+        "name": "Inman Square at Vellucci Plaza / Hampshire St",
+        "short_name": "M32010",
+        "lat": 42.374035,
+        "lon": -71.101427,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=88",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "89",
+        "name": "Harvard Law School at Mass Ave / Jarvis St",
+        "short_name": "M32020",
+        "lat": 42.379011,
+        "lon": -71.119945,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=89",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "90",
+        "name": "Lechmere Station at Cambridge St / First St",
+        "short_name": "M32001",
+        "lat": 42.370677,
+        "lon": -71.076529,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=90",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "91",
+        "name": "One Kendall Square at Hampshire St / Portland St",
+        "short_name": "M32002",
+        "lat": 42.366277,
+        "lon": -71.09169,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=91",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "92",
+        "name": "University of Massachusetts Boston - Integrated Sciences Complex",
+        "short_name": "C32014",
+        "lat": 42.314507,
+        "lon": -71.041269,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=92",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "93",
+        "name": "JFK/UMass T Stop",
+        "short_name": "C32013",
+        "lat": 42.32033973515723,
+        "lon": -71.05118036270142,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=93",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "94",
+        "name": "Main St at Austin St",
+        "short_name": "D32020",
+        "lat": 42.375603,
+        "lon": -71.064608,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 11,
+        "rental_url": "https://www.bluebikes.com/app?station_id=94",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "95",
+        "name": "Cambridge St - at Columbia St / Webster Ave",
+        "short_name": "M32007",
+        "lat": 42.372969,
+        "lon": -71.094445,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=95",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "96",
+        "name": "Cambridge Main Library at Broadway / Trowbridge St",
+        "short_name": "M32013",
+        "lat": 42.373379,
+        "lon": -71.111075,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=96",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "97",
+        "name": "Harvard University River Houses at DeWolfe St / Cowperthwaite St",
+        "short_name": "M32038",
+        "lat": 42.36919031768079,
+        "lon": -71.11714124679565,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=97",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "98",
+        "name": "Warren St at Chelsea St",
+        "short_name": "D32021",
+        "lat": 42.371848,
+        "lon": -71.060292,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=98",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "99",
+        "name": "Wilson Square",
+        "short_name": "S32005",
+        "lat": 42.385582,
+        "lon": -71.113341,
+        "region_id": 9,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=99",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "100",
+        "name": "Davis Square",
+        "short_name": "S32006",
+        "lat": 42.396969,
+        "lon": -71.123024,
+        "region_id": 9,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 25,
+        "rental_url": "https://www.bluebikes.com/app?station_id=100",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "102",
+        "name": "Powder House Circle - Nathan Tufts Park",
+        "short_name": "S32008",
+        "lat": 42.400877,
+        "lon": -71.116772,
+        "region_id": 9,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=102",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "104",
+        "name": "Harvard University Radcliffe Quadrangle at Shepard St / Garden St",
+        "short_name": "M32024",
+        "lat": 42.380287,
+        "lon": -71.125107,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=104",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "105",
+        "name": "Lower Cambridgeport at Magazine St / Riverside Rd",
+        "short_name": "M32022",
+        "lat": 42.357218503176526,
+        "lon": -71.1138716340065,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=105",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "106",
+        "name": "Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave",
+        "short_name": "C32015",
+        "lat": 42.325333,
+        "lon": -71.075354,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=106",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "107",
+        "name": "Ames St at Main St",
+        "short_name": "M32037",
+        "lat": 42.3625,
+        "lon": -71.08822,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=107",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "108",
+        "name": "Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St",
+        "short_name": "M32023",
+        "lat": 42.377945,
+        "lon": -71.116865,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 17,
+        "rental_url": "https://www.bluebikes.com/app?station_id=108",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "109",
+        "name": "TD Garden - West End Park",
+        "short_name": "D32022",
+        "lat": 42.36590788445084,
+        "lon": -71.06446668505669,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 35,
+        "rental_url": "https://www.bluebikes.com/app?station_id=109",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "110",
+        "name": "Harvard University Gund Hall at Quincy St / Kirkland S",
+        "short_name": "M32021",
+        "lat": 42.376369,
+        "lon": -71.114025,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=110",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "111",
+        "name": "Packard Ave at Powderhouse Blvd",
+        "short_name": "S32009",
+        "lat": 42.40449,
+        "lon": -71.123413,
+        "region_id": 9,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=111",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "112",
+        "name": "Clarendon Hill at Broadway",
+        "short_name": "S32010",
+        "lat": 42.406302,
+        "lon": -71.132446,
+        "region_id": 9,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=112",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "113",
+        "name": "Andrew T Stop - Dorchester Ave at Dexter St",
+        "short_name": "C32012",
+        "lat": 42.330473650415165,
+        "lon": -71.05701684951782,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=113",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "115",
+        "name": "Porter Square Station",
+        "short_name": "M32029",
+        "lat": 42.387995,
+        "lon": -71.119084,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=115",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "116",
+        "name": "359 Broadway - Broadway at Fayette Street",
+        "short_name": "M32026",
+        "lat": 42.370803,
+        "lon": -71.104412,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "https://www.bluebikes.com/app?station_id=116",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "117",
+        "name": "Binney St / Sixth St",
+        "short_name": "M32027",
+        "lat": 42.366095,
+        "lon": -71.086388,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=117",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "118",
+        "name": "Linear Park - Mass. Ave. at Cameron Ave. ",
+        "short_name": "M32025",
+        "lat": 42.397828,
+        "lon": -71.130516,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=118",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "119",
+        "name": "South Boston Library - 646 E Broadway",
+        "short_name": "C32017",
+        "lat": 42.335741,
+        "lon": -71.03877,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=119",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "120",
+        "name": "Charles St and Beacon St",
+        "short_name": "D32024",
+        "lat": 42.356052,
+        "lon": -71.069849,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=120",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "121",
+        "name": "W Broadway at Dorchester St",
+        "short_name": "C32016",
+        "lat": 42.335693,
+        "lon": -71.045859,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 17,
+        "rental_url": "https://www.bluebikes.com/app?station_id=121",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "122",
+        "name": "Burlington Ave at Brookline Ave",
+        "short_name": "B32020",
+        "lat": 42.345733,
+        "lon": -71.100694,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=122",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "123",
+        "name": "JP Center",
+        "short_name": "E32002",
+        "lat": 42.313156,
+        "lon": -71.11414,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=123",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "124",
+        "name": "Curtis Hall - South St at Centre St",
+        "short_name": "E32001",
+        "lat": 42.309054,
+        "lon": -71.11543,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=124",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "125",
+        "name": "Hyde Square - Barbara St at Centre St",
+        "short_name": "E32003",
+        "lat": 42.32176525723952,
+        "lon": -71.10984160567114,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=125",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "126",
+        "name": "Egleston Square - Atherton St at Washington St",
+        "short_name": "E32004",
+        "lat": 42.315692,
+        "lon": -71.098634,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=126",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "128",
+        "name": "E Cottage St at Columbia Rd",
+        "short_name": "C32018",
+        "lat": 42.320561,
+        "lon": -71.06198,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=128",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "129",
+        "name": "Hayes Square - Vine St at Moulton St",
+        "short_name": "D32026",
+        "lat": 42.377022,
+        "lon": -71.056605,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=129",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "130",
+        "name": "Upham's Corner",
+        "short_name": "C32019",
+        "lat": 42.31727474327453,
+        "lon": -71.06537003967787,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=130",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "131",
+        "name": "Jackson Square T Stop",
+        "short_name": "E32006",
+        "lat": 42.32293117195949,
+        "lon": -71.10014140605927,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 18,
+        "rental_url": "https://www.bluebikes.com/app?station_id=131",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "133",
+        "name": "Green Street T Stop - Green St at Amory St",
+        "short_name": "E32005",
+        "lat": 42.310579,
+        "lon": -71.107341,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=133",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "134",
+        "name": "Boylston St at Dartmouth St",
+        "short_name": "D32027",
+        "lat": 42.350413,
+        "lon": -71.07655,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=134",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "135",
+        "name": "ID Building East",
+        "short_name": "C32020",
+        "lat": 42.344827,
+        "lon": -71.028664,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 17,
+        "rental_url": "https://www.bluebikes.com/app?station_id=135",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "136",
+        "name": "ID Building West",
+        "short_name": "C32021",
+        "lat": 42.344796,
+        "lon": -71.031614,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=136",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "137",
+        "name": "Magoun Square at Trum Field",
+        "short_name": "S32013",
+        "lat": 42.398365,
+        "lon": -71.107818,
+        "region_id": 9,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=137",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "138",
+        "name": "Newmarket Square T Stop - Massachusetts Ave at Newmarket Square",
+        "short_name": "C32022",
+        "lat": 42.326599,
+        "lon": -71.066498,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=138",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "139",
+        "name": "Dana Park",
+        "short_name": "M32030",
+        "lat": 42.361780439606044,
+        "lon": -71.10809952020645,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=139",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "140",
+        "name": "Danehy Park",
+        "short_name": "M32031",
+        "lat": 42.388966,
+        "lon": -71.132788,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 17,
+        "rental_url": "https://www.bluebikes.com/app?station_id=140",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "141",
+        "name": "Kendall Street",
+        "short_name": "M32032",
+        "lat": 42.363560158429884,
+        "lon": -71.08216792345047,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=141",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "142",
+        "name": "Alewife Station at Russell Field",
+        "short_name": "M32033",
+        "lat": 42.396105,
+        "lon": -71.139459,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "https://www.bluebikes.com/app?station_id=142",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "143",
+        "name": "EF - North Point Park",
+        "short_name": "M32034",
+        "lat": 42.369885,
+        "lon": -71.069957,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "https://www.bluebikes.com/app?station_id=143",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "145",
+        "name": "Rindge Avenue - O'Neill Library",
+        "short_name": "M32036",
+        "lat": 42.392766,
+        "lon": -71.129042,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=145",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "146",
+        "name": "Murphy Skating Rink - 1880 Day Blvd",
+        "short_name": "C32023",
+        "lat": 42.336448,
+        "lon": -71.023739,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=146",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "149",
+        "name": "175 N Harvard St",
+        "short_name": "A32019",
+        "lat": 42.363796,
+        "lon": -71.129164,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 18,
+        "rental_url": "https://www.bluebikes.com/app?station_id=149",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "150",
+        "name": "State Street at Channel Center",
+        "short_name": "C32024",
+        "lat": 42.344137,
+        "lon": -71.052608,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=150",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "151",
+        "name": "Surface Rd at India St",
+        "short_name": "A32013",
+        "lat": 42.358155,
+        "lon": -71.052163,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=151",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "152",
+        "name": "Ink Block - Harrison Ave at Herald St",
+        "short_name": "C32025",
+        "lat": 42.345901,
+        "lon": -71.063187,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=152",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "157",
+        "name": "Seaport Blvd at Sleeper St",
+        "short_name": "C32036",
+        "lat": 42.35317809186252,
+        "lon": -71.04817356923377,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=157",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "159",
+        "name": "S Huntington Ave at Heath St",
+        "short_name": "E32007",
+        "lat": 42.32760387040573,
+        "lon": -71.11089169979095,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=159",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "160",
+        "name": "Wentworth Institute of Technology - Huntington Ave at Vancouver St",
+        "short_name": "B32021",
+        "lat": 42.33758601097239,
+        "lon": -71.09627097845076,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 14,
+        "rental_url": "https://www.bluebikes.com/app?station_id=160",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "161",
+        "name": "W Broadway at D St",
+        "short_name": "C32029",
+        "lat": 42.3391085,
+        "lon": -71.0514432,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=161",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "162",
+        "name": "Franklin Park - Seaver St at Humbolt Ave",
+        "short_name": "C32027",
+        "lat": 42.309796,
+        "lon": -71.092225,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=162",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "163",
+        "name": "The Lawn on D",
+        "short_name": "C32028",
+        "lat": 42.344792,
+        "lon": -71.044024,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=163",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "167",
+        "name": "Ryan Playground - Dorchester Ave at Harbor View St",
+        "short_name": "C32031",
+        "lat": 42.317642,
+        "lon": -71.056664,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=167",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "169",
+        "name": "Edwards Playground - Main St at Eden St",
+        "short_name": "A32022",
+        "lat": 42.378965,
+        "lon": -71.068607,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=169",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "170",
+        "name": "Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave",
+        "short_name": "C32030",
+        "lat": 42.303469,
+        "lon": -71.085347,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 14,
+        "rental_url": "https://www.bluebikes.com/app?station_id=170",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "171",
+        "name": "Bunker Hill Community College",
+        "short_name": "A32023",
+        "lat": 42.37408991426522,
+        "lon": -71.06905996799469,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=171",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "173",
+        "name": "Savin Hill T Stop - S Sydney St at Bay St",
+        "short_name": "C32033",
+        "lat": 42.3106,
+        "lon": -71.0539,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 14,
+        "rental_url": "https://www.bluebikes.com/app?station_id=173",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "174",
+        "name": "Washington St at Brock St",
+        "short_name": "D32029",
+        "lat": 42.3489528466951,
+        "lon": -71.16031676530838,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=174",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "175",
+        "name": "Brighton Center - Washington St at Cambridge St",
+        "short_name": "D32028",
+        "lat": 42.34894857235593,
+        "lon": -71.15027189254761,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 17,
+        "rental_url": "https://www.bluebikes.com/app?station_id=175",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "176",
+        "name": "Lesley University",
+        "short_name": "M32039",
+        "lat": 42.38674802045056,
+        "lon": -71.11901879310608,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=176",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "177",
+        "name": "University Park",
+        "short_name": "M32040",
+        "lat": 42.36264779118595,
+        "lon": -71.10006093978882,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=177",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "178",
+        "name": "MIT Pacific St at Purrington St",
+        "short_name": "M32041",
+        "lat": 42.35957320109044,
+        "lon": -71.10129475593567,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=178",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "179",
+        "name": "MIT Vassar St",
+        "short_name": "M32042",
+        "lat": 42.355601213279265,
+        "lon": -71.10394477844238,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 25,
+        "rental_url": "https://www.bluebikes.com/app?station_id=179",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "180",
+        "name": "Mt Auburn",
+        "short_name": "M32043",
+        "lat": 42.37478628706384,
+        "lon": -71.13320231437683,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=180",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "181",
+        "name": "Huron Ave. At Vassal Lane",
+        "short_name": "M32044",
+        "lat": 42.381650612901176,
+        "lon": -71.13426981498378,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=181",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "182",
+        "name": "Museum of Science",
+        "short_name": "M32045",
+        "lat": 42.36769018024484,
+        "lon": -71.07116281986237,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=182",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "183",
+        "name": "Alewife MBTA at Steel Place",
+        "short_name": "M32046",
+        "lat": 42.395588457167094,
+        "lon": -71.14260613918304,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=183",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "184",
+        "name": "Sidney Research Campus/ Erie Street at Waverly",
+        "short_name": "M32047",
+        "lat": 42.35775309465199,
+        "lon": -71.10393404960632,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=184",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "185",
+        "name": "Third at Binney",
+        "short_name": "M32048",
+        "lat": 42.36544486137399,
+        "lon": -71.08277142047882,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=185",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "186",
+        "name": "Congress St at Northern Ave",
+        "short_name": "C32032",
+        "lat": 42.3481,
+        "lon": -71.03764,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=186",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "189",
+        "name": "Kendall T",
+        "short_name": "M32004",
+        "lat": 42.362427842912396,
+        "lon": -71.08495473861694,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "https://www.bluebikes.com/app?station_id=189",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "190",
+        "name": "Nashua Street at Red Auerbach Way",
+        "short_name": "A32025",
+        "lat": 42.365673,
+        "lon": -71.064263,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 37,
+        "rental_url": "https://www.bluebikes.com/app?station_id=190",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "192",
+        "name": "Purchase St at Pearl St",
+        "short_name": "A32026",
+        "lat": 42.354659,
+        "lon": -71.053181,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=192",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "193",
+        "name": "Brookline Town Hall",
+        "short_name": "K32005",
+        "lat": 42.33376472623494,
+        "lon": -71.12046446660315,
+        "region_id": 4,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=193",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "194",
+        "name": "Broadway St at Mt Pleasant St",
+        "short_name": "S32014",
+        "lat": 42.386141411639564,
+        "lon": -71.07828140258789,
+        "region_id": 9,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=194",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "195",
+        "name": "Brian P. Murphy Staircase at Child Street",
+        "short_name": "M32049",
+        "lat": 42.37150494100319,
+        "lon": -71.07249312120985,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "https://www.bluebikes.com/app?station_id=195",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "196",
+        "name": "Roxbury YMCA - Warren St at MLK Blvd",
+        "short_name": "B32022",
+        "lat": 42.31787329345602,
+        "lon": -71.08243077993393,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 10,
+        "rental_url": "https://www.bluebikes.com/app?station_id=196",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "197",
+        "name": "MLK Blvd at Washington St",
+        "short_name": "B32023",
+        "lat": 42.32143814183195,
+        "lon": -71.09126061201096,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=197",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "199",
+        "name": "Upham's Corner T Stop - Magnolia St at Dudley St",
+        "short_name": "B32025",
+        "lat": 42.318697341722434,
+        "lon": -71.0697814822197,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=199",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "200",
+        "name": "Washington St at Melnea Cass Blvd",
+        "short_name": "B32026",
+        "lat": 42.332817,
+        "lon": -71.081198,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=200",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "201",
+        "name": "NCAAA - Walnut Ave at Crawford St",
+        "short_name": "B32027",
+        "lat": 42.316902,
+        "lon": -71.091946,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=201",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "202",
+        "name": "Grove Hall Library - 41 Geneva Ave",
+        "short_name": "B32028",
+        "lat": 42.30791,
+        "lon": -71.080952,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=202",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "203",
+        "name": "Columbia Rd at Ceylon St",
+        "short_name": "B32029",
+        "lat": 42.309572,
+        "lon": -71.0729,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=203",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "204",
+        "name": "Walnut Ave at Warren St",
+        "short_name": "B32030",
+        "lat": 42.324081,
+        "lon": -71.083235,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=204",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "205",
+        "name": "Bowdoin St at Quincy St",
+        "short_name": "B32031",
+        "lat": 42.30785224238503,
+        "lon": -71.06512248516083,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=205",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "206",
+        "name": "Government Center - Cambridge St at Court St",
+        "short_name": "B32032",
+        "lat": 42.359802515995526,
+        "lon": -71.05960782626425,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "https://www.bluebikes.com/app?station_id=206",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "207",
+        "name": "Faneuil St at Market St",
+        "short_name": "D32030",
+        "lat": 42.35484,
+        "lon": -71.150226,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=207",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "208",
+        "name": "Oak Square - 615 Washington St",
+        "short_name": "D32031",
+        "lat": 42.35057,
+        "lon": -71.166491,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=208",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "209",
+        "name": "Chelsea St at Saratoga St",
+        "short_name": "A32027",
+        "lat": 42.379772,
+        "lon": -71.027448,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=209",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "210",
+        "name": "Bennington St at Byron St",
+        "short_name": "A32028",
+        "lat": 42.38337841883669,
+        "lon": -71.01612031481636,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=210",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "211",
+        "name": "Piers Park",
+        "short_name": "A32029",
+        "lat": 42.3648929326648,
+        "lon": -71.03497177362442,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=211",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "212",
+        "name": "Maverick Square - Lewis Mall",
+        "short_name": "A32030",
+        "lat": 42.368844082898356,
+        "lon": -71.03977829217911,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 33,
+        "rental_url": "https://www.bluebikes.com/app?station_id=212",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "213",
+        "name": "East Boston Neighborhood Health Center - 20 Maverick Square",
+        "short_name": "A32031",
+        "lat": 42.369536,
+        "lon": -71.039431,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 16,
+        "rental_url": "https://www.bluebikes.com/app?station_id=213",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "214",
+        "name": "Airport T Stop - Bremen St at Brooks St",
+        "short_name": "A32032",
+        "lat": 42.37530443828819,
+        "lon": -71.0312630455337,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 16,
+        "rental_url": "https://www.bluebikes.com/app?station_id=214",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "215",
+        "name": "The Eddy - New St at Sumner St",
+        "short_name": "A32033",
+        "lat": 42.370744,
+        "lon": -71.044201,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=215",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "216",
+        "name": "Glendon St at Condor St",
+        "short_name": "A32034",
+        "lat": 42.38240377674137,
+        "lon": -71.03024303913116,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=216",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "217",
+        "name": "Orient Heights T Stop - Bennington St at Saratoga St",
+        "short_name": "A32035",
+        "lat": 42.386781,
+        "lon": -71.006098,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=217",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "218",
+        "name": "Watermark Seaport - Boston Wharf Rd at Seaport Blvd",
+        "short_name": "C32034",
+        "lat": 42.351586001198456,
+        "lon": -71.04569256305693,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=218",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "219",
+        "name": "Boston East - 126 Border St",
+        "short_name": "A32036",
+        "lat": 42.373312125824704,
+        "lon": -71.0410200806291,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=219",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "221",
+        "name": "Verizon Innovation Hub 10 Ware Street",
+        "short_name": "M32050",
+        "lat": 42.37250864997261,
+        "lon": -71.11305356025696,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=221",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "222",
+        "name": "Troy Boston",
+        "short_name": "C32035",
+        "lat": 42.343749,
+        "lon": -71.062256,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 14,
+        "rental_url": "https://www.bluebikes.com/app?station_id=222",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "224",
+        "name": "Fresh Pond Reservation",
+        "short_name": "M32051",
+        "lat": 42.38267827521855,
+        "lon": -71.143478951426,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 17,
+        "rental_url": "https://www.bluebikes.com/app?station_id=224",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "225",
+        "name": "Cambridge Dept. of Public Works -147 Hampshire St.",
+        "short_name": "M32052",
+        "lat": 42.37119727759414,
+        "lon": -71.09759867191315,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=225",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "226",
+        "name": "Commonwealth Ave At Babcock St",
+        "short_name": "K32006",
+        "lat": 42.35154734791375,
+        "lon": -71.12126246094704,
+        "region_id": 4,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 15,
+        "rental_url": "https://www.bluebikes.com/app?station_id=226",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "228",
+        "name": "One Memorial Drive",
+        "short_name": "M32053",
+        "lat": 42.361619320766856,
+        "lon": -71.0804355052096,
+        "region_id": 8,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "https://www.bluebikes.com/app?station_id=228",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "232",
+        "name": "Four Corners - 157 Washington St",
+        "short_name": "C32037",
+        "lat": 42.304127927390155,
+        "lon": -71.07929527759552,
+        "region_id": 10,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 11,
+        "rental_url": "https://www.bluebikes.com/app?station_id=232",
+        "eightd_has_key_dispenser": false
+      }
+    ]
+  },
+  "system_id": "bluebikes"
+}

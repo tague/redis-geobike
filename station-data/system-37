@@ -1,0 +1,254 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -96.00853,
+        "lat": 41.25832,
+        "address": "6200 Dodge Street",
+        "name": "62nd & Dodge",
+        "station_id": "bcycle_heartland_1916"
+      },
+      {
+        "lon": -96.01573,
+        "lat": 41.24497,
+        "address": "1625 S 67th St",
+        "name": "67th & Pine",
+        "station_id": "bcycle_heartland_1917"
+      },
+      {
+        "lon": -96.01334,
+        "lat": 41.23811,
+        "address": "6600 Center Street",
+        "name": "66th & Center",
+        "station_id": "bcycle_heartland_1918"
+      },
+      {
+        "lon": -96.01489,
+        "lat": 41.23985,
+        "address": "2110 South 67th Street",
+        "name": "67th & Frances",
+        "station_id": "bcycle_heartland_1919"
+      },
+      {
+        "lon": -96.01778,
+        "lat": 41.24097,
+        "address": "Aksarben Drive",
+        "name": "Aksarben Drive",
+        "station_id": "bcycle_heartland_1920"
+      },
+      {
+        "lon": -95.92402,
+        "lat": 41.26568,
+        "address": "Bob Kerrey Pedestrian Bridge",
+        "name": "Bob Kerrey Pedestrian Bridge",
+        "station_id": "bcycle_heartland_2430"
+      },
+      {
+        "lon": -95.93341,
+        "lat": 41.25575,
+        "address": "472 S. 13th St.",
+        "name": "13th & Howard",
+        "station_id": "bcycle_heartland_2431"
+      },
+      {
+        "lon": -95.94036,
+        "lat": 41.25746,
+        "address": "1819 Farham St.",
+        "name": "1819 Farnam",
+        "station_id": "bcycle_heartland_2432"
+      },
+      {
+        "lon": -95.93036,
+        "lat": 41.25431,
+        "address": "1085 Jackson St.",
+        "name": "11th & Jackson",
+        "station_id": "bcycle_heartland_2652"
+      },
+      {
+        "lon": -95.93434,
+        "lat": 41.26636,
+        "address": "785 N. 14th St.",
+        "name": "14th & Fahey",
+        "station_id": "bcycle_heartland_2653"
+      },
+      {
+        "lon": -95.93645,
+        "lat": 41.26814,
+        "address": "1516 Cuming St.",
+        "name": "1516 Cuming St",
+        "station_id": "bcycle_heartland_2655"
+      },
+      {
+        "lon": -95.91741,
+        "lat": 41.2635,
+        "address": "4398 Ave B",
+        "name": "Tom Hanafan River's Edge Park ",
+        "station_id": "bcycle_heartland_2881"
+      },
+      {
+        "lon": -95.8514,
+        "lat": 41.25466,
+        "address": "711 S Main St",
+        "name": "711 S Main St",
+        "station_id": "bcycle_heartland_2889"
+      },
+      {
+        "lon": -95.85075,
+        "lat": 41.25831,
+        "address": "209 Pearl St",
+        "name": "Pearl St & Willow Ave",
+        "station_id": "bcycle_heartland_2890"
+      },
+      {
+        "lon": -95.99068,
+        "lat": 41.26511,
+        "address": "5002 Underwood Ave",
+        "name": "50th & Underwood",
+        "station_id": "bcycle_heartland_2891"
+      },
+      {
+        "lon": -95.94212,
+        "lat": 41.2596,
+        "address": "1999 Dodge Street",
+        "name": "20th & Dodge",
+        "station_id": "bcycle_heartland_2892"
+      },
+      {
+        "lon": -95.93615,
+        "lat": 41.25562,
+        "address": "424 S 15 ST",
+        "name": "15th & Howard",
+        "station_id": "bcycle_heartland_2893"
+      },
+      {
+        "lon": -95.93703,
+        "lat": 41.25885,
+        "address": "1516 Douglas Street",
+        "name": "16th & Douglas",
+        "station_id": "bcycle_heartland_2894"
+      },
+      {
+        "lon": -95.92824,
+        "lat": 41.25345,
+        "address": "855 Jones St",
+        "name": "9th & Jones",
+        "station_id": "bcycle_heartland_2895"
+      },
+      {
+        "lon": -95.93016,
+        "lat": 41.26052,
+        "address": "920 Dodge Street",
+        "name": "10th & Dodge",
+        "station_id": "bcycle_heartland_2896"
+      },
+      {
+        "lon": -95.96009,
+        "lat": 41.25784,
+        "address": "3189 Farnam St",
+        "name": "Midtown Crossing: 32nd & Farnam",
+        "station_id": "bcycle_heartland_2897"
+      },
+      {
+        "lon": -95.94758,
+        "lat": 41.28086,
+        "address": "2425 N 24th St",
+        "name": "24th & Lake",
+        "station_id": "bcycle_heartland_2898"
+      },
+      {
+        "lon": -95.92947,
+        "lat": 41.26398,
+        "address": "456 N 10th St",
+        "name": "10th & Cass",
+        "station_id": "bcycle_heartland_2899"
+      },
+      {
+        "lon": -95.93458,
+        "lat": 41.25892,
+        "address": "1400 Douglas Street",
+        "name": "14th & Douglas",
+        "station_id": "bcycle_heartland_2900"
+      },
+      {
+        "lon": -95.92884,
+        "lat": 41.25744,
+        "address": "301 S 10 ST",
+        "name": "10th & Farnam",
+        "station_id": "bcycle_heartland_2901"
+      },
+      {
+        "lon": -95.92352,
+        "lat": 41.26144,
+        "address": "345 Riverfront Drive",
+        "name": "Lewis & Clark Landing",
+        "station_id": "bcycle_heartland_2902"
+      },
+      {
+        "lon": -95.92915,
+        "lat": 41.25136,
+        "address": "801 S 10th St",
+        "name": "The Durham Museum",
+        "station_id": "bcycle_heartland_2903"
+      },
+      {
+        "lon": -95.9244,
+        "lat": 41.25352,
+        "address": "666 Jones St",
+        "name": "7th & Jones",
+        "station_id": "bcycle_heartland_2904"
+      },
+      {
+        "lon": -95.93572,
+        "lat": 41.25789,
+        "address": "215 S 15th Street",
+        "name": "W. Dale Clark Library: 15th & Farnam",
+        "station_id": "bcycle_heartland_3402"
+      },
+      {
+        "lon": -96.0221,
+        "lat": 41.24011,
+        "address": "7000 Mercy Road",
+        "name": "College of Saint Mary",
+        "station_id": "bcycle_heartland_3403"
+      },
+      {
+        "lon": -95.92153,
+        "lat": 41.25218,
+        "address": "1144 N 11th Street ",
+        "name": "Breakers",
+        "station_id": "bcycle_heartland_3615"
+      },
+      {
+        "lon": -95.81737,
+        "lat": 41.21889,
+        "address": "Iowa West Foundation Trailhead Park",
+        "name": "Wabash Trace",
+        "station_id": "bcycle_heartland_3625"
+      },
+      {
+        "lon": -95.93069,
+        "lat": 41.27113,
+        "address": "1130 N 11th Strees",
+        "name": "1130 N 11th Street",
+        "station_id": "bcycle_heartland_3647"
+      },
+      {
+        "lon": -96.15614,
+        "lat": 41.17091,
+        "address": "8901 S 154th Street",
+        "name": "Chalco Hills",
+        "station_id": "bcycle_heartland_3678"
+      },
+      {
+        "lon": -96.04319,
+        "lat": 41.15633,
+        "address": "102 S Washington Street",
+        "name": "First Street Plaza 1st & Washington",
+        "station_id": "bcycle_heartland_3679"
+      }
+    ]
+  },
+  "last_updated": 1530239589,
+  "system_id": "bcycle_heartland"
+}

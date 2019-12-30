@@ -1,0 +1,41 @@
+{
+  "last_updated": 1530239596,
+  "ttl": 180,
+  "data": {
+    "stations": [
+      {
+        "station_id": "hub_4406",
+        "name": "Praha 4 (Podolsk\u00e9 n\u00e1b\u0159e\u017e\u00ed x Podolsk\u00e1)",
+        "region_id": "region_434",
+        "lon": 14.419200271368027,
+        "lat": 50.05934083870385,
+        "address": "Podolsk\u00e9 n\u00e1b\u0159e\u017e\u00ed 16, Prague",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4407",
+        "name": "Praha 4 (Nedv\u011bdovo n\u00e1m\u011bst\u00ed)",
+        "region_id": "region_434",
+        "lon": 14.422030001878738,
+        "lat": 50.05693452530048,
+        "address": "Nedv\u011bdovo n\u00e1m. 386/11, Prague",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      }
+    ]
+  },
+  "system_id": "velonet_praha"
+}

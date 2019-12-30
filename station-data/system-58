@@ -1,0 +1,23 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -81.0942,
+        "lat": 32.08039,
+        "address": "31 Barnard Street",
+        "name": "Ellis Square",
+        "station_id": "bcycle_catbike_2527"
+      },
+      {
+        "lon": -81.10063,
+        "lat": 32.07956,
+        "address": "610 W. Oglethorpe Ave.",
+        "name": "Rivers Exchange @ 610 W. Oglethorpe",
+        "station_id": "bcycle_catbike_2528"
+      }
+    ]
+  },
+  "last_updated": 1530239609,
+  "system_id": "bcycle_catbike"
+}

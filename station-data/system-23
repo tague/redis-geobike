@@ -1,0 +1,381 @@
+{
+  "last_updated": 1530239559,
+  "ttl": 15,
+  "data": {
+    "stations": [
+      {
+        "station_id": "1",
+        "name": "Bicentennial Park",
+        "lat": 39.955864,
+        "lon": -83.003106,
+        "address": "Bicentennial Park",
+        "capacity": 19
+      },
+      {
+        "station_id": "2",
+        "name": "City Hall",
+        "lat": 39.96286,
+        "lon": -83.004246,
+        "address": "City Hall",
+        "capacity": 11
+      },
+      {
+        "station_id": "3",
+        "name": "Front St & Beck St",
+        "lat": 39.950124,
+        "lon": -83.000235,
+        "address": "Front St & Beck St",
+        "capacity": 15
+      },
+      {
+        "station_id": "4",
+        "name": "Scioto Audubon Center",
+        "lat": 39.945895,
+        "lon": -83.00907,
+        "address": "Scioto Audubon Center",
+        "capacity": 15
+      },
+      {
+        "station_id": "5",
+        "name": "Dorrian Commons - Mound St",
+        "lat": 39.954717,
+        "lon": -82.998879,
+        "address": "Dorrian Commons - Mound St",
+        "capacity": 11
+      },
+      {
+        "station_id": "6",
+        "name": "Schiller Park - Stewart Ave",
+        "lat": 39.942026,
+        "lon": -82.995019,
+        "address": "Schiller Park - Stewart Ave",
+        "capacity": 19
+      },
+      {
+        "station_id": "7",
+        "name": "Neil Ave & Nationwide Blvd",
+        "lat": 39.968098,
+        "lon": -83.008763,
+        "address": "Neil Ave & Nationwide Blvd",
+        "capacity": 15
+      },
+      {
+        "station_id": "8",
+        "name": "Bank St & Frankfort St",
+        "lat": 39.946568,
+        "lon": -83.000322,
+        "address": "Bank St & Frankfort St",
+        "capacity": 11
+      },
+      {
+        "station_id": "9",
+        "name": "Columbus Commons - Rich St",
+        "lat": 39.957591,
+        "lon": -82.998002,
+        "address": "Columbus Commons - Rich St",
+        "capacity": 15
+      },
+      {
+        "station_id": "10",
+        "name": "3rd St & Sycamore St",
+        "lat": 39.949348,
+        "lon": -82.995285,
+        "address": "3rd St & Sycamore St",
+        "capacity": 15
+      },
+      {
+        "station_id": "11",
+        "name": "Nationwide Arena - Front St",
+        "lat": 39.969126,
+        "lon": -83.00397,
+        "address": "Nationwide Arena - Front St",
+        "capacity": 15
+      },
+      {
+        "station_id": "12",
+        "name": "Convention Center",
+        "lat": 39.970512,
+        "lon": -83.002354,
+        "address": "Convention Center",
+        "capacity": 15
+      },
+      {
+        "station_id": "13",
+        "name": "High St & Broad St",
+        "lat": 39.962002,
+        "lon": -83.001081,
+        "address": "High St & Broad St",
+        "capacity": 19
+      },
+      {
+        "station_id": "14",
+        "name": "Livingston Park",
+        "lat": 39.951464,
+        "lon": -82.979178,
+        "address": "Livingston Park",
+        "capacity": 11
+      },
+      {
+        "station_id": "15",
+        "name": "Grant Ave & Main St",
+        "lat": 39.957493,
+        "lon": -82.990057,
+        "address": "Grant Ave & Main St",
+        "capacity": 11
+      },
+      {
+        "station_id": "16",
+        "name": "Sensenbrenner Park",
+        "lat": 39.968596,
+        "lon": -83.001618,
+        "address": "Sensenbrenner Park",
+        "capacity": 19
+      },
+      {
+        "station_id": "17",
+        "name": "High St & Spring St",
+        "lat": 39.965866,
+        "lon": -83.001502,
+        "address": "High St & Spring St",
+        "capacity": 15
+      },
+      {
+        "station_id": "18",
+        "name": "3rd St & Gay St",
+        "lat": 39.963964,
+        "lon": -82.998665,
+        "address": "3rd St & Gay St",
+        "capacity": 19
+      },
+      {
+        "station_id": "20",
+        "name": "North Market",
+        "lat": 39.972193,
+        "lon": -83.00356,
+        "address": "North Market",
+        "capacity": 11
+      },
+      {
+        "station_id": "21",
+        "name": "Kilbourne St & Vine St",
+        "lat": 39.972025,
+        "lon": -83.007284,
+        "address": "Kilbourne St & Vine St",
+        "capacity": 11
+      },
+      {
+        "station_id": "22",
+        "name": "Neil Ave & Buttles Ave",
+        "lat": 39.977406,
+        "lon": -83.011549,
+        "address": "Neil Ave & Buttles Ave",
+        "capacity": 15
+      },
+      {
+        "station_id": "23",
+        "name": "High St & Warren",
+        "lat": 39.977963,
+        "lon": -83.003605,
+        "address": "High St & Warren",
+        "capacity": 15
+      },
+      {
+        "station_id": "24",
+        "name": "High St & 2nd Ave",
+        "lat": 39.98271,
+        "lon": -83.003259,
+        "address": "2nd Ave E and Mt Pleasant",
+        "capacity": 15
+      },
+      {
+        "station_id": "25",
+        "name": "Cleveland Ave & Mt Vernon Ave",
+        "lat": 39.969188,
+        "lon": -82.990716,
+        "address": "Cleveland Ave & Mt Vernon Ave",
+        "capacity": 11
+      },
+      {
+        "station_id": "26",
+        "name": "Columbus College of Art & Design",
+        "lat": 39.965128,
+        "lon": -82.990471,
+        "address": "Columbus College of Art & Design",
+        "capacity": 15
+      },
+      {
+        "station_id": "27",
+        "name": "Columbus Museum of Art",
+        "lat": 39.964823,
+        "lon": -82.987023,
+        "address": "Columbus Museum of Art",
+        "capacity": 11
+      },
+      {
+        "station_id": "28",
+        "name": "Library - Main Branch",
+        "lat": 39.961512,
+        "lon": -82.990196,
+        "address": "Library - Main Branch",
+        "capacity": 15
+      },
+      {
+        "station_id": "29",
+        "name": "Topiary Park - Town St",
+        "lat": 39.960245,
+        "lon": -82.986968,
+        "address": "Topiary Park - Town St",
+        "capacity": 11
+      },
+      {
+        "station_id": "30",
+        "name": "Parsons Ave & Oak St",
+        "lat": 39.963218,
+        "lon": -82.981326,
+        "address": "Parsons Ave & Oak St",
+        "capacity": 11
+      },
+      {
+        "station_id": "45",
+        "name": "Lucas St & Town St",
+        "lat": 39.957433,
+        "lon": -83.01136,
+        "address": "Lucas St & Town St",
+        "cross_street": "Lucas St & Town St",
+        "capacity": 15
+      },
+      {
+        "station_id": "46",
+        "name": "Champion Ave & Main St",
+        "lat": 39.957751,
+        "lon": -82.969205,
+        "address": "Champion Ave & Main St",
+        "cross_street": "Champion Ave & Main St",
+        "capacity": 15
+      },
+      {
+        "station_id": "47",
+        "name": "GO FITNESS IV (Italian Village) 4th/1st",
+        "lat": 39.980567,
+        "lon": -82.998133,
+        "address": "4th St & 1st Ave",
+        "cross_street": "4th St & 1st Ave",
+        "capacity": 15
+      },
+      {
+        "station_id": "48",
+        "name": "High St & 4th Ave",
+        "lat": 39.985204,
+        "lon": -83.00544,
+        "address": "High St & 4th Ave",
+        "cross_street": "High St & 4th Ave",
+        "capacity": 15
+      },
+      {
+        "station_id": "49",
+        "name": "Weinland Park - 6th Ave",
+        "lat": 39.988541,
+        "lon": -82.999571,
+        "address": "Weinland Park - 6th Ave",
+        "cross_street": "4th St & 6th Ave",
+        "capacity": 15
+      },
+      {
+        "station_id": "50",
+        "name": "High St & King Ave",
+        "lat": 39.990144,
+        "lon": -83.005912,
+        "address": "High St & King Ave",
+        "cross_street": "High St & King Ave",
+        "capacity": 15
+      },
+      {
+        "station_id": "51",
+        "name": "High St & 11th Ave",
+        "lat": 39.994813,
+        "lon": -83.007113,
+        "address": "High St & 11th Ave",
+        "cross_street": "High St & 11th Ave",
+        "capacity": 15
+      },
+      {
+        "station_id": "52",
+        "name": "High St & 17th Ave",
+        "lat": 40.001397,
+        "lon": -83.008476,
+        "address": "High St & 17th Ave",
+        "cross_street": "High St & 17th Ave",
+        "capacity": 19
+      },
+      {
+        "station_id": "53",
+        "name": "Neil Ave & 11th Ave",
+        "lat": 39.99543,
+        "lon": -83.014548,
+        "address": "Neil Ave & 11th Ave",
+        "cross_street": "Neil Ave & 11th Ave",
+        "capacity": 15
+      },
+      {
+        "station_id": "54",
+        "name": "Neil Ave & King Ave",
+        "lat": 39.990309,
+        "lon": -83.013626,
+        "address": "Neil Ave & King Ave",
+        "cross_street": "Neil Ave & King Ave",
+        "capacity": 15
+      },
+      {
+        "station_id": "55",
+        "name": "Michigan Ave & 3rd Ave",
+        "lat": 39.984053,
+        "lon": -83.01692,
+        "address": "Michigan Ave & 3rd Ave",
+        "cross_street": "Michigan Ave & 3rd Ave",
+        "capacity": 15
+      },
+      {
+        "station_id": "56",
+        "name": "4th St & Rich St",
+        "lat": 39.957724,
+        "lon": -82.995405,
+        "address": "4th St & Rich St",
+        "cross_street": "4th St & Rich St",
+        "capacity": 15
+      },
+      {
+        "station_id": "59",
+        "name": "Jaeger St & Whittier St",
+        "lat": 39.944601,
+        "lon": -82.989581,
+        "address": "Jaeger St & Whittier St",
+        "capacity": 15
+      },
+      {
+        "station_id": "60",
+        "name": "Lane Ave at Olentangy Trail",
+        "lat": 40.006525,
+        "lon": -83.020453,
+        "address": "Lane Ave at Olentangy Trail",
+        "capacity": 15
+      },
+      {
+        "station_id": "61",
+        "name": "Thurman Ave & Bruck St",
+        "lat": 39.939637,
+        "lon": -82.987619,
+        "address": "Thurman Ave & Bruck St",
+        "capacity": 15
+      },
+      {
+        "station_id": "62",
+        "name": "Market District & 3rd Ave",
+        "lat": 39.985821,
+        "lon": -83.0272,
+        "address": "Market District & 3rd Ave",
+        "capacity": 15
+      }
+    ]
+  },
+  "system_id": "cogo"
+}

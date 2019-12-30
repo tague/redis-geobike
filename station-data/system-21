@@ -1,0 +1,44 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -82.83481,
+        "lat": 34.67914,
+        "address": "101 Calhoun Dr. 105 Sikes Hall",
+        "name": "Sikes Hall",
+        "station_id": "bcycle_clemson_3651"
+      },
+      {
+        "lon": -82.839,
+        "lat": 34.67891,
+        "address": "511 Fort Hill St.",
+        "name": "Core-Holmes",
+        "station_id": "bcycle_clemson_3653"
+      },
+      {
+        "lon": -82.84146,
+        "lat": 34.68145,
+        "address": "110 Heisman Street",
+        "name": "Fike Recreation Center",
+        "station_id": "bcycle_clemson_3654"
+      },
+      {
+        "lon": -82.83315,
+        "lat": 34.6764,
+        "address": "Rho tau Service Dr.",
+        "name": "Edwards- Hendrix",
+        "station_id": "bcycle_clemson_3655"
+      },
+      {
+        "lon": -82.83735,
+        "lat": 34.67598,
+        "address": "Engineering Service Drive",
+        "name": "Rhodes Annex",
+        "station_id": "bcycle_clemson_3656"
+      }
+    ]
+  },
+  "last_updated": 1530239571,
+  "system_id": "bcycle_clemson"
+}

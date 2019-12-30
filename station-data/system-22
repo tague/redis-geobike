@@ -1,0 +1,3683 @@
+{
+  "last_updated": 1530239616,
+  "ttl": 180,
+  "data": {
+    "stations": [
+      {
+        "station_id": "hub_251",
+        "name": "TPA - 19th St and E Palm Ave",
+        "region_id": "region_102",
+        "lon": -82.438056400783,
+        "lat": 27.9627193250593,
+        "address": "2200-2298 North 19th Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_255",
+        "name": "TPA - 9th Ave and 16th St",
+        "region_id": "region_102",
+        "lon": -82.4415005780512,
+        "lat": 27.9618561214264,
+        "address": "1600-1698 East 9th Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_257",
+        "name": "TPA - 13th St and 8th Ave",
+        "region_id": "region_102",
+        "lon": -82.4456547254871,
+        "lat": 27.9613658481865,
+        "address": "1900-1998 North 13th Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_263",
+        "name": "TPA - N Franklin St and E Cass St",
+        "region_id": "region_102",
+        "lon": -82.45933949947357,
+        "lat": 27.95096617783814,
+        "address": "Element, 808, North Franklin Street, Ridgewood Park, Tampa Heights, Tampa, Florida",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_264",
+        "name": "TPA - Curtis Hixon Park",
+        "region_id": "region_102",
+        "lon": -82.4609377282072,
+        "lat": 27.9495104473449,
+        "address": "744-784 North Ashley Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_266",
+        "name": "TPA - N Franklin St and E Twiggs St",
+        "region_id": "region_102",
+        "lon": -82.4588299730942,
+        "lat": 27.9495321599275,
+        "address": "655 North Franklin Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_267",
+        "name": "TPA - N Jefferson St and Twiggs",
+        "region_id": "region_102",
+        "lon": -82.4542584509825,
+        "lat": 27.9500718099433,
+        "address": "418 North Jefferson Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_268",
+        "name": "TPA - Madison St and N Franklin St",
+        "region_id": "region_102",
+        "lon": -82.4576712302482,
+        "lat": 27.9486487468182,
+        "address": "336-352 East Madison Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_270",
+        "name": "TPA - N Franklin St and E Jackson St  Sponsored By Sam Schwartz Engineering D.P.C.",
+        "region_id": "region_102",
+        "lon": -82.4577408065186,
+        "lat": 27.9473813272224,
+        "address": "301-399 North Franklin Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_272",
+        "name": "TPA - E Whiting St and Riverwalk",
+        "region_id": "region_102",
+        "lon": -82.4586076071121,
+        "lat": 27.9449311118153,
+        "address": "MacDill Park, Tampa Riverwalk, Harbour Island, Tampa, Florida",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_273",
+        "name": "TPA - S Franklin St and E Whiting St",
+        "region_id": "region_102",
+        "lon": -82.45641589164732,
+        "lat": 27.94467306257741,
+        "address": "118-124 South Franklin Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_274",
+        "name": "TPA - S Franklin St and Old Waters St Sponsored By Sam Schwartz Engineering D.P.C.",
+        "region_id": "region_102",
+        "lon": -82.4548257935946,
+        "lat": 27.9412114253873,
+        "address": "400-454 Old Water Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_278",
+        "name": "TPA - E Tyler St and Ashley Dr",
+        "region_id": "region_102",
+        "lon": -82.46202774345875,
+        "lat": 27.951300844725672,
+        "address": "100-178 West Tyler Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_279",
+        "name": "TPA - E Davis Blvd and Chesapeake Ave",
+        "region_id": "region_102",
+        "lon": -82.4529797232004,
+        "lat": 27.9257835077301,
+        "address": "302 East Davis Boulevard, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_283",
+        "name": "TPA - Bayshore & Rome",
+        "region_id": "region_102",
+        "lon": -82.4765097355042,
+        "lat": 27.9291962234777,
+        "address": "1701 Bayshore Boulevard, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_284",
+        "name": "TPA - S Franklin St and Channelside",
+        "region_id": "region_102",
+        "lon": -82.45587676763535,
+        "lat": 27.942493131949256,
+        "address": "170-198 Channelside Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_450",
+        "name": "TPA - Grand Central Ave and S Hyde Park Ave Sponsored By Oxford Exchange",
+        "region_id": "region_102",
+        "lon": -82.4640155437695,
+        "lat": 27.9446846157316,
+        "address": "403 Grand Central Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_451",
+        "name": "TPA - Ray Charles Blvd and Governor St",
+        "region_id": "region_102",
+        "lon": -82.4536264456511,
+        "lat": 27.955286642701,
+        "address": "Scott Street, Ybor City, Tampa, Florida",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_452",
+        "name": "TPA - Cumberland and 11th",
+        "region_id": "region_102",
+        "lon": -82.4475920457454,
+        "lat": 27.9449469177581,
+        "address": "1211 East Cumberland Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_453",
+        "name": "TPA - Marion Transit Center",
+        "region_id": "region_102",
+        "lon": -82.4584196437688,
+        "lat": 27.9554328870259,
+        "address": "Marion Transit Parking Lot, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_480",
+        "name": "TPA - Waterworks Park",
+        "region_id": "region_102",
+        "lon": -82.4624992346234,
+        "lat": 27.9593143906181,
+        "address": "1638-1798 Doyle Carlton Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_854",
+        "name": "TPA - Madison and Meridian",
+        "region_id": "region_102",
+        "lon": -82.4485652057228,
+        "lat": 27.9514051371272,
+        "address": "1201-1273 East Madison Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_957",
+        "name": "TPA - Coppertail Brewing Co Park and Go Rack",
+        "region_id": "region_102",
+        "lon": -82.43033677339554,
+        "lat": 27.95621647799642,
+        "address": "2601 East 2nd Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1079",
+        "name": "TPA - Harbor Place dr and Harbour post dr",
+        "region_id": "region_102",
+        "lon": -82.45107159018517,
+        "lat": 27.93933334127054,
+        "address": "429-473 Harbour Place Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1301",
+        "name": "TPA - Hyde Park Village",
+        "region_id": "region_102",
+        "lon": -82.47700452804565,
+        "lat": 27.93738434283179,
+        "address": "1701-1709 West Swann Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1333",
+        "name": "TPA - City Bike Tampa Park and Go Rack",
+        "region_id": "region_102",
+        "lon": -82.46007442474365,
+        "lat": 27.951297883048035,
+        "address": "208 East Cass Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1508",
+        "name": "TPA - Cass St and Rome Ave",
+        "region_id": "region_102",
+        "lon": -82.47639834880829,
+        "lat": 27.949753075611753,
+        "address": "1516-1530 West Cass Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1530",
+        "name": "TPA - Platt and Parker",
+        "region_id": "region_102",
+        "lon": -82.4608039855957,
+        "lat": 27.941678017295615,
+        "address": "129-199 West Platt Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1531",
+        "name": "TPA - Platt and Rome",
+        "region_id": "region_102",
+        "lon": -82.47638761997223,
+        "lat": 27.941768059477553,
+        "address": "1600-1698 West Platt Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1532",
+        "name": "TPA - Platt and Moody",
+        "region_id": "region_102",
+        "lon": -82.48368591070175,
+        "lat": 27.941817819605127,
+        "address": "2352-2398 West Platt Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2066",
+        "name": "SP - Bay Shore Dr & 5th Ave N",
+        "region_id": "region_293",
+        "lon": -82.63009697198868,
+        "lat": 27.777247605368732,
+        "address": "391-499 Bay Shore Drive Northeast, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2068",
+        "name": "SP - 1st Street S & 1st Ave S",
+        "region_id": "region_293",
+        "lon": -82.63457894325256,
+        "lat": 27.769668907009326,
+        "address": "131 2nd Avenue South, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2070",
+        "name": "SP - 2nd Street & 1st Ave N",
+        "region_id": "region_293",
+        "lon": -82.63547614216805,
+        "lat": 27.772243751108235,
+        "address": "109 2nd Street North, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2071",
+        "name": "SP - 1st Ave S & 3rd Street",
+        "region_id": "region_293",
+        "lon": -82.63742208480835,
+        "lat": 27.770208681585906,
+        "address": "300 Pinellas Trail, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2072",
+        "name": "SP - 1st Ave s & 8th Street",
+        "region_id": "region_293",
+        "lon": -82.64439851045609,
+        "lat": 27.770144602957636,
+        "address": "430 Pinellas Trail, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2073",
+        "name": "SP - 11th Street N & Central Ave",
+        "region_id": "region_293",
+        "lon": -82.64963954687119,
+        "lat": 27.771288519143972,
+        "address": "1049 Central Avenue, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2074",
+        "name": "SP - Central Ave & 21st Street",
+        "region_id": "region_293",
+        "lon": -82.66139566898346,
+        "lat": 27.771117644500215,
+        "address": "2081 Central Avenue, St. Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2075",
+        "name": "SP - 2nd Street & 6th Ave S.",
+        "region_id": "region_293",
+        "lon": -82.63556331396103,
+        "lat": 27.76446518948289,
+        "address": "599 2nd Street South, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2172",
+        "name": "SP - 2nd Ave N & 5th Street",
+        "region_id": "region_293",
+        "lon": -82.6395571231842,
+        "lat": 27.773423243463956,
+        "address": "442-464 2nd Avenue North, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2173",
+        "name": "SP - 5th St N & Central Ave ",
+        "region_id": "region_293",
+        "lon": -82.63999298214912,
+        "lat": 27.77113425732845,
+        "address": "488-498 Central Avenue North, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2174",
+        "name": "SP - MLK Jr St & 3rd Ave S",
+        "region_id": "region_293",
+        "lon": -82.6467776298523,
+        "lat": 27.768136786785796,
+        "address": "301-349 Drive Martin Luther King Junior Street South, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2175",
+        "name": "SP - Central Ave & 14th Street",
+        "region_id": "region_293",
+        "lon": -82.65289843082428,
+        "lat": 27.7712339342232,
+        "address": "1399 Central Avenue South, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2176",
+        "name": "SP - Central Ave & 31st Street",
+        "region_id": "region_293",
+        "lon": -82.67603784799576,
+        "lat": 27.770882691345165,
+        "address": "3132-3152 Central Avenue North, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2177",
+        "name": "SP - 9th Ave S & 22nd Street",
+        "region_id": "region_293",
+        "lon": -82.66281589865685,
+        "lat": 27.761156610694368,
+        "address": "2177-2199 9th Avenue South, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2191",
+        "name": "SP - Central Ave & 24th St",
+        "region_id": "region_293",
+        "lon": -82.66518831253052,
+        "lat": 27.771283772678725,
+        "address": "2335 Central Avenue, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2192",
+        "name": "SP - Beach Dr & 5th Ave N",
+        "region_id": "region_293",
+        "lon": -82.63156145811081,
+        "lat": 27.77687146430557,
+        "address": "400 Beach Drive Northeast, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2193",
+        "name": "SP - 7th St S & Central Ave",
+        "region_id": "region_293",
+        "lon": -82.64318749308586,
+        "lat": 27.771017967409612,
+        "address": "1-99 7th Street South, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2195",
+        "name": "SP - 1st St N & 3rd Ave N",
+        "region_id": "region_293",
+        "lon": -82.63406503190708,
+        "lat": 27.77467747845229,
+        "address": "250-298 1st Street North, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2196",
+        "name": "SP - 3rd Ave N & 3rd St N",
+        "region_id": "region_293",
+        "lon": -82.63668447732925,
+        "lat": 27.775069052904577,
+        "address": "235 3rd Avenue North, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2197",
+        "name": "SP - 3rd Ave S & 5th Street",
+        "region_id": "region_293",
+        "lon": -82.64028333127499,
+        "lat": 27.768539658819932,
+        "address": "500-528 3rd Avenue South, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2217",
+        "name": "SP - 1st St N & 5th Ave N",
+        "region_id": "region_293",
+        "lon": -82.63413101434708,
+        "lat": 27.77739422052099,
+        "address": "432 1st Street North, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2219",
+        "name": "SP - 7th Ave N & Dartmoor St",
+        "region_id": "region_293",
+        "lon": -82.6394672691822,
+        "lat": 27.779506280776832,
+        "address": "452-474 7th Avenue North, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2277",
+        "name": "SP - Central Ave and 27th st",
+        "region_id": "region_293",
+        "lon": -82.66975611448288,
+        "lat": 27.77109457935473,
+        "address": "1-99 27th Street North, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2278",
+        "name": "SP - North Shore Dr and 12th Ave NE",
+        "region_id": "region_293",
+        "lon": -82.62526094913483,
+        "lat": 27.78418878274,
+        "address": "626 12th Avenue Northeast, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2279",
+        "name": "SP - Mirror Lake Dr and 7th St",
+        "region_id": "region_293",
+        "lon": -82.64220982789993,
+        "lat": 27.775594472518314,
+        "address": "701 Mirror Lake Drive North, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2477",
+        "name": "SP - 2nd Ave S and 3rd Street",
+        "region_id": "region_293",
+        "lon": -82.63687491416931,
+        "lat": 27.76936616351732,
+        "address": "250-298 2nd Avenue South, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2599",
+        "name": "SP - N Shore & 9th ave N- hub",
+        "region_id": "region_293",
+        "lon": -82.62752071022987,
+        "lat": 27.781293193987466,
+        "address": "901-999 North Shore Drive Northeast, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2601",
+        "name": "SP - 22nd st & 5th ave S",
+        "region_id": "region_293",
+        "lon": -82.66267240047455,
+        "lat": 27.766791103041715,
+        "address": "Pinellas Trail, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3128",
+        "name": "U - SUN- Sun Dome ",
+        "region_id": "region_368",
+        "lon": -82.40618214011192,
+        "lat": 28.06009306339817,
+        "address": "USF Elm Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3129",
+        "name": "U - BSN- College of Business ",
+        "region_id": "region_368",
+        "lon": -82.40950137376785,
+        "lat": 28.058840241076876,
+        "address": "12212 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3130",
+        "name": "U - REC- Rec Center, Back",
+        "region_id": "region_368",
+        "lon": -82.40790277719498,
+        "lat": 28.060917934638407,
+        "address": "12301 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3131",
+        "name": "U - GVC- Greek Village",
+        "region_id": "region_368",
+        "lon": -82.40684330463408,
+        "lat": 28.06849059583152,
+        "address": "4727 USF Birch Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3132",
+        "name": "U - GVE- Greek Village",
+        "region_id": "region_368",
+        "lon": -82.4064476788044,
+        "lat": 28.06799357864232,
+        "address": "4729 USF Birch Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3133",
+        "name": "U - GKH- Greek Village",
+        "region_id": "region_368",
+        "lon": -82.40587502717972,
+        "lat": 28.067951687093103,
+        "address": "4747 USF Birch Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3134",
+        "name": "U - GVG- Greek Village",
+        "region_id": "region_368",
+        "lon": -82.40629211068153,
+        "lat": 28.067776547087472,
+        "address": "4743 USF Birch Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3135",
+        "name": "U - GVA- Greek Village ",
+        "region_id": "region_368",
+        "lon": -82.40723758935928,
+        "lat": 28.06804742228219,
+        "address": "4723 USF Birch Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3136",
+        "name": "U - GKN- Greek Village",
+        "region_id": "region_368",
+        "lon": -82.40727514028549,
+        "lat": 28.0672698228312,
+        "address": "4723 USF Birch Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3137",
+        "name": "U - GVI- Greek Village",
+        "region_id": "region_368",
+        "lon": -82.4061244726181,
+        "lat": 28.067481885213986,
+        "address": "4745 USF Birch Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3138",
+        "name": "U - REC- Rec Center, Front",
+        "region_id": "region_368",
+        "lon": -82.40772172808647,
+        "lat": 28.059979450794472,
+        "address": "12301 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3139",
+        "name": "U - CWY- CW Bill Young Hall",
+        "region_id": "region_368",
+        "lon": -82.40835338830948,
+        "lat": 28.061546584062334,
+        "address": "12303 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3140",
+        "name": "U - SOC- Social Science Building ",
+        "region_id": "region_368",
+        "lon": -82.40969985723495,
+        "lat": 28.06141971835064,
+        "address": "12320 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3141",
+        "name": "U - CPR- Cooper Hall",
+        "region_id": "region_368",
+        "lon": -82.4108961224556,
+        "lat": 28.0598386183378,
+        "address": "12011 USF Sago Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3142",
+        "name": "U - RBE- Beta Hall",
+        "region_id": "region_368",
+        "lon": -82.40918755531311,
+        "lat": 28.0648289452913,
+        "address": "4303 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3143",
+        "name": "U - RKO- Kosove Hall",
+        "region_id": "region_368",
+        "lon": -82.41133332252502,
+        "lat": 28.064449779434575,
+        "address": "4107 East Fowler Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3149",
+        "name": "U - BEH- Behavioral Sciences",
+        "region_id": "region_368",
+        "lon": -82.4102071300149,
+        "lat": 28.06224203500762,
+        "address": "4205 USF Willow Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3154",
+        "name": "U - MPB- Maple Suites ",
+        "region_id": "region_368",
+        "lon": -82.40876778960228,
+        "lat": 28.06553188961711,
+        "address": "4303 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3156",
+        "name": "U - MPA- Maple Suites",
+        "region_id": "region_368",
+        "lon": -82.40842178463936,
+        "lat": 28.064991309260066,
+        "address": "12480 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3157",
+        "name": "U - RCB- Cypress Suites ",
+        "region_id": "region_368",
+        "lon": -82.40854650735855,
+        "lat": 28.066289502254538,
+        "address": "15171 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3158",
+        "name": "U - RCA- Cypress Suites",
+        "region_id": "region_368",
+        "lon": -82.40903735160826,
+        "lat": 28.066243349809834,
+        "address": "4302 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3159",
+        "name": "U - RCC- Cypress Apts",
+        "region_id": "region_368",
+        "lon": -82.40809991955757,
+        "lat": 28.067499162592377,
+        "address": "4303 USF Dogwood Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3161",
+        "name": "U - RCC- Cypress Apts",
+        "region_id": "region_368",
+        "lon": -82.40819714963436,
+        "lat": 28.066903682893223,
+        "address": "15171 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3162",
+        "name": "U - RCD- Cypress Apts ",
+        "region_id": "region_368",
+        "lon": -82.40886099636555,
+        "lat": 28.06748945885911,
+        "address": "4301 USF Dogwood Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3163",
+        "name": "U - RCE- Cypress Apts",
+        "region_id": "region_368",
+        "lon": -82.40885496139526,
+        "lat": 28.0670125546336,
+        "address": "4301 USF Dogwood Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3167",
+        "name": "U - HAE- Holly Apts",
+        "region_id": "region_368",
+        "lon": -82.41092093288898,
+        "lat": 28.065586089515616,
+        "address": "4235 USF Holly Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3168",
+        "name": "U - HAD - Holly Apts",
+        "region_id": "region_368",
+        "lon": -82.41129711270332,
+        "lat": 28.065537155757625,
+        "address": "4231 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3169",
+        "name": "U - Lot 18 south",
+        "region_id": "region_368",
+        "lon": -82.40266978740692,
+        "lat": 28.06022472356573,
+        "address": "207 USF Sycamore Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3170",
+        "name": "U - Lot 43",
+        "region_id": "region_368",
+        "lon": -82.41647511720657,
+        "lat": 28.067992395265325,
+        "address": "13335 USF Laurel Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3171",
+        "name": "U - Lot 18 north",
+        "region_id": "region_368",
+        "lon": -82.40265905857086,
+        "lat": 28.065670584487698,
+        "address": "504 USF Sycamore Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3172",
+        "name": "U - CPH - College of Public Health",
+        "region_id": "region_368",
+        "lon": -82.42500185966492,
+        "lat": 28.067073617247345,
+        "address": "3111-3127 USF Banyan Circle, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3173",
+        "name": "U - ENA - Engineering Teaching Auditorium ",
+        "region_id": "region_368",
+        "lon": -82.41577371954918,
+        "lat": 28.059872347136235,
+        "address": "USF Cherry Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3174",
+        "name": "U - ENA - Lawn (Engineering Teaching Auditorium)",
+        "region_id": "region_368",
+        "lon": -82.41553902626038,
+        "lat": 28.060167384906116,
+        "address": "USF Cherry Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3175",
+        "name": "U - MSC - Marshall Student Center - East",
+        "region_id": "region_368",
+        "lon": -82.41282194852829,
+        "lat": 28.063993453216405,
+        "address": "4103 USF Cedar Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3176",
+        "name": "U - CMC - CAS Multidisciplinary Complex",
+        "region_id": "region_368",
+        "lon": -82.41470217704773,
+        "lat": 28.059942763365548,
+        "address": "USF Cherry Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3177",
+        "name": "U - Magnolia Fields",
+        "region_id": "region_368",
+        "lon": -82.42018461227417,
+        "lat": 28.059133033037497,
+        "address": "12912-12930 USF Magnolia Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3178",
+        "name": "U - BDG - Beard Drive Parking",
+        "region_id": "region_368",
+        "lon": -82.41680100560188,
+        "lat": 28.059133269811966,
+        "address": "3800 USF Beard Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3179",
+        "name": "U - ENB - Engineering Building II",
+        "region_id": "region_368",
+        "lon": -82.41548169404268,
+        "lat": 28.059172265283646,
+        "address": "4220 East Fowler Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3180",
+        "name": "U - ENG - Engineering I (Edgar W. Kopp)",
+        "region_id": "region_368",
+        "lon": -82.41568118333817,
+        "lat": 28.059593640431455,
+        "address": "USF Cherry Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3181",
+        "name": "U - LSA - Life Science Annex",
+        "region_id": "region_368",
+        "lon": -82.41715505719185,
+        "lat": 28.061253976137962,
+        "address": "12101 USF Beard Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3182",
+        "name": "U - ENC - Engineering III",
+        "region_id": "region_368",
+        "lon": -82.4142649769783,
+        "lat": 28.058435964308956,
+        "address": "Leroy Collins Boulevard, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3183",
+        "name": "U - MAG - Magnolia Housing",
+        "region_id": "region_368",
+        "lon": -82.41896957159042,
+        "lat": 28.05894604390233,
+        "address": "3702 USF Beach Lane, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3184",
+        "name": "U - NES - Natural and Environmental Sciences - West",
+        "region_id": "region_368",
+        "lon": -82.41553299129009,
+        "lat": 28.061804220330984,
+        "address": "12020 USF Cherry Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3185",
+        "name": "U - ISA - Interdisciplinary Sciences - West",
+        "region_id": "region_368",
+        "lon": -82.41518497467041,
+        "lat": 28.061384214863097,
+        "address": "Wheelchair Access, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3186",
+        "name": "U - ISA - Interdisciplinary Sciences - North",
+        "region_id": "region_368",
+        "lon": -82.41427034139633,
+        "lat": 28.061727414751296,
+        "address": "Wheelchair Access, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3187",
+        "name": "U - ISA - Interdisciplinary Sciences - South",
+        "region_id": "region_368",
+        "lon": -82.41423547267912,
+        "lat": 28.060993675726213,
+        "address": "Wheelchair Access, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3188",
+        "name": "U - BSF - Bio-Science - South West",
+        "region_id": "region_368",
+        "lon": -82.41479873657227,
+        "lat": 28.06067982323196,
+        "address": "12020 USF Cherry Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3189",
+        "name": "U - MAH - Magnolia Housing",
+        "region_id": "region_368",
+        "lon": -82.41814076900482,
+        "lat": 28.058962375895476,
+        "address": "3711 USF Beach Lane, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3190",
+        "name": "U - MAB - Magnolia Housing",
+        "region_id": "region_368",
+        "lon": -82.41812199354172,
+        "lat": 28.058463184333437,
+        "address": "3711 USF Beard Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3191",
+        "name": "U - MAA - Magnolia Housing",
+        "region_id": "region_368",
+        "lon": -82.41899371147156,
+        "lat": 28.058444485408994,
+        "address": "3705 USF Alumni Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3192",
+        "name": "U - ALN - John and Grace Allen Welcome Building - North",
+        "region_id": "region_368",
+        "lon": -82.41324573755264,
+        "lat": 28.061878659041227,
+        "address": "John & Grace Allen / Welcome Center (ALN), Leroy Collins Boulevard, Tampa, Florida",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3193",
+        "name": "U - SVC - Student Services",
+        "region_id": "region_368",
+        "lon": -82.41276830434799,
+        "lat": 28.06268576484726,
+        "address": "12220 Leroy Collins Boulevard, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3194",
+        "name": "U - BKS - Bookstore",
+        "region_id": "region_368",
+        "lon": -82.41278037428856,
+        "lat": 28.063152274291323,
+        "address": "4107 East Fowler Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3195",
+        "name": "U - MSC - Marshall Student Center - South",
+        "region_id": "region_368",
+        "lon": -82.41383582353592,
+        "lat": 28.0632190197028,
+        "address": "3839 USF Holly Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3196",
+        "name": "U - MSC - Marshall Student Center - North",
+        "region_id": "region_368",
+        "lon": -82.41359174251556,
+        "lat": 28.064165285863513,
+        "address": "4103 USF Cedar Circle, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3197",
+        "name": "U - TAR - Theater Centre",
+        "region_id": "region_368",
+        "lon": -82.41429582238196,
+        "lat": 28.063780673949456,
+        "address": "3839 USF Holly Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3198",
+        "name": "U - FAD - Fine Arts - Dance",
+        "region_id": "region_368",
+        "lon": -82.41486880928278,
+        "lat": 28.06386907562615,
+        "address": "3825 USF Holly Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3199",
+        "name": "U - FAH - Fine Arts - South East",
+        "region_id": "region_368",
+        "lon": -82.4161747097969,
+        "lat": 28.062695232471732,
+        "address": "13001 USF Laurel Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3200",
+        "name": "U - FAH - Fine Arts - North East",
+        "region_id": "region_368",
+        "lon": -82.41619348526001,
+        "lat": 28.063488131244085,
+        "address": "3821 USF Holly Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3201",
+        "name": "U - PCD - Psych / Comm Science Building ",
+        "region_id": "region_368",
+        "lon": -82.41779610514641,
+        "lat": 28.063781857372838,
+        "address": "3375 USF Laurel Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3202",
+        "name": "U - MUS - Music - South",
+        "region_id": "region_368",
+        "lon": -82.41813272237778,
+        "lat": 28.064208125541057,
+        "address": "3375 USF Laurel Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3203",
+        "name": "U - MRC - Moffitt Research Center - South East ",
+        "region_id": "region_368",
+        "lon": -82.41932697594166,
+        "lat": 28.065462778762914,
+        "address": "13046-13098 USF Laurel Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3204",
+        "name": "U - MHA - CBCS West Side Conference Center - North",
+        "region_id": "region_368",
+        "lon": -82.42380827665329,
+        "lat": 28.06745395737677,
+        "address": "3018 USF Banyan Circle, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3205",
+        "name": "U - NEC - Northwest Educational Complex",
+        "region_id": "region_368",
+        "lon": -82.42479667067528,
+        "lat": 28.067772286916036,
+        "address": "3320 USF Banyan Circle, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3206",
+        "name": "U - CMS - Childrens Medical Services",
+        "region_id": "region_368",
+        "lon": -82.42524325847626,
+        "lat": 28.066478845409936,
+        "address": "13101 Bruce B Downs Boulevard, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3207",
+        "name": "U - MDN - USF Health and Nursing - North",
+        "region_id": "region_368",
+        "lon": -82.42373049259186,
+        "lat": 28.064958765462656,
+        "address": "12498-12502 USF Health Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3208",
+        "name": "U - MDH - Morasani Center for Advanced Health Care",
+        "region_id": "region_368",
+        "lon": -82.41917341947556,
+        "lat": 28.0669886501241,
+        "address": "13330 USF Laurel Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3209",
+        "name": "U - LDG - Laurel Drive Parking Facility - North West",
+        "region_id": "region_368",
+        "lon": -82.41870269179344,
+        "lat": 28.06710485884244,
+        "address": "13325 USF Laurel Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3210",
+        "name": "U - CRU - USF Federal Credit Union",
+        "region_id": "region_368",
+        "lon": -82.41354547441006,
+        "lat": 28.06694723159925,
+        "address": "13340-13348 USF Palm Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3211",
+        "name": "U - PPA - US Post Office",
+        "region_id": "region_368",
+        "lon": -82.41459891200066,
+        "lat": 28.065391064448526,
+        "address": "3820 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3212",
+        "name": "U - JPH - Juniper-Poplar Hall - North",
+        "region_id": "region_368",
+        "lon": -82.41843044757843,
+        "lat": 28.060039807505138,
+        "address": "12030 USF Beard Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3213",
+        "name": "U - ATH-Intercollegiate Athletics Center",
+        "region_id": "region_368",
+        "lon": -82.40553975105286,
+        "lat": 28.060645739663528,
+        "address": "12503 USF Elm Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3214",
+        "name": "U - JPH - Juniper-Poplar Hall - South",
+        "region_id": "region_368",
+        "lon": -82.4185162782669,
+        "lat": 28.059431504988346,
+        "address": "3707 USF Beach Lane, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3215",
+        "name": "U - RBC- Kastor Hall",
+        "region_id": "region_368",
+        "lon": -82.41108924150467,
+        "lat": 28.063753455193,
+        "address": "4107 USF Cedar Circle, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3216",
+        "name": "U - SHS- Student Health Services",
+        "region_id": "region_368",
+        "lon": -82.41195760667324,
+        "lat": 28.063221504942238,
+        "address": "4107 USF Cedar Circle, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3217",
+        "name": "U - HMS- Human Services ",
+        "region_id": "region_368",
+        "lon": -82.4096167087555,
+        "lat": 28.061024445527888,
+        "address": "12316 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3218",
+        "name": "U - ULH- University Lecture Hall ",
+        "region_id": "region_368",
+        "lon": -82.40972131490707,
+        "lat": 28.060692131212218,
+        "address": "12316 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3219",
+        "name": "U - EDU- Education ",
+        "region_id": "region_368",
+        "lon": -82.41035029292107,
+        "lat": 28.060334489782274,
+        "address": "4107 USF Apple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3220",
+        "name": "U - EDU- Education, W",
+        "region_id": "region_368",
+        "lon": -82.4111334979534,
+        "lat": 28.060284784394593,
+        "address": "4107 USF Apple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3221",
+        "name": "U - LIB-Library ",
+        "region_id": "region_368",
+        "lon": -82.41218894720078,
+        "lat": 28.059885956999274,
+        "address": "4107 USF Apple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3223",
+        "name": "U - CIS- Communication and Information Sci",
+        "region_id": "region_368",
+        "lon": -82.41131991147995,
+        "lat": 28.05898651886589,
+        "address": "12011 USF Sago Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3224",
+        "name": "U - IDR- Interdisciplinary Research",
+        "region_id": "region_368",
+        "lon": -82.4155256152153,
+        "lat": 28.05704560040863,
+        "address": "3720 Spectrum Boulevard, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3225",
+        "name": "U - FOW- Fowler Fields",
+        "region_id": "region_368",
+        "lon": -82.40585088729858,
+        "lat": 28.05614897884207,
+        "address": "USF Alumni Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3226",
+        "name": "U - EDU- Education, NE",
+        "region_id": "region_368",
+        "lon": -82.4101860076189,
+        "lat": 28.060986575001504,
+        "address": "4801-4883 USF Willow Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3231",
+        "name": "U - SVC- Student Services, SW",
+        "region_id": "region_368",
+        "lon": -82.41269588470459,
+        "lat": 28.061990139442404,
+        "address": "12220 Leroy Collins Boulevard, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3232",
+        "name": "U - GKY- Greek Village ",
+        "region_id": "region_368",
+        "lon": -82.40725234150887,
+        "lat": 28.06653825174871,
+        "address": "15171 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3233",
+        "name": "U - GVI- Greek Village",
+        "region_id": "region_368",
+        "lon": -82.40615464746952,
+        "lat": 28.06722840436042,
+        "address": "4743 USF Birch Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3235",
+        "name": "U - HAD- Holly Apts",
+        "region_id": "region_368",
+        "lon": -82.41146005690098,
+        "lat": 28.064995214506332,
+        "address": "4231 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3236",
+        "name": "U - HAE- Holly Apts",
+        "region_id": "region_368",
+        "lon": -82.41097792983055,
+        "lat": 28.06499616123309,
+        "address": "4235 USF Holly Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3237",
+        "name": "U - HAF- Holly Apts",
+        "region_id": "region_368",
+        "lon": -82.41049915552139,
+        "lat": 28.065024563082833,
+        "address": "4237 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3241",
+        "name": "U - MDC- Health",
+        "region_id": "region_368",
+        "lon": -82.42395043373108,
+        "lat": 28.064400075976103,
+        "address": "12908 USF Health Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3242",
+        "name": "U- MDC- Health ",
+        "region_id": "region_368",
+        "lon": -82.42421060800552,
+        "lat": 28.064071085646397,
+        "address": "12908 USF Health Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3243",
+        "name": "U - MDC- Health",
+        "region_id": "region_368",
+        "lon": -82.4235051870346,
+        "lat": 28.06379274487034,
+        "address": "12909 USF Health Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3244",
+        "name": "U - MDC- Health",
+        "region_id": "region_368",
+        "lon": -82.42526605725288,
+        "lat": 28.06360694725396,
+        "address": "13007-13023 Bruce B Downs Boulevard, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3245",
+        "name": "U - MDL- Health",
+        "region_id": "region_368",
+        "lon": -82.4239182472229,
+        "lat": 28.06312150507044,
+        "address": "12908 USF Hawthorn Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3246",
+        "name": "U - SRB- Stabile Research Building ",
+        "region_id": "region_368",
+        "lon": -82.42173492908478,
+        "lat": 28.065555084352308,
+        "address": "USF Holly Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3247",
+        "name": "U - MDT- Health ",
+        "region_id": "region_368",
+        "lon": -82.41933166980743,
+        "lat": 28.0680269498679,
+        "address": "3515 East Fletcher Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3248",
+        "name": "U - MDT- Health ",
+        "region_id": "region_368",
+        "lon": -82.41843178868294,
+        "lat": 28.06772163824685,
+        "address": "13325 USF Laurel Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3249",
+        "name": "U - REP- Epsilon Hall",
+        "region_id": "region_368",
+        "lon": -82.41219699382782,
+        "lat": 28.066271987971028,
+        "address": "30-36 USF Holly Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3250",
+        "name": "U - CHG- Crescent Hill Parking Garage ",
+        "region_id": "region_368",
+        "lon": -82.41237804293633,
+        "lat": 28.064749893336625,
+        "address": "4103 USF Cedar Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3251",
+        "name": "U - RAR-Argos Center",
+        "region_id": "region_368",
+        "lon": -82.41062924265862,
+        "lat": 28.064353685946916,
+        "address": "4237 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3253",
+        "name": "U - MPB- Maple Suites ",
+        "region_id": "region_368",
+        "lon": -82.40908697247505,
+        "lat": 28.065278404159628,
+        "address": "4303 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3254",
+        "name": "U - MPD- Maple Apts",
+        "region_id": "region_368",
+        "lon": -82.40892469882965,
+        "lat": 28.065197459102983,
+        "address": "4303 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3255",
+        "name": "U - RBE- Beta Hall",
+        "region_id": "region_368",
+        "lon": -82.40972131490707,
+        "lat": 28.064859003945987,
+        "address": "4241 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3256",
+        "name": "U - MPA- Maple Suites ",
+        "region_id": "region_368",
+        "lon": -82.40860987454651,
+        "lat": 28.06501272897067,
+        "address": "12480 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3257",
+        "name": "U - STA- Track and Field Stadium",
+        "region_id": "region_368",
+        "lon": -82.40723624825478,
+        "lat": 28.062374994461408,
+        "address": "12303 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3258",
+        "name": "U - BBP- Sun Dome",
+        "region_id": "region_368",
+        "lon": -82.40586698055267,
+        "lat": 28.058759764575782,
+        "address": "11780-11792 USF Bull Run Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3259",
+        "name": "U - BPP- Sun Dome",
+        "region_id": "region_368",
+        "lon": -82.4070256948471,
+        "lat": 28.05879526890355,
+        "address": "4202 East Fowler Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3260",
+        "name": "U - UTA- University Technology Center",
+        "region_id": "region_368",
+        "lon": -82.41787120699883,
+        "lat": 28.056897663113265,
+        "address": "3484-3534 Spectrum Boulevard, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3261",
+        "name": "U - PIZ- Pizzo Elementary ",
+        "region_id": "region_368",
+        "lon": -82.40433275699615,
+        "lat": 28.055956540463413,
+        "address": "USF Orange Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3262",
+        "name": "U - MHA- FL Mental Health Institute ",
+        "region_id": "region_368",
+        "lon": -82.42280781269073,
+        "lat": 28.067865773850674,
+        "address": "13301 Bruce B Downs Boulevard, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3265",
+        "name": "U - RCD- Cypress Suites",
+        "region_id": "region_368",
+        "lon": -82.40857802331448,
+        "lat": 28.067029713755343,
+        "address": "4301 USF Dogwood Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3266",
+        "name": "SP - 6th Street and 6th Ave S",
+        "region_id": "region_293",
+        "lon": -82.64174312353134,
+        "lat": 27.76374500645892,
+        "address": "699 6th Street South, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3269",
+        "name": "TPA - Franklin & Henderson",
+        "region_id": "region_102",
+        "lon": -82.46036410331725,
+        "lat": 27.959097401115688,
+        "address": "1624 North Franklin Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3271",
+        "name": "TPA - N 16th St & 5th Ave",
+        "region_id": "region_102",
+        "lon": -82.44210094213486,
+        "lat": 27.958922083997003,
+        "address": "1500-1598 East 5th Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3272",
+        "name": "TPA - 12th St N & Washington St",
+        "region_id": "region_102",
+        "lon": -82.44679749011993,
+        "lat": 27.94844091966378,
+        "address": "140-182 North 12th Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3275",
+        "name": "U - ENC-Engineering Building II",
+        "region_id": "region_368",
+        "lon": -82.41527751088142,
+        "lat": 28.058952316385934,
+        "address": "4220 East Fowler Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3276",
+        "name": "TPA - Brevard St & Kennedy ",
+        "region_id": "region_102",
+        "lon": -82.46660828590393,
+        "lat": 27.94511141254845,
+        "address": "101-111 North Brevard Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3277",
+        "name": "TPA - Laurel & Doyle Carlton ",
+        "region_id": "region_102",
+        "lon": -82.4632179737091,
+        "lat": 27.954592608481452,
+        "address": "203-399 West Laurel Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3315",
+        "name": "U - PCD- Psych/ Comm Science Building, NW",
+        "region_id": "region_368",
+        "lon": -82.41913586854935,
+        "lat": 28.06398019894943,
+        "address": "USF Citrus, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3317",
+        "name": "U - COL- Collins Blvd Parking Garage",
+        "region_id": "region_368",
+        "lon": -82.4113118648529,
+        "lat": 28.061504926672853,
+        "address": "4801 USF Willow Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3321",
+        "name": "U - BRN- Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.4246920645237,
+        "lat": 28.065642182822028,
+        "address": "12901 Holly Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3326",
+        "name": "U - BEA- Beacon Hall",
+        "region_id": "region_368",
+        "lon": -82.41189189255238,
+        "lat": 28.066994330453213,
+        "address": "4207 USF Dogwood Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3327",
+        "name": "U - SIM- Simmons Park",
+        "region_id": "region_368",
+        "lon": -82.41888105869293,
+        "lat": 28.062582332740906,
+        "address": "13051-13099 USF Laurel Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3328",
+        "name": "U - BRN- Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.41613984107971,
+        "lat": 28.058211575811306,
+        "address": "3808 USF Alumni Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3329",
+        "name": "U - DIN- Champion's Choice Dining",
+        "region_id": "region_368",
+        "lon": -82.40692511200905,
+        "lat": 28.059948680693644,
+        "address": "4202 East Fowler Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3338",
+        "name": "U - BRN- Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.41453051567078,
+        "lat": 28.06779879461429,
+        "address": "13337 USF Laurel Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3339",
+        "name": "U - CGS - Patel College of Sustainability ",
+        "region_id": "region_368",
+        "lon": -82.40847945213318,
+        "lat": 28.05540052622912,
+        "address": "4600 East Fowler Avenue, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3341",
+        "name": "U - BSN- College of Business",
+        "region_id": "region_368",
+        "lon": -82.40888580679893,
+        "lat": 28.058618693841762,
+        "address": "12212 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3344",
+        "name": "U - ALC- Gibbons Alumni Center",
+        "region_id": "region_368",
+        "lon": -82.40987956523895,
+        "lat": 28.055821856965586,
+        "address": "11810 USF Alumni Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3345",
+        "name": "U - SIM- Simmons Park, south",
+        "region_id": "region_368",
+        "lon": -82.41942018270493,
+        "lat": 28.061232259747094,
+        "address": "12010 USF Beard Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3346",
+        "name": "U - Lot 3D",
+        "region_id": "region_368",
+        "lon": -82.41627395153046,
+        "lat": 28.06477829521912,
+        "address": "3820 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3348",
+        "name": "U - BRN- Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.40822598338127,
+        "lat": 28.0649482331287,
+        "address": "12480 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3349",
+        "name": "U - BRN- Bull Runner Stop ",
+        "region_id": "region_368",
+        "lon": -82.41328865289688,
+        "lat": 28.067862460362775,
+        "address": "13374-13398 USF Palm Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3352",
+        "name": "U - LIB, S",
+        "region_id": "region_368",
+        "lon": -82.4128769338131,
+        "lat": 28.05908533908146,
+        "address": "12109 Leroy Collins Boulevard, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3353",
+        "name": "U - BRN- Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.40885898470879,
+        "lat": 28.061314627990335,
+        "address": "12320 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3354",
+        "name": "U - BRN - Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.41477057337761,
+        "lat": 28.064849536652915,
+        "address": "3820 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3355",
+        "name": "U - BRN- Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.40768350660801,
+        "lat": 28.067736548843857,
+        "address": "USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3356",
+        "name": "U - Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.40963011980057,
+        "lat": 28.057377452621637,
+        "address": "11810 USF Alumni Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3357",
+        "name": "U - HAL- Holly Apts",
+        "region_id": "region_368",
+        "lon": -82.41048105061054,
+        "lat": 28.06612477343524,
+        "address": "4234 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3358",
+        "name": "U - HAJ- Holly Apts",
+        "region_id": "region_368",
+        "lon": -82.40994930267334,
+        "lat": 28.066114596226868,
+        "address": "4238 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3505",
+        "name": "U- BRN- Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.40264162421227,
+        "lat": 28.0630540495306,
+        "address": "13101 USF Sycamore Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3522",
+        "name": "U- BRN- bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.4105554819107,
+        "lat": 28.06563626580396,
+        "address": "4237 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3523",
+        "name": "U -BRN- Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.42032676935196,
+        "lat": 28.0666930394523,
+        "address": "13137 USF Magnolia Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3524",
+        "name": "U-BRN- Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.41791479289532,
+        "lat": 28.065386094129263,
+        "address": "USF Holly Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3546",
+        "name": "U- MPB- Maple Multi Purpose Building",
+        "region_id": "region_368",
+        "lon": -82.40924187004566,
+        "lat": 28.0652000625916,
+        "address": "4303 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3557",
+        "name": "U- MHA- Mental Health Institute, N",
+        "region_id": "region_368",
+        "lon": -82.42273405194283,
+        "lat": 28.068331313887732,
+        "address": "3106 USF Banyan Circle, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3558",
+        "name": "U- PIZ- Pizzo Elementary, N",
+        "region_id": "region_368",
+        "lon": -82.40458220243454,
+        "lat": 28.05624377782919,
+        "address": "USF Orange Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3559",
+        "name": "U- MPB- Maple Suites",
+        "region_id": "region_368",
+        "lon": -82.40903064608574,
+        "lat": 28.06544786789355,
+        "address": "4303 Holly Court, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3561",
+        "name": "U- SUM- Summit Hall",
+        "region_id": "region_368",
+        "lon": -82.41151973605156,
+        "lat": 28.0672480483832,
+        "address": "4207 USF Dogwood Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3586",
+        "name": "U- BRN- Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.41577371954918,
+        "lat": 28.057785993914884,
+        "address": "3820 USF Alumni Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3594",
+        "name": "U-CPR- Cooper Hall, South",
+        "region_id": "region_368",
+        "lon": -82.41061583161354,
+        "lat": 28.05926226846204,
+        "address": "12011 USF Sago Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3623",
+        "name": "U- BEA- Beacon Hall, w",
+        "region_id": "region_368",
+        "lon": -82.41242498159409,
+        "lat": 28.067216097142605,
+        "address": "4207 USF Dogwood Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3624",
+        "name": "U- BRN-Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.40894615650177,
+        "lat": 28.06014430737143,
+        "address": "12316 USF Maple Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3642",
+        "name": "U-UTB- University Technology Center B",
+        "region_id": "region_368",
+        "lon": -82.41854310035706,
+        "lat": 28.057756170000946,
+        "address": "3705-3710 USF Alumni Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3649",
+        "name": "U-ISA",
+        "region_id": "region_368",
+        "lon": -82.41494759917259,
+        "lat": 28.061081724661726,
+        "address": "Wheelchair Access, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3650",
+        "name": "U-ISA",
+        "region_id": "region_368",
+        "lon": -82.41464853286743,
+        "lat": 28.061366226425932,
+        "address": "Wheelchair Access, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3656",
+        "name": "U- ISA",
+        "region_id": "region_368",
+        "lon": -82.41549544036388,
+        "lat": 28.06095355661992,
+        "address": "12020 USF Cherry Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3768",
+        "name": "U- BRN- Bull Runner Stop",
+        "region_id": "region_368",
+        "lon": -82.41350591182709,
+        "lat": 28.059409729064114,
+        "address": "12109 Leroy Collins Boulevard, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3935",
+        "name": "U- BOT -Botanical Gardens",
+        "region_id": "region_368",
+        "lon": -82.42337107658386,
+        "lat": 28.058115950242986,
+        "address": "12210 USF Pine Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3941",
+        "name": "U- RDE- Delta Hall",
+        "region_id": "region_368",
+        "lon": -82.41126090288162,
+        "lat": 28.0665647597501,
+        "address": "20-26 USF Holly Drive, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4084",
+        "name": "TPA - Julian B Lane Park at Laurel St",
+        "region_id": "region_102",
+        "lon": -82.46705889701843,
+        "lat": 27.955463066401474,
+        "address": "710-804 West Laurel Street, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4085",
+        "name": "TPA - Julian B Lane Park at North Blvd",
+        "region_id": "region_102",
+        "lon": -82.46826857328415,
+        "lat": 27.953927795682873,
+        "address": "1231-1299 North Boulevard, Tampa",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4099",
+        "name": "SP - VIRTUAL - The Trop - Gate 6",
+        "region_id": "region_293",
+        "lon": -82.65432268381119,
+        "lat": 27.769125940628403,
+        "address": "657 Pinellas Trail, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4100",
+        "name": "SP - VIRTUAL - 3rd Ave S at Gate 1",
+        "region_id": "region_293",
+        "lon": -82.65077278017998,
+        "lat": 27.768504133197972,
+        "address": "854 Pinellas Trail, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4137",
+        "name": "TPA - Julian B Lane - South ",
+        "region_id": "region_102",
+        "lon": -82.4661161005497,
+        "lat": 27.952137285274592,
+        "address": "900 West Cypress Street, Tampa,",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4138",
+        "name": "TPA - Armature Works at 7th Ave",
+        "region_id": "region_102",
+        "lon": -82.46402263641357,
+        "lat": 27.96055678662051,
+        "address": "Tampa Riverwalk, Tampa, FL",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4305",
+        "name": "SP - VIRTUAL - Burlington Ave N & 30th St",
+        "region_id": "region_293",
+        "lon": -82.67386391758919,
+        "lat": 27.773933601320778,
+        "address": "253 30th Street North, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4306",
+        "name": "SP - VIRTUAL -1st Ave S & 20th St",
+        "region_id": "region_293",
+        "lon": -82.66030602157116,
+        "lat": 27.770193255221894,
+        "address": "2001 1st Avenue South, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4307",
+        "name": "SP - VIRTUAL - 16th St & 5th Ave S",
+        "region_id": "region_293",
+        "lon": -82.65448898077011,
+        "lat": 27.76718080719101,
+        "address": "336-430 16th Street South, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4309",
+        "name": "SP - VIRTUAL - 2nd St & 7th Ave N",
+        "region_id": "region_293",
+        "lon": -82.63548284769058,
+        "lat": 27.77959033225168,
+        "address": "725 2nd Street North, Saint Petersburg",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      }
+    ]
+  },
+  "system_id": "coast_bike_share"
+}

@@ -1,0 +1,65 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -85.92587,
+        "lat": 39.2073,
+        "address": "850 Lindsey ",
+        "name": "ColumBus Depot",
+        "station_id": "bcycle_columbike_3404"
+      },
+      {
+        "lon": -85.9225,
+        "lat": 39.2032,
+        "address": "Jackson St Parking Garage",
+        "name": "Jackson St Garage",
+        "station_id": "bcycle_columbike_3405"
+      },
+      {
+        "lon": -85.92143,
+        "lat": 39.20243,
+        "address": "4th and Washington",
+        "name": "4th & Washington",
+        "station_id": "bcycle_columbike_3406"
+      },
+      {
+        "lon": -85.9194,
+        "lat": 39.204,
+        "address": "506 5th Street ",
+        "name": "Visitors Center",
+        "station_id": "bcycle_columbike_3407"
+      },
+      {
+        "lon": -85.9132,
+        "lat": 39.20358,
+        "address": "500 Central Avenue",
+        "name": "CEP",
+        "station_id": "bcycle_columbike_3408"
+      },
+      {
+        "lon": -85.89768,
+        "lat": 39.21675,
+        "address": "2400 17th Street",
+        "name": "Columbus Regional Health",
+        "station_id": "bcycle_columbike_3409"
+      },
+      {
+        "lon": -85.91689,
+        "lat": 39.21975,
+        "address": "739 22nd Street",
+        "name": "Donner",
+        "station_id": "bcycle_columbike_3410"
+      },
+      {
+        "lon": -85.9039,
+        "lat": 39.2034,
+        "address": "1900 McKinley Ave",
+        "name": "CTC",
+        "station_id": "bcycle_columbike_3411"
+      }
+    ]
+  },
+  "last_updated": 1530239576,
+  "system_id": "bcycle_columbike"
+}

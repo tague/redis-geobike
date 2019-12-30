@@ -1,0 +1,44 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -81.93345,
+        "lat": 34.94867,
+        "address": "50 S. Spring St.",
+        "name": "Morgan Square",
+        "station_id": "bcycle_spartanburg_1923"
+      },
+      {
+        "lon": -81.92174,
+        "lat": 34.94747,
+        "address": "295 E. Henry St.",
+        "name": "Rail Trail",
+        "station_id": "bcycle_spartanburg_1924"
+      },
+      {
+        "lon": -81.93861,
+        "lat": 34.96023,
+        "address": "160 Evins St.",
+        "name": "Wofford College",
+        "station_id": "bcycle_spartanburg_2289"
+      },
+      {
+        "lon": -81.91928,
+        "lat": 34.95618,
+        "address": "580 E. Main St.",
+        "name": "Converse College",
+        "station_id": "bcycle_spartanburg_2290"
+      },
+      {
+        "lon": -81.94241,
+        "lat": 34.95624,
+        "address": "498 Howard St.",
+        "name": "VCOM station at Harvest Park",
+        "station_id": "bcycle_spartanburg_2754"
+      }
+    ]
+  },
+  "last_updated": 1530239612,
+  "system_id": "bcycle_spartanburg"
+}

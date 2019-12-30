@@ -1,0 +1,436 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -95.36949,
+        "lat": 29.75983,
+        "address": "473 McKinney St.",
+        "name": "City Hall",
+        "station_id": "bcycle_houston_2061"
+      },
+      {
+        "lon": -95.36198,
+        "lat": 29.76276,
+        "address": "864 Congress St.",
+        "name": "Market Square",
+        "station_id": "bcycle_houston_2062"
+      },
+      {
+        "lon": -95.36076,
+        "lat": 29.75245,
+        "address": "1177 Crawford",
+        "name": "Lamar & Crawford",
+        "station_id": "bcycle_houston_2063"
+      },
+      {
+        "lon": -95.37067,
+        "lat": 29.75256,
+        "address": "808 Pease St",
+        "name": "Tellepsen YMCA",
+        "station_id": "bcycle_houston_2201"
+      },
+      {
+        "lon": -95.37849,
+        "lat": 29.73959,
+        "address": "3512 Main Street",
+        "name": "Ensemble/HCC Station",
+        "station_id": "bcycle_houston_2202"
+      },
+      {
+        "lon": -95.38919,
+        "lat": 29.71732,
+        "address": "6100 Herman Park Drive",
+        "name": "Hermann Park Lake Plaza",
+        "station_id": "bcycle_houston_2203"
+      },
+      {
+        "lon": -95.36647,
+        "lat": 29.7617,
+        "address": "612 Smith Street",
+        "name": "Smith & Capitol",
+        "station_id": "bcycle_houston_2270"
+      },
+      {
+        "lon": -95.36762,
+        "lat": 29.75737,
+        "address": "782 Lamar",
+        "name": "Lamar & Milam",
+        "station_id": "bcycle_houston_2271"
+      },
+      {
+        "lon": -95.36625,
+        "lat": 29.75514,
+        "address": "1250 Main",
+        "name": "Main & Dallas",
+        "station_id": "bcycle_houston_2272"
+      },
+      {
+        "lon": -95.3612,
+        "lat": 29.75378,
+        "address": "1075 La Branch",
+        "name": "La Branch & Lamar",
+        "station_id": "bcycle_houston_2273"
+      },
+      {
+        "lon": -95.36249,
+        "lat": 29.75558,
+        "address": "1248 McKinney",
+        "name": "McKinney & Caroline",
+        "station_id": "bcycle_houston_2274"
+      },
+      {
+        "lon": -95.35996,
+        "lat": 29.76318,
+        "address": "100 Main Street",
+        "name": "UHD/Main & Franklin",
+        "station_id": "bcycle_houston_2277"
+      },
+      {
+        "lon": -95.35419,
+        "lat": 29.75273,
+        "address": "736 St. Emanuel",
+        "name": "Rusk & St. Emanuel ",
+        "station_id": "bcycle_houston_2279"
+      },
+      {
+        "lon": -95.37765,
+        "lat": 29.7524,
+        "address": "2089 Baldwin St. ",
+        "name": "West Gray & Baldwin",
+        "station_id": "bcycle_houston_2280"
+      },
+      {
+        "lon": -95.38025,
+        "lat": 29.74366,
+        "address": "614 Elgin",
+        "name": "Elgin & Smith",
+        "station_id": "bcycle_houston_2282"
+      },
+      {
+        "lon": -95.39273,
+        "lat": 29.74483,
+        "address": "1111 Westheimer ",
+        "name": "Westheimer & Waugh",
+        "station_id": "bcycle_houston_2283"
+      },
+      {
+        "lon": -95.39124,
+        "lat": 29.73554,
+        "address": "4100 Montrose ",
+        "name": "Freed Library ",
+        "station_id": "bcycle_houston_2284"
+      },
+      {
+        "lon": -95.38913,
+        "lat": 29.72497,
+        "address": "5623 Fannin St. ",
+        "name": "MFAH/Fannin & Binz",
+        "station_id": "bcycle_houston_2285"
+      },
+      {
+        "lon": -95.37076,
+        "lat": 29.74983,
+        "address": "1900 Main Street",
+        "name": "METRO Transit Center ",
+        "station_id": "bcycle_houston_2288"
+      },
+      {
+        "lon": -95.37548,
+        "lat": 29.76184,
+        "address": "190 Sabine Street",
+        "name": "Sabine Bridge ",
+        "station_id": "bcycle_houston_2291"
+      },
+      {
+        "lon": -95.37112,
+        "lat": 29.75616,
+        "address": "554 Clay",
+        "name": "Clay & Smith",
+        "station_id": "bcycle_houston_2369"
+      },
+      {
+        "lon": -95.39681,
+        "lat": 29.76612,
+        "address": "3683 Willia St.",
+        "name": "Spotts Park",
+        "station_id": "bcycle_houston_2433"
+      },
+      {
+        "lon": -95.38563,
+        "lat": 29.74837,
+        "address": "2401 Taft St.",
+        "name": "Taft & Fairview",
+        "station_id": "bcycle_houston_2434"
+      },
+      {
+        "lon": -95.37412,
+        "lat": 29.74876,
+        "address": "2215 Milam St.",
+        "name": "Milam & Webster",
+        "station_id": "bcycle_houston_2435"
+      },
+      {
+        "lon": -95.39767,
+        "lat": 29.73864,
+        "address": "1529 W. Alabama St.",
+        "name": "Menil Collection/Alabama & Mulberry",
+        "station_id": "bcycle_houston_2436"
+      },
+      {
+        "lon": -95.36673,
+        "lat": 29.77818,
+        "address": "2109 South St.",
+        "name": "Leonel Castillo Community Center/South & Henry",
+        "station_id": "bcycle_houston_2438"
+      },
+      {
+        "lon": -95.3649,
+        "lat": 29.73169,
+        "address": "2521 Holman St.",
+        "name": "Project Row House/Holman & Live Oak",
+        "station_id": "bcycle_houston_2439"
+      },
+      {
+        "lon": -95.38566,
+        "lat": 29.77909,
+        "address": "2300 Forester",
+        "name": "Stude Park",
+        "station_id": "bcycle_houston_2441"
+      },
+      {
+        "lon": -95.348,
+        "lat": 29.76073,
+        "address": "1919 Runnels",
+        "name": "1919 Runnels",
+        "station_id": "bcycle_houston_2529"
+      },
+      {
+        "lon": -95.37837,
+        "lat": 29.74783,
+        "address": "2600 Brazos St.",
+        "name": "Brazos & McGowen",
+        "station_id": "bcycle_houston_3365"
+      },
+      {
+        "lon": -95.4017,
+        "lat": 29.76337,
+        "address": "300 Jackson St.",
+        "name": "Jackson Hill & Memorial Dr.",
+        "station_id": "bcycle_houston_3374"
+      },
+      {
+        "lon": -95.36436,
+        "lat": 29.75764,
+        "address": "914 Main St.",
+        "name": "Main & Walker",
+        "station_id": "bcycle_houston_3393"
+      },
+      {
+        "lon": -95.5547,
+        "lat": 29.7815,
+        "address": "10401 Town and Country Way",
+        "name": "Pearl City Centre",
+        "station_id": "bcycle_houston_3478"
+      },
+      {
+        "lon": -95.3592,
+        "lat": 29.75444,
+        "address": "925 Crawford Street",
+        "name": "Crawford Island",
+        "station_id": "bcycle_houston_3627"
+      },
+      {
+        "lon": -95.40201,
+        "lat": 29.75921,
+        "address": "3450 D'Amico Street",
+        "name": "Lost Lake",
+        "station_id": "bcycle_houston_3661"
+      },
+      {
+        "lon": -95.38656,
+        "lat": 29.72985,
+        "address": "4912 Main St",
+        "name": "Main & Wichita St",
+        "station_id": "bcycle_houston_3662"
+      },
+      {
+        "lon": -95.37175,
+        "lat": 29.78269,
+        "address": "2760 Houston Ave",
+        "name": "Woodland Park",
+        "station_id": "bcycle_houston_3663"
+      },
+      {
+        "lon": -95.34531,
+        "lat": 29.75967,
+        "address": "238 Flynn Street",
+        "name": "Guadalupe Park Plaza",
+        "station_id": "bcycle_houston_3664"
+      },
+      {
+        "lon": -95.36453,
+        "lat": 29.73529,
+        "address": "3100 Emancipation Street",
+        "name": "Emancipation Park",
+        "station_id": "bcycle_houston_3680"
+      },
+      {
+        "lon": -95.36553,
+        "lat": 29.79461,
+        "address": "3812 Baden Street",
+        "name": "Moody Park",
+        "station_id": "bcycle_houston_3681"
+      },
+      {
+        "lon": -95.35802,
+        "lat": 29.76161,
+        "address": "1202 Franklin Street",
+        "name": "Jury Assembly",
+        "station_id": "bcycle_houston_3682"
+      },
+      {
+        "lon": -95.3701,
+        "lat": 29.73869,
+        "address": "1701 Elgin Street",
+        "name": "Baldwin Park",
+        "station_id": "bcycle_houston_3683"
+      },
+      {
+        "lon": -95.34371,
+        "lat": 29.75793,
+        "address": "2501 Navigation Blvd",
+        "name": "Navigation Esplanade ",
+        "station_id": "bcycle_houston_3699"
+      },
+      {
+        "lon": -95.38606,
+        "lat": 29.72151,
+        "address": "1515 Hermann Drive",
+        "name": "Health Museum",
+        "station_id": "bcycle_houston_3721"
+      },
+      {
+        "lon": -95.41696,
+        "lat": 29.77078,
+        "address": "5418 Washington Ave",
+        "name": "Pearl Washington",
+        "station_id": "bcycle_houston_3722"
+      },
+      {
+        "lon": -95.34114,
+        "lat": 29.7341,
+        "address": "1815 Cullen Blvd",
+        "name": "Gateway on Cullen",
+        "station_id": "bcycle_houston_3723"
+      },
+      {
+        "lon": -95.38619,
+        "lat": 29.72002,
+        "address": "1500 Hermann Dr.",
+        "name": "Centennial Gardens",
+        "station_id": "bcycle_houston_3775"
+      },
+      {
+        "lon": -95.37711,
+        "lat": 29.73816,
+        "address": "1300 Holman St.",
+        "name": "HCC Central",
+        "station_id": "bcycle_houston_3776"
+      },
+      {
+        "lon": -95.4061,
+        "lat": 29.7151,
+        "address": "College Way ",
+        "name": "Rice University West Lot",
+        "station_id": "bcycle_houston_3777"
+      },
+      {
+        "lon": -95.4126,
+        "lat": 29.7157,
+        "address": "5650 Greenbriar Dr.",
+        "name": "Rice University Greenbriar Lot",
+        "station_id": "bcycle_houston_3778"
+      },
+      {
+        "lon": -95.40384,
+        "lat": 29.71861,
+        "address": "20 Alumni Dr.",
+        "name": "Rice University Gibbs Recreation & Wellness Center",
+        "station_id": "bcycle_houston_3779"
+      },
+      {
+        "lon": -95.3832,
+        "lat": 29.7681,
+        "address": "2411 Washington Ave",
+        "name": "24ELEVEN WASHINGTON ",
+        "station_id": "bcycle_houston_3786"
+      },
+      {
+        "lon": -95.37847,
+        "lat": 29.80017,
+        "address": "915 Northwood St.",
+        "name": "Montie Beach Park",
+        "station_id": "bcycle_houston_3801"
+      },
+      {
+        "lon": -95.40145,
+        "lat": 29.71537,
+        "address": "Alumni Dr.",
+        "name": "Rice University South Servery",
+        "station_id": "bcycle_houston_3802"
+      },
+      {
+        "lon": -95.3975,
+        "lat": 29.7166,
+        "address": "6100 Main St.",
+        "name": "Rice University Cambridge Office Building ",
+        "station_id": "bcycle_houston_3803"
+      },
+      {
+        "lon": -95.39869,
+        "lat": 29.72059,
+        "address": "Laboratory Rd.",
+        "name": "Rice University Duncan Hall",
+        "station_id": "bcycle_houston_3804"
+      },
+      {
+        "lon": -95.41499,
+        "lat": 29.71434,
+        "address": "2410 Shakespeare St.",
+        "name": "Rice Village Apartments ",
+        "station_id": "bcycle_houston_3805"
+      },
+      {
+        "lon": -95.37633,
+        "lat": 29.7496,
+        "address": "2222 Smith St.",
+        "name": "2222 Smith",
+        "station_id": "bcycle_houston_3869"
+      },
+      {
+        "lon": -95.39331,
+        "lat": 29.71147,
+        "address": "1504 Ben Taub Loop",
+        "name": "Ben Taub Hospital ",
+        "station_id": "bcycle_houston_3870"
+      },
+      {
+        "lon": -95.53517,
+        "lat": 29.78199,
+        "address": "920 Memorial City Way",
+        "name": "Memorial City Club",
+        "station_id": "bcycle_houston_3887"
+      },
+      {
+        "lon": -95.38874,
+        "lat": 29.78152,
+        "address": "2803 White Oak Dr.",
+        "name": "Bobcat Teddy's",
+        "station_id": "bcycle_houston_4001"
+      }
+    ]
+  },
+  "last_updated": 1530239590,
+  "system_id": "bcycle_houston"
+}

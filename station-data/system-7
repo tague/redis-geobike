@@ -1,0 +1,51 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -80.13356,
+        "lat": 25.96605,
+        "address": "NE 34th Ave. & Country Club Dr.",
+        "name": "North Country Club Drive ",
+        "station_id": "bcycle_aventura_3531"
+      },
+      {
+        "lon": -80.13574,
+        "lat": 25.94985,
+        "address": "3375 NE 188th St.",
+        "name": "Community Recreation Center",
+        "station_id": "bcycle_aventura_3532"
+      },
+      {
+        "lon": -80.13743,
+        "lat": 25.9519,
+        "address": "3105 NE 190th St.",
+        "name": "Founders Park",
+        "station_id": "bcycle_aventura_3533"
+      },
+      {
+        "lon": -80.13652,
+        "lat": 25.97344,
+        "address": "3301 NE 213th St.",
+        "name": "Waterways Park",
+        "station_id": "bcycle_aventura_3534"
+      },
+      {
+        "lon": -80.14436,
+        "lat": 25.9582,
+        "address": "19501 Biscayne Blvd.",
+        "name": "Aventura Mall Transit Station",
+        "station_id": "bcycle_aventura_3535"
+      },
+      {
+        "lon": -80.13066,
+        "lat": 25.95644,
+        "address": "19680 E Country Club Dr",
+        "name": "Bike Path @ Yacht Club Way & E. Country Club Dr. ",
+        "station_id": "bcycle_aventura_3807"
+      }
+    ]
+  },
+  "last_updated": 1530239556,
+  "system_id": "bcycle_aventura"
+}

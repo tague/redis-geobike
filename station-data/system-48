@@ -1,0 +1,65 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -98.2335,
+        "lat": 26.20536,
+        "address": "1353 Beech Avenue",
+        "name": "Archer Park",
+        "station_id": "bcycle_mcallen_3303"
+      },
+      {
+        "lon": -98.21984,
+        "lat": 26.20292,
+        "address": "133 N. 1st Street",
+        "name": "Fireman's Park",
+        "station_id": "bcycle_mcallen_3304"
+      },
+      {
+        "lon": -98.21853,
+        "lat": 26.21598,
+        "address": "121 Pecan Blvd",
+        "name": "2nd & Pecan Hike & Bike",
+        "station_id": "bcycle_mcallen_3305"
+      },
+      {
+        "lon": -98.23445,
+        "lat": 26.19681,
+        "address": "717 S. Broadway Street",
+        "name": "S Broadway Park & Ride",
+        "station_id": "bcycle_mcallen_3306"
+      },
+      {
+        "lon": -98.23886,
+        "lat": 26.20382,
+        "address": "101 S Bicentennial Boulevard",
+        "name": "Downtown Trolley Park & Ride",
+        "station_id": "bcycle_mcallen_3307"
+      },
+      {
+        "lon": -98.26039,
+        "lat": 26.1998,
+        "address": "700 Convention Center Boulevard",
+        "name": "Convention Center North",
+        "station_id": "bcycle_mcallen_3308"
+      },
+      {
+        "lon": -98.26025,
+        "lat": 26.19576,
+        "address": "3300 Expressway 83",
+        "name": "Convention Center South",
+        "station_id": "bcycle_mcallen_3309"
+      },
+      {
+        "lon": -98.23476,
+        "lat": 26.20132,
+        "address": "301 S. Main Street",
+        "name": "Heritage Center",
+        "station_id": "bcycle_mcallen_3310"
+      }
+    ]
+  },
+  "last_updated": 1530239599,
+  "system_id": "bcycle_mcallen"
+}

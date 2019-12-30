@@ -1,0 +1,873 @@
+{
+  "last_updated": 1530239649,
+  "ttl": 180,
+  "data": {
+    "stations": [
+      {
+        "station_id": "hub_1455",
+        "name": "Broadway Market Free Parking",
+        "region_id": "region_231",
+        "lon": -78.83788526058197,
+        "lat": 42.89329824975829,
+        "address": "1014 Broadway, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1456",
+        "name": "Science Museum Free Parking",
+        "region_id": "region_231",
+        "lon": -78.8437968492508,
+        "lat": 42.90605794288799,
+        "address": "1020 Humboldt Parkway, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1722",
+        "name": "The Westin Hotel on Delaware (Free)",
+        "region_id": "region_231",
+        "lon": -78.87683629989624,
+        "lat": 42.89088119493353,
+        "address": "Spot Coffee, West Chippewa Street, Allentown, Buffalo, New York",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1724",
+        "name": "Canalside at Scott Street and Main Street (Free)",
+        "region_id": "region_231",
+        "lon": -78.87949973344803,
+        "lat": 42.87777046137176,
+        "address": "3-7 Marine Drive, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1725",
+        "name": "Buffalo and Erie County Public Library (Free)",
+        "region_id": "region_231",
+        "lon": -78.87265607714653,
+        "lat": 42.885566288191725,
+        "address": "Allpro Parking, Washington Street, Allentown, Buffalo, New York",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1726",
+        "name": "Canisius College (Free)",
+        "region_id": "region_231",
+        "lon": -78.85522305965424,
+        "lat": 42.923866787335974,
+        "address": "Metro Rail, Main Street, Elmwood Village, Buffalo, New York",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1727",
+        "name": "Allen - Elmwood to Park (Free)",
+        "region_id": "region_231",
+        "lon": -78.87676388025284,
+        "lat": 42.89947604718393,
+        "address": "185 Allen Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1728",
+        "name": "Left Bank",
+        "region_id": "region_231",
+        "lon": -78.88316631317139,
+        "lat": 42.91305166330012,
+        "address": "Rhode Island Street, Elmwood Village, Buffalo, New York",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1729",
+        "name": "Bidwell Parkway at Elmwood (Free)",
+        "region_id": "region_231",
+        "lon": -78.8770079612732,
+        "lat": 42.92337184863346,
+        "address": "951 Elmwood Avenue, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1730",
+        "name": "The Buffalo Bisons at Coca-Cola Field One (Free)",
+        "region_id": "region_231",
+        "lon": -78.87435793876648,
+        "lat": 42.88138105436499,
+        "address": "Coca-Cola Field, 275, Washington Street, Allentown, Buffalo, New York",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1742",
+        "name": "Elmwood - Auburn to Ferry (Free)",
+        "region_id": "region_231",
+        "lon": -78.87701600790022,
+        "lat": 42.91555624593546,
+        "address": "695 Elmwood Avenue, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1746",
+        "name": "Elmwood - Bryant to Summer (Free)",
+        "region_id": "region_231",
+        "lon": -78.87707233428955,
+        "lat": 42.908517623229784,
+        "address": "414-424 Elmwood Avenue, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1748",
+        "name": "Elmwood - Forest to Bidwell (free)",
+        "region_id": "region_231",
+        "lon": -78.87706160545349,
+        "lat": 42.92745701667058,
+        "address": "1110 Elmwood Avenue, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1750",
+        "name": "Buffalo State College (Free)",
+        "region_id": "region_231",
+        "lon": -78.87782871723175,
+        "lat": 42.932142842152835,
+        "address": "Rockwell Road, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1751",
+        "name": "Allen - Wadsworth to Elmwood (Free)",
+        "region_id": "region_231",
+        "lon": -78.87975454330443,
+        "lat": 42.89941710165983,
+        "address": "The Bend, Allen Street, Allentown, New York",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1753",
+        "name": "Allen - Delaware to Franklin (Free)",
+        "region_id": "region_231",
+        "lon": -78.87235164642334,
+        "lat": 42.899295280731494,
+        "address": "Studio Hart, Allen Street, Allentown, New York",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1756",
+        "name": "University Station",
+        "region_id": "region_231",
+        "lon": -78.81952285766602,
+        "lat": 42.95413749652004,
+        "address": "Main Circle, University at Buffalo School of Public Health and Health Professions, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1757",
+        "name": "Student Union",
+        "region_id": "region_257",
+        "lon": -78.7857860326767,
+        "lat": 43.00154788713392,
+        "address": "Putnam Way, University at Buffalo, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1758",
+        "name": "Norton Hall",
+        "region_id": "region_257",
+        "lon": -78.78878742456436,
+        "lat": 43.00089074977585,
+        "address": "Putnam Way, University at Buffalo, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1760",
+        "name": "Alumni",
+        "region_id": "region_257",
+        "lon": -78.78217577934265,
+        "lat": 43.00036895784568,
+        "address": "Webster Entrance, University at Buffalo, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1761",
+        "name": "Governor's",
+        "region_id": "region_257",
+        "lon": -78.79352152347565,
+        "lat": 43.00217951718819,
+        "address": "Hadley Road, University at Buffalo, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1762",
+        "name": "Hadley",
+        "region_id": "region_257",
+        "lon": -78.79478752613068,
+        "lat": 42.99863288162898,
+        "address": "Hadley Road, University at Buffalo, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1763",
+        "name": "Flint",
+        "region_id": "region_257",
+        "lon": -78.78735780715942,
+        "lat": 42.99739701378073,
+        "address": "Augspurger Road, University at Buffalo, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1764",
+        "name": "South Lake",
+        "region_id": "region_257",
+        "lon": -78.77711713314056,
+        "lat": 43.00236782806464,
+        "address": "Webster Entrance, University at Buffalo, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1765",
+        "name": "Fargo",
+        "region_id": "region_257",
+        "lon": -78.78574848175049,
+        "lat": 43.007193095631955,
+        "address": "Core Road, University at Buffalo, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1766",
+        "name": "Spaulding",
+        "region_id": "region_257",
+        "lon": -78.78426790237427,
+        "lat": 43.00986056053674,
+        "address": "Frontier Road, University at Buffalo, Getzville",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1767",
+        "name": "Flickinger Court",
+        "region_id": "region_257",
+        "lon": -78.80099952220917,
+        "lat": 43.00540425761059,
+        "address": "1-9 Flickinger Court, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1768",
+        "name": "Clement/Goodyear",
+        "region_id": "region_231",
+        "lon": -78.81498992443085,
+        "lat": 42.95715275421302,
+        "address": "Goodyear Road, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1769",
+        "name": "Main St - Tupper to Chippewa",
+        "region_id": "region_231",
+        "lon": -78.87238383293152,
+        "lat": 42.89140391563053,
+        "address": "657 Main Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1770",
+        "name": "Roosevelt Plaza",
+        "region_id": "region_231",
+        "lon": -78.87313216924667,
+        "lat": 42.88846797578509,
+        "address": "5 East Huron Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1772",
+        "name": "M&T Plaza",
+        "region_id": "region_231",
+        "lon": -78.87487828731537,
+        "lat": 42.88327569723957,
+        "address": "345 Main Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1773",
+        "name": "City Hall (Free)",
+        "region_id": "region_231",
+        "lon": -78.87916445732117,
+        "lat": 42.886207953674734,
+        "address": "Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1774",
+        "name": "Hertel and N Park",
+        "region_id": "region_231",
+        "lon": -78.85559186339378,
+        "lat": 42.94768049888128,
+        "address": "1417 Hertel Avenue, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1775",
+        "name": "Riverworks",
+        "region_id": "region_231",
+        "lon": -78.87215852737427,
+        "lat": 42.86919813954212,
+        "address": "339 Ganson Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1776",
+        "name": "NFTA Bus Station",
+        "region_id": "region_231",
+        "lon": -78.87241065502167,
+        "lat": 42.88373362572425,
+        "address": "181 Ellicott Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1780",
+        "name": "Lafayette and Grant",
+        "region_id": "region_231",
+        "lon": -78.88998985290527,
+        "lat": 42.92028422427558,
+        "address": "230 Lafayette Avenue, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1781",
+        "name": "Five Points - Utica and Rhode Island",
+        "region_id": "region_231",
+        "lon": -78.88597190380096,
+        "lat": 42.91129545088175,
+        "address": "524 West Utica Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1784",
+        "name": "West Side Community Services",
+        "region_id": "region_231",
+        "lon": -78.89187544584274,
+        "lat": 42.905969533967074,
+        "address": "161-179 Vermont Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1794",
+        "name": "Porter and Normal (Free)",
+        "region_id": "region_231",
+        "lon": -78.88469785451889,
+        "lat": 42.902515594961365,
+        "address": "52-66 Normal Avenue, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1817",
+        "name": "Connecticut and Normal",
+        "region_id": "region_231",
+        "lon": -78.88825178146362,
+        "lat": 42.90573967016843,
+        "address": "340 Connecticut Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1838",
+        "name": "Creekside",
+        "region_id": "region_257",
+        "lon": -78.79056841135025,
+        "lat": 43.01110599158605,
+        "address": "495 Skinnersville Road, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1880",
+        "name": "Hertel - Winston to Shoshone",
+        "region_id": "region_231",
+        "lon": -78.83901849389076,
+        "lat": 42.94754797510709,
+        "address": "1859 Hertel Avenue, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1901",
+        "name": "Larkinville",
+        "region_id": "region_231",
+        "lon": -78.85012149810791,
+        "lat": 42.87688399583103,
+        "address": "694 Swan Street, Buffalo, NY",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1968",
+        "name": "Hertel - Parkside to Starin",
+        "region_id": "region_231",
+        "lon": -78.84956359863281,
+        "lat": 42.94794947218281,
+        "address": "651-661 Parkside Avenue, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2339",
+        "name": "Delaware Park",
+        "region_id": "region_231",
+        "lon": -78.85886281728745,
+        "lat": 42.940181290411175,
+        "address": "1215 Amherst Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2493",
+        "name": "Turner Lofts",
+        "region_id": "region_231",
+        "lon": -78.8834935426712,
+        "lat": 42.89227862741374,
+        "address": "285 Niagara Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3334",
+        "name": "Crofts Hall",
+        "region_id": "region_257",
+        "lon": -78.79492163658142,
+        "lat": 42.99502548592628,
+        "address": "Sprague Road, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3359",
+        "name": "Buffalo State #2",
+        "region_id": "region_231",
+        "lon": -78.88115465641022,
+        "lat": 42.93380812930303,
+        "address": "Cleveland Circle, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3360",
+        "name": "Canisius 2",
+        "region_id": "region_231",
+        "lon": -78.85215997695923,
+        "lat": 42.92495537389329,
+        "address": "2001 Main Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4044",
+        "name": "D'youville College",
+        "region_id": "region_231",
+        "lon": -78.89011323451996,
+        "lat": 42.90210716993107,
+        "address": "327 Porter Avenue, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4082",
+        "name": "BNMC 1",
+        "region_id": "region_231",
+        "lon": -78.86789917945862,
+        "lat": 42.89707323395942,
+        "address": "567-603 North Oak Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4083",
+        "name": "BNMC 2",
+        "region_id": "region_231",
+        "lon": -78.86980354785919,
+        "lat": 42.89915209116616,
+        "address": "911-917 Main Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4105",
+        "name": "LaSalle Station",
+        "region_id": "region_231",
+        "lon": -78.82992446422577,
+        "lat": 42.947961252008554,
+        "address": "3030 Main Street, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4335",
+        "name": "Fillmore & Glenwood",
+        "region_id": "region_231",
+        "lon": -78.83852362632751,
+        "lat": 42.912511693271036,
+        "address": "712 Glenwood Avenue, Buffalo",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      }
+    ]
+  },
+  "system_id": "reddy_bikeshare"
+}

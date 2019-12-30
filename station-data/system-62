@@ -1,0 +1,345 @@
+{
+  "last_updated": 1530239657,
+  "ttl": 180,
+  "data": {
+    "stations": [
+      {
+        "station_id": "hub_449",
+        "name": "Newcomb",
+        "region_id": "region_100",
+        "lon": -78.5072994363201,
+        "lat": 38.0357625021372,
+        "address": "194 Newcomb Road South, Brown College at Monroe Hill, Charlottesville",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_457",
+        "name": "Monroe",
+        "region_id": "region_100",
+        "lon": -78.5062674316095,
+        "lat": 38.0344845637197,
+        "address": "James Monroe Hall, McCormick Road, Carr's Hill, Virginia",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_458",
+        "name": "Arts",
+        "region_id": "region_100",
+        "lon": -78.5030481832028,
+        "lat": 38.0390685493136,
+        "address": "Fiske Kimball Fine Arts Library, Bayly Drive, Carr's Hill, Virginia",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_459",
+        "name": "The Corner",
+        "region_id": "region_100",
+        "lon": -78.5006812398122,
+        "lat": 38.0343730752369,
+        "address": "USPS, Hospital Drive, Carr's Hill, Virginia",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_460",
+        "name": "West Main",
+        "region_id": "region_100",
+        "lon": -78.4962426976086,
+        "lat": 38.0329898598805,
+        "address": "Bikeshare, West Main Street, Vinegar Hill, Charlottesville, Virginia",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_461",
+        "name": "JPA ",
+        "region_id": "region_100",
+        "lon": -78.5003006307518,
+        "lat": 38.0325450673676,
+        "address": "1340 Jefferson Park Avenue, University of Virginia, Charlottesville",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_463",
+        "name": "McLeod",
+        "region_id": "region_100",
+        "lon": -78.5018033762398,
+        "lat": 38.0312797969963,
+        "address": "204-208 Jeanette Lancaster Way, University of Virginia, Charlottesville",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_465",
+        "name": "Bryan",
+        "region_id": "region_100",
+        "lon": -78.5059109153744,
+        "lat": 38.0331279040488,
+        "address": "John Stewart Bryan Hall, Cabell Drive, McCormick Road Houses, Virginia",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_466",
+        "name": "Minor",
+        "region_id": "region_100",
+        "lon": -78.5063430062728,
+        "lat": 38.0336914824361,
+        "address": "Bike Rack, Cabell Drive, McCormick Road Houses, Virginia",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_467",
+        "name": "Clark",
+        "region_id": "region_100",
+        "lon": -78.5073372056738,
+        "lat": 38.0337250457061,
+        "address": "UTS Stop, McCormick Road, Carr's Hill, Virginia",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_468",
+        "name": "Thornton",
+        "region_id": "region_100",
+        "lon": -78.5101723632609,
+        "lat": 38.0336525753229,
+        "address": "Engineer's Way, University of Virginia, Charlottesville",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_469",
+        "name": "Chemistry",
+        "region_id": "region_100",
+        "lon": -78.5111688995779,
+        "lat": 38.0339228109175,
+        "address": "401-405 McCormick Road, University of Virginia, Charlottesville",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_470",
+        "name": "Gilmer",
+        "region_id": "region_100",
+        "lon": -78.5118500230525,
+        "lat": 38.0341726553335,
+        "address": "UTS 11782 Bus Stop, McCormick Road, McCormick Road Houses, Virginia",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_471",
+        "name": "AFC",
+        "region_id": "region_100",
+        "lon": -78.5138226483707,
+        "lat": 38.03360307538,
+        "address": "Aquatic and Fitness Center Parking, Alderman Road, Alderman Road Houses, Virginia",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_472",
+        "name": "Lile-Maupin",
+        "region_id": "region_100",
+        "lon": -78.5158403996008,
+        "lat": 38.0350180746407,
+        "address": "439-443 McCormick Road, University of Virginia, Charlottesville",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_473",
+        "name": "O-Hill",
+        "region_id": "region_100",
+        "lon": -78.5142564060344,
+        "lat": 38.034977160872,
+        "address": "Student Garden, Edgemont Road, Alderman Road Houses, Virginia",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_474",
+        "name": "Alderman",
+        "region_id": "region_100",
+        "lon": -78.5050072195486,
+        "lat": 38.036125337747,
+        "address": "120-132 McCormick Road, University of Virginia, Charlottesville",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_970",
+        "name": "Preston",
+        "region_id": "region_163",
+        "lon": -78.48788112401962,
+        "lat": 38.03545941377432,
+        "address": "West Street, Vinegar Hill, Charlottesville, Virginia",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1409",
+        "name": "North Grounds Rec",
+        "region_id": "region_226",
+        "lon": -78.51277470588684,
+        "lat": 38.0513184726643,
+        "address": "Duffy Boulevard, University of Virginia, Charlottesville",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1410",
+        "name": "i.Lab",
+        "region_id": "region_226",
+        "lon": -78.51123344153166,
+        "lat": 38.05258705955715,
+        "address": "600-698 Nash Drive, Charlottesville",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2660",
+        "name": "FM",
+        "region_id": "region_100",
+        "lon": -78.51627834141254,
+        "lat": 38.035897015180495,
+        "address": "Leake Drive, Charlottesville",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      }
+    ]
+  },
+  "system_id": "university_of_virginia"
+}

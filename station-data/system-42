@@ -1,0 +1,16 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -84.43922,
+        "lat": 42.20805,
+        "address": "3541 Weatherwax Drive",
+        "name": "Wetherwax Drive Falling Waters Trail Head",
+        "station_id": "bcycle_jacksoncounty_3659"
+      }
+    ]
+  },
+  "last_updated": 1530239593,
+  "system_id": "bcycle_jacksoncounty"
+}

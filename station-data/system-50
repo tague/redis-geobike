@@ -1,0 +1,841 @@
+{
+  "last_updated": 1530239644,
+  "ttl": 180,
+  "data": {
+    "stations": [
+      {
+        "station_id": "hub_165",
+        "name": "Park and Ride River St and Bullion",
+        "region_id": "region_48",
+        "lon": -114.317415758737,
+        "lat": 43.5194695168239,
+        "address": "110 North River Street, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_166",
+        "name": "Community Campus",
+        "region_id": "region_48",
+        "lon": -114.294452279422,
+        "lat": 43.5156576582103,
+        "address": "Community Campus, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_168",
+        "name": "Balmoral",
+        "region_id": "region_48",
+        "lon": -114.28971898295,
+        "lat": 43.5032888271893,
+        "address": "848-880 Shenandoah Drive, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_169",
+        "name": "North Hailey McKercher and Main",
+        "region_id": "region_48",
+        "lon": -114.321671159073,
+        "lat": 43.5281380338408,
+        "address": "Main Street North, Barite, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_208",
+        "name": "County Building/Hope Garden",
+        "region_id": "region_48",
+        "lon": -114.312905873348,
+        "lat": 43.5187554052642,
+        "address": "219 South 1st Avenue, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_210",
+        "name": "Hailey Library Main and Croy",
+        "region_id": "region_48",
+        "lon": -114.31487917900085,
+        "lat": 43.51866469157406,
+        "address": "Croy Street, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_211",
+        "name": "Marketron",
+        "region_id": "region_48",
+        "lon": -114.322739508857,
+        "lat": 43.526396241112,
+        "address": "515 North River Street, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_212",
+        "name": "Mercantile Building",
+        "region_id": "region_48",
+        "lon": -114.314243550742,
+        "lat": 43.5204688588318,
+        "address": "101-153 Bullion Street, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_220",
+        "name": "Hailey Chamber/Visitor Center",
+        "region_id": "region_48",
+        "lon": -114.307483270033,
+        "lat": 43.5130764506378,
+        "address": "Highway 75, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_719",
+        "name": "Wood River YMCA",
+        "region_id": "region_157",
+        "lon": -114.371608879544,
+        "lat": 43.6871907247106,
+        "address": "100-108 Saddle Road, Ketchum",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_720",
+        "name": "Despo's 4th and Washington",
+        "region_id": "region_157",
+        "lon": -114.365833367532,
+        "lat": 43.6808075459127,
+        "address": "440 Washington Avenue, Ketchum",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_721",
+        "name": "Ketchum Visitor Center/Starbucks",
+        "region_id": "region_157",
+        "lon": -114.363111315247,
+        "lat": 43.6818849656263,
+        "address": "480 4th Avenue North, Ketchum",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_734",
+        "name": "mountain rides office",
+        "region_id": "region_157",
+        "lon": -114.369629215401,
+        "lat": 43.682116231682,
+        "address": "8th Street West, Ketchum",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_826",
+        "name": "Main Street and Carbonate",
+        "region_id": "region_48",
+        "lon": -114.315962842828,
+        "lat": 43.5203341741918,
+        "address": "151-171 North Main Street, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_827",
+        "name": "powerhouse",
+        "region_id": "region_48",
+        "lon": -114.31840005521,
+        "lat": 43.5240735110146,
+        "address": "418-498 North Main Street, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_838",
+        "name": "WrapCity 1st and Main",
+        "region_id": "region_157",
+        "lon": -114.362512263411,
+        "lat": 43.6795574615611,
+        "address": "180 1st Street East, Ketchum",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_839",
+        "name": "Atkinsons Park",
+        "region_id": "region_157",
+        "lon": -114.372536879781,
+        "lat": 43.682681184202,
+        "address": "Hideaway Lane, Ketchum",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_841",
+        "name": "community school",
+        "region_id": "region_157",
+        "lon": -114.352598985813,
+        "lat": 43.6891444485061,
+        "address": "The Community School, Community School Road, Sun Valley, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_842",
+        "name": "warm springs lodge",
+        "region_id": "region_157",
+        "lon": -114.401455858255,
+        "lat": 43.68407625091,
+        "address": "Challenger, I-80, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_843",
+        "name": "Forest Service park",
+        "region_id": "region_157",
+        "lon": -114.363504008108,
+        "lat": 43.6785207598704,
+        "address": "Washington Avenue, Ketchum, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_844",
+        "name": "4th and East Ave",
+        "region_id": "region_157",
+        "lon": -114.3638214468956,
+        "lat": 43.68304777866441,
+        "address": "5th Street East, Sun Valley",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_845",
+        "name": "Perry's Restaurant",
+        "region_id": "region_157",
+        "lon": -114.366495735651,
+        "lat": 43.6795645924939,
+        "address": "1st Avenue, Ketchum, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_847",
+        "name": "river run",
+        "region_id": "region_157",
+        "lon": -114.366796016693,
+        "lat": 43.6707527140358,
+        "address": "River Run Plaza, 3rd Avenue, Elkhorn Village, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_848",
+        "name": "divine wine bar",
+        "region_id": "region_48",
+        "lon": -114.31278705596922,
+        "lat": 43.5167507771672,
+        "address": "Pine Street, Hailey, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_855",
+        "name": "zenergy",
+        "region_id": "region_157",
+        "lon": -114.367606258646,
+        "lat": 43.6928968998074,
+        "address": "Saddle Road, Ketchum, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_859",
+        "name": "St Thomas Church",
+        "region_id": "region_157",
+        "lon": -114.360563411998,
+        "lat": 43.6834254745656,
+        "address": "416-488 Sun Valley Trail, Sun Valley",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_860",
+        "name": "2nd and east ave",
+        "region_id": "region_157",
+        "lon": -114.361936390345,
+        "lat": 43.6812304241209,
+        "address": "East Avenue, Ketchum, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_861",
+        "name": "big wood bread bakery light industrial",
+        "region_id": "region_157",
+        "lon": -114.369411717422,
+        "lat": 43.6910808019729,
+        "address": "151-251 Northwood Way, Sun Valley",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_895",
+        "name": "Fox Acres bus stop",
+        "region_id": "region_48",
+        "lon": -114.30113554000854,
+        "lat": 43.5140898565722,
+        "address": "630 Fox Acres Road, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_896",
+        "name": "community library",
+        "region_id": "region_157",
+        "lon": -114.36195731163025,
+        "lat": 43.68439973263059,
+        "address": "651 5th Street East, Sun Valley",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_897",
+        "name": "Thundersprings",
+        "region_id": "region_157",
+        "lon": -114.36460733413696,
+        "lat": 43.69322062853958,
+        "address": "169-177 Valleywood Drive, Sun Valley",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_898",
+        "name": "White cloud trail",
+        "region_id": "region_157",
+        "lon": -114.35992956161499,
+        "lat": 43.6931275387073,
+        "address": "101-111 Saddle Lane, Sun Valley",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_899",
+        "name": "sun valley PO",
+        "region_id": "region_157",
+        "lon": -114.35624957084656,
+        "lat": 43.6941437533421,
+        "address": "1 Sun Valley Road, Sun Valley",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_900",
+        "name": "Sun Valley City Hall",
+        "region_id": "region_157",
+        "lon": -114.34905052185059,
+        "lat": 43.69104073287274,
+        "address": "24 Dollar Road, Sun Valley",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_918",
+        "name": "Sun Valley Village",
+        "region_id": "region_157",
+        "lon": -114.35253739356995,
+        "lat": 43.69803394302045,
+        "address": "Hospital Road, Sun Valley",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_919",
+        "name": "Sun Valley area",
+        "region_id": "region_157",
+        "lon": -114.35420036315917,
+        "lat": 43.69600549751876,
+        "address": "Boardwalk Mall, Sun Valley",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_949",
+        "name": "Elkhorn",
+        "region_id": "region_157",
+        "lon": -114.33400869369507,
+        "lat": 43.68533069612819,
+        "address": "89 Elkhorn Road, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_950",
+        "name": "Elkhorn village ",
+        "region_id": "region_157",
+        "lon": -114.33161616325378,
+        "lat": 43.67994604402438,
+        "address": "59 Bonne Vie Condo Road, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_962",
+        "name": "River Street south",
+        "region_id": "region_48",
+        "lon": -114.31488990783691,
+        "lat": 43.51679745361206,
+        "address": "301-307 South River Street, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_963",
+        "name": "keefer park",
+        "region_id": "region_48",
+        "lon": -114.28492426872253,
+        "lat": 43.5030637348435,
+        "address": "Edge Wood Lane, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_964",
+        "name": "airport",
+        "region_id": "region_48",
+        "lon": -114.30062055587769,
+        "lat": 43.50605974382209,
+        "address": "1616 Airport Way, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_965",
+        "name": "heagle park",
+        "region_id": "region_48",
+        "lon": -114.31171417236328,
+        "lat": 43.507522672912955,
+        "address": "330 War Eagle Drive, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_966",
+        "name": "hop porter park",
+        "region_id": "region_48",
+        "lon": -114.31946039199829,
+        "lat": 43.51826012661435,
+        "address": "126-312 Bullion Street, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_967",
+        "name": "harker center",
+        "region_id": "region_157",
+        "lon": -114.31204676628113,
+        "lat": 43.6753059330774,
+        "address": "712 Morning Star Road, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_980",
+        "name": "4th st and walnut",
+        "region_id": "region_157",
+        "lon": -114.362091422081,
+        "lat": 43.682991527198936,
+        "address": "303 Walnut Avenue, Ketchum",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1485",
+        "name": "River and 2nd",
+        "region_id": "region_157",
+        "lon": -114.36463683843613,
+        "lat": 43.67709067379101,
+        "address": "200 River Street West, Ketchum",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1708",
+        "name": "Warm Springs",
+        "region_id": "region_157",
+        "lon": -114.36742901802063,
+        "lat": 43.683148642889904,
+        "address": "711 Warm Springs Road, Ketchum",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1824",
+        "name": "St Luke's Clinic aiport way",
+        "region_id": "region_48",
+        "lon": -114.30375337600708,
+        "lat": 43.507195853275654,
+        "address": "1451 Aviation Drive, Hailey",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2054",
+        "name": "6th and 2nd west Ketchum",
+        "region_id": "region_157",
+        "lon": -114.36885058879852,
+        "lat": 43.6808132071708,
+        "address": "171 6th Street West, Ketchum",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2929",
+        "name": "St. Lukes",
+        "region_id": "region_157",
+        "lon": -114.34922218322754,
+        "lat": 43.64919785976534,
+        "address": "100 Hospital Drive, Ketchum",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3086",
+        "name": "Bellevue Mt Rides ",
+        "region_id": "region_48",
+        "lon": -114.2537248134613,
+        "lat": 43.45298197839979,
+        "address": "2-4 Gannett Road, Bellevue",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4356",
+        "name": "Ketchum Post Office",
+        "region_id": "region_157",
+        "lon": -114.36826050281525,
+        "lat": 43.67973701330935,
+        "address": "540 2nd Avenue, Ketchum",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      }
+    ]
+  },
+  "system_id": "mountain_rides_bike_share"
+}

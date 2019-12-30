@@ -1,0 +1,79 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -82.39797,
+        "lat": 34.85399,
+        "address": "11 College St.",
+        "name": "College & Main",
+        "station_id": "bcycle_greenville_2186"
+      },
+      {
+        "lon": -82.40027,
+        "lat": 34.84841,
+        "address": "206 S. Main St.",
+        "name": "City Hall",
+        "station_id": "bcycle_greenville_2189"
+      },
+      {
+        "lon": -82.40107,
+        "lat": 34.85028,
+        "address": "100 W. McBee Ave.",
+        "name": "Transit Center",
+        "station_id": "bcycle_greenville_2191"
+      },
+      {
+        "lon": -82.40368,
+        "lat": 34.84133,
+        "address": "301 University Ridge",
+        "name": "County Square",
+        "station_id": "bcycle_greenville_2192"
+      },
+      {
+        "lon": -82.4021,
+        "lat": 34.85677,
+        "address": "25 Heritage Green Pl",
+        "name": "Hughes Main Library",
+        "station_id": "bcycle_greenville_2720"
+      },
+      {
+        "lon": -82.38581,
+        "lat": 34.84717,
+        "address": "150 Cleveland Park Dr",
+        "name": "Greenville Zoo",
+        "station_id": "bcycle_greenville_2722"
+      },
+      {
+        "lon": -82.38589,
+        "lat": 34.83585,
+        "address": "721 Cleveland St",
+        "name": "Caine Halter YMCA",
+        "station_id": "bcycle_greenville_2949"
+      },
+      {
+        "lon": -82.40897,
+        "lat": 34.8429,
+        "address": "945 South Main Street",
+        "name": "Fluor Field",
+        "station_id": "bcycle_greenville_3036"
+      },
+      {
+        "lon": -82.39883,
+        "lat": 34.84043,
+        "address": "411 University Ridge",
+        "name": "NEXT Innovation Center",
+        "station_id": "bcycle_greenville_3528"
+      },
+      {
+        "lon": -82.40491,
+        "lat": 34.84511,
+        "address": "25 River Street",
+        "name": "Link West End",
+        "station_id": "bcycle_greenville_3693"
+      }
+    ]
+  },
+  "last_updated": 1530239586,
+  "system_id": "bcycle_greenville"
+}

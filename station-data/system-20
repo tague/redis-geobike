@@ -1,0 +1,44 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -87.36784,
+        "lat": 36.53553,
+        "address": "640 N Riverside Dr ",
+        "name": "Cumberland Riverwalk",
+        "station_id": "bcycle_clarksville_3367"
+      },
+      {
+        "lon": -87.37582,
+        "lat": 36.50394,
+        "address": "1451 Zinc Plant Rd ",
+        "name": "Liberty Park",
+        "station_id": "bcycle_clarksville_3368"
+      },
+      {
+        "lon": 0,
+        "lat": 0,
+        "address": "102 Public Square",
+        "name": "Virtual kiosk",
+        "station_id": "bcycle_clarksville_3626"
+      },
+      {
+        "lon": -87.35426,
+        "lat": 36.57139,
+        "address": "1011 Pollard Rd",
+        "name": "Pollard Trailhead (Greenway)",
+        "station_id": "bcycle_clarksville_3657"
+      },
+      {
+        "lon": -87.36143,
+        "lat": 36.52714,
+        "address": "1 Public Square",
+        "name": "Public Square + Franklin",
+        "station_id": "bcycle_clarksville_3658"
+      }
+    ]
+  },
+  "last_updated": 1530239570,
+  "system_id": "bcycle_clarksville"
+}

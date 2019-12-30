@@ -1,0 +1,5725 @@
+{
+  "last_updated": 1530239553,
+  "ttl": 8,
+  "data": {
+    "stations": [
+      {
+        "station_id": "2",
+        "name": "Buckingham Fountain",
+        "lat": 41.876393,
+        "lon": -87.620328,
+        "address": "Buckingham Fountain",
+        "cross_street": "Buckingham Fountain",
+        "post_code": "60605",
+        "capacity": 39
+      },
+      {
+        "station_id": "3",
+        "name": "Shedd Aquarium",
+        "lat": 41.86722595682,
+        "lon": -87.6153553902,
+        "address": "Shedd Aquarium",
+        "cross_street": "Shedd Aquarium",
+        "capacity": 55
+      },
+      {
+        "station_id": "4",
+        "name": "Burnham Harbor",
+        "lat": 41.856268,
+        "lon": -87.613348,
+        "address": "Burnham Harbor",
+        "cross_street": "Burnham Harbor",
+        "capacity": 23
+      },
+      {
+        "station_id": "5",
+        "name": "State St & Harrison St",
+        "lat": 41.874053,
+        "lon": -87.627716,
+        "address": "State St & Harrison St",
+        "cross_street": "State St & Harrison St",
+        "post_code": "60605",
+        "capacity": 23
+      },
+      {
+        "station_id": "6",
+        "name": "Dusable Harbor",
+        "lat": 41.886976,
+        "lon": -87.612813,
+        "address": "Dusable Harbor",
+        "cross_street": "Dusable Harbor",
+        "post_code": "60601",
+        "capacity": 39
+      },
+      {
+        "station_id": "7",
+        "name": "Field Blvd & South Water St",
+        "lat": 41.88634906269,
+        "lon": -87.6175165471,
+        "address": "Field Blvd & South Water St",
+        "cross_street": "Field Blvd & South Water St",
+        "post_code": "60601",
+        "capacity": 19
+      },
+      {
+        "station_id": "9",
+        "name": "Leavitt St & Archer Ave",
+        "lat": 41.82879201994,
+        "lon": -87.6806044594,
+        "address": "Leavitt St & Archer Ave",
+        "cross_street": "Leavitt St & Archer Ave",
+        "post_code": "60609",
+        "capacity": 19
+      },
+      {
+        "station_id": "11",
+        "name": "Jeffery Blvd & 71st St",
+        "lat": 41.76663823695,
+        "lon": -87.5764501141,
+        "address": "Jeffery Blvd & 71st St",
+        "cross_street": "Jeffery Blvd & 71st St",
+        "post_code": "60649",
+        "capacity": 11
+      },
+      {
+        "station_id": "12",
+        "name": "South Shore Dr & 71st St",
+        "lat": 41.7664094567,
+        "lon": -87.5656875719,
+        "address": "South Shore Dr & 71st St",
+        "cross_street": "South Shore Dr & 71st St",
+        "post_code": "60649",
+        "capacity": 15
+      },
+      {
+        "station_id": "13",
+        "name": "Wilton Ave & Diversey Pkwy",
+        "lat": 41.932418,
+        "lon": -87.652705,
+        "address": "Wilton Ave & Diversey Pkwy",
+        "cross_street": "Wilton Ave & Diversey Pkwy",
+        "post_code": "60614",
+        "capacity": 35
+      },
+      {
+        "station_id": "14",
+        "name": "Morgan St & 18th St",
+        "lat": 41.858086,
+        "lon": -87.651073,
+        "address": "Morgan St & 18th St",
+        "cross_street": "Morgan St & 18th St",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "15",
+        "name": "Racine Ave & 18th St",
+        "lat": 41.858166,
+        "lon": -87.656495,
+        "address": "Racine Ave & 18th St",
+        "cross_street": "Racine Ave & 18th St",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "16",
+        "name": "Paulina Ave & North Ave",
+        "lat": 41.910337,
+        "lon": -87.670072,
+        "address": "Paulina Ave & North Ave",
+        "cross_street": "Paulina Ave & North Ave",
+        "post_code": "60622",
+        "capacity": 15
+      },
+      {
+        "station_id": "17",
+        "name": "Honore St & Division St",
+        "lat": 41.903119,
+        "lon": -87.673935,
+        "address": "Honore St & Division St",
+        "cross_street": "Honore St & Division St",
+        "post_code": "60622",
+        "capacity": 23
+      },
+      {
+        "station_id": "18",
+        "name": "Wacker Dr & Washington St",
+        "lat": 41.883132,
+        "lon": -87.637321,
+        "address": "Wacker Dr & Washington St",
+        "cross_street": "Wacker Dr & Washington St",
+        "post_code": "60606",
+        "capacity": 19
+      },
+      {
+        "station_id": "19",
+        "name": "Loomis St & Taylor St (*)",
+        "lat": 41.869417,
+        "lon": -87.660996,
+        "address": "Loomis St & Taylor St (*)",
+        "cross_street": "Loomis St & Taylor St (*)",
+        "post_code": "60607",
+        "capacity": 16
+      },
+      {
+        "station_id": "20",
+        "name": "Sheffield Ave & Kingsbury St",
+        "lat": 41.910522,
+        "lon": -87.653106,
+        "address": "Sheffield Ave & Kingsbury St",
+        "cross_street": "Sheffield Ave & Kingsbury St",
+        "post_code": "60642",
+        "capacity": 15
+      },
+      {
+        "station_id": "21",
+        "name": "Aberdeen St & Jackson Blvd",
+        "lat": 41.87772613,
+        "lon": -87.65478743,
+        "address": "Aberdeen St & Jackson Blvd",
+        "cross_street": "Aberdeen St & Jackson Blvd",
+        "post_code": "60607",
+        "capacity": 23
+      },
+      {
+        "station_id": "22",
+        "name": "May St & Taylor St",
+        "lat": 41.8694821,
+        "lon": -87.6554864,
+        "address": "May St & Taylor St",
+        "cross_street": "May St & Taylor St",
+        "post_code": "60607",
+        "capacity": 15
+      },
+      {
+        "station_id": "23",
+        "name": "Orleans St & Elm St (*)",
+        "lat": 41.902924,
+        "lon": -87.637715,
+        "address": "Orleans St & Elm St (*)",
+        "cross_street": "Orleans St & Elm St (*)",
+        "post_code": "60610",
+        "capacity": 16
+      },
+      {
+        "station_id": "24",
+        "name": "Fairbanks Ct & Grand Ave",
+        "lat": 41.89186,
+        "lon": -87.62062,
+        "address": "Fairbanks Ct & Grand Ave",
+        "cross_street": "Fairbanks Ct & Grand Ave",
+        "post_code": "60611",
+        "capacity": 15
+      },
+      {
+        "station_id": "25",
+        "name": "Michigan Ave & Pearson St",
+        "lat": 41.89766,
+        "lon": -87.62351,
+        "address": "Michigan Ave & Pearson St",
+        "cross_street": "Michigan Ave & Pearson St",
+        "post_code": "60611",
+        "capacity": 23
+      },
+      {
+        "station_id": "26",
+        "name": "McClurg Ct & Illinois St",
+        "lat": 41.890359,
+        "lon": -87.617532,
+        "address": "McClurg Ct & Illinois St",
+        "cross_street": "McClurg Ct & Illinois St",
+        "post_code": "60611",
+        "capacity": 31
+      },
+      {
+        "station_id": "27",
+        "name": "Larrabee St & North Ave",
+        "lat": 41.91021,
+        "lon": -87.6435,
+        "address": "Larrabee St & North Ave",
+        "cross_street": "Larrabee St & North Ave",
+        "post_code": "60610",
+        "capacity": 19
+      },
+      {
+        "station_id": "28",
+        "name": "Larrabee St & Menomonee St",
+        "lat": 41.91468,
+        "lon": -87.64332,
+        "address": "Larrabee St & Menomonee St",
+        "cross_street": "Larrabee St & Menomonee St",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "29",
+        "name": "Noble St & Milwaukee Ave",
+        "lat": 41.90068,
+        "lon": -87.6626,
+        "address": "Noble St & Milwaukee Ave",
+        "cross_street": "Noble St & Milwaukee Ave",
+        "post_code": "60642",
+        "capacity": 15
+      },
+      {
+        "station_id": "30",
+        "name": "Ashland Ave & Augusta Blvd",
+        "lat": 41.899643,
+        "lon": -87.6677,
+        "address": "Ashland Ave & Augusta Blvd",
+        "cross_street": "Ashland Ave & Augusta Blvd",
+        "post_code": "60642",
+        "capacity": 15
+      },
+      {
+        "station_id": "31",
+        "name": "Franklin St & Chicago Ave",
+        "lat": 41.896776,
+        "lon": -87.635633,
+        "address": "Franklin St & Chicago Ave",
+        "cross_street": "Franklin St & Chicago Ave",
+        "post_code": "60654",
+        "capacity": 23
+      },
+      {
+        "station_id": "32",
+        "name": "Racine Ave & Congress Pkwy",
+        "lat": 41.87464,
+        "lon": -87.65703,
+        "address": "Racine Ave & Congress Pkwy",
+        "cross_street": "Racine Ave & Congress Pkwy",
+        "post_code": "60607",
+        "capacity": 19
+      },
+      {
+        "station_id": "33",
+        "name": "State St & Van Buren St",
+        "lat": 41.877181,
+        "lon": -87.627844,
+        "address": "State St & Van Buren St",
+        "cross_street": "State St & Van Buren St",
+        "post_code": "60604",
+        "capacity": 27
+      },
+      {
+        "station_id": "34",
+        "name": "Cannon Dr & Fullerton Ave",
+        "lat": 41.9267559875,
+        "lon": -87.6344287848,
+        "address": "Cannon Dr & Fullerton Ave",
+        "cross_street": "Cannon Dr & Fullerton Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "35",
+        "name": "Streeter Dr & Grand Ave",
+        "lat": 41.892278,
+        "lon": -87.612043,
+        "address": "Streeter Dr & Grand Ave",
+        "cross_street": "Streeter Dr & Grand Ave",
+        "post_code": "60611",
+        "capacity": 47
+      },
+      {
+        "station_id": "36",
+        "name": "Franklin St & Jackson Blvd",
+        "lat": 41.8777079559,
+        "lon": -87.6353211408,
+        "address": "Franklin St & Jackson Blvd",
+        "cross_street": "Franklin St & Jackson Blvd",
+        "post_code": "60606",
+        "capacity": 39
+      },
+      {
+        "station_id": "37",
+        "name": "Dearborn St & Adams St",
+        "lat": 41.8793563587,
+        "lon": -87.6297910363,
+        "address": "Dearborn St & Adams St",
+        "cross_street": "Dearborn St & Adams St",
+        "post_code": "60603",
+        "capacity": 19
+      },
+      {
+        "station_id": "38",
+        "name": "Clark St & Lake St",
+        "lat": 41.88602082773,
+        "lon": -87.6308760584,
+        "address": "Clark St & Lake St",
+        "cross_street": "Clark St & Lake St",
+        "post_code": "60601",
+        "capacity": 27
+      },
+      {
+        "station_id": "39",
+        "name": "Wabash Ave & Adams St",
+        "lat": 41.87947235235,
+        "lon": -87.6256886059,
+        "address": "Wabash Ave & Adams St",
+        "cross_street": "Wabash Ave & Adams St",
+        "post_code": "60603",
+        "capacity": 23
+      },
+      {
+        "station_id": "40",
+        "name": "LaSalle St & Adams St",
+        "lat": 41.87934437346,
+        "lon": -87.6319852213,
+        "address": "LaSalle St & Adams St",
+        "cross_street": "LaSalle St & Adams St",
+        "post_code": "60603",
+        "capacity": 15
+      },
+      {
+        "station_id": "41",
+        "name": "Federal St & Polk St",
+        "lat": 41.87207763285,
+        "lon": -87.6295437729,
+        "address": "Federal St & Polk St",
+        "cross_street": "Federal St & Polk St",
+        "post_code": "60605",
+        "capacity": 19
+      },
+      {
+        "station_id": "42",
+        "name": "Wabash Ave & Cermak Rd",
+        "lat": 41.852619,
+        "lon": -87.626488,
+        "address": "Wabash Ave & Cermak Rd",
+        "cross_street": "Wabash Ave & Cermak Rd",
+        "post_code": "60616",
+        "capacity": 11
+      },
+      {
+        "station_id": "43",
+        "name": "Michigan Ave & Washington St",
+        "lat": 41.8838927658,
+        "lon": -87.6246491409,
+        "address": "Michigan Ave & Washington St",
+        "cross_street": "Michigan Ave & Washington St",
+        "post_code": "60602",
+        "capacity": 43
+      },
+      {
+        "station_id": "44",
+        "name": "State St & Randolph St",
+        "lat": 41.8847302006,
+        "lon": -87.6277335692,
+        "address": "State St & Randolph St",
+        "cross_street": "State St & Randolph St",
+        "post_code": "60601",
+        "capacity": 27
+      },
+      {
+        "station_id": "45",
+        "name": "Michigan Ave & Congress Pkwy",
+        "lat": 41.876243,
+        "lon": -87.624426,
+        "address": "Michigan Ave & Congress Pkwy",
+        "cross_street": "Michigan Ave & Congress Pkwy",
+        "post_code": "60605",
+        "capacity": 15
+      },
+      {
+        "station_id": "46",
+        "name": "Wells St & Walton St",
+        "lat": 41.89993001,
+        "lon": -87.63443007,
+        "address": "Wells St & Walton St",
+        "cross_street": "Wells St & Walton St",
+        "post_code": "60610",
+        "capacity": 19
+      },
+      {
+        "station_id": "47",
+        "name": "State St & Kinzie St",
+        "lat": 41.889187,
+        "lon": -87.627754,
+        "address": "State St & Kinzie St",
+        "cross_street": "State St & Kinzie St",
+        "post_code": "60654",
+        "capacity": 31
+      },
+      {
+        "station_id": "48",
+        "name": "Larrabee St & Kingsbury St",
+        "lat": 41.897764,
+        "lon": -87.642884,
+        "address": "Larrabee St & Kingsbury St",
+        "cross_street": "Larrabee St & Kingsbury St",
+        "post_code": "60610",
+        "capacity": 43
+      },
+      {
+        "station_id": "49",
+        "name": "Dearborn St & Monroe St",
+        "lat": 41.881319815,
+        "lon": -87.6295209193,
+        "address": "Dearborn St & Monroe St",
+        "cross_street": "Dearborn St & Monroe St",
+        "post_code": "60603",
+        "capacity": 39
+      },
+      {
+        "station_id": "50",
+        "name": "Clark St & Congress Pkwy",
+        "lat": 41.8759326655,
+        "lon": -87.6305845355,
+        "address": "Clark St & Congress Pkwy",
+        "cross_street": "Clark St & Congress Pkwy",
+        "post_code": "60605",
+        "capacity": 35
+      },
+      {
+        "station_id": "51",
+        "name": "Clark St & Randolph St",
+        "lat": 41.884576228,
+        "lon": -87.63188991,
+        "address": "Clark St & Randolph St",
+        "cross_street": "Clark St & Randolph St",
+        "post_code": "60601",
+        "capacity": 39
+      },
+      {
+        "station_id": "52",
+        "name": "Michigan Ave & Lake St",
+        "lat": 41.886024,
+        "lon": -87.624117,
+        "address": "Michigan Ave & Lake St",
+        "cross_street": "Michigan Ave & Lake St",
+        "post_code": "60601",
+        "capacity": 35
+      },
+      {
+        "station_id": "53",
+        "name": "Wells St & Huron St",
+        "lat": 41.894722,
+        "lon": -87.634362,
+        "address": "Wells St & Huron St",
+        "cross_street": "Wells St & Huron St",
+        "post_code": "60654",
+        "capacity": 27
+      },
+      {
+        "station_id": "54",
+        "name": "Ogden Ave & Chicago Ave",
+        "lat": 41.896362458,
+        "lon": -87.6540612729,
+        "address": "Ogden Ave & Chicago Ave",
+        "cross_street": "Ogden Ave & Chicago Ave",
+        "post_code": "60642",
+        "capacity": 19
+      },
+      {
+        "station_id": "55",
+        "name": "Halsted St & Roosevelt Rd",
+        "lat": 41.867324,
+        "lon": -87.648625,
+        "address": "Halsted St & Roosevelt Rd",
+        "cross_street": "Halsted St & Roosevelt Rd",
+        "post_code": "60608",
+        "capacity": 23
+      },
+      {
+        "station_id": "56",
+        "name": "Desplaines St & Kinzie St",
+        "lat": 41.888716036,
+        "lon": -87.6444478533,
+        "address": "Desplaines St & Kinzie St",
+        "cross_street": "Desplaines St & Kinzie St",
+        "post_code": "60661",
+        "capacity": 27
+      },
+      {
+        "station_id": "57",
+        "name": "Clinton St & Roosevelt Rd",
+        "lat": 41.8671177825,
+        "lon": -87.6410879593,
+        "address": "Clinton St & Roosevelt Rd",
+        "cross_street": "Clinton St & Roosevelt Rd",
+        "post_code": "60607",
+        "capacity": 15
+      },
+      {
+        "station_id": "58",
+        "name": "Marshfield Ave & Cortland St",
+        "lat": 41.916017,
+        "lon": -87.668879,
+        "address": "Marshfield Ave & Cortland St",
+        "cross_street": "Marshfield Ave & Cortland St",
+        "post_code": "60622",
+        "capacity": 23
+      },
+      {
+        "station_id": "59",
+        "name": "Wabash Ave & Roosevelt Rd",
+        "lat": 41.867227,
+        "lon": -87.625961,
+        "address": "Wabash Ave & Roosevelt Rd",
+        "cross_street": "Wabash Ave & Roosevelt Rd",
+        "post_code": "60605",
+        "capacity": 23
+      },
+      {
+        "station_id": "60",
+        "name": "Dayton St & North Ave",
+        "lat": 41.9105780349,
+        "lon": -87.6494219288,
+        "address": "Dayton St & North Ave",
+        "cross_street": "Dayton St & North Ave",
+        "post_code": "60642",
+        "capacity": 19
+      },
+      {
+        "station_id": "61",
+        "name": "Wood St & Milwaukee Ave",
+        "lat": 41.907655,
+        "lon": -87.672552,
+        "address": "Wood St & Milwaukee Ave",
+        "cross_street": "Wood St & Milwaukee Ave",
+        "post_code": "60622",
+        "capacity": 19
+      },
+      {
+        "station_id": "62",
+        "name": "McCormick Place",
+        "lat": 41.8513751729,
+        "lon": -87.6188346489,
+        "address": "McCormick Place",
+        "cross_street": "McCormick Place",
+        "post_code": "60616",
+        "capacity": 27
+      },
+      {
+        "station_id": "66",
+        "name": "Clinton St & Lake St",
+        "lat": 41.885637,
+        "lon": -87.641823,
+        "address": "Clinton St & Lake St",
+        "cross_street": "Clinton St & Lake St",
+        "post_code": "60661",
+        "capacity": 23
+      },
+      {
+        "station_id": "67",
+        "name": "Sheffield Ave & Fullerton Ave",
+        "lat": 41.9256018819,
+        "lon": -87.6537080423,
+        "address": "Sheffield Ave & Fullerton Ave",
+        "cross_street": "Sheffield Ave & Fullerton Ave",
+        "post_code": "60614",
+        "capacity": 27
+      },
+      {
+        "station_id": "68",
+        "name": "Clinton St & Tilden St",
+        "lat": 41.875885,
+        "lon": -87.640795,
+        "address": "Clinton St & Tilden St",
+        "cross_street": "Clinton St & Tilden St",
+        "post_code": "60607",
+        "capacity": 23
+      },
+      {
+        "station_id": "69",
+        "name": "Damen Ave & Pierce Ave",
+        "lat": 41.9093960065,
+        "lon": -87.6776919292,
+        "address": "Damen Ave & Pierce Ave",
+        "cross_street": "Damen Ave & Pierce Ave",
+        "post_code": "60622",
+        "capacity": 19
+      },
+      {
+        "station_id": "71",
+        "name": "Morgan St & Lake St",
+        "lat": 41.8854833079,
+        "lon": -87.6523048564,
+        "address": "Morgan St & Lake St",
+        "cross_street": "Morgan St & Lake St",
+        "post_code": "60607",
+        "capacity": 23
+      },
+      {
+        "station_id": "72",
+        "name": "Wabash Ave & 16th St",
+        "lat": 41.860384,
+        "lon": -87.625813,
+        "address": "Wabash Ave & 16th St",
+        "cross_street": "Wabash Ave & 16th St",
+        "post_code": "60605",
+        "capacity": 39
+      },
+      {
+        "station_id": "73",
+        "name": "Jefferson St & Monroe St",
+        "lat": 41.880422,
+        "lon": -87.642746,
+        "address": "Jefferson St & Monroe St",
+        "cross_street": "Jefferson St & Monroe St",
+        "post_code": "60661",
+        "capacity": 19
+      },
+      {
+        "station_id": "74",
+        "name": "Kingsbury St & Erie St",
+        "lat": 41.893882,
+        "lon": -87.641711,
+        "address": "Kingsbury St & Erie St",
+        "cross_street": "Kingsbury St & Erie St",
+        "post_code": "60654",
+        "capacity": 23
+      },
+      {
+        "station_id": "75",
+        "name": "Canal St & Jackson Blvd",
+        "lat": 41.877245,
+        "lon": -87.639366,
+        "address": "Canal St & Jackson Blvd",
+        "cross_street": "Canal St & Jackson Blvd",
+        "post_code": "60661",
+        "capacity": 39
+      },
+      {
+        "station_id": "76",
+        "name": "Lake Shore Dr & Monroe St",
+        "lat": 41.880958,
+        "lon": -87.616743,
+        "address": "Lake Shore Dr & Monroe St",
+        "cross_street": "Lake Shore Dr & Monroe St",
+        "post_code": "60603",
+        "capacity": 39
+      },
+      {
+        "station_id": "77",
+        "name": "Clinton St & Madison St",
+        "lat": 41.882242,
+        "lon": -87.641066,
+        "address": "Clinton St & Madison St",
+        "cross_street": "Clinton St & Madison St",
+        "post_code": "60661",
+        "capacity": 31
+      },
+      {
+        "station_id": "80",
+        "name": "Aberdeen St & Monroe St",
+        "lat": 41.880419,
+        "lon": -87.655519,
+        "address": "Aberdeen St & Monroe St",
+        "cross_street": "Aberdeen St & Monroe St",
+        "post_code": "60607",
+        "capacity": 19
+      },
+      {
+        "station_id": "81",
+        "name": "Daley Center Plaza",
+        "lat": 41.884241,
+        "lon": -87.629634,
+        "address": "Daley Center Plaza",
+        "cross_street": "Dearborn St & Washington St",
+        "post_code": "60601",
+        "capacity": 39
+      },
+      {
+        "station_id": "84",
+        "name": "Milwaukee Ave & Grand Ave",
+        "lat": 41.891578,
+        "lon": -87.648384,
+        "address": "Milwaukee Ave & Grand Ave",
+        "cross_street": "Milwaukee Ave & Grand Ave",
+        "post_code": "60654",
+        "capacity": 19
+      },
+      {
+        "station_id": "85",
+        "name": "Michigan Ave & Oak St",
+        "lat": 41.90096039,
+        "lon": -87.62377664,
+        "address": "Michigan Ave & Oak St",
+        "cross_street": "Michigan Ave & Oak St",
+        "post_code": "60611",
+        "capacity": 23
+      },
+      {
+        "station_id": "86",
+        "name": "Eckhart Park",
+        "lat": 41.89637337,
+        "lon": -87.66098386,
+        "address": "Eckhart Park",
+        "cross_street": "Eckhart Park",
+        "post_code": "60642",
+        "capacity": 19
+      },
+      {
+        "station_id": "87",
+        "name": "Racine Ave & Fullerton Ave",
+        "lat": 41.92556258,
+        "lon": -87.65840426,
+        "address": "Racine Ave & Fullerton Ave",
+        "cross_street": "Racine Ave & Fullerton Ave",
+        "post_code": "60614",
+        "capacity": 19
+      },
+      {
+        "station_id": "88",
+        "name": "Racine Ave & Randolph St",
+        "lat": 41.884069,
+        "lon": -87.656853,
+        "address": "Racine Ave & Randolph St",
+        "cross_street": "Racine Ave & Randolph St",
+        "post_code": "60607",
+        "capacity": 19
+      },
+      {
+        "station_id": "89",
+        "name": "Financial Pl & Congress Pkwy (Temp)",
+        "lat": 41.874618,
+        "lon": -87.632882,
+        "address": "Financial Pl & Congress Pkwy (Temp)",
+        "cross_street": "Financial Pl & Congress Pkwy (Temp)",
+        "post_code": "60605",
+        "capacity": 15
+      },
+      {
+        "station_id": "90",
+        "name": "Millennium Park",
+        "lat": 41.8810317,
+        "lon": -87.62408432,
+        "address": "Millennium Park",
+        "cross_street": "Millennium Park",
+        "post_code": "60601",
+        "capacity": 47
+      },
+      {
+        "station_id": "91",
+        "name": "Clinton St & Washington Blvd",
+        "lat": 41.88338,
+        "lon": -87.64117,
+        "address": "Clinton St & Washington Blvd",
+        "cross_street": "Clinton St & Washington Blvd",
+        "post_code": "60661",
+        "capacity": 31
+      },
+      {
+        "station_id": "92",
+        "name": "Carpenter St & Huron St",
+        "lat": 41.894556,
+        "lon": -87.653449,
+        "address": "Carpenter St & Huron St",
+        "cross_street": "Carpenter St & Huron St",
+        "post_code": "60642",
+        "capacity": 19
+      },
+      {
+        "station_id": "93",
+        "name": "Sheffield Ave & Willow St",
+        "lat": 41.913688,
+        "lon": -87.652855,
+        "address": "Sheffield Ave & Willow St",
+        "cross_street": "Sheffield Ave & Willow St",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "94",
+        "name": "Clark St & Armitage Ave",
+        "lat": 41.918306,
+        "lon": -87.636282,
+        "address": "Clark St & Armitage Ave",
+        "cross_street": "Clark St & Armitage Ave",
+        "post_code": "60614",
+        "capacity": 31
+      },
+      {
+        "station_id": "95",
+        "name": "Stony Island Ave & 64th St",
+        "lat": 41.778881,
+        "lon": -87.586647,
+        "address": "Stony Island Ave & 64th St",
+        "cross_street": "Stony Island Ave & 64th St",
+        "post_code": "60637",
+        "capacity": 15
+      },
+      {
+        "station_id": "96",
+        "name": "Desplaines St & Randolph St",
+        "lat": 41.88461618962,
+        "lon": -87.6445705849,
+        "address": "Desplaines St & Randolph St",
+        "cross_street": "Desplaines St & Randolph St",
+        "post_code": "60661",
+        "capacity": 23
+      },
+      {
+        "station_id": "97",
+        "name": "Field Museum",
+        "lat": 41.865312,
+        "lon": -87.617867,
+        "address": "Field Museum",
+        "cross_street": "Field Museum",
+        "post_code": "60605",
+        "capacity": 55
+      },
+      {
+        "station_id": "98",
+        "name": "LaSalle St & Washington St",
+        "lat": 41.882664,
+        "lon": -87.63253,
+        "address": "LaSalle St & Washington St",
+        "cross_street": "LaSalle St & Washington St",
+        "post_code": "60602",
+        "capacity": 15
+      },
+      {
+        "station_id": "99",
+        "name": "Lake Shore Dr & Ohio St",
+        "lat": 41.89257,
+        "lon": -87.614492,
+        "address": "Lake Shore Dr & Ohio St",
+        "cross_street": "Lake Shore Dr & Ohio St",
+        "post_code": "60611",
+        "capacity": 19
+      },
+      {
+        "station_id": "100",
+        "name": "Orleans St & Merchandise Mart Plaza",
+        "lat": 41.888243,
+        "lon": -87.63639,
+        "address": "Orleans St & Merchandise Mart Plaza",
+        "cross_street": "Orleans St & Merchandise Mart Plaza",
+        "post_code": "60654",
+        "capacity": 35
+      },
+      {
+        "station_id": "101",
+        "name": "63rd St Beach",
+        "lat": 41.78101637196,
+        "lon": -87.5761197602,
+        "address": "63rd St Beach",
+        "cross_street": "63rd St Beach",
+        "post_code": "60649",
+        "capacity": 23
+      },
+      {
+        "station_id": "102",
+        "name": "Stony Island Ave & 67th St",
+        "lat": 41.77345849948,
+        "lon": -87.5853397391,
+        "address": "Stony Island Ave & 67th St",
+        "cross_street": "Stony Island Ave & 67th St",
+        "post_code": "60649",
+        "capacity": 11
+      },
+      {
+        "station_id": "103",
+        "name": "Clinton St & Polk St (*)",
+        "lat": 41.87146651779,
+        "lon": -87.6409491327,
+        "address": "Clinton St & Polk St (*)",
+        "cross_street": "Clinton St & Polk St (*)",
+        "post_code": "60607",
+        "capacity": 16
+      },
+      {
+        "station_id": "106",
+        "name": "State St & Pearson St",
+        "lat": 41.897448,
+        "lon": -87.628722,
+        "address": "State St & Pearson St",
+        "cross_street": "State St & Pearson St",
+        "post_code": "60610",
+        "capacity": 27
+      },
+      {
+        "station_id": "107",
+        "name": "Desplaines St & Jackson Blvd",
+        "lat": 41.878287,
+        "lon": -87.643909,
+        "address": "Desplaines St & Jackson Blvd",
+        "cross_street": "Desplaines St & Jackson Blvd",
+        "post_code": "60661",
+        "capacity": 27
+      },
+      {
+        "station_id": "108",
+        "name": "Halsted St & Polk St",
+        "lat": 41.87184,
+        "lon": -87.64664,
+        "address": "Halsted St & Polk St",
+        "cross_street": "Halsted St & Polk St",
+        "post_code": "60607",
+        "capacity": 19
+      },
+      {
+        "station_id": "109",
+        "name": "900 W Harrison St",
+        "lat": 41.874754,
+        "lon": -87.649807,
+        "address": "900 W Harrison St",
+        "cross_street": "900 W Harrison St",
+        "post_code": "60607",
+        "capacity": 19
+      },
+      {
+        "station_id": "110",
+        "name": "Dearborn St & Erie St",
+        "lat": 41.893992,
+        "lon": -87.629318,
+        "address": "Dearborn St & Erie St",
+        "cross_street": "Dearborn St & Erie St",
+        "post_code": "60654",
+        "capacity": 27
+      },
+      {
+        "station_id": "111",
+        "name": "Sedgwick St & Huron St",
+        "lat": 41.894666,
+        "lon": -87.638437,
+        "address": "Sedgwick St & Huron St",
+        "cross_street": "Sedgwick St & Huron St",
+        "post_code": "60654",
+        "capacity": 27
+      },
+      {
+        "station_id": "112",
+        "name": "Green St & Randolph St",
+        "lat": 41.883668,
+        "lon": -87.64867,
+        "address": "Green St & Randolph St",
+        "cross_street": "Green St & Randolph St",
+        "post_code": "60607",
+        "capacity": 15
+      },
+      {
+        "station_id": "113",
+        "name": "Bissell St & Armitage Ave",
+        "lat": 41.91844,
+        "lon": -87.65222,
+        "address": "Bissell St & Armitage Ave",
+        "cross_street": "Bissell St & Armitage Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "114",
+        "name": "Sheffield Ave & Waveland Ave",
+        "lat": 41.949399,
+        "lon": -87.654529,
+        "address": "Sheffield Ave & Waveland Ave",
+        "cross_street": "Sheffield Ave & Waveland Ave",
+        "post_code": "60657",
+        "capacity": 27
+      },
+      {
+        "station_id": "115",
+        "name": "Sheffield Ave & Wellington Ave",
+        "lat": 41.936266,
+        "lon": -87.652662,
+        "address": "Sheffield Ave & Wellington Ave",
+        "cross_street": "Sheffield Ave & Wellington Ave",
+        "post_code": "60657",
+        "capacity": 23
+      },
+      {
+        "station_id": "116",
+        "name": "Western Ave & Winnebago Ave",
+        "lat": 41.91552,
+        "lon": -87.687022,
+        "address": "Western Ave & Winnebago Ave",
+        "cross_street": "Western Ave & Winnebago Ave",
+        "post_code": "60647",
+        "capacity": 15
+      },
+      {
+        "station_id": "117",
+        "name": "Wilton Ave & Belmont Ave",
+        "lat": 41.94018,
+        "lon": -87.65304,
+        "address": "Wilton Ave & Belmont Ave",
+        "cross_street": "Wilton Ave & Belmont Ave",
+        "post_code": "60657",
+        "capacity": 27
+      },
+      {
+        "station_id": "118",
+        "name": "Sedgwick St & North Ave",
+        "lat": 41.911386,
+        "lon": -87.638677,
+        "address": "Sedgwick St & North Ave",
+        "cross_street": "Sedgwick St & North Ave",
+        "post_code": "60610",
+        "capacity": 19
+      },
+      {
+        "station_id": "119",
+        "name": "Ashland Ave & Lake St (Temp)",
+        "lat": 41.88592,
+        "lon": -87.66717,
+        "address": "Ashland Ave & Lake St (Temp)",
+        "cross_street": "Ashland Ave & Lake St (Temp)",
+        "post_code": "60612",
+        "capacity": 19
+      },
+      {
+        "station_id": "120",
+        "name": "Wentworth Ave & Cermak Rd (Temp)",
+        "lat": 41.853005,
+        "lon": -87.630578,
+        "address": "Wentworth Ave & Cermak Rd (Temp)",
+        "cross_street": "Wentworth Ave & Cermak Rd (Temp)",
+        "post_code": "60616",
+        "capacity": 19
+      },
+      {
+        "station_id": "121",
+        "name": "Blackstone Ave & Hyde Park Blvd",
+        "lat": 41.802562,
+        "lon": -87.590368,
+        "address": "Blackstone Ave & Hyde Park Blvd",
+        "cross_street": "Blackstone Ave & Hyde Park Blvd",
+        "post_code": "60615",
+        "capacity": 19
+      },
+      {
+        "station_id": "122",
+        "name": "Ogden Ave & Congress Pkwy",
+        "lat": 41.87501,
+        "lon": -87.67328,
+        "address": "Ogden Ave & Congress Pkwy",
+        "cross_street": "Ogden Ave & Congress Pkwy",
+        "post_code": "60612",
+        "capacity": 15
+      },
+      {
+        "station_id": "123",
+        "name": "California Ave & Milwaukee Ave",
+        "lat": 41.922695,
+        "lon": -87.697153,
+        "address": "California Ave & Milwaukee Ave",
+        "cross_street": "California Ave & Milwaukee Ave",
+        "post_code": "60647",
+        "capacity": 14
+      },
+      {
+        "station_id": "124",
+        "name": "Damen Ave & Cullerton St",
+        "lat": 41.855048,
+        "lon": -87.675726,
+        "address": "Damen Ave & Cullerton St",
+        "cross_street": "Damen Ave & Cullerton St",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "125",
+        "name": "Rush St & Hubbard St",
+        "lat": 41.890173,
+        "lon": -87.626185,
+        "address": "Rush St & Hubbard St",
+        "cross_street": "Rush St & Hubbard St",
+        "post_code": "60611",
+        "capacity": 23
+      },
+      {
+        "station_id": "126",
+        "name": "Clark St & North Ave",
+        "lat": 41.911974,
+        "lon": -87.631942,
+        "address": "Clark St & North Ave",
+        "cross_street": "Clark St & North Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "127",
+        "name": "Lincoln Ave & Fullerton Ave",
+        "lat": 41.925905,
+        "lon": -87.64926,
+        "address": "Lincoln Ave & Fullerton Ave",
+        "cross_street": "Lincoln Ave & Fullerton Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "128",
+        "name": "Damen Ave & Chicago Ave",
+        "lat": 41.895769,
+        "lon": -87.67722,
+        "address": "Damen Ave & Chicago Ave",
+        "cross_street": "Damen Ave & Chicago Ave",
+        "post_code": "60622",
+        "capacity": 19
+      },
+      {
+        "station_id": "129",
+        "name": "Blue Island Ave & 18th St",
+        "lat": 41.857556,
+        "lon": -87.661535,
+        "address": "Blue Island Ave & 18th St",
+        "cross_street": "Blue Island Ave & 18th St",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "130",
+        "name": "Damen Ave & Division St",
+        "lat": 41.903266,
+        "lon": -87.678435,
+        "address": "Damen Ave & Division St",
+        "cross_street": "Damen Ave & Division St",
+        "post_code": "60622",
+        "capacity": 19
+      },
+      {
+        "station_id": "131",
+        "name": "Lincoln Ave & Belmont Ave",
+        "lat": 41.939365,
+        "lon": -87.668385,
+        "address": "Lincoln Ave & Belmont Ave",
+        "cross_street": "Lincoln Ave & Belmont Ave",
+        "post_code": "60657",
+        "capacity": 15
+      },
+      {
+        "station_id": "132",
+        "name": "Wentworth Ave & 24th St",
+        "lat": 41.849237,
+        "lon": -87.631715,
+        "address": "Wentworth Ave & 24th St",
+        "cross_street": "Wentworth Ave & 24th St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "133",
+        "name": "Kingsbury St & Kinzie St",
+        "lat": 41.88917683258,
+        "lon": -87.6385057718,
+        "address": "Kingsbury St & Kinzie St",
+        "cross_street": "Kingsbury St & Kinzie St",
+        "post_code": "60654",
+        "capacity": 31
+      },
+      {
+        "station_id": "134",
+        "name": "Peoria St & Jackson Blvd",
+        "lat": 41.877749,
+        "lon": -87.649633,
+        "address": "Peoria St & Jackson Blvd",
+        "cross_street": "Peoria St & Jackson Blvd",
+        "post_code": "60607",
+        "capacity": 19
+      },
+      {
+        "station_id": "135",
+        "name": "Halsted St & 21st St",
+        "lat": 41.85378,
+        "lon": -87.64665,
+        "address": "Halsted St & 21st St",
+        "cross_street": "Halsted St & 21st St",
+        "post_code": "60608",
+        "capacity": 11
+      },
+      {
+        "station_id": "136",
+        "name": "Racine Ave & 13th St",
+        "lat": 41.865054,
+        "lon": -87.656959,
+        "address": "Racine Ave & 13th St",
+        "cross_street": "Racine Ave & 13th St",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "137",
+        "name": "Morgan Ave & 14th Pl",
+        "lat": 41.862378,
+        "lon": -87.651062,
+        "address": "Morgan Ave & 14th Pl",
+        "cross_street": "Morgan Ave & 14th Pl",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "138",
+        "name": "Clybourn Ave & Division St",
+        "lat": 41.904613,
+        "lon": -87.640552,
+        "address": "Clybourn Ave & Division St",
+        "cross_street": "Clybourn Ave & Division St",
+        "post_code": "60610",
+        "capacity": 15
+      },
+      {
+        "station_id": "140",
+        "name": "Dearborn Pkwy & Delaware Pl",
+        "lat": 41.898969,
+        "lon": -87.629912,
+        "address": "Dearborn Pkwy & Delaware Pl",
+        "cross_street": "Dearborn Pkwy & Delaware Pl",
+        "post_code": "60610",
+        "capacity": 19
+      },
+      {
+        "station_id": "141",
+        "name": "Clark St & Lincoln Ave",
+        "lat": 41.915689,
+        "lon": -87.6346,
+        "address": "Clark St & Lincoln Ave",
+        "cross_street": "Clark St & Lincoln Ave",
+        "post_code": "60614",
+        "capacity": 23
+      },
+      {
+        "station_id": "142",
+        "name": "McClurg Ct & Erie St",
+        "lat": 41.894503,
+        "lon": -87.617854,
+        "address": "McClurg Ct & Erie St",
+        "cross_street": "McClurg Ct & Erie St",
+        "post_code": "60611",
+        "capacity": 31
+      },
+      {
+        "station_id": "143",
+        "name": "Sedgwick St & Webster Ave",
+        "lat": 41.922167,
+        "lon": -87.638888,
+        "address": "Sedgwick St & Webster Ave",
+        "cross_street": "Sedgwick St & Webster Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "144",
+        "name": "Larrabee St & Webster Ave",
+        "lat": 41.921822,
+        "lon": -87.64414,
+        "address": "Larrabee St & Webster Ave",
+        "cross_street": "Larrabee St & Webster Ave",
+        "post_code": "60614",
+        "capacity": 19
+      },
+      {
+        "station_id": "145",
+        "name": "Mies van der Rohe Way & Chestnut St",
+        "lat": 41.8985866514,
+        "lon": -87.6219152258,
+        "address": "Mies van der Rohe Way & Chestnut St",
+        "cross_street": "Mies van der Rohe Way & Chestnut St",
+        "post_code": "60611",
+        "capacity": 19
+      },
+      {
+        "station_id": "146",
+        "name": "Loomis St & Jackson Blvd",
+        "lat": 41.877945,
+        "lon": -87.662007,
+        "address": "Loomis St & Jackson Blvd",
+        "cross_street": "Loomis St & Jackson Blvd",
+        "post_code": "60607",
+        "capacity": 19
+      },
+      {
+        "station_id": "147",
+        "name": "Indiana Ave & 26th St",
+        "lat": 41.845687,
+        "lon": -87.622481,
+        "address": "Indiana Ave & 26th St",
+        "cross_street": "Indiana Ave & 26th St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "148",
+        "name": "State St & 33rd St",
+        "lat": 41.834734,
+        "lon": -87.625813,
+        "address": "State St & 33rd St",
+        "cross_street": "State St & 33rd St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "149",
+        "name": "Calumet Ave & 33rd St",
+        "lat": 41.8349,
+        "lon": -87.61793,
+        "address": "Calumet Ave & 33rd St",
+        "cross_street": "Calumet Ave & 33rd St",
+        "post_code": "60616",
+        "capacity": 11
+      },
+      {
+        "station_id": "150",
+        "name": "Fort Dearborn Dr & 31st St",
+        "lat": 41.838556,
+        "lon": -87.608218,
+        "address": "Fort Dearborn Dr & 31st St",
+        "cross_street": "Fort Dearborn Dr & 31st St",
+        "post_code": "60616",
+        "capacity": 27
+      },
+      {
+        "station_id": "152",
+        "name": "Lincoln Ave & Diversey Pkwy",
+        "lat": 41.932225,
+        "lon": -87.658617,
+        "address": "Lincoln Ave & Diversey Pkwy",
+        "cross_street": "Lincoln Ave & Diversey Pkwy",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "153",
+        "name": "Southport Ave & Wellington Ave",
+        "lat": 41.935733,
+        "lon": -87.663576,
+        "address": "Southport Ave & Wellington Ave",
+        "cross_street": "Southport Ave & Wellington Ave",
+        "post_code": "60657",
+        "capacity": 19
+      },
+      {
+        "station_id": "154",
+        "name": "Southport Ave & Belmont Ave",
+        "lat": 41.93949,
+        "lon": -87.66378,
+        "address": "Southport Ave & Belmont Ave",
+        "cross_street": "Southport Ave & Belmont Ave",
+        "post_code": "60657",
+        "capacity": 15
+      },
+      {
+        "station_id": "156",
+        "name": "Clark St & Wellington Ave",
+        "lat": 41.9364968219,
+        "lon": -87.6475386582,
+        "address": "Clark St & Wellington Ave",
+        "cross_street": "Clark St & Wellington Ave",
+        "post_code": "60657",
+        "capacity": 15
+      },
+      {
+        "station_id": "157",
+        "name": "Lake Shore Dr & Wellington Ave",
+        "lat": 41.936669,
+        "lon": -87.636794,
+        "address": "Lake Shore Dr & Wellington Ave",
+        "cross_street": "Lake Shore Dr & Wellington Ave",
+        "post_code": "60657",
+        "capacity": 15
+      },
+      {
+        "station_id": "158",
+        "name": "Milwaukee Ave & Wabansia Ave",
+        "lat": 41.912616,
+        "lon": -87.681391,
+        "address": "Milwaukee Ave & Wabansia Ave",
+        "cross_street": "Milwaukee Ave & Wabansia Ave",
+        "post_code": "60647",
+        "capacity": 15
+      },
+      {
+        "station_id": "159",
+        "name": "Claremont Ave & Hirsch St",
+        "lat": 41.907781,
+        "lon": -87.685854,
+        "address": "1451 N Claremont Ave",
+        "cross_street": "Claremont Ave & Hirsch St",
+        "post_code": "60622",
+        "capacity": 11
+      },
+      {
+        "station_id": "160",
+        "name": "Campbell Ave & North Ave",
+        "lat": 41.910535,
+        "lon": -87.689556,
+        "address": "Campbell Ave & North Ave",
+        "cross_street": "Campbell Ave & North Ave",
+        "post_code": "60647",
+        "capacity": 15
+      },
+      {
+        "station_id": "161",
+        "name": "Rush St & Superior St",
+        "lat": 41.89576474564,
+        "lon": -87.6259080327,
+        "address": "Rush St & Superior St",
+        "cross_street": "Rush St & Superior St",
+        "post_code": "60611",
+        "capacity": 23
+      },
+      {
+        "station_id": "162",
+        "name": "Damen Ave & Wellington Ave",
+        "lat": 41.93588,
+        "lon": -87.67842,
+        "address": "Damen Ave & Wellington Ave",
+        "cross_street": "Damen Ave & Wellington Ave",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "163",
+        "name": "Damen Ave & Clybourn Ave",
+        "lat": 41.931931,
+        "lon": -87.677856,
+        "address": "Damen Ave & Clybourn Ave",
+        "cross_street": "Damen Ave & Clybourn Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "164",
+        "name": "Franklin St & Lake St",
+        "lat": 41.885837,
+        "lon": -87.6355,
+        "address": "Franklin St & Lake St",
+        "cross_street": "Franklin St & Lake St",
+        "post_code": "60606",
+        "capacity": 27
+      },
+      {
+        "station_id": "165",
+        "name": "Clark St & Grace St",
+        "lat": 41.95078,
+        "lon": -87.659172,
+        "address": "Clark St & Grace St",
+        "cross_street": "Clark St & Grace St",
+        "post_code": "60613",
+        "capacity": 23
+      },
+      {
+        "station_id": "166",
+        "name": "Ashland Ave & Wrightwood Ave",
+        "lat": 41.92883,
+        "lon": -87.668507,
+        "address": "Ashland Ave & Wrightwood Ave",
+        "cross_street": "Ashland Ave & Wrightwood Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "167",
+        "name": "Damen Ave & Coulter St",
+        "lat": 41.8492,
+        "lon": -87.67564,
+        "address": "Damen Ave & Coulter St",
+        "cross_street": "Damen Ave & Coulter St",
+        "post_code": "60608",
+        "capacity": 10
+      },
+      {
+        "station_id": "168",
+        "name": "Michigan Ave & 14th St",
+        "lat": 41.864059,
+        "lon": -87.623727,
+        "address": "Michigan Ave & 14th St",
+        "cross_street": "Michigan Ave & 14th St",
+        "post_code": "60605",
+        "capacity": 19
+      },
+      {
+        "station_id": "169",
+        "name": "Canal St & Harrison St",
+        "lat": 41.874255,
+        "lon": -87.639573,
+        "address": "Canal St & Harrison St",
+        "cross_street": "Canal St & Harrison St",
+        "post_code": "60607",
+        "capacity": 15
+      },
+      {
+        "station_id": "170",
+        "name": "Clinton St & 18th St",
+        "lat": 41.85795,
+        "lon": -87.640826,
+        "address": "Clinton St & 18th St",
+        "cross_street": "Clinton St & 18th St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "171",
+        "name": "May St & Cullerton St",
+        "lat": 41.855136,
+        "lon": -87.654127,
+        "address": "May St & Cullerton St",
+        "cross_street": "May St & Cullerton St",
+        "post_code": "60608",
+        "capacity": 11
+      },
+      {
+        "station_id": "172",
+        "name": "Rush St & Cedar St",
+        "lat": 41.90230870122,
+        "lon": -87.627690528,
+        "address": "Rush St & Cedar St",
+        "cross_street": "Rush St & Cedar St",
+        "post_code": "60611",
+        "capacity": 11
+      },
+      {
+        "station_id": "173",
+        "name": "Mies van der Rohe Way & Chicago Ave",
+        "lat": 41.89691,
+        "lon": -87.621743,
+        "address": "Mies van der Rohe Way & Chicago Ave",
+        "cross_street": "Mies van der Rohe Way & Chicago Ave",
+        "post_code": "60611",
+        "capacity": 15
+      },
+      {
+        "station_id": "174",
+        "name": "Canal St & Madison St",
+        "lat": 41.882091,
+        "lon": -87.639833,
+        "address": "Canal St & Madison St",
+        "cross_street": "Canal St & Madison St",
+        "post_code": "60606",
+        "capacity": 35
+      },
+      {
+        "station_id": "175",
+        "name": "Wells St & Polk St",
+        "lat": 41.872596,
+        "lon": -87.633502,
+        "address": "Wells St & Polk St",
+        "cross_street": "Wells St & Polk St",
+        "post_code": "60607",
+        "capacity": 19
+      },
+      {
+        "station_id": "176",
+        "name": "Clark St & Elm St",
+        "lat": 41.902973,
+        "lon": -87.63128,
+        "address": "Clark St & Elm St",
+        "cross_street": "Clark St & Elm St",
+        "post_code": "60610",
+        "capacity": 39
+      },
+      {
+        "station_id": "177",
+        "name": "Theater on the Lake",
+        "lat": 41.926277,
+        "lon": -87.630834,
+        "address": "Theater on the Lake",
+        "cross_street": "Lakeshore Dr & Fullerton Ave",
+        "post_code": "60614",
+        "capacity": 31
+      },
+      {
+        "station_id": "178",
+        "name": "State St & 19th St",
+        "lat": 41.856594,
+        "lon": -87.627542,
+        "address": "State St & 19th St",
+        "cross_street": "State St & 19th St",
+        "post_code": "60616",
+        "capacity": 14
+      },
+      {
+        "station_id": "179",
+        "name": "MLK Jr Dr & Pershing Rd",
+        "lat": 41.8246,
+        "lon": -87.61678,
+        "address": "MLK Jr Dr & Pershing Rd",
+        "cross_street": "MLK Jr Dr & Pershing Rd",
+        "post_code": "60653",
+        "capacity": 15
+      },
+      {
+        "station_id": "180",
+        "name": "Ritchie Ct & Banks St",
+        "lat": 41.906866,
+        "lon": -87.626217,
+        "address": "Ritchie Ct & Banks St",
+        "cross_street": "Ritchie Ct & Banks St",
+        "post_code": "60610",
+        "capacity": 15
+      },
+      {
+        "station_id": "181",
+        "name": "LaSalle St & Illinois St",
+        "lat": 41.890762,
+        "lon": -87.631697,
+        "address": "LaSalle St & Illinois St",
+        "cross_street": "LaSalle St & Illinois St",
+        "post_code": "60654",
+        "capacity": 31
+      },
+      {
+        "station_id": "182",
+        "name": "Wells St & Elm St",
+        "lat": 41.903222,
+        "lon": -87.634324,
+        "address": "Wells St & Elm St",
+        "cross_street": "Wells St & Elm St",
+        "post_code": "60610",
+        "capacity": 23
+      },
+      {
+        "station_id": "183",
+        "name": "Damen Ave & Thomas St (Augusta Blvd)",
+        "lat": 41.901315,
+        "lon": -87.677409,
+        "address": "Damen Ave & Thomas St (Augusta Blvd)",
+        "cross_street": "Damen Ave & Thomas St (Augusta Blvd)",
+        "post_code": "60622",
+        "capacity": 23
+      },
+      {
+        "station_id": "184",
+        "name": "State St & 35th St",
+        "lat": 41.83104,
+        "lon": -87.62688,
+        "address": "State St & 35th St",
+        "cross_street": "State St & 35th St",
+        "post_code": "60616",
+        "capacity": 19
+      },
+      {
+        "station_id": "185",
+        "name": "Stave St & Armitage Ave",
+        "lat": 41.917741,
+        "lon": -87.691392,
+        "address": "Stave St & Armitage Ave",
+        "cross_street": "Stave St & Armitage Ave",
+        "post_code": "60647",
+        "capacity": 11
+      },
+      {
+        "station_id": "186",
+        "name": "Ogden Ave & Race Ave",
+        "lat": 41.891795,
+        "lon": -87.658751,
+        "address": "Ogden Ave & Race Ave",
+        "cross_street": "Ogden Ave & Race Ave",
+        "post_code": "60642",
+        "capacity": 15
+      },
+      {
+        "station_id": "188",
+        "name": "Greenview Ave & Fullerton Ave",
+        "lat": 41.92533,
+        "lon": -87.6658,
+        "address": "Greenview Ave & Fullerton Ave",
+        "cross_street": "Greenview Ave & Fullerton Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "190",
+        "name": "Southport Ave & Wrightwood Ave",
+        "lat": 41.928773,
+        "lon": -87.663913,
+        "address": "Southport Ave & Wrightwood Ave",
+        "cross_street": "Southport Ave & Wrightwood Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "191",
+        "name": "Canal St & Monroe St (*)",
+        "lat": 41.880884,
+        "lon": -87.639525,
+        "address": "Canal St & Monroe St (*)",
+        "cross_street": "Canal St & Monroe St (*)",
+        "post_code": "60661",
+        "capacity": 28
+      },
+      {
+        "station_id": "192",
+        "name": "Canal St & Adams St",
+        "lat": 41.879255,
+        "lon": -87.639904,
+        "address": "Canal St & Adams St",
+        "cross_street": "Canal St & Adams St",
+        "post_code": "60661",
+        "capacity": 47
+      },
+      {
+        "station_id": "193",
+        "name": "State St & 29th St",
+        "lat": 41.841707,
+        "lon": -87.626938,
+        "address": "State St & 29th St",
+        "cross_street": "State St & 29th St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "194",
+        "name": "Wabash Ave & Wacker Pl",
+        "lat": 41.886875,
+        "lon": -87.62603,
+        "address": "Wabash Ave & Wacker Pl",
+        "cross_street": "Wabash Ave & Wacker Pl",
+        "post_code": "60601",
+        "capacity": 19
+      },
+      {
+        "station_id": "195",
+        "name": "Columbus Dr & Randolph St",
+        "lat": 41.884728,
+        "lon": -87.619521,
+        "address": "Columbus Dr & Randolph St",
+        "cross_street": "Columbus Dr & Randolph St",
+        "post_code": "60601",
+        "capacity": 55
+      },
+      {
+        "station_id": "196",
+        "name": "Cityfront Plaza Dr & Pioneer Ct",
+        "lat": 41.890573,
+        "lon": -87.622072,
+        "address": "Cityfront Plaza Dr & Pioneer Ct",
+        "cross_street": "Cityfront Plaza Dr & Pioneer Ct",
+        "post_code": "60611",
+        "capacity": 23
+      },
+      {
+        "station_id": "197",
+        "name": "Michigan Ave & Madison St",
+        "lat": 41.882134,
+        "lon": -87.625125,
+        "address": "Michigan Ave & Madison St",
+        "cross_street": "Michigan Ave & Madison St",
+        "post_code": "60602",
+        "capacity": 19
+      },
+      {
+        "station_id": "198",
+        "name": "Green St & Madison St",
+        "lat": 41.881892,
+        "lon": -87.648789,
+        "address": "Green St & Madison St",
+        "cross_street": "Green St & Madison St",
+        "post_code": "60661",
+        "capacity": 27
+      },
+      {
+        "station_id": "199",
+        "name": "Wabash Ave & Grand Ave",
+        "lat": 41.891466,
+        "lon": -87.626761,
+        "address": "Wabash Ave & Grand Ave",
+        "cross_street": "Wabash Ave & Grand Ave",
+        "post_code": "60611",
+        "capacity": 31
+      },
+      {
+        "station_id": "200",
+        "name": "MLK Jr Dr & 47th St",
+        "lat": 41.809851,
+        "lon": -87.616279,
+        "address": "MLK Jr Dr & 47th St",
+        "cross_street": "MLK Jr Dr & 47th St",
+        "post_code": "60653",
+        "capacity": 11
+      },
+      {
+        "station_id": "201",
+        "name": "Indiana Ave & 40th St",
+        "lat": 41.82168,
+        "lon": -87.6216,
+        "address": "Indiana Ave & 40th St",
+        "cross_street": "Indiana Ave & 40th St",
+        "post_code": "60653",
+        "capacity": 15
+      },
+      {
+        "station_id": "202",
+        "name": "Halsted St & 18th St",
+        "lat": 41.857499,
+        "lon": -87.646277,
+        "address": "Halsted St & 18th St",
+        "cross_street": "Halsted St & 18th St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "203",
+        "name": "Western Ave & 21st St",
+        "lat": 41.854109,
+        "lon": -87.685838,
+        "address": "Western Ave & 21st St",
+        "cross_street": "Western Ave & 21st St",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "204",
+        "name": "Prairie Ave & Garfield Blvd",
+        "lat": 41.794853,
+        "lon": -87.618691,
+        "address": "Prairie Ave & Garfield Blvd",
+        "cross_street": "Prairie Ave & Garfield Blvd",
+        "post_code": "60637",
+        "capacity": 11
+      },
+      {
+        "station_id": "205",
+        "name": "Paulina St & 18th St",
+        "lat": 41.857901,
+        "lon": -87.668745,
+        "address": "Paulina St & 18th St",
+        "cross_street": "Paulina St & 18th St",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "206",
+        "name": "Halsted St & Archer Ave",
+        "lat": 41.847203,
+        "lon": -87.646795,
+        "address": "Halsted St & Archer Ave",
+        "cross_street": "Halsted St & Archer Ave",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "207",
+        "name": "Emerald Ave & 28th St",
+        "lat": 41.84358,
+        "lon": -87.645368,
+        "address": "Emerald Ave & 28th St",
+        "cross_street": "Emerald Ave & 28th St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "208",
+        "name": "Ashland Ave & 21st St",
+        "lat": 41.85381,
+        "lon": -87.665897,
+        "address": "Ashland Ave & 21st St",
+        "cross_street": "Ashland Ave & 21st St",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "209",
+        "name": "Normal Ave & Archer Ave",
+        "lat": 41.849527,
+        "lon": -87.640591,
+        "address": "Normal Ave & Archer Ave",
+        "cross_street": "Normal Ave & Archer Ave",
+        "post_code": "60616",
+        "capacity": 11
+      },
+      {
+        "station_id": "210",
+        "name": "Ashland Ave & Division St",
+        "lat": 41.90345,
+        "lon": -87.667747,
+        "address": "Ashland Ave & Division St",
+        "cross_street": "Ashland Ave & Division St",
+        "post_code": "60622",
+        "capacity": 27
+      },
+      {
+        "station_id": "211",
+        "name": "St. Clair St & Erie St",
+        "lat": 41.894448,
+        "lon": -87.622663,
+        "address": "St. Clair St & Erie St",
+        "cross_street": "St. Clair St & Erie St",
+        "post_code": "60611",
+        "capacity": 19
+      },
+      {
+        "station_id": "212",
+        "name": "Wells St & Hubbard St",
+        "lat": 41.889906,
+        "lon": -87.634266,
+        "address": "Wells St & Hubbard St",
+        "cross_street": "Wells St & Hubbard St",
+        "post_code": "60654",
+        "capacity": 31
+      },
+      {
+        "station_id": "213",
+        "name": "Leavitt St & North Ave",
+        "lat": 41.910153,
+        "lon": -87.68229,
+        "address": "Leavitt St & North Ave",
+        "cross_street": "Leavitt St & North Ave",
+        "post_code": "60622",
+        "capacity": 15
+      },
+      {
+        "station_id": "214",
+        "name": "Damen Ave & Grand Ave",
+        "lat": 41.89122,
+        "lon": -87.67686,
+        "address": "Damen Ave & Grand Ave",
+        "cross_street": "Damen Ave & Grand Ave",
+        "post_code": "60622",
+        "capacity": 23
+      },
+      {
+        "station_id": "215",
+        "name": "Damen Ave & Madison St",
+        "lat": 41.88137,
+        "lon": -87.67493,
+        "address": "Damen Ave & Madison St",
+        "cross_street": "Damen Ave & Madison St",
+        "post_code": "60612",
+        "capacity": 15
+      },
+      {
+        "station_id": "216",
+        "name": "California Ave & Division St",
+        "lat": 41.903029,
+        "lon": -87.697474,
+        "address": "California Ave & Division St",
+        "cross_street": "California Ave & Division St",
+        "post_code": "60622",
+        "capacity": 15
+      },
+      {
+        "station_id": "217",
+        "name": "Racine Ave (May St) & Fulton St",
+        "lat": 41.886926,
+        "lon": -87.656919,
+        "address": "Racine Ave (May St) & Fulton St",
+        "cross_street": "Racine Ave (May St) & Fulton St",
+        "post_code": "60607",
+        "capacity": 15
+      },
+      {
+        "station_id": "218",
+        "name": "Wells St & 19th St",
+        "lat": 41.856802,
+        "lon": -87.633879,
+        "address": "Wells St & 19th St",
+        "cross_street": "Wells St & 19th St",
+        "post_code": "60616",
+        "capacity": 11
+      },
+      {
+        "station_id": "219",
+        "name": "Damen Ave & Cortland St",
+        "lat": 41.916027,
+        "lon": -87.677411,
+        "address": "Damen Ave & Cortland St",
+        "cross_street": "Damen Ave & Cortland St",
+        "post_code": "60622",
+        "capacity": 19
+      },
+      {
+        "station_id": "220",
+        "name": "Clark st & Drummond Place",
+        "lat": 41.931248,
+        "lon": -87.644336,
+        "address": "Clark st & Drummond Place",
+        "cross_street": "Clark st & Drummond Place",
+        "post_code": "60614",
+        "capacity": 23
+      },
+      {
+        "station_id": "222",
+        "name": "Milwaukee Ave & Rockwell St",
+        "lat": 41.920195,
+        "lon": -87.693033,
+        "address": "Milwaukee Ave & Rockwell St",
+        "cross_street": "Milwaukee Ave & Rockwell St",
+        "post_code": "60647",
+        "capacity": 19
+      },
+      {
+        "station_id": "223",
+        "name": "Clifton Ave & Armitage Ave",
+        "lat": 41.918216,
+        "lon": -87.656936,
+        "address": "Clifton Ave & Armitage Ave",
+        "cross_street": "Clifton Ave & Armitage Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "224",
+        "name": "Halsted St & Willow St",
+        "lat": 41.913865,
+        "lon": -87.648755,
+        "address": "Halsted St & Willow St",
+        "cross_street": "Halsted St & Willow St",
+        "post_code": "60614",
+        "capacity": 19
+      },
+      {
+        "station_id": "225",
+        "name": "Halsted St & Dickens Ave",
+        "lat": 41.919936,
+        "lon": -87.64883,
+        "address": "Halsted St & Dickens Ave",
+        "cross_street": "Halsted St & Dickens Ave",
+        "post_code": "60614",
+        "capacity": 23
+      },
+      {
+        "station_id": "226",
+        "name": "Racine Ave & Belmont Ave",
+        "lat": 41.939743,
+        "lon": -87.658865,
+        "address": "Racine Ave & Belmont Ave",
+        "cross_street": "Racine Ave & Belmont Ave",
+        "post_code": "60657",
+        "capacity": 15
+      },
+      {
+        "station_id": "227",
+        "name": "Southport Ave & Waveland Ave",
+        "lat": 41.94815,
+        "lon": -87.66394,
+        "address": "Southport Ave & Waveland Ave",
+        "cross_street": "Southport Ave & Waveland Ave",
+        "post_code": "60613",
+        "capacity": 23
+      },
+      {
+        "station_id": "228",
+        "name": "Damen Ave & Melrose Ave",
+        "lat": 41.9406,
+        "lon": -87.6785,
+        "address": "Damen Ave & Melrose Ave",
+        "cross_street": "Damen Ave & Melrose Ave",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "229",
+        "name": "Southport Ave & Roscoe St",
+        "lat": 41.943739,
+        "lon": -87.66402,
+        "address": "Southport Ave & Roscoe St",
+        "cross_street": "Southport Ave & Roscoe St",
+        "post_code": "60657",
+        "capacity": 19
+      },
+      {
+        "station_id": "230",
+        "name": "Lincoln Ave & Roscoe St",
+        "lat": 41.94334,
+        "lon": -87.67097,
+        "address": "Lincoln Ave & Roscoe St",
+        "cross_street": "Lincoln Ave & Roscoe St",
+        "post_code": "60657",
+        "capacity": 19
+      },
+      {
+        "station_id": "231",
+        "name": "Sheridan Rd & Montrose Ave",
+        "lat": 41.96167,
+        "lon": -87.65464,
+        "address": "Sheridan Rd & Montrose Ave",
+        "cross_street": "Sheridan Rd & Montrose Ave",
+        "post_code": "60613",
+        "capacity": 23
+      },
+      {
+        "station_id": "232",
+        "name": "Pine Grove Ave & Waveland Ave",
+        "lat": 41.949275,
+        "lon": -87.646303,
+        "address": "Pine Grove Ave & Waveland Ave",
+        "cross_street": "Pine Grove Ave & Waveland Ave",
+        "post_code": "60613",
+        "capacity": 23
+      },
+      {
+        "station_id": "233",
+        "name": "Sangamon St & Washington Blvd (*)",
+        "lat": 41.883165,
+        "lon": -87.6511,
+        "address": "Sangamon St & Washington Blvd (*)",
+        "cross_street": "Sangamon St & Washington Blvd (*)",
+        "post_code": "60607",
+        "capacity": 16
+      },
+      {
+        "station_id": "234",
+        "name": "Clark St & Montrose Ave",
+        "lat": 41.961588,
+        "lon": -87.666036,
+        "address": "Clark St & Montrose Ave",
+        "cross_street": "Clark St & Montrose Ave",
+        "post_code": "60613",
+        "capacity": 19
+      },
+      {
+        "station_id": "236",
+        "name": "Sedgwick St & Schiller St",
+        "lat": 41.907626,
+        "lon": -87.638566,
+        "address": "Sedgwick St & Schiller St",
+        "cross_street": "Sedgwick St & Schiller St",
+        "post_code": "60610",
+        "capacity": 15
+      },
+      {
+        "station_id": "237",
+        "name": "MLK Jr Dr & 29th St",
+        "lat": 41.842052,
+        "lon": -87.617,
+        "address": "MLK Jr Dr & 29th St",
+        "cross_street": "MLK Jr Dr & 29th St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "238",
+        "name": "Ravenswood Ave & Montrose Ave (*)",
+        "lat": 41.961615,
+        "lon": -87.674365,
+        "address": "Ravenswood Ave & Montrose Ave (*)",
+        "cross_street": "Ravenswood Ave & Montrose Ave (*)",
+        "post_code": "60613",
+        "capacity": 16
+      },
+      {
+        "station_id": "239",
+        "name": "Western Ave & Leland Ave",
+        "lat": 41.966555,
+        "lon": -87.688487,
+        "address": "Western Ave & Leland Ave",
+        "cross_street": "Western Ave & Leland Ave",
+        "post_code": "60625",
+        "capacity": 19
+      },
+      {
+        "station_id": "240",
+        "name": "Sheridan Rd & Irving Park Rd",
+        "lat": 41.954245,
+        "lon": -87.654406,
+        "address": "Sheridan Rd & Irving Park Rd",
+        "cross_street": "Sheridan Rd & Irving Park Rd",
+        "post_code": "60613",
+        "capacity": 27
+      },
+      {
+        "station_id": "241",
+        "name": "Morgan St & Polk St",
+        "lat": 41.871737,
+        "lon": -87.65103,
+        "address": "Morgan St & Polk St",
+        "cross_street": "Morgan St & Polk St ",
+        "post_code": "60607",
+        "capacity": 19
+      },
+      {
+        "station_id": "242",
+        "name": "Damen Ave & Leland Ave",
+        "lat": 41.967094,
+        "lon": -87.679028,
+        "address": "Damen Ave & Leland Ave",
+        "cross_street": "Damen Ave & Leland Ave ",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "243",
+        "name": "Lincoln Ave & Leavitt St",
+        "lat": 41.962391,
+        "lon": -87.684146,
+        "address": "Lincoln Ave & Leavitt St",
+        "cross_street": "Lincoln Ave & Leavitt St",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "244",
+        "name": "Ravenswood Ave & Irving Park Rd",
+        "lat": 41.95469,
+        "lon": -87.67393,
+        "address": "Ravenswood Ave & Irving Park Rd",
+        "cross_street": "Ravenswood Ave & Irving Park Rd",
+        "post_code": "60613",
+        "capacity": 19
+      },
+      {
+        "station_id": "245",
+        "name": "Clarendon Ave & Junior Ter",
+        "lat": 41.961004,
+        "lon": -87.649603,
+        "address": "Clarendon Ave & Junior Ter",
+        "cross_street": "Clarendon Ave & Junior Ter",
+        "post_code": "60613",
+        "capacity": 23
+      },
+      {
+        "station_id": "246",
+        "name": "Ashland Ave & Belle Plaine Ave (Temp)",
+        "lat": 41.954479,
+        "lon": -87.66892,
+        "address": "Ashland Ave & Belle Plaine Ave (Temp)",
+        "cross_street": "Ashland Ave & Belle Plaine Ave (Temp)",
+        "post_code": "60613",
+        "capacity": 11
+      },
+      {
+        "station_id": "247",
+        "name": "Shore Dr & 55th St",
+        "lat": 41.795212,
+        "lon": -87.580715,
+        "address": "Shore Dr & 55th St",
+        "cross_street": "Shore Dr & 55th St",
+        "post_code": "60615",
+        "capacity": 19
+      },
+      {
+        "station_id": "248",
+        "name": "Woodlawn Ave & 55th St",
+        "lat": 41.795264,
+        "lon": -87.596471,
+        "address": "Woodlawn Ave & 55th St",
+        "cross_street": "Woodlawn Ave & 55th St",
+        "post_code": "60615",
+        "capacity": 19
+      },
+      {
+        "station_id": "249",
+        "name": "Montrose Harbor",
+        "lat": 41.963982,
+        "lon": -87.638181,
+        "address": "Montrose Harbor",
+        "cross_street": "Montrose Harbor",
+        "post_code": "60613",
+        "capacity": 31
+      },
+      {
+        "station_id": "250",
+        "name": "Ashland Ave & Wellington Ave",
+        "lat": 41.936083,
+        "lon": -87.669807,
+        "address": "Ashland Ave & Wellington Ave",
+        "cross_street": "Ashland Ave & Wellington Ave",
+        "post_code": "60657",
+        "capacity": 19
+      },
+      {
+        "station_id": "251",
+        "name": "Clarendon Ave & Leland Ave",
+        "lat": 41.967968,
+        "lon": -87.650001,
+        "address": "Clarendon Ave & Leland Ave",
+        "cross_street": "Clarendon Ave & Leland Ave",
+        "post_code": "60640",
+        "capacity": 15
+      },
+      {
+        "station_id": "252",
+        "name": "Greenwood Ave & 47th St",
+        "lat": 41.809835,
+        "lon": -87.599383,
+        "address": "Greenwood Ave & 47th St",
+        "cross_street": "Greenwood Ave & 47th St",
+        "post_code": "60653",
+        "capacity": 15
+      },
+      {
+        "station_id": "253",
+        "name": "Winthrop Ave & Lawrence Ave",
+        "lat": 41.968812,
+        "lon": -87.657659,
+        "address": "Winthrop Ave & Lawrence Ave",
+        "cross_street": "Winthrop Ave & Lawrence Ave",
+        "post_code": "60640",
+        "capacity": 15
+      },
+      {
+        "station_id": "254",
+        "name": "Pine Grove Ave & Irving Park Rd",
+        "lat": 41.954383,
+        "lon": -87.648043,
+        "address": "Pine Grove Ave & Irving Park Rd",
+        "cross_street": "Pine Grove Ave & Irving Park Rd",
+        "post_code": "60613",
+        "capacity": 15
+      },
+      {
+        "station_id": "255",
+        "name": "Indiana Ave & Roosevelt Rd",
+        "lat": 41.867888,
+        "lon": -87.623041,
+        "address": "Indiana Ave & Roosevelt Rd",
+        "cross_street": "Indiana Ave & Roosevelt Rd",
+        "post_code": "60605",
+        "capacity": 39
+      },
+      {
+        "station_id": "256",
+        "name": "Broadway & Sheridan Rd",
+        "lat": 41.952833,
+        "lon": -87.649993,
+        "address": "Broadway & Sheridan Rd",
+        "cross_street": "Broadway & Sheridan Rd",
+        "post_code": "60613",
+        "capacity": 15
+      },
+      {
+        "station_id": "257",
+        "name": "Lincoln Ave & Waveland Ave",
+        "lat": 41.948797,
+        "lon": -87.675278,
+        "address": "Lincoln Ave & Waveland Ave",
+        "cross_street": "Lincoln Ave & Waveland Ave",
+        "post_code": "60613",
+        "capacity": 15
+      },
+      {
+        "station_id": "258",
+        "name": "Logan Blvd & Elston Ave",
+        "lat": 41.929465,
+        "lon": -87.684158,
+        "address": "Logan Blvd & Elston Ave",
+        "cross_street": "Logan Blvd & Elston Ave",
+        "post_code": "60647",
+        "capacity": 27
+      },
+      {
+        "station_id": "259",
+        "name": "California Ave & Francis Pl",
+        "lat": 41.918121,
+        "lon": -87.696972,
+        "address": "California Ave & Francis Pl",
+        "cross_street": "California Ave & Francis Pl",
+        "post_code": "60647",
+        "capacity": 15
+      },
+      {
+        "station_id": "260",
+        "name": "Kedzie Ave & Milwaukee Ave",
+        "lat": 41.929567,
+        "lon": -87.707857,
+        "address": "Kedzie Ave & Milwaukee Ave",
+        "cross_street": "Kedzie Ave & Milwaukee Ave",
+        "post_code": "60647",
+        "capacity": 35
+      },
+      {
+        "station_id": "261",
+        "name": "Hermitage Ave & Polk St",
+        "lat": 41.871514,
+        "lon": -87.669886,
+        "address": "Hermitage Ave & Polk St",
+        "cross_street": "Hermitage Ave & Polk St",
+        "post_code": "60612",
+        "capacity": 15
+      },
+      {
+        "station_id": "262",
+        "name": "Halsted St & 37th St",
+        "lat": 41.827059,
+        "lon": -87.64572,
+        "address": "Halsted St & 37th St",
+        "cross_street": "Halsted St & 37th St",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "263",
+        "name": "Rhodes Ave & 32nd St",
+        "lat": 41.836208,
+        "lon": -87.613533,
+        "address": "Rhodes Ave & 32nd St",
+        "cross_street": "Rhodes Ave & 32nd St",
+        "post_code": "60616",
+        "capacity": 11
+      },
+      {
+        "station_id": "264",
+        "name": "Stetson Ave & South Water St",
+        "lat": 41.886835,
+        "lon": -87.62232,
+        "address": "Stetson Ave & South Water St",
+        "cross_street": "Stetson Ave & South Water St",
+        "post_code": "60601",
+        "capacity": 19
+      },
+      {
+        "station_id": "265",
+        "name": "Cottage Grove Ave & Oakwood Blvd",
+        "lat": 41.822985,
+        "lon": -87.6071,
+        "address": "Cottage Grove Ave & Oakwood Blvd",
+        "cross_street": "Cottage Grove Ave & Oakwood Blvd",
+        "post_code": "60653",
+        "capacity": 15
+      },
+      {
+        "station_id": "267",
+        "name": "Lake Park Ave & 47th St",
+        "lat": 41.809443,
+        "lon": -87.591875,
+        "address": "Lake Park Ave & 47th St",
+        "cross_street": "Lake Park Ave & 47th St",
+        "post_code": "60615",
+        "capacity": 15
+      },
+      {
+        "station_id": "268",
+        "name": "Lake Shore Dr & North Blvd",
+        "lat": 41.911722,
+        "lon": -87.626804,
+        "address": "Lake Shore Dr & North Blvd",
+        "cross_street": "Lake Shore Dr & North Blvd",
+        "post_code": "60610",
+        "capacity": 39
+      },
+      {
+        "station_id": "270",
+        "name": "Stony Island Ave & 75th St",
+        "lat": 41.7586696704,
+        "lon": -87.586882871,
+        "address": "Stony Island Ave & 75th St",
+        "cross_street": "Stony Island Ave & 75th St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "271",
+        "name": "Cottage Grove Ave & 43rd St",
+        "lat": 41.816499,
+        "lon": -87.606582,
+        "address": "Cottage Grove Ave & 43rd St",
+        "cross_street": "Cottage Grove Ave & 43rd St",
+        "post_code": "60653",
+        "capacity": 11
+      },
+      {
+        "station_id": "272",
+        "name": "Indiana Ave & 31st St",
+        "lat": 41.838842,
+        "lon": -87.621857,
+        "address": "Indiana Ave & 31st St",
+        "cross_street": "Indiana Ave & 31st St",
+        "post_code": "60616",
+        "capacity": 11
+      },
+      {
+        "station_id": "273",
+        "name": "Michigan Ave & 18th St",
+        "lat": 41.857813,
+        "lon": -87.62455,
+        "address": "Michigan Ave & 18th St",
+        "cross_street": "Michigan Ave & 18th St",
+        "post_code": "60616",
+        "capacity": 23
+      },
+      {
+        "station_id": "274",
+        "name": "Racine Ave & 15th St",
+        "lat": 41.861267,
+        "lon": -87.656625,
+        "address": "Racine Ave & 15th St",
+        "cross_street": "Racine Ave & 15th St",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "275",
+        "name": "Ashland Ave & 13th St",
+        "lat": 41.865234,
+        "lon": -87.666507,
+        "address": "Ashland Ave & 13th St",
+        "cross_street": "Ashland Ave & 13th St",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "276",
+        "name": "California Ave & North Ave",
+        "lat": 41.91044,
+        "lon": -87.6972,
+        "address": "California Ave & North Ave",
+        "cross_street": "California Ave & North Ave",
+        "post_code": "60647",
+        "capacity": 11
+      },
+      {
+        "station_id": "277",
+        "name": "Ashland Ave & Grand Ave",
+        "lat": 41.891072,
+        "lon": -87.666611,
+        "address": "Ashland Ave & Grand Ave",
+        "cross_street": "Ashland Ave & Grand Ave",
+        "post_code": "60642",
+        "capacity": 15
+      },
+      {
+        "station_id": "278",
+        "name": "Wallace St & 35th St",
+        "lat": 41.830629,
+        "lon": -87.64129,
+        "address": "Wallace St & 35th St",
+        "cross_street": "Wallace St & 35th St",
+        "post_code": "60609",
+        "capacity": 15
+      },
+      {
+        "station_id": "279",
+        "name": "Halsted St & 35th St (*)",
+        "lat": 41.830661,
+        "lon": -87.647172,
+        "address": "Halsted St & 35th St (*)",
+        "cross_street": "Halsted St & 35th St (*)",
+        "post_code": "60609",
+        "capacity": 16
+      },
+      {
+        "station_id": "280",
+        "name": "Morgan St & 31st St",
+        "lat": 41.8378,
+        "lon": -87.65114,
+        "address": "Morgan St & 31st St",
+        "cross_street": "Morgan St & 31st St",
+        "post_code": "60608",
+        "capacity": 11
+      },
+      {
+        "station_id": "281",
+        "name": "Western Ave & 24th St",
+        "lat": 41.84847,
+        "lon": -87.685109,
+        "address": "Western Ave & 24th St",
+        "cross_street": "Western Ave & 24th St",
+        "post_code": "60608",
+        "capacity": 11
+      },
+      {
+        "station_id": "282",
+        "name": "Halsted St & Maxwell St",
+        "lat": 41.864883,
+        "lon": -87.647071,
+        "address": "Halsted St & Maxwell St",
+        "cross_street": "Halsted St & Maxwell St",
+        "post_code": "60607",
+        "capacity": 15
+      },
+      {
+        "station_id": "283",
+        "name": "LaSalle St & Jackson Blvd",
+        "lat": 41.87817,
+        "lon": -87.631985,
+        "address": "LaSalle St & Jackson Blvd",
+        "cross_street": "LaSalle St & Jackson Blvd",
+        "post_code": "60604",
+        "capacity": 35
+      },
+      {
+        "station_id": "284",
+        "name": "Michigan Ave & Jackson Blvd",
+        "lat": 41.87785,
+        "lon": -87.62408,
+        "address": "Michigan Ave & Jackson Blvd",
+        "cross_street": "Michigan Ave & Jackson Blvd",
+        "post_code": "60604",
+        "capacity": 23
+      },
+      {
+        "station_id": "285",
+        "name": "Wood St & Hubbard St",
+        "lat": 41.889587,
+        "lon": -87.671956,
+        "address": "Wood St & Hubbard St",
+        "cross_street": "Wood St & Hubbard St",
+        "post_code": "60622",
+        "capacity": 19
+      },
+      {
+        "station_id": "286",
+        "name": "Franklin St & Quincy St",
+        "lat": 41.878724,
+        "lon": -87.634793,
+        "address": "Franklin St & Quincy St",
+        "cross_street": "Franklin St & Quincy St",
+        "post_code": "60606",
+        "capacity": 22
+      },
+      {
+        "station_id": "287",
+        "name": "Franklin St & Monroe St",
+        "lat": 41.880317,
+        "lon": -87.635185,
+        "address": "Franklin St & Monroe St",
+        "cross_street": "Franklin St & Monroe St",
+        "post_code": "60606",
+        "capacity": 27
+      },
+      {
+        "station_id": "288",
+        "name": "Larrabee St & Armitage Ave",
+        "lat": 41.918084,
+        "lon": -87.643749,
+        "address": "Larrabee St & Armitage Ave",
+        "cross_street": "Larrabee St & Armitage Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "289",
+        "name": "Wells St & Concord Ln",
+        "lat": 41.912133,
+        "lon": -87.634656,
+        "address": "Wells St & Concord Ln",
+        "cross_street": "Wells St & Concord Ln",
+        "post_code": "60614",
+        "capacity": 19
+      },
+      {
+        "station_id": "290",
+        "name": "Kedzie Ave & Palmer Ct",
+        "lat": 41.921525,
+        "lon": -87.707322,
+        "address": "Kedzie Ave & Palmer Ct",
+        "cross_street": "Kedzie Ave & Palmer Ct",
+        "post_code": "60647",
+        "capacity": 15
+      },
+      {
+        "station_id": "291",
+        "name": "Wells St & Evergreen Ave",
+        "lat": 41.906724,
+        "lon": -87.63483,
+        "address": "Wells St & Evergreen Ave",
+        "cross_street": "Wells St & Evergreen Ave",
+        "post_code": "60610",
+        "capacity": 19
+      },
+      {
+        "station_id": "292",
+        "name": "Southport Ave & Clark St",
+        "lat": 41.957081,
+        "lon": -87.664199,
+        "address": "Southport Ave & Clark St",
+        "cross_street": "Southport Ave & Clark St",
+        "post_code": "60613",
+        "capacity": 11
+      },
+      {
+        "station_id": "293",
+        "name": "Broadway & Wilson Ave",
+        "lat": 41.965221,
+        "lon": -87.658139,
+        "address": "Broadway & Wilson Ave",
+        "cross_street": "Broadway & Wilson Ave",
+        "post_code": "60640",
+        "capacity": 23
+      },
+      {
+        "station_id": "294",
+        "name": "Broadway & Berwyn Ave",
+        "lat": 41.978353,
+        "lon": -87.659753,
+        "address": "Broadway & Berwyn Ave",
+        "cross_street": "Broadway & Berwyn Ave",
+        "post_code": "60640",
+        "capacity": 15
+      },
+      {
+        "station_id": "295",
+        "name": "Broadway & Argyle St",
+        "lat": 41.973815,
+        "lon": -87.65966,
+        "address": "Broadway & Argyle St",
+        "cross_street": "Broadway & Argyle St",
+        "post_code": "60640",
+        "capacity": 19
+      },
+      {
+        "station_id": "296",
+        "name": "Broadway & Belmont Ave",
+        "lat": 41.940106,
+        "lon": -87.645451,
+        "address": "Broadway & Belmont Ave",
+        "cross_street": "Broadway & Belmont Ave",
+        "post_code": "60634",
+        "capacity": 19
+      },
+      {
+        "station_id": "297",
+        "name": "Paulina St & Montrose Ave",
+        "lat": 41.961507,
+        "lon": -87.671387,
+        "address": "Paulina St & Montrose Ave",
+        "cross_street": "Paulina St & Montrose Ave",
+        "post_code": "60613",
+        "capacity": 15
+      },
+      {
+        "station_id": "298",
+        "name": "Lincoln Ave & Belle Plaine Ave",
+        "lat": 41.955927,
+        "lon": -87.679259,
+        "address": "Lincoln Ave & Belle Plaine Ave",
+        "cross_street": "Lincoln Ave & Belle Plaine Ave",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "299",
+        "name": "Halsted St & Roscoe St",
+        "lat": 41.94367,
+        "lon": -87.64895,
+        "address": "Halsted St & Roscoe St",
+        "cross_street": "Halsted St & Roscoe St",
+        "post_code": "60657",
+        "capacity": 15
+      },
+      {
+        "station_id": "300",
+        "name": "Broadway & Barry Ave",
+        "lat": 41.937725,
+        "lon": -87.644095,
+        "address": "Broadway & Barry Ave",
+        "cross_street": "Broadway & Barry Ave",
+        "post_code": "60657",
+        "capacity": 19
+      },
+      {
+        "station_id": "301",
+        "name": "Clark St & Schiller St",
+        "lat": 41.907993,
+        "lon": -87.631501,
+        "address": "Clark St & Schiller St",
+        "cross_street": "Clark St & Schiller St",
+        "post_code": "60610",
+        "capacity": 19
+      },
+      {
+        "station_id": "302",
+        "name": "Sheffield Ave & Wrightwood Ave",
+        "lat": 41.928712,
+        "lon": -87.653833,
+        "address": "Sheffield Ave & Wrightwood Ave",
+        "cross_street": "Sheffield Ave & Wrightwood Ave",
+        "post_code": "60614",
+        "capacity": 31
+      },
+      {
+        "station_id": "303",
+        "name": "Broadway & Cornelia Ave",
+        "lat": 41.945529,
+        "lon": -87.646439,
+        "address": "Broadway & Cornelia Ave",
+        "cross_street": "Broadway & Cornelia Ave",
+        "post_code": "60613",
+        "capacity": 23
+      },
+      {
+        "station_id": "304",
+        "name": "Broadway & Waveland Ave",
+        "lat": 41.949074,
+        "lon": -87.648636,
+        "address": "Broadway & Waveland Ave",
+        "cross_street": "Broadway & Waveland Ave",
+        "post_code": "60613",
+        "capacity": 15
+      },
+      {
+        "station_id": "305",
+        "name": "Western Ave & Division St",
+        "lat": 41.902893,
+        "lon": -87.687275,
+        "address": "Western Ave & Division St",
+        "cross_street": "Western Ave & Division St",
+        "post_code": "60622",
+        "capacity": 23
+      },
+      {
+        "station_id": "306",
+        "name": "Sheridan Rd & Buena Ave",
+        "lat": 41.958494,
+        "lon": -87.654966,
+        "address": "Sheridan Rd & Buena Ave",
+        "cross_street": "Sheridan Rd & Buena Ave",
+        "post_code": "60613",
+        "capacity": 19
+      },
+      {
+        "station_id": "307",
+        "name": "Southport Ave & Clybourn Ave",
+        "lat": 41.920771,
+        "lon": -87.663712,
+        "address": "Southport Ave & Clybourn Ave",
+        "cross_street": "Southport Ave & Clybourn Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "308",
+        "name": "Seeley Ave & Roscoe St",
+        "lat": 41.943403,
+        "lon": -87.679618,
+        "address": "Seeley Ave & Roscoe St",
+        "cross_street": "Seeley Ave & Roscoe St",
+        "post_code": "60618",
+        "capacity": 11
+      },
+      {
+        "station_id": "309",
+        "name": "Leavitt St & Armitage Ave",
+        "lat": 41.917805,
+        "lon": -87.682437,
+        "address": "Leavitt St & Armitage Ave",
+        "cross_street": "Leavitt St & Armitage Ave",
+        "post_code": "60647",
+        "capacity": 11
+      },
+      {
+        "station_id": "310",
+        "name": "Damen Ave & Charleston St",
+        "lat": 41.920082,
+        "lon": -87.677855,
+        "address": "Damen Ave & Charleston St",
+        "cross_street": "Damen Ave & Charleston St",
+        "post_code": "60647",
+        "capacity": 11
+      },
+      {
+        "station_id": "311",
+        "name": "Leavitt St & Lawrence Ave",
+        "lat": 41.968885,
+        "lon": -87.684001,
+        "address": "Leavitt St & Lawrence Ave",
+        "cross_street": "Leavitt St & Lawrence Ave",
+        "post_code": "60625",
+        "capacity": 19
+      },
+      {
+        "station_id": "312",
+        "name": "Clarendon Ave & Gordon Ter",
+        "lat": 41.957879,
+        "lon": -87.649519,
+        "address": "Clarendon Ave & Gordon Ter",
+        "cross_street": "Clarendon Ave & Gordon Ter",
+        "post_code": "60613",
+        "capacity": 15
+      },
+      {
+        "station_id": "313",
+        "name": "Lakeview Ave & Fullerton Pkwy",
+        "lat": 41.925858,
+        "lon": -87.638973,
+        "address": "Lakeview Ave & Fullerton Pkwy",
+        "cross_street": "Lakeview Ave & Fullerton Pkwy",
+        "post_code": "60614",
+        "capacity": 19
+      },
+      {
+        "station_id": "314",
+        "name": "Ravenswood Ave & Berteau Ave",
+        "lat": 41.957921,
+        "lon": -87.673567,
+        "address": "Ravenswood Ave & Berteau Ave",
+        "cross_street": "Ravenswood Ave & Berteau Ave",
+        "post_code": "60613",
+        "capacity": 15
+      },
+      {
+        "station_id": "315",
+        "name": "Elston Ave & Wabansia Ave",
+        "lat": 41.912919,
+        "lon": -87.664169,
+        "address": "Elston Ave & Wabansia Ave",
+        "cross_street": "Elston Ave & Wabansia Ave",
+        "post_code": "60642",
+        "capacity": 23
+      },
+      {
+        "station_id": "316",
+        "name": "Damen Ave & Sunnyside Ave",
+        "lat": 41.96325,
+        "lon": -87.679258,
+        "address": "Damen Ave & Sunnyside Ave",
+        "cross_street": "Damen Ave & Sunnyside Ave",
+        "post_code": "60625",
+        "capacity": 19
+      },
+      {
+        "station_id": "317",
+        "name": "Wood St & Taylor St",
+        "lat": 41.869154,
+        "lon": -87.671045,
+        "address": "Wood St & Taylor St",
+        "cross_street": "Wood St & Taylor St",
+        "post_code": "60612",
+        "capacity": 23
+      },
+      {
+        "station_id": "318",
+        "name": "Southport Ave & Irving Park Rd",
+        "lat": 41.954177,
+        "lon": -87.664358,
+        "address": "Southport Ave & Irving Park Rd",
+        "cross_street": "Southport Ave & Irving Park Rd",
+        "post_code": "60613",
+        "capacity": 15
+      },
+      {
+        "station_id": "319",
+        "name": "Greenview Ave & Diversey Pkwy",
+        "lat": 41.932595,
+        "lon": -87.665939,
+        "address": "Greenview Ave & Diversey Pkwy",
+        "cross_street": "Greenview Ave & Diversey Pkwy",
+        "post_code": "60657",
+        "capacity": 15
+      },
+      {
+        "station_id": "320",
+        "name": "Loomis St & Lexington St",
+        "lat": 41.872187,
+        "lon": -87.661501,
+        "address": "Loomis St & Lexington St",
+        "cross_street": "Loomis St & Lexington St",
+        "post_code": "60607",
+        "capacity": 19
+      },
+      {
+        "station_id": "321",
+        "name": "Wabash Ave & 9th St",
+        "lat": 41.870769,
+        "lon": -87.625734,
+        "address": "Wabash Ave & 9th St",
+        "cross_street": "Wabash Ave & 9th St",
+        "post_code": "60605",
+        "capacity": 19
+      },
+      {
+        "station_id": "322",
+        "name": "Kimbark Ave & 53rd St",
+        "lat": 41.799568,
+        "lon": -87.594747,
+        "address": "Kimbark Ave & 53rd St",
+        "cross_street": "Kimbark Ave & 53rd St",
+        "post_code": "60615",
+        "capacity": 19
+      },
+      {
+        "station_id": "323",
+        "name": "Sheridan Rd & Lawrence Ave",
+        "lat": 41.969517,
+        "lon": -87.654691,
+        "address": "Sheridan Rd & Lawrence Ave",
+        "cross_street": "Sheridan Rd & Lawrence Ave",
+        "post_code": "60640",
+        "capacity": 15
+      },
+      {
+        "station_id": "324",
+        "name": "Stockton Dr & Wrightwood Ave",
+        "lat": 41.93132,
+        "lon": -87.638742,
+        "address": "Stockton Dr & Wrightwood Ave",
+        "cross_street": "Stockton Dr & Wrightwood Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "325",
+        "name": "Clark St & Winnemac Ave",
+        "lat": 41.973345,
+        "lon": -87.667682,
+        "address": "Clark St & Winnemac Ave",
+        "cross_street": "Clark St & Winnemac Ave",
+        "post_code": "60640",
+        "capacity": 19
+      },
+      {
+        "station_id": "326",
+        "name": "Clark St & Leland Ave",
+        "lat": 41.967096,
+        "lon": -87.667429,
+        "address": "Clark St & Leland Ave",
+        "cross_street": "Clark St & Leland Ave",
+        "post_code": "60640",
+        "capacity": 19
+      },
+      {
+        "station_id": "327",
+        "name": "Sheffield Ave & Webster Ave",
+        "lat": 41.92154,
+        "lon": -87.653818,
+        "address": "Sheffield Ave & Webster Ave",
+        "cross_street": "Sheffield Ave & Webster Ave",
+        "post_code": "60614",
+        "capacity": 19
+      },
+      {
+        "station_id": "328",
+        "name": "Ellis Ave & 58th St",
+        "lat": 41.788746,
+        "lon": -87.601334,
+        "address": "Ellis Ave & 58th St",
+        "cross_street": "Ellis Ave & 58th St",
+        "post_code": "60637",
+        "capacity": 19
+      },
+      {
+        "station_id": "329",
+        "name": "Lake Shore Dr & Diversey Pkwy",
+        "lat": 41.932588,
+        "lon": -87.633427,
+        "address": "Lake Shore Dr & Diversey Pkwy",
+        "cross_street": "Lake Shore Dr & Diversey Pkwy",
+        "post_code": "60657",
+        "capacity": 23
+      },
+      {
+        "station_id": "330",
+        "name": "Lincoln Ave & Addison St",
+        "lat": 41.946176,
+        "lon": -87.673308,
+        "address": "Lincoln Ave & Addison St",
+        "cross_street": "Lincoln Ave & Addison St",
+        "post_code": "60657",
+        "capacity": 19
+      },
+      {
+        "station_id": "331",
+        "name": "Halsted St & Blackhawk St (*)",
+        "lat": 41.908537,
+        "lon": -87.648627,
+        "address": "Halsted St & Blackhawk St (*)",
+        "cross_street": "Halsted St & Blackhawk St (*)",
+        "post_code": "60642",
+        "capacity": 20
+      },
+      {
+        "station_id": "332",
+        "name": "Burling St (Halsted) & Diversey Pkwy (Temp)",
+        "lat": 41.93314,
+        "lon": -87.64776,
+        "address": "Burling St (Halsted) & Diversey Pkwy (Temp)",
+        "cross_street": "Burling St (Halsted) & Diversey Pkwy (Temp)",
+        "post_code": "60657",
+        "capacity": 19
+      },
+      {
+        "station_id": "333",
+        "name": "Ashland Ave & Blackhawk St",
+        "lat": 41.907066,
+        "lon": -87.667252,
+        "address": "Ashland Ave & Blackhawk St",
+        "cross_street": "Ashland Ave & Blackhawk St",
+        "post_code": "60622",
+        "capacity": 15
+      },
+      {
+        "station_id": "334",
+        "name": "Lake Shore Dr & Belmont Ave",
+        "lat": 41.940775,
+        "lon": -87.639192,
+        "address": "Lake Shore Dr & Belmont Ave",
+        "cross_street": "Lake Shore Dr & Belmont Ave",
+        "post_code": "60657",
+        "capacity": 19
+      },
+      {
+        "station_id": "335",
+        "name": "Calumet Ave & 35th St",
+        "lat": 41.831379,
+        "lon": -87.618034,
+        "address": "Calumet Ave & 35th St",
+        "cross_street": "Calumet Ave & 35th St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "336",
+        "name": "Cottage Grove Ave & 47th St",
+        "lat": 41.809855,
+        "lon": -87.606755,
+        "address": "Cottage Grove Ave & 47th St",
+        "cross_street": "Cottage Grove Ave & 47th St",
+        "post_code": "60653",
+        "capacity": 15
+      },
+      {
+        "station_id": "337",
+        "name": "Clark St & Chicago Ave",
+        "lat": 41.896544,
+        "lon": -87.630931,
+        "address": "Clark St & Chicago Ave",
+        "cross_street": "Clark St & Chicago Ave",
+        "post_code": "60654",
+        "capacity": 19
+      },
+      {
+        "station_id": "338",
+        "name": "Calumet Ave & 18th St",
+        "lat": 41.857611,
+        "lon": -87.619407,
+        "address": "Calumet Ave & 18th St",
+        "cross_street": "Calumet Ave & 18th St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "339",
+        "name": "Emerald Ave & 31st St",
+        "lat": 41.838198,
+        "lon": -87.645143,
+        "address": "Emerald Ave & 31st St",
+        "cross_street": "Emerald Ave & 31st St",
+        "post_code": "60616",
+        "capacity": 11
+      },
+      {
+        "station_id": "340",
+        "name": "Clark St & Wrightwood Ave",
+        "lat": 41.929546,
+        "lon": -87.643118,
+        "address": "Clark St & Wrightwood Ave",
+        "cross_street": "Clark St & Wrightwood Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "341",
+        "name": "Adler Planetarium",
+        "lat": 41.866095,
+        "lon": -87.607267,
+        "address": "Adler Planetarium",
+        "cross_street": "Adler Planetarium",
+        "post_code": "60605",
+        "capacity": 39
+      },
+      {
+        "station_id": "342",
+        "name": "Wolcott Ave & Polk St",
+        "lat": 41.871262,
+        "lon": -87.673688,
+        "address": "Wolcott Ave & Polk St",
+        "cross_street": "Wolcott Ave & Polk St",
+        "post_code": "60612",
+        "capacity": 15
+      },
+      {
+        "station_id": "343",
+        "name": "Racine Ave & Wrightwood Ave",
+        "lat": 41.928887,
+        "lon": -87.658971,
+        "address": "Racine Ave & Wrightwood Ave",
+        "cross_street": "Racine Ave & Wrightwood Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "344",
+        "name": "Ravenswood Ave & Lawrence Ave",
+        "lat": 41.96909,
+        "lon": -87.674237,
+        "address": "Ravenswood Ave & Lawrence Ave",
+        "cross_street": "Ravenswood Ave & Lawrence Ave",
+        "post_code": "60640",
+        "capacity": 39
+      },
+      {
+        "station_id": "345",
+        "name": "Lake Park Ave & 56th St",
+        "lat": 41.793242,
+        "lon": -87.587782,
+        "address": "Lake Park Ave & 56th St",
+        "cross_street": "Lake Park Ave & 56th St",
+        "post_code": "60637",
+        "capacity": 19
+      },
+      {
+        "station_id": "346",
+        "name": "Ada St & Washington Blvd",
+        "lat": 41.88283,
+        "lon": -87.661206,
+        "address": "Ada St & Washington Blvd",
+        "cross_street": "Ada St & Washington Blvd",
+        "post_code": "60607",
+        "capacity": 15
+      },
+      {
+        "station_id": "347",
+        "name": "Ashland Ave & Grace St",
+        "lat": 41.950687,
+        "lon": -87.6687,
+        "address": "Ashland Ave & Grace St",
+        "cross_street": "Ashland Ave & Grace St",
+        "post_code": "60613",
+        "capacity": 15
+      },
+      {
+        "station_id": "348",
+        "name": "California Ave & 21st St",
+        "lat": 41.854016,
+        "lon": -87.695445,
+        "address": "California Ave & 21st St",
+        "cross_street": "California Ave & 21st St",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "349",
+        "name": "Halsted St & Wrightwood Ave",
+        "lat": 41.929143,
+        "lon": -87.649077,
+        "address": "Halsted St & Wrightwood Ave",
+        "cross_street": "Halsted St & Wrightwood Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "350",
+        "name": "Ashland Ave & Chicago Ave",
+        "lat": 41.895966,
+        "lon": -87.667747,
+        "address": "Ashland Ave & Chicago Ave",
+        "cross_street": "Ashland Ave & Chicago Ave",
+        "post_code": "60622",
+        "capacity": 14
+      },
+      {
+        "station_id": "351",
+        "name": "Cottage Grove Ave & 51st St",
+        "lat": 41.803038,
+        "lon": -87.606615,
+        "address": "Cottage Grove Ave & 51st St",
+        "cross_street": "Cottage Grove Ave & 51st St",
+        "post_code": "60615",
+        "capacity": 15
+      },
+      {
+        "station_id": "352",
+        "name": "Jeffery Blvd & 67th St",
+        "lat": 41.77351755125,
+        "lon": -87.5771428255,
+        "address": "Jeffery Blvd & 67th St",
+        "cross_street": "Jeffery Blvd & 67th St",
+        "post_code": "60649",
+        "capacity": 15
+      },
+      {
+        "station_id": "353",
+        "name": "Clark St & Touhy Ave",
+        "lat": 42.01256011541,
+        "lon": -87.6743671152,
+        "address": "Clark St & Touhy Ave",
+        "cross_street": "Clark St & Touhy Ave",
+        "post_code": "60626",
+        "capacity": 15
+      },
+      {
+        "station_id": "354",
+        "name": "Sheridan Rd & Greenleaf Ave",
+        "lat": 42.01058656284,
+        "lon": -87.6624120948,
+        "address": "Sheridan Rd & Greenleaf Ave",
+        "cross_street": "Sheridan Rd & Greenleaf Ave",
+        "post_code": "60626",
+        "capacity": 15
+      },
+      {
+        "station_id": "355",
+        "name": "South Shore Dr & 67th St",
+        "lat": 41.773643,
+        "lon": -87.567514,
+        "address": "South Shore Dr & 67th St",
+        "cross_street": "South Shore Dr & 67th St",
+        "post_code": "60649",
+        "capacity": 19
+      },
+      {
+        "station_id": "356",
+        "name": "Stony Island Ave & 71st St",
+        "lat": 41.7664929373,
+        "lon": -87.5864608775,
+        "address": "Stony Island Ave & 71st St",
+        "cross_street": "Stony Island Ave & 71st St",
+        "post_code": "60649",
+        "capacity": 11
+      },
+      {
+        "station_id": "359",
+        "name": "Larrabee St & Division St",
+        "lat": 41.90348607004,
+        "lon": -87.6433534936,
+        "address": "Larrabee St & Division St",
+        "cross_street": "Larrabee St & Division St",
+        "post_code": "60610",
+        "capacity": 23
+      },
+      {
+        "station_id": "364",
+        "name": "Larrabee St & Oak St",
+        "lat": 41.90021949323,
+        "lon": -87.6429854676,
+        "address": "Larrabee St & Oak St",
+        "cross_street": "Larrabee St & Oak St",
+        "post_code": "60610",
+        "capacity": 19
+      },
+      {
+        "station_id": "365",
+        "name": "Halsted St & North Branch St",
+        "lat": 41.89936843921,
+        "lon": -87.6484798752,
+        "address": "Halsted St & North Branch St",
+        "cross_street": "Halsted St & North Branch St",
+        "post_code": "60642",
+        "capacity": 15
+      },
+      {
+        "station_id": "366",
+        "name": "Loomis St & Archer Ave",
+        "lat": 41.84163253965,
+        "lon": -87.6574349533,
+        "address": "Loomis St & Archer Ave",
+        "cross_street": "Loomis St & Archer Ave",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "367",
+        "name": "Racine Ave & 35th St",
+        "lat": 41.83069611252,
+        "lon": -87.6559759116,
+        "address": "Racine Ave & 35th St",
+        "cross_street": "Racine Ave & 35th St",
+        "post_code": "60609",
+        "capacity": 15
+      },
+      {
+        "station_id": "368",
+        "name": "Ashland Ave & Archer Ave",
+        "lat": 41.83920868403,
+        "lon": -87.6656098589,
+        "address": "Ashland Ave & Archer Ave",
+        "cross_street": "Ashland Ave & Archer Ave",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "369",
+        "name": "Wood St & 35th St",
+        "lat": 41.83010465416,
+        "lon": -87.6702983089,
+        "address": "Wood St & 35th St",
+        "cross_street": "Wood St & 35th St",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "370",
+        "name": "Calumet Ave & 21st St",
+        "lat": 41.85418424947,
+        "lon": -87.6191537415,
+        "address": "Calumet Ave & 21st St",
+        "cross_street": "Calumet Ave & 21st St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "373",
+        "name": "Kedzie Ave & Chicago Ave",
+        "lat": 41.89546530305,
+        "lon": -87.7061278837,
+        "address": "Kedzie Ave & Chicago Ave",
+        "cross_street": "Kedzie Ave & Chicago Ave",
+        "post_code": "60622",
+        "capacity": 15
+      },
+      {
+        "station_id": "374",
+        "name": "Western Ave & Walton St",
+        "lat": 41.89841768945,
+        "lon": -87.6865960164,
+        "address": "Western Ave & Walton St",
+        "cross_street": "Western Ave & Walton St",
+        "post_code": "60622",
+        "capacity": 23
+      },
+      {
+        "station_id": "375",
+        "name": "Sacramento Blvd & Franklin Blvd",
+        "lat": 41.889727,
+        "lon": -87.70103,
+        "address": "Sacramento Blvd & Franklin Blvd",
+        "cross_street": "Sacramento Blvd & Franklin Blvd",
+        "post_code": "60612",
+        "capacity": 11
+      },
+      {
+        "station_id": "376",
+        "name": "Artesian Ave & Hubbard St",
+        "lat": 41.88949181977,
+        "lon": -87.6882193648,
+        "address": "Artesian Ave & Hubbard St",
+        "cross_street": "Artesian Ave & Hubbard St",
+        "post_code": "60612",
+        "capacity": 35
+      },
+      {
+        "station_id": "377",
+        "name": "Kedzie Ave & Lake St",
+        "lat": 41.88460328501,
+        "lon": -87.7063037436,
+        "address": "Kedzie Ave & Lake St",
+        "cross_street": "Kedzie Ave & Lake St",
+        "post_code": "60612",
+        "capacity": 19
+      },
+      {
+        "station_id": "378",
+        "name": "California Ave & Lake St",
+        "lat": 41.88445395657,
+        "lon": -87.6962981368,
+        "address": "California Ave & Lake St",
+        "cross_street": "California Ave & Lake St",
+        "post_code": "606012",
+        "capacity": 15
+      },
+      {
+        "station_id": "381",
+        "name": "Western Ave & Monroe St",
+        "lat": 41.8797877089,
+        "lon": -87.686112808,
+        "address": "Western Ave & Monroe St",
+        "cross_street": "Western Ave & Monroe St",
+        "post_code": "60612",
+        "capacity": 15
+      },
+      {
+        "station_id": "382",
+        "name": "Western Ave & Congress Pkwy",
+        "lat": 41.87474885079,
+        "lon": -87.6864452757,
+        "address": "Western Ave & Congress Pkwy",
+        "cross_street": "Western Ave & Congress Pkwy",
+        "post_code": "606012",
+        "capacity": 19
+      },
+      {
+        "station_id": "383",
+        "name": "Ashland Ave & Harrison St",
+        "lat": 41.874293,
+        "lon": -87.667284,
+        "address": "Ashland Ave & Harrison St",
+        "cross_street": "Ashland Ave & Harrison St",
+        "post_code": "60612",
+        "capacity": 23
+      },
+      {
+        "station_id": "384",
+        "name": "Halsted St & 51st St",
+        "lat": 41.80183164049,
+        "lon": -87.645213904,
+        "address": "Halsted St & 51st St",
+        "cross_street": "Halsted St & 51st St",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "385",
+        "name": "Princeton Ave & Garfield Blvd",
+        "lat": 41.794982,
+        "lon": -87.633124,
+        "address": "Princeton Ave & Garfield Blvd",
+        "cross_street": "Princeton Ave & Garfield Blvd",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "386",
+        "name": "Halsted St & 56th St",
+        "lat": 41.79292964599,
+        "lon": -87.6449900565,
+        "address": "Halsted St & 56th St",
+        "cross_street": "Halsted St & 56th St",
+        "post_code": "60621",
+        "capacity": 11
+      },
+      {
+        "station_id": "388",
+        "name": "Halsted St & 63rd St",
+        "lat": 41.77938114228,
+        "lon": -87.6446208145,
+        "address": "Halsted St & 63rd St",
+        "cross_street": "Halsted St & 63rd St",
+        "post_code": "60621",
+        "capacity": 11
+      },
+      {
+        "station_id": "390",
+        "name": "Wentworth Ave & 63rd St",
+        "lat": 41.78007963264,
+        "lon": -87.6297463052,
+        "address": "Wentworth Ave & 63rd St",
+        "cross_street": "Wentworth Ave & 63rd St",
+        "post_code": "60621",
+        "capacity": 11
+      },
+      {
+        "station_id": "391",
+        "name": "Halsted St & 69th St",
+        "lat": 41.76906172032,
+        "lon": -87.6446135779,
+        "address": "Halsted St & 69th St",
+        "cross_street": "Halsted St & 69th St",
+        "post_code": "60621",
+        "capacity": 11
+      },
+      {
+        "station_id": "392",
+        "name": "Perry Ave & 69th St",
+        "lat": 41.76929308995,
+        "lon": -87.6281959291,
+        "address": "Perry Ave & 69th St",
+        "cross_street": "Perry Ave & 69th St",
+        "post_code": "60621",
+        "capacity": 11
+      },
+      {
+        "station_id": "393",
+        "name": "Calumet Ave & 71st St",
+        "lat": 41.76550800581,
+        "lon": -87.616917925,
+        "address": "Calumet Ave & 71st St",
+        "cross_street": "Calumet Ave & 71st St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "394",
+        "name": "Clark St & 9th St (AMLI)",
+        "lat": 41.870816,
+        "lon": -87.631246,
+        "address": "Clark St & 9th St (AMLI)",
+        "cross_street": "Clark St & 9th St (AMLI)",
+        "post_code": "60605",
+        "capacity": 15
+      },
+      {
+        "station_id": "395",
+        "name": "Jeffery Blvd & 76th St",
+        "lat": 41.75712006802,
+        "lon": -87.5758393587,
+        "address": "Jeffery Blvd & 76th St",
+        "cross_street": "Jeffery Blvd & 76th St",
+        "post_code": "60649",
+        "capacity": 11
+      },
+      {
+        "station_id": "396",
+        "name": "Yates Blvd & 75th St",
+        "lat": 41.758768,
+        "lon": -87.56644,
+        "address": "Yates Blvd & 75th St",
+        "cross_street": "Yates Blvd & 75th St",
+        "post_code": "60649",
+        "capacity": 11
+      },
+      {
+        "station_id": "397",
+        "name": "Saginaw Ave & Exchange Ave",
+        "lat": 41.75874583706,
+        "lon": -87.5601147813,
+        "address": "Saginaw Ave & Exchange Ave",
+        "cross_street": "Saginaw Ave & Exchange Ave",
+        "post_code": "60649",
+        "capacity": 11
+      },
+      {
+        "station_id": "398",
+        "name": "Rainbow Beach",
+        "lat": 41.75787144829,
+        "lon": -87.54938625,
+        "address": "Rainbow Beach",
+        "cross_street": "Rainbow Beach",
+        "post_code": "60649",
+        "capacity": 15
+      },
+      {
+        "station_id": "399",
+        "name": "South Shore Dr & 74th St",
+        "lat": 41.76218896038,
+        "lon": -87.55927465,
+        "address": "South Shore Dr & 74th St",
+        "cross_street": "South Shore Dr & 74th St",
+        "post_code": "60649",
+        "capacity": 11
+      },
+      {
+        "station_id": "400",
+        "name": "Cottage Grove Ave & 71st St",
+        "lat": 41.76571903697,
+        "lon": -87.604959713,
+        "address": "Cottage Grove Ave & 71st St",
+        "cross_street": "Cottage Grove Ave & 71st St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "401",
+        "name": "Shields Ave & 28th Pl",
+        "lat": 41.842733,
+        "lon": -87.635491,
+        "address": "Shields Ave & 28th Pl",
+        "cross_street": "Shields Ave & 28th Pl",
+        "post_code": "60616",
+        "capacity": 11
+      },
+      {
+        "station_id": "402",
+        "name": "Shields Ave & 31st St",
+        "lat": 41.838464,
+        "lon": -87.635406,
+        "address": "Shields Ave & 31st St",
+        "cross_street": "Shields Ave & 31st St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "403",
+        "name": "Wentworth Ave & 33rd St",
+        "lat": 41.83452988563,
+        "lon": -87.6318229814,
+        "address": "Wentworth Ave & 33rd St",
+        "cross_street": "Wentworth Ave & 33rd St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "405",
+        "name": "Wentworth Ave & 35th St",
+        "lat": 41.830777,
+        "lon": -87.632504,
+        "address": "Wentworth Ave & 35th St",
+        "cross_street": "Wentworth Ave & 35th St",
+        "post_code": "60616",
+        "capacity": 15
+      },
+      {
+        "station_id": "406",
+        "name": "Lake Park Ave & 35th St",
+        "lat": 41.83127423549,
+        "lon": -87.6087991946,
+        "address": "Lake Park Ave & 35th St",
+        "cross_street": "Lake Park Ave & 35th St",
+        "post_code": "60616",
+        "capacity": 19
+      },
+      {
+        "station_id": "407",
+        "name": "State St & Pershing Rd",
+        "lat": 41.82301523798,
+        "lon": -87.6265680185,
+        "address": "State St & Pershing Rd",
+        "cross_street": "State St & Pershing Rd",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "408",
+        "name": "Union Ave & Root St",
+        "lat": 41.819102,
+        "lon": -87.643278,
+        "address": "Union Ave & Root St",
+        "cross_street": "Union Ave & Root St",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "409",
+        "name": "Shields Ave & 43rd St",
+        "lat": 41.81620767856,
+        "lon": -87.6348193497,
+        "address": "Shields Ave & 43rd St",
+        "cross_street": "Shields Ave & 43rd St",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "410",
+        "name": "Prairie Ave & 43rd St",
+        "lat": 41.81665889302,
+        "lon": -87.6194124619,
+        "address": "Prairie Ave & 43rd St",
+        "cross_street": "Prairie Ave & 43rd St",
+        "post_code": "60653",
+        "capacity": 15
+      },
+      {
+        "station_id": "411",
+        "name": "Halsted St & 47th Pl",
+        "lat": 41.80813391481,
+        "lon": -87.6456165545,
+        "address": "Halsted St & 47th Pl",
+        "cross_street": "Halsted St & 47th Pl",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "412",
+        "name": "Princeton Ave & 47th St",
+        "lat": 41.80931770924,
+        "lon": -87.633449288,
+        "address": "Princeton Ave & 47th St",
+        "cross_street": "Princeton Ave & 47th St",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "413",
+        "name": "Woodlawn Ave & Lake Park Ave",
+        "lat": 41.81409271048,
+        "lon": -87.5970051479,
+        "address": "Woodlawn Ave & Lake Park Ave",
+        "cross_street": "Woodlawn Ave & Lake Park Ave",
+        "post_code": "60653",
+        "capacity": 15
+      },
+      {
+        "station_id": "414",
+        "name": "Canal St & Taylor St",
+        "lat": 41.870257,
+        "lon": -87.639474,
+        "address": "Canal St & Taylor St",
+        "cross_street": "Canal St & Taylor St",
+        "post_code": "60607",
+        "capacity": 15
+      },
+      {
+        "station_id": "415",
+        "name": "Calumet Ave & 51st St",
+        "lat": 41.80229465088,
+        "lon": -87.6180535802,
+        "address": "Calumet Ave & 51st St",
+        "cross_street": "Calumet Ave & 51st St",
+        "post_code": "60615",
+        "capacity": 15
+      },
+      {
+        "station_id": "416",
+        "name": "Dorchester Ave & 49th St",
+        "lat": 41.805772,
+        "lon": -87.592464,
+        "address": "Dorchester Ave & 49th St",
+        "cross_street": "Dorchester Ave & 49th St",
+        "post_code": "60615",
+        "capacity": 15
+      },
+      {
+        "station_id": "417",
+        "name": "Cornell Ave & Hyde Park Blvd",
+        "lat": 41.802406,
+        "lon": -87.586924,
+        "address": "Cornell Ave & Hyde Park Blvd",
+        "cross_street": "Cornell Ave & Hyde Park Blvd",
+        "post_code": "60615",
+        "capacity": 19
+      },
+      {
+        "station_id": "418",
+        "name": "Ellis Ave & 53rd St",
+        "lat": 41.79933626261,
+        "lon": -87.6009581145,
+        "address": "Ellis Ave & 53rd St",
+        "cross_street": "Ellis Ave & 53rd St",
+        "post_code": "60615",
+        "capacity": 11
+      },
+      {
+        "station_id": "419",
+        "name": "Lake Park Ave & 53rd St",
+        "lat": 41.79949429373,
+        "lon": -87.5864498959,
+        "address": "Lake Park Ave & 53rd St",
+        "cross_street": "Lake Park Ave & 53rd St",
+        "post_code": "60615",
+        "capacity": 15
+      },
+      {
+        "station_id": "420",
+        "name": "Ellis Ave & 55th St",
+        "lat": 41.79430062054,
+        "lon": -87.6014497734,
+        "address": "Ellis Ave & 55th St",
+        "cross_street": "Ellis Ave & 55th St",
+        "post_code": "60637",
+        "capacity": 19
+      },
+      {
+        "station_id": "421",
+        "name": "MLK Jr Dr & 56th St (*)",
+        "lat": 41.79342945658,
+        "lon": -87.6158532619,
+        "address": "MLK Jr Dr & 56th St (*)",
+        "cross_street": "MLK Jr Dr & 56th St (*)",
+        "post_code": "60637",
+        "capacity": 12
+      },
+      {
+        "station_id": "422",
+        "name": "DuSable Museum",
+        "lat": 41.79156801058,
+        "lon": -87.6078521774,
+        "address": "DuSable Museum",
+        "cross_street": "DuSable Museum",
+        "post_code": "60637",
+        "capacity": 15
+      },
+      {
+        "station_id": "423",
+        "name": "University Ave & 57th St",
+        "lat": 41.791478,
+        "lon": -87.599861,
+        "address": "University Ave & 57th St",
+        "cross_street": "University Ave & 57th St ",
+        "post_code": "60637",
+        "capacity": 31
+      },
+      {
+        "station_id": "424",
+        "name": "Museum of Science and Industry",
+        "lat": 41.79172820953,
+        "lon": -87.583945009,
+        "address": "Museum of Science and Industry",
+        "cross_street": "Museum of Science and Industry",
+        "post_code": "60637",
+        "capacity": 27
+      },
+      {
+        "station_id": "425",
+        "name": "Harper Ave & 59th St",
+        "lat": 41.78794281287,
+        "lon": -87.5883151702,
+        "address": "Harper Ave & 59th St",
+        "cross_street": "Harper Ave & 59th St",
+        "post_code": "60637",
+        "capacity": 15
+      },
+      {
+        "station_id": "426",
+        "name": "Ellis Ave & 60th St",
+        "lat": 41.78509714636,
+        "lon": -87.6010727606,
+        "address": "Ellis Ave & 60th St",
+        "cross_street": "Ellis Ave & 60th St",
+        "post_code": "60637",
+        "capacity": 19
+      },
+      {
+        "station_id": "427",
+        "name": "Cottage Grove Ave & 63rd St",
+        "lat": 41.78059901484,
+        "lon": -87.606112388,
+        "address": "Cottage Grove Ave & 63rd St",
+        "cross_street": "Cottage Grove Ave & 63rd St",
+        "post_code": "60637",
+        "capacity": 15
+      },
+      {
+        "station_id": "428",
+        "name": "Dorchester Ave & 63rd St",
+        "lat": 41.7804056457,
+        "lon": -87.5914159893,
+        "address": "Dorchester Ave & 63rd St",
+        "cross_street": "Dorchester Ave & 63rd St",
+        "post_code": "606037",
+        "capacity": 11
+      },
+      {
+        "station_id": "429",
+        "name": "Cottage Grove Ave & 67th St",
+        "lat": 41.77372095205,
+        "lon": -87.60563486,
+        "address": "Cottage Grove Ave & 67th St",
+        "cross_street": "Cottage Grove Ave & 67th St",
+        "post_code": "60637",
+        "capacity": 11
+      },
+      {
+        "station_id": "430",
+        "name": "MLK Jr Dr & 63rd St",
+        "lat": 41.78008063659,
+        "lon": -87.6159428567,
+        "address": "MLK Jr Dr & 63rd St",
+        "cross_street": "MLK Jr Dr & 63rd St",
+        "post_code": "60637",
+        "capacity": 11
+      },
+      {
+        "station_id": "431",
+        "name": "Eberhart Ave & 61st St",
+        "lat": 41.78414169317,
+        "lon": -87.6133078304,
+        "address": "Eberhart Ave & 61st St",
+        "cross_street": "Eberhart Ave & 61st St",
+        "post_code": "60637",
+        "capacity": 11
+      },
+      {
+        "station_id": "432",
+        "name": "Clark St & Lunt Ave",
+        "lat": 42.009074,
+        "lon": -87.67419,
+        "address": "Clark St & Lunt Ave",
+        "cross_street": "Clark St & Lunt Ave",
+        "post_code": "60626",
+        "capacity": 19
+      },
+      {
+        "station_id": "433",
+        "name": "Kedzie Ave & Harrison St",
+        "lat": 41.87359967462,
+        "lon": -87.7048707493,
+        "address": "Kedzie Ave & Harrison St",
+        "cross_street": "Kedzie Ave & Harrison St",
+        "post_code": "60612",
+        "capacity": 11
+      },
+      {
+        "station_id": "434",
+        "name": "Ogden Ave & Roosevelt Rd",
+        "lat": 41.86650148316,
+        "lon": -87.68469707,
+        "address": "Ogden Ave & Roosevelt Rd",
+        "cross_street": "Ogden Ave & Roosevelt Rd",
+        "post_code": "60608",
+        "capacity": 19
+      },
+      {
+        "station_id": "435",
+        "name": "Kedzie Ave & Roosevelt Rd",
+        "lat": 41.86649278172,
+        "lon": -87.7064961757,
+        "address": "Kedzie Ave & Roosevelt Rd",
+        "cross_street": "Kedzie Ave & Roosevelt Rd",
+        "post_code": "60624",
+        "capacity": 15
+      },
+      {
+        "station_id": "436",
+        "name": "Fairfield Ave & Roosevelt Rd",
+        "lat": 41.866624,
+        "lon": -87.694521,
+        "address": "Fairfield Ave & Roosevelt Rd",
+        "cross_street": "Fairfield Ave & Roosevelt Rd",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "437",
+        "name": "Washtenaw Ave & Ogden Ave (*)",
+        "lat": 41.861894,
+        "lon": -87.693511,
+        "address": "Washtenaw Ave & Ogden Ave (*)",
+        "cross_street": "Washtenaw Ave & Ogden Ave (*)",
+        "post_code": "60608",
+        "capacity": 20
+      },
+      {
+        "station_id": "438",
+        "name": "Central Park Ave & Ogden Ave",
+        "lat": 41.85420431327,
+        "lon": -87.7154058381,
+        "address": "Central Park Ave & Ogden Ave",
+        "cross_street": "Central Park Ave & Ogden Ave",
+        "post_code": "60623",
+        "capacity": 15
+      },
+      {
+        "station_id": "439",
+        "name": "Kedzie Ave & 21st St",
+        "lat": 41.85353363213,
+        "lon": -87.7050730318,
+        "address": "Kedzie Ave & 21st St",
+        "cross_street": "Kedzie Ave & 21st St",
+        "post_code": "60623",
+        "capacity": 11
+      },
+      {
+        "station_id": "440",
+        "name": "Lawndale Ave & 23rd St",
+        "lat": 41.8498819465,
+        "lon": -87.7170003853,
+        "address": "Lawndale Ave & 23rd St",
+        "cross_street": "Lawndale Ave & 23rd St",
+        "post_code": "60623",
+        "capacity": 11
+      },
+      {
+        "station_id": "441",
+        "name": "Kedzie Ave & 24th St",
+        "lat": 41.84819094491,
+        "lon": -87.7054137458,
+        "address": "Kedzie Ave & 24th St",
+        "cross_street": "Kedzie Ave & 24th St",
+        "post_code": "60623",
+        "capacity": 11
+      },
+      {
+        "station_id": "442",
+        "name": "California Ave & 23rd Pl",
+        "lat": 41.84910969176,
+        "lon": -87.6951398068,
+        "address": "California Ave & 23rd Pl",
+        "cross_street": "California Ave & 23rd Pl",
+        "post_code": "60608",
+        "capacity": 15
+      },
+      {
+        "station_id": "443",
+        "name": "Millard Ave & 26th St",
+        "lat": 41.84456684891,
+        "lon": -87.7159103081,
+        "address": "Millard Ave & 26th St",
+        "cross_street": "Millard Ave & 26th St",
+        "post_code": "60623",
+        "capacity": 11
+      },
+      {
+        "station_id": "444",
+        "name": "Albany Ave & 26th St",
+        "lat": 41.84447501366,
+        "lon": -87.7020130128,
+        "address": "Albany Ave & 26th St",
+        "cross_street": "Albany Ave & 26th St",
+        "post_code": "60623",
+        "capacity": 11
+      },
+      {
+        "station_id": "445",
+        "name": "California Ave & 26th St",
+        "lat": 41.84404003127,
+        "lon": -87.6952959227,
+        "address": "California Ave & 26th St",
+        "cross_street": "California Ave & 26th St",
+        "post_code": "60608",
+        "capacity": 11
+      },
+      {
+        "station_id": "446",
+        "name": "Western Ave & 28th St",
+        "lat": 41.84151770807,
+        "lon": -87.6851314409,
+        "address": "Western Ave & 28th St",
+        "cross_street": "Western Ave & 28th St",
+        "post_code": "60608",
+        "capacity": 11
+      },
+      {
+        "station_id": "447",
+        "name": "Glenwood Ave & Morse Ave",
+        "lat": 42.00797192287,
+        "lon": -87.6655023944,
+        "address": "Glenwood Ave & Morse Ave",
+        "cross_street": "Glenwood Ave & Morse Ave",
+        "post_code": "60626",
+        "capacity": 15
+      },
+      {
+        "station_id": "448",
+        "name": "Warren Park East",
+        "lat": 42.00454962194,
+        "lon": -87.6806661451,
+        "address": "Warren Park East",
+        "cross_street": "Warren Park East",
+        "post_code": "60645",
+        "capacity": 15
+      },
+      {
+        "station_id": "449",
+        "name": "Clark St & Columbia Ave",
+        "lat": 42.00445062934,
+        "lon": -87.6724024047,
+        "address": "Clark St & Columbia Ave",
+        "cross_street": "Clark St & Columbia Ave",
+        "post_code": "60626",
+        "capacity": 15
+      },
+      {
+        "station_id": "450",
+        "name": "Warren Park West",
+        "lat": 42.001785,
+        "lon": -87.688829,
+        "address": "Warren Park West",
+        "cross_street": "Warren Park West",
+        "post_code": "60645",
+        "capacity": 15
+      },
+      {
+        "station_id": "451",
+        "name": "Sheridan Rd & Loyola Ave",
+        "lat": 42.00104377979,
+        "lon": -87.6611982433,
+        "address": "Sheridan Rd & Loyola Ave",
+        "cross_street": "Sheridan Rd & Loyola Ave",
+        "post_code": "60626",
+        "capacity": 23
+      },
+      {
+        "station_id": "452",
+        "name": "Western Ave & Granville Ave",
+        "lat": 41.99416136902,
+        "lon": -87.689438282,
+        "address": "Western Ave & Granville Ave",
+        "cross_street": "Western Ave & Granville Ave",
+        "post_code": "60659",
+        "capacity": 15
+      },
+      {
+        "station_id": "453",
+        "name": "Clark St & Schreiber Ave",
+        "lat": 41.99925182186,
+        "lon": -87.6713773393,
+        "address": "Clark St & Schreiber Ave",
+        "cross_street": "Clark St & Schreiber Ave",
+        "post_code": "60626",
+        "capacity": 15
+      },
+      {
+        "station_id": "454",
+        "name": "Broadway & Granville Ave",
+        "lat": 41.9947796884,
+        "lon": -87.6602845349,
+        "address": "Broadway & Granville Ave",
+        "cross_street": "Broadway & Granville Ave",
+        "post_code": "60660",
+        "capacity": 23
+      },
+      {
+        "station_id": "455",
+        "name": "Maplewood Ave & Peterson Ave",
+        "lat": 41.99023602867,
+        "lon": -87.6933696402,
+        "address": "Maplewood Ave & Peterson Ave",
+        "cross_street": "Maplewood Ave & Peterson Ave",
+        "post_code": "60659",
+        "capacity": 15
+      },
+      {
+        "station_id": "456",
+        "name": "2112 W Peterson Ave",
+        "lat": 41.991178,
+        "lon": -87.683593,
+        "address": "2112 W Peterson Ave",
+        "cross_street": "2112 W Peterson Ave",
+        "post_code": "60659",
+        "capacity": 15
+      },
+      {
+        "station_id": "457",
+        "name": "Clark St & Elmdale Ave",
+        "lat": 41.990887,
+        "lon": -87.669758,
+        "address": "Clark St & Elmdale Ave",
+        "cross_street": "Clark St & Elmdale Ave",
+        "post_code": "60660",
+        "capacity": 19
+      },
+      {
+        "station_id": "458",
+        "name": "Broadway & Thorndale Ave",
+        "lat": 41.98974251144,
+        "lon": -87.6601406209,
+        "address": "Broadway & Thorndale Ave",
+        "cross_street": "Broadway & Thorndale Ave",
+        "post_code": "60660",
+        "capacity": 19
+      },
+      {
+        "station_id": "459",
+        "name": "Lakefront Trail & Bryn Mawr Ave",
+        "lat": 41.98403669612,
+        "lon": -87.6523104689,
+        "address": "Lakefront Trail & Bryn Mawr Ave",
+        "cross_street": "Lakefront Trail & Bryn Mawr Ave",
+        "post_code": "60640",
+        "capacity": 19
+      },
+      {
+        "station_id": "460",
+        "name": "Clark St & Bryn Mawr Ave",
+        "lat": 41.983593,
+        "lon": -87.669154,
+        "address": "Clark St & Bryn Mawr Ave",
+        "cross_street": "Clark St & Bryn Mawr Ave",
+        "post_code": "60660",
+        "capacity": 15
+      },
+      {
+        "station_id": "461",
+        "name": "Broadway & Ridge Ave",
+        "lat": 41.9840446107,
+        "lon": -87.6602738295,
+        "address": "Broadway & Ridge Ave",
+        "cross_street": "Broadway & Ridge Ave",
+        "post_code": "60660",
+        "capacity": 15
+      },
+      {
+        "station_id": "462",
+        "name": "Winchester (Ravenswood) Ave & Balmoral Ave",
+        "lat": 41.979762,
+        "lon": -87.67753,
+        "address": "Winchester (Ravenswood) Ave & Balmoral Ave",
+        "cross_street": "Winchester (Ravenswood) Ave & Balmoral Ave",
+        "post_code": "60640",
+        "capacity": 15
+      },
+      {
+        "station_id": "463",
+        "name": "Clark St & Berwyn Ave",
+        "lat": 41.9779966544,
+        "lon": -87.6680471047,
+        "address": "Clark St & Berwyn Ave",
+        "cross_street": "Clark St & Berwyn Ave",
+        "post_code": "60640",
+        "capacity": 19
+      },
+      {
+        "station_id": "464",
+        "name": "Damen Ave & Foster Ave",
+        "lat": 41.97561480459,
+        "lon": -87.6794590387,
+        "address": "Damen Ave & Foster Ave",
+        "cross_street": "Damen Ave & Foster Ave",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "465",
+        "name": "Marine Dr & Ainslie St",
+        "lat": 41.9716,
+        "lon": -87.650154,
+        "address": "Marine Dr & Ainslie St",
+        "cross_street": "Marine Dr & Ainslie St",
+        "post_code": "60640",
+        "capacity": 23
+      },
+      {
+        "station_id": "466",
+        "name": "Ridge Blvd & Touhy Ave",
+        "lat": 42.01213227742,
+        "lon": -87.6829126443,
+        "address": "Ridge Blvd & Touhy Ave",
+        "cross_street": "Ridge Blvd & Touhy Ave",
+        "post_code": "60645",
+        "capacity": 15
+      },
+      {
+        "station_id": "467",
+        "name": "Western Ave & Lunt Ave",
+        "lat": 42.0085943972,
+        "lon": -87.6904922389,
+        "address": "Western Ave & Lunt Ave",
+        "cross_street": "Western Ave & Lunt Ave",
+        "post_code": "60645",
+        "capacity": 15
+      },
+      {
+        "station_id": "468",
+        "name": "Budlong Woods Library",
+        "lat": 41.98366470886,
+        "lon": -87.6964225611,
+        "address": "Budlong Woods Library",
+        "cross_street": "Budlong Woods Library",
+        "post_code": "60659",
+        "capacity": 15
+      },
+      {
+        "station_id": "469",
+        "name": "St. Louis Ave & Balmoral Ave",
+        "lat": 41.98039423475,
+        "lon": -87.7161149615,
+        "address": "St. Louis Ave & Balmoral Ave",
+        "cross_street": "St. Louis Ave & Balmoral Ave",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "470",
+        "name": "Kedzie Ave & Foster Ave",
+        "lat": 41.975672,
+        "lon": -87.709261,
+        "address": "Kedzie Ave & Foster Ave",
+        "cross_street": "Kedzie Ave & Foster Ave",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "471",
+        "name": "Francisco Ave & Foster Ave",
+        "lat": 41.97563272521,
+        "lon": -87.7014194389,
+        "address": "Francisco Ave & Foster Ave",
+        "cross_street": "Francisco Ave & Foster Ave",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "472",
+        "name": "Lincoln Ave & Winona St",
+        "lat": 41.97491129677,
+        "lon": -87.6925025594,
+        "address": "Lincoln Ave & Winona St",
+        "cross_street": "Lincoln Ave & Winona St",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "474",
+        "name": "Christiana Ave & Lawrence Ave",
+        "lat": 41.96835449363,
+        "lon": -87.7118306675,
+        "address": "Christiana Ave & Lawrence Ave",
+        "cross_street": "Christiana Ave & Lawrence Ave",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "475",
+        "name": "Washtenaw Ave & Lawrence Ave",
+        "lat": 41.968987,
+        "lon": -87.696027,
+        "address": "Washtenaw Ave & Lawrence Ave",
+        "cross_street": "Washtenaw Ave & Lawrence Ave",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "476",
+        "name": "Kedzie Ave & Leland Ave",
+        "lat": 41.96668636205,
+        "lon": -87.7080519806,
+        "address": "Kedzie Ave & Leland Ave",
+        "cross_street": "Kedzie Ave & Leland Ave",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "477",
+        "name": "Manor Ave & Leland Ave",
+        "lat": 41.965875,
+        "lon": -87.700825,
+        "address": "Manor Ave & Leland Ave",
+        "cross_street": "Manor Ave & Leland Ave",
+        "post_code": "60625",
+        "capacity": 11
+      },
+      {
+        "station_id": "478",
+        "name": "Rockwell St & Eastwood Ave",
+        "lat": 41.96590013976,
+        "lon": -87.6936384935,
+        "address": "Rockwell St & Eastwood Ave",
+        "cross_street": "Rockwell St & Eastwood Ave",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "479",
+        "name": "Drake Ave & Montrose Ave",
+        "lat": 41.96115407569,
+        "lon": -87.7165690733,
+        "address": "Drake Ave & Montrose Ave",
+        "cross_street": "Drake Ave & Montrose Ave",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "480",
+        "name": "Albany Ave & Montrose Ave",
+        "lat": 41.961041,
+        "lon": -87.705866,
+        "address": "Albany Ave & Montrose Ave",
+        "cross_street": "Albany Ave & Montrose Ave",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "481",
+        "name": "California Ave & Montrose Ave",
+        "lat": 41.961068,
+        "lon": -87.695439,
+        "address": "California Ave & Montrose Ave",
+        "cross_street": "California Ave & Montrose Ave",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "482",
+        "name": "Campbell Ave & Montrose Ave",
+        "lat": 41.96152593287,
+        "lon": -87.6911650414,
+        "address": "Campbell Ave & Montrose Ave",
+        "cross_street": "Campbell Ave & Montrose Ave",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "483",
+        "name": "Avondale Ave & Irving Park Rd",
+        "lat": 41.953393,
+        "lon": -87.732002,
+        "address": "Avondale Ave & Irving Park Rd",
+        "cross_street": "Avondale Ave & Irving Park Rd",
+        "post_code": "60641",
+        "capacity": 19
+      },
+      {
+        "station_id": "484",
+        "name": "Monticello Ave & Irving Park Rd",
+        "lat": 41.95400483876,
+        "lon": -87.7191281797,
+        "address": "Monticello Ave & Irving Park Rd",
+        "cross_street": "Monticello Ave & Irving Park Rd",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "485",
+        "name": "Sawyer Ave & Irving Park Rd",
+        "lat": 41.95358617895,
+        "lon": -87.7093107999,
+        "address": "Sawyer Ave & Irving Park Rd",
+        "cross_street": "Sawyer Ave & Irving Park Rd",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "486",
+        "name": "Oakley Ave & Irving Park Rd",
+        "lat": 41.95434085219,
+        "lon": -87.6860796243,
+        "address": "Oakley Ave & Irving Park Rd",
+        "cross_street": "Oakley Ave & Irving Park Rd",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "487",
+        "name": "California Ave & Byron St",
+        "lat": 41.95216219326,
+        "lon": -87.698051113,
+        "address": "California Ave & Byron St",
+        "cross_street": "California Ave & Byron St",
+        "post_code": "60618",
+        "capacity": 19
+      },
+      {
+        "station_id": "488",
+        "name": "Pulaski Rd & Eddy St (Temp)",
+        "lat": 41.946264,
+        "lon": -87.731023,
+        "address": "Pulaski Rd & Eddy St (Temp)",
+        "cross_street": "Pulaski Rd & Eddy St (Temp)",
+        "post_code": "60641",
+        "capacity": 11
+      },
+      {
+        "station_id": "489",
+        "name": "Drake Ave & Addison St",
+        "lat": 41.947326,
+        "lon": -87.717582,
+        "address": "Drake Ave & Addison St",
+        "cross_street": "Drake Ave & Addison St",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "490",
+        "name": "Troy St & Elston Ave",
+        "lat": 41.94524356848,
+        "lon": -87.7066499009,
+        "address": "Troy St & Elston Ave",
+        "cross_street": "Troy St & Elston Ave",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "491",
+        "name": "Talman Ave & Addison St",
+        "lat": 41.9466358306,
+        "lon": -87.694614758,
+        "address": "Talman Ave & Addison St",
+        "cross_street": "Talman Ave & Addison St",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "492",
+        "name": "Leavitt St & Addison St",
+        "lat": 41.946655,
+        "lon": -87.683359,
+        "address": "Leavitt St & Addison St",
+        "cross_street": "Leavitt St & Addison St",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "493",
+        "name": "Western Ave & Roscoe St",
+        "lat": 41.943034,
+        "lon": -87.687288,
+        "address": "Western Ave & Roscoe St",
+        "cross_street": "Western Ave & Roscoe St",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "494",
+        "name": "Kedzie Ave & Bryn Mawr Ave",
+        "lat": 41.98239708485,
+        "lon": -87.7089225202,
+        "address": "Kedzie Ave & Bryn Mawr Ave",
+        "cross_street": "Kedzie Ave & Bryn Mawr Ave",
+        "post_code": "60625",
+        "capacity": 15
+      },
+      {
+        "station_id": "495",
+        "name": "Keystone Ave & Montrose Ave",
+        "lat": 41.96110801623,
+        "lon": -87.7289701012,
+        "address": "Keystone Ave & Montrose Ave",
+        "cross_street": "Keystone Ave & Montrose Ave",
+        "post_code": "60630",
+        "capacity": 15
+      },
+      {
+        "station_id": "496",
+        "name": "Avers Ave & Belmont Ave",
+        "lat": 41.939408,
+        "lon": -87.723574,
+        "address": "Avers Ave & Belmont Ave",
+        "cross_street": "Avers Ave & Belmont Ave",
+        "post_code": "60618",
+        "capacity": 11
+      },
+      {
+        "station_id": "497",
+        "name": "Kimball Ave & Belmont Ave",
+        "lat": 41.939398,
+        "lon": -87.711561,
+        "address": "Kimball Ave & Belmont Ave",
+        "cross_street": "Kimball Ave & Belmont Ave",
+        "post_code": "60618",
+        "capacity": 23
+      },
+      {
+        "station_id": "498",
+        "name": "California Ave & Fletcher St",
+        "lat": 41.93842879148,
+        "lon": -87.698007756,
+        "address": "California Ave & Fletcher St",
+        "cross_street": "California Ave & Fletcher St",
+        "post_code": "60618",
+        "capacity": 19
+      },
+      {
+        "station_id": "499",
+        "name": "Kosciuszko Park",
+        "lat": 41.93058537138,
+        "lon": -87.7237773635,
+        "address": "Kosciuszko Park",
+        "cross_street": "Kosciuszko Park",
+        "post_code": "60647",
+        "capacity": 15
+      },
+      {
+        "station_id": "500",
+        "name": "Central Park Ave & Elbridge Ave",
+        "lat": 41.93533728263,
+        "lon": -87.7168892935,
+        "address": "Central Park Ave & Elbridge Ave",
+        "cross_street": "Central Park Ave & Elbridge Ave",
+        "post_code": "60618",
+        "capacity": 15
+      },
+      {
+        "station_id": "501",
+        "name": "Richmond St & Diversey Ave",
+        "lat": 41.93190196886,
+        "lon": -87.7011951301,
+        "address": "Richmond St & Diversey Ave",
+        "cross_street": "Richmond St & Diversey Ave",
+        "post_code": "60647",
+        "capacity": 15
+      },
+      {
+        "station_id": "502",
+        "name": "California Ave & Altgeld St",
+        "lat": 41.92669,
+        "lon": -87.697668,
+        "address": "California Ave & Altgeld St",
+        "cross_street": "California Ave & Altgeld St",
+        "post_code": "60647",
+        "capacity": 15
+      },
+      {
+        "station_id": "503",
+        "name": "Drake Ave & Fullerton Ave",
+        "lat": 41.924398819,
+        "lon": -87.7154410355,
+        "address": "Drake Ave & Fullerton Ave",
+        "cross_street": "Drake Ave & Fullerton Ave",
+        "post_code": "60647",
+        "capacity": 15
+      },
+      {
+        "station_id": "504",
+        "name": "Campbell Ave & Fullerton Ave",
+        "lat": 41.92463247165,
+        "lon": -87.6893070063,
+        "address": "Campbell Ave & Fullerton Ave",
+        "cross_street": "Campbell Ave & Fullerton Ave",
+        "post_code": "60647",
+        "capacity": 15
+      },
+      {
+        "station_id": "505",
+        "name": "Winchester Ave & Elston Ave",
+        "lat": 41.92409085038,
+        "lon": -87.6764600747,
+        "address": "Winchester Ave & Elston Ave",
+        "cross_street": "Winchester Ave & Elston Ave",
+        "post_code": "60614",
+        "capacity": 15
+      },
+      {
+        "station_id": "506",
+        "name": "Spaulding Ave & Armitage Ave",
+        "lat": 41.91718375155,
+        "lon": -87.7103566522,
+        "address": "Spaulding Ave & Armitage Ave",
+        "cross_street": "Spaulding Ave & Armitage Ave",
+        "post_code": "60647",
+        "capacity": 15
+      },
+      {
+        "station_id": "507",
+        "name": "Humboldt Blvd & Armitage Ave",
+        "lat": 41.91751339399,
+        "lon": -87.7018089555,
+        "address": "Humboldt Blvd & Armitage Ave",
+        "cross_street": "Humboldt Blvd & Armitage Ave",
+        "post_code": "60647",
+        "capacity": 19
+      },
+      {
+        "station_id": "508",
+        "name": "Central Park Ave & North Ave",
+        "lat": 41.90965687563,
+        "lon": -87.7166319516,
+        "address": "Central Park Ave & North Ave",
+        "cross_street": "Central Park Ave & North Ave",
+        "post_code": "60647",
+        "capacity": 15
+      },
+      {
+        "station_id": "509",
+        "name": "Troy St & North Ave",
+        "lat": 41.90976930169,
+        "lon": -87.7052804871,
+        "address": "Troy St & North Ave",
+        "cross_street": "Troy St & North Ave",
+        "post_code": "60651",
+        "capacity": 15
+      },
+      {
+        "station_id": "510",
+        "name": "Spaulding Ave & Division St",
+        "lat": 41.90270659438,
+        "lon": -87.709219571,
+        "address": "Spaulding Ave & Division St",
+        "cross_street": "Spaulding Ave & Division St",
+        "post_code": "60651",
+        "capacity": 15
+      },
+      {
+        "station_id": "511",
+        "name": "Albany Ave & Bloomingdale Ave",
+        "lat": 41.91402671273,
+        "lon": -87.705126462,
+        "address": "Albany Ave & Bloomingdale Ave",
+        "cross_street": "Albany Ave & Bloomingdale Ave",
+        "post_code": "60647",
+        "capacity": 15
+      },
+      {
+        "station_id": "514",
+        "name": "Ridge Blvd & Howard St",
+        "lat": 42.019276,
+        "lon": -87.68452,
+        "address": "Ridge Blvd & Howard St",
+        "cross_street": "Ridge Blvd & Howard St",
+        "post_code": "60645",
+        "capacity": 15
+      },
+      {
+        "station_id": "515",
+        "name": "Paulina St & Howard St",
+        "lat": 42.019159,
+        "lon": -87.673573,
+        "address": "Paulina St & Howard St",
+        "cross_street": "Paulina St & Howard St",
+        "post_code": "60626",
+        "capacity": 23
+      },
+      {
+        "station_id": "517",
+        "name": "Clark St & Jarvis Ave",
+        "lat": 42.015963,
+        "lon": -87.675005,
+        "address": "Clark St & Jarvis Ave",
+        "cross_street": "Clark St & Jarvis Ave",
+        "post_code": "60626",
+        "capacity": 15
+      },
+      {
+        "station_id": "518",
+        "name": "Conservatory Dr & Lake St",
+        "lat": 41.885502,
+        "lon": -87.716866,
+        "address": "Conservatory Dr & Lake St",
+        "cross_street": "Conservatory Dr & Lake St",
+        "capacity": 15
+      },
+      {
+        "station_id": "519",
+        "name": "Wolcott Ave & Fargo Ave",
+        "lat": 42.016977,
+        "lon": -87.677725,
+        "address": "Wolcott Ave & Fargo Ave",
+        "cross_street": "Wolcott Ave & Fargo Ave",
+        "post_code": "60626",
+        "capacity": 11
+      },
+      {
+        "station_id": "520",
+        "name": "Greenview Ave & Jarvis Ave",
+        "lat": 42.015962,
+        "lon": -87.66857,
+        "address": "Greenview Ave & Jarvis Ave",
+        "cross_street": "Greenview Ave & Jarvis Ave",
+        "post_code": "60626",
+        "capacity": 23
+      },
+      {
+        "station_id": "522",
+        "name": "Bosworth Ave & Howard St",
+        "lat": 42.019537,
+        "lon": -87.669563,
+        "address": "Bosworth Ave & Howard St",
+        "cross_street": "Bosworth Ave & Howard St",
+        "post_code": "60626",
+        "capacity": 15
+      },
+      {
+        "station_id": "523",
+        "name": "Eastlake Ter & Rogers Ave",
+        "lat": 42.021019,
+        "lon": -87.665086,
+        "address": "Eastlake Ter & Rogers Ave",
+        "cross_street": "Eastlake Ter & Rogers Ave",
+        "post_code": "60626",
+        "capacity": 15
+      },
+      {
+        "station_id": "524",
+        "name": "Austin Blvd & Chicago Ave",
+        "lat": 41.894887,
+        "lon": -87.774704,
+        "address": "Austin Blvd & Chicago Ave",
+        "cross_street": "Austin Blvd & Chicago Ave",
+        "post_code": "60651",
+        "capacity": 11
+      },
+      {
+        "station_id": "525",
+        "name": "Glenwood Ave & Touhy Ave",
+        "lat": 42.012701,
+        "lon": -87.666058,
+        "address": "Glenwood Ave & Touhy Ave",
+        "cross_street": "Glenwood Ave & Touhy Ave",
+        "post_code": "60626",
+        "capacity": 15
+      },
+      {
+        "station_id": "526",
+        "name": "Oakley Ave & Touhy Ave",
+        "lat": 42.012342,
+        "lon": -87.688243,
+        "address": "Oakley Ave & Touhy Ave",
+        "cross_street": "Oakley Ave & Touhy Ave",
+        "post_code": "60645",
+        "capacity": 15
+      },
+      {
+        "station_id": "527",
+        "name": "Western Ave & Howard St",
+        "lat": 42.018901,
+        "lon": -87.690048,
+        "address": "Western Ave & Howard St",
+        "cross_street": "Western Ave & Howard St",
+        "post_code": "60645",
+        "capacity": 19
+      },
+      {
+        "station_id": "528",
+        "name": "Pulaski Rd & Lake St",
+        "lat": 41.885409,
+        "lon": -87.726491,
+        "address": "Pulaski Rd & Lake St",
+        "cross_street": "Pulaski Rd & Lake St",
+        "post_code": "60624",
+        "capacity": 15
+      },
+      {
+        "station_id": "529",
+        "name": "Cicero Ave & Lake St",
+        "lat": 41.886841,
+        "lon": -87.745261,
+        "address": "Cicero Ave & Lake St",
+        "cross_street": "Cicero Ave & Lake St",
+        "capacity": 11
+      },
+      {
+        "station_id": "530",
+        "name": "Laramie Ave & Kinzie St",
+        "lat": 41.887832,
+        "lon": -87.755527,
+        "address": "Laramie Ave & Kinzie St",
+        "cross_street": "Laramie Ave & Kinzie St",
+        "capacity": 11
+      },
+      {
+        "station_id": "531",
+        "name": "Central Ave & Lake St",
+        "lat": 41.887664,
+        "lon": -87.765469,
+        "address": "Central Ave & Lake St",
+        "cross_street": "Central Ave & Lake St",
+        "post_code": "60644",
+        "capacity": 11
+      },
+      {
+        "station_id": "532",
+        "name": "Austin Blvd & Lake St",
+        "lat": 41.887919,
+        "lon": -87.774446,
+        "address": "Austin Blvd & Lake St",
+        "cross_street": "Austin Blvd & Lake St",
+        "capacity": 15
+      },
+      {
+        "station_id": "533",
+        "name": "Central Park Blvd & 5th Ave",
+        "lat": 41.875679,
+        "lon": -87.71547,
+        "address": "Central Park Blvd & 5th Ave",
+        "cross_street": "Central Park Blvd & 5th Ave",
+        "capacity": 15
+      },
+      {
+        "station_id": "534",
+        "name": "Pulaski Rd & Madison St",
+        "lat": 41.880827,
+        "lon": -87.726279,
+        "address": "Pulaski Rd & Madison St",
+        "cross_street": "Pulaski Rd & Madison St",
+        "post_code": "60624",
+        "capacity": 15
+      },
+      {
+        "station_id": "535",
+        "name": "Pulaski Rd & Congress Pkwy",
+        "lat": 41.874325,
+        "lon": -87.725704,
+        "address": "Pulaski Rd & Congress Pkwy",
+        "cross_street": "Pulaski Rd & Congress Pkwy",
+        "post_code": "60624",
+        "capacity": 15
+      },
+      {
+        "station_id": "536",
+        "name": "Kostner Ave & Lake St",
+        "lat": 41.885928,
+        "lon": -87.73541,
+        "address": "Kostner Ave & Lake St",
+        "cross_street": "Kostner Ave & Lake St",
+        "capacity": 11
+      },
+      {
+        "station_id": "537",
+        "name": "Kenton Ave & Madison St",
+        "lat": 41.880708,
+        "lon": -87.741018,
+        "address": "Kenton Ave & Madison St",
+        "cross_street": "Kenton Ave & Madison St",
+        "capacity": 11
+      },
+      {
+        "station_id": "538",
+        "name": "Cicero Ave & Flournoy St",
+        "lat": 41.872131,
+        "lon": -87.746619,
+        "address": "Cicero Ave & Flournoy St",
+        "cross_street": "Cicero Ave & Flournoy St",
+        "capacity": 11
+      },
+      {
+        "station_id": "539",
+        "name": "Cicero Ave & Quincy St",
+        "lat": 41.877613,
+        "lon": -87.745405,
+        "address": "Cicero Ave & Quincy St",
+        "cross_street": "Cicero Ave & Quincy St",
+        "capacity": 11
+      },
+      {
+        "station_id": "540",
+        "name": "Laramie Ave & Madison St",
+        "lat": 41.880207,
+        "lon": -87.755337,
+        "address": "Laramie Ave & Madison St",
+        "cross_street": "Laramie Ave & Madison St",
+        "capacity": 11
+      },
+      {
+        "station_id": "541",
+        "name": "Central Ave & Harrison St",
+        "lat": 41.872993,
+        "lon": -87.764499,
+        "address": "Central Ave & Harrison St",
+        "cross_street": "Central Ave & Harrison St",
+        "capacity": 11
+      },
+      {
+        "station_id": "542",
+        "name": "Central Ave & Madison St",
+        "lat": 41.880121,
+        "lon": -87.763238,
+        "address": "Central Ave & Madison St",
+        "cross_street": "Central Ave & Madison St",
+        "capacity": 15
+      },
+      {
+        "station_id": "543",
+        "name": "Laramie Ave & Gladys Ave",
+        "lat": 41.875806,
+        "lon": -87.755285,
+        "address": "Laramie Ave & Gladys Ave",
+        "cross_street": "Laramie Ave & Gladys Ave",
+        "capacity": 11
+      },
+      {
+        "station_id": "544",
+        "name": "Austin Blvd & Madison St",
+        "lat": 41.880281,
+        "lon": -87.774453,
+        "address": "Austin Blvd & Madison St",
+        "cross_street": "Austin Blvd & Madison St",
+        "post_code": "60644",
+        "capacity": 11
+      },
+      {
+        "station_id": "545",
+        "name": "Kostner Ave & Adams St",
+        "lat": 41.877917,
+        "lon": -87.735737,
+        "address": "Kostner Ave & Adams St",
+        "cross_street": "Kostner Ave & Adams St",
+        "capacity": 11
+      },
+      {
+        "station_id": "546",
+        "name": "Damen Ave & Pershing Rd",
+        "lat": 41.823192,
+        "lon": -87.676597,
+        "address": "Damen Ave & Pershing Rd",
+        "cross_street": "Damen Ave & Pershing Rd",
+        "capacity": 11
+      },
+      {
+        "station_id": "547",
+        "name": "Ashland Ave & Pershing Rd",
+        "lat": 41.823465,
+        "lon": -87.665577,
+        "address": "Ashland Ave & Pershing Rd",
+        "cross_street": "Ashland Ave & Pershing Rd",
+        "capacity": 11
+      },
+      {
+        "station_id": "548",
+        "name": "Morgan St & Pershing Rd",
+        "lat": 41.823613,
+        "lon": -87.650931,
+        "address": "Morgan St & Pershing Rd",
+        "cross_street": "Morgan St & Pershing Rd",
+        "capacity": 11
+      },
+      {
+        "station_id": "549",
+        "name": "Marshfield Ave & 44th St",
+        "lat": 41.813996,
+        "lon": -87.666589,
+        "address": "Marshfield Ave & 44th St",
+        "cross_street": "Marshfield Ave & 44th St",
+        "capacity": 11
+      },
+      {
+        "station_id": "550",
+        "name": "Central Ave & Chicago Ave",
+        "lat": 41.894958,
+        "lon": -87.764902,
+        "address": "Central Ave & Chicago Ave",
+        "cross_street": "Central Ave & Chicago Ave",
+        "post_code": "60651",
+        "capacity": 11
+      },
+      {
+        "station_id": "551",
+        "name": "Hoyne Ave & 47th St",
+        "lat": 41.808227,
+        "lon": -87.67718,
+        "address": "Hoyne Ave & 47th St",
+        "cross_street": "Hoyne Ave & 47th St",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "552",
+        "name": "Ashland Ave & McDowell Ave",
+        "lat": 41.80887,
+        "lon": -87.66454,
+        "address": "Ashland Ave & McDowell Ave",
+        "cross_street": "Ashland Ave & McDowell Ave",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "553",
+        "name": "Elizabeth St & 47th St",
+        "lat": 41.80839,
+        "lon": -87.656526,
+        "address": "Elizabeth St & 47th St",
+        "cross_street": "Elizabeth St & 47th St",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "554",
+        "name": "Damen Ave & 51st St",
+        "lat": 41.800908,
+        "lon": -87.674684,
+        "address": "Damen Ave & 51st St",
+        "cross_street": "Damen Ave & 51st St",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "555",
+        "name": "Ashland Ave & 50th St",
+        "lat": 41.803023,
+        "lon": -87.664699,
+        "address": "Ashland Ave & 50th St",
+        "cross_street": "Ashland Ave & 50th St",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "556",
+        "name": "Throop St & 52nd St",
+        "lat": 41.799659,
+        "lon": -87.657195,
+        "address": "Throop St & 52nd St",
+        "cross_street": "Throop St & 52nd St",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "557",
+        "name": "Seeley Ave & Garfield Blvd",
+        "lat": 41.794087,
+        "lon": -87.675478,
+        "address": "Seeley Ave & Garfield Blvd",
+        "cross_street": "Seeley Ave & Garfield Blvd",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "558",
+        "name": "Ashland Ave & Garfield Blvd",
+        "lat": 41.792822,
+        "lon": -87.664429,
+        "address": "Ashland Ave & Garfield Blvd",
+        "cross_street": "Ashland Ave & Garfield Blvd",
+        "post_code": "60636",
+        "capacity": 11
+      },
+      {
+        "station_id": "559",
+        "name": "Racine Ave & Garfield Blvd",
+        "lat": 41.794228,
+        "lon": -87.655073,
+        "address": "Racine Ave & Garfield Blvd",
+        "cross_street": "Racine Ave & Garfield Blvd",
+        "post_code": "60609",
+        "capacity": 11
+      },
+      {
+        "station_id": "560",
+        "name": "Marshfield Ave & 59th St",
+        "lat": 41.786833,
+        "lon": -87.666215,
+        "address": "Marshfield Ave & 59th St",
+        "cross_street": "Marshfield Ave & 59th St",
+        "post_code": "60636",
+        "capacity": 11
+      },
+      {
+        "station_id": "561",
+        "name": "Damen Ave & 59th St",
+        "lat": 41.78602,
+        "lon": -87.674167,
+        "address": "Damen Ave & 59th St",
+        "cross_street": "Damen Ave & 59th St",
+        "post_code": "60636",
+        "capacity": 11
+      },
+      {
+        "station_id": "562",
+        "name": "Racine Ave & 61st St",
+        "lat": 41.783189,
+        "lon": -87.654372,
+        "address": "Racine Ave & 61st St",
+        "cross_street": "Racine Ave & 61st St",
+        "post_code": "60621",
+        "capacity": 11
+      },
+      {
+        "station_id": "563",
+        "name": "Ashland Ave & 63rd St",
+        "lat": 41.779374,
+        "lon": -87.664843,
+        "address": "Ashland Ave & 63rd St",
+        "cross_street": "Ashland Ave & 63rd St",
+        "post_code": "60636",
+        "capacity": 11
+      },
+      {
+        "station_id": "564",
+        "name": "Racine Ave & 65th St",
+        "lat": 41.775393,
+        "lon": -87.654308,
+        "address": "Racine Ave & 65th St",
+        "cross_street": "Racine Ave & 65th St",
+        "post_code": "60636",
+        "capacity": 11
+      },
+      {
+        "station_id": "565",
+        "name": "Ashland Ave & 66th St",
+        "lat": 41.774074,
+        "lon": -87.663815,
+        "address": "Ashland Ave & 66th St",
+        "cross_street": "Ashland Ave & 66th St",
+        "post_code": "60636",
+        "capacity": 11
+      },
+      {
+        "station_id": "566",
+        "name": "Ashland Ave & 69th St",
+        "lat": 41.768726,
+        "lon": -87.664069,
+        "address": "Ashland Ave & 69th St",
+        "cross_street": "Ashland Ave & 69th St",
+        "post_code": "60636",
+        "capacity": 11
+      },
+      {
+        "station_id": "567",
+        "name": "May St & 69th St",
+        "lat": 41.768938,
+        "lon": -87.652934,
+        "address": "May St & 69th St",
+        "cross_street": "May St & 69th St",
+        "post_code": "60621",
+        "capacity": 11
+      },
+      {
+        "station_id": "568",
+        "name": "Normal Ave & 72nd St",
+        "lat": 41.763462,
+        "lon": -87.637297,
+        "address": "Normal Ave & 72nd St",
+        "cross_street": "Normal Ave & 72nd St",
+        "post_code": "60621",
+        "capacity": 11
+      },
+      {
+        "station_id": "569",
+        "name": "Woodlawn Ave & 75th St",
+        "lat": 41.75916,
+        "lon": -87.595751,
+        "address": "Woodlawn Ave & 75th St",
+        "cross_street": "Woodlawn Ave & 75th St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "570",
+        "name": "Evans Ave & 75th St",
+        "lat": 41.758308,
+        "lon": -87.606685,
+        "address": "Evans Ave & 75th St",
+        "cross_street": "Evans Ave & 75th St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "571",
+        "name": "Vernon Ave & 75th St",
+        "lat": 41.758361,
+        "lon": -87.614138,
+        "address": "Vernon Ave & 75th St",
+        "cross_street": "Vernon Ave & 75th St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "572",
+        "name": "State St & 76th St",
+        "lat": 41.756971,
+        "lon": -87.624621,
+        "address": "State St & 76th St",
+        "cross_street": "State St & 76th St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "573",
+        "name": "State St & 79th St",
+        "lat": 41.750794,
+        "lon": -87.624424,
+        "address": "State St & 79th St",
+        "cross_street": "State St & 79th St",
+        "post_code": "60619",
+        "capacity": 15
+      },
+      {
+        "station_id": "574",
+        "name": "Eberhart (Vernon) Ave & 79th St",
+        "lat": 41.751345,
+        "lon": -87.612568,
+        "address": "Eberhart (Vernon) Ave & 79th St",
+        "cross_street": "Eberhart (Vernon) Ave & 79th St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "575",
+        "name": "Cottage Grove Ave & 78th St",
+        "lat": 41.753174,
+        "lon": -87.605026,
+        "address": "Cottage Grove Ave & 78th St",
+        "cross_street": "Cottage Grove Ave & 78th St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "576",
+        "name": "Greenwood Ave & 79th St",
+        "lat": 41.751294,
+        "lon": -87.597552,
+        "address": "Greenwood Ave & 79th St",
+        "cross_street": "Greenwood Ave & 79th St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "577",
+        "name": "Stony Island Ave & South Chicago Ave",
+        "lat": 41.751173,
+        "lon": -87.585337,
+        "address": "Stony Island Ave & South Chicago Ave",
+        "cross_street": "Stony Island Ave & South Chicago Ave",
+        "post_code": "60617",
+        "capacity": 11
+      },
+      {
+        "station_id": "578",
+        "name": "Bennett Ave & 79th St",
+        "lat": 41.751785,
+        "lon": -87.578496,
+        "address": "Bennett Ave & 79th St",
+        "cross_street": "Bennett Ave & 79th St",
+        "post_code": "60649",
+        "capacity": 11
+      },
+      {
+        "station_id": "579",
+        "name": "Phillips Ave & 79th St",
+        "lat": 41.75182,
+        "lon": -87.565211,
+        "address": "Phillips Ave & 79th St",
+        "cross_street": "Phillips Ave & 79th St",
+        "post_code": "60649",
+        "capacity": 11
+      },
+      {
+        "station_id": "580",
+        "name": "Exchange Ave & 79th St",
+        "lat": 41.751731,
+        "lon": -87.552812,
+        "address": "Exchange Ave & 79th St",
+        "cross_street": "Exchange Ave & 79th St",
+        "post_code": "60617",
+        "capacity": 15
+      },
+      {
+        "station_id": "581",
+        "name": "Commercial Ave & 83rd St",
+        "lat": 41.744615,
+        "lon": -87.551208,
+        "address": "Commercial Ave & 83rd St",
+        "cross_street": "Commercial Ave & 83rd St",
+        "post_code": "60617",
+        "capacity": 11
+      },
+      {
+        "station_id": "582",
+        "name": "Phillips Ave & 83rd St",
+        "lat": 41.744531,
+        "lon": -87.56506,
+        "address": "Phillips Ave & 83rd St",
+        "cross_street": "Phillips Ave & 83rd St",
+        "post_code": "60647",
+        "capacity": 11
+      },
+      {
+        "station_id": "583",
+        "name": "Stony Island Ave & 82nd St",
+        "lat": 41.746559,
+        "lon": -87.586005,
+        "address": "Stony Island Ave & 82nd St",
+        "cross_street": "Stony Island Ave & 82nd St",
+        "post_code": "60617",
+        "capacity": 11
+      },
+      {
+        "station_id": "584",
+        "name": "Ellis Ave & 83rd St",
+        "lat": 41.744123,
+        "lon": -87.599034,
+        "address": "Ellis Ave & 83rd St",
+        "cross_street": "Ellis Ave & 83rd St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "585",
+        "name": "Cottage Grove Ave & 83rd St",
+        "lat": 41.744053,
+        "lon": -87.604786,
+        "address": "Cottage Grove Ave & 83rd St",
+        "cross_street": "Cottage Grove Ave & 83rd St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "586",
+        "name": "MLK Jr Dr & 83rd St",
+        "lat": 41.743116,
+        "lon": -87.6148,
+        "address": "MLK Jr Dr & 83rd St",
+        "cross_street": "MLK Jr Dr & 83rd St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "587",
+        "name": "Wabash Ave & 83rd St",
+        "lat": 41.743316,
+        "lon": -87.622849,
+        "address": "Wabash Ave & 83rd St",
+        "cross_street": "Wabash Ave & 83rd St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "588",
+        "name": "South Chicago Ave & 83rd St",
+        "lat": 41.743921,
+        "lon": -87.575225,
+        "address": "South Chicago Ave & 83rd St",
+        "cross_street": "South Chicago Ave & 83rd St",
+        "post_code": "60617",
+        "capacity": 11
+      },
+      {
+        "station_id": "589",
+        "name": "Milwaukee Ave & Cuyler Ave",
+        "lat": 41.954468,
+        "lon": -87.749594,
+        "address": "Milwaukee Ave & Cuyler Ave",
+        "cross_street": "Milwaukee Ave & Cuyler Ave",
+        "post_code": "60641",
+        "capacity": 15
+      },
+      {
+        "station_id": "590",
+        "name": "Kilbourn Ave & Irving Park Rd",
+        "lat": 41.953733,
+        "lon": -87.740569,
+        "address": "Kilbourn Ave & Irving Park Rd",
+        "cross_street": "Kilbourn Ave & Irving Park Rd",
+        "post_code": "60641",
+        "capacity": 15
+      },
+      {
+        "station_id": "591",
+        "name": "Kilbourn Ave & Milwaukee Ave",
+        "lat": 41.948818,
+        "lon": -87.74002,
+        "address": "Kilbourn Ave & Milwaukee Ave",
+        "cross_street": "Kilbourn Ave & Milwaukee Ave",
+        "post_code": "60641",
+        "capacity": 23
+      },
+      {
+        "station_id": "592",
+        "name": "Knox Ave & Montrose Ave",
+        "lat": 41.960631,
+        "lon": -87.745359,
+        "address": "Knox Ave & Montrose Ave",
+        "cross_street": "Knox Ave & Montrose Ave",
+        "post_code": "60641",
+        "capacity": 15
+      },
+      {
+        "station_id": "593",
+        "name": "Halsted St & 59th St",
+        "lat": 41.787539,
+        "lon": -87.644874,
+        "address": "Halsted St & 59th St",
+        "cross_street": "Halsted St & 59th St",
+        "post_code": "60621",
+        "capacity": 11
+      },
+      {
+        "station_id": "594",
+        "name": "Western Blvd & 48th Pl",
+        "lat": 41.805661,
+        "lon": -87.683392,
+        "address": "Western Blvd & 48th Pl",
+        "cross_street": "Western Blvd & 48th Pl",
+        "post_code": "60609",
+        "capacity": 15
+      },
+      {
+        "station_id": "595",
+        "name": "Wabash Ave & 87th St",
+        "lat": 41.736646,
+        "lon": -87.622634,
+        "address": "Wabash Ave & 87th St",
+        "cross_street": "Wabash Ave & 87th St",
+        "post_code": "60619",
+        "capacity": 11
+      },
+      {
+        "station_id": "596",
+        "name": "Benson Ave & Church St",
+        "lat": 42.048214,
+        "lon": -87.683485,
+        "address": "Benson Ave & Church St",
+        "cross_street": "Benson Ave & Church St",
+        "capacity": 15
+      },
+      {
+        "station_id": "597",
+        "name": "Chicago Ave & Washington St",
+        "lat": 42.032562,
+        "lon": -87.679101,
+        "address": "Chicago Ave & Washington St",
+        "cross_street": "Chicago Ave & Washington St",
+        "capacity": 15
+      },
+      {
+        "station_id": "598",
+        "name": "Elmwood Ave & Austin St",
+        "lat": 42.025784,
+        "lon": -87.684107,
+        "address": "Elmwood Ave & Austin St",
+        "cross_street": "Elmwood Ave & Austin St",
+        "post_code": "60202",
+        "capacity": 15
+      },
+      {
+        "station_id": "599",
+        "name": "Valli Produce - Evanston Plaza",
+        "lat": 42.039742,
+        "lon": -87.699413,
+        "address": "Valli Produce - Evanston Plaza",
+        "cross_street": "Valli Produce - Evanston Plaza",
+        "post_code": "60202",
+        "capacity": 15
+      },
+      {
+        "station_id": "600",
+        "name": "Dodge Ave & Church St",
+        "lat": 42.048308,
+        "lon": -87.698224,
+        "address": "Dodge Ave & Church St",
+        "cross_street": "Dodge Ave & Church St",
+        "capacity": 15
+      },
+      {
+        "station_id": "601",
+        "name": "Central St Metra",
+        "lat": 42.063598,
+        "lon": -87.69873,
+        "address": "Central St Metra",
+        "cross_street": "Central St Metra",
+        "capacity": 15
+      },
+      {
+        "station_id": "602",
+        "name": "Central St & Girard Ave",
+        "lat": 42.064313,
+        "lon": -87.686152,
+        "address": "Central St & Girard Ave",
+        "cross_street": "Central St & Girard Ave",
+        "post_code": "60201",
+        "capacity": 15
+      },
+      {
+        "station_id": "603",
+        "name": "Chicago Ave & Sheridan Rd",
+        "lat": 42.050491,
+        "lon": -87.677821,
+        "address": "Chicago Ave & Sheridan Rd",
+        "cross_street": "Chicago Ave & Sheridan Rd",
+        "post_code": "60201",
+        "capacity": 15
+      },
+      {
+        "station_id": "604",
+        "name": "Sheridan Rd & Noyes St (NU)",
+        "lat": 42.058239,
+        "lon": -87.677432,
+        "address": "Sheridan Rd & Noyes St (NU)",
+        "cross_street": "Sheridan Rd & Noyes St  (NU)",
+        "post_code": "60208",
+        "capacity": 15
+      },
+      {
+        "station_id": "605",
+        "name": "University Library (NU)",
+        "lat": 42.052939,
+        "lon": -87.673447,
+        "address": "University Library (NU)",
+        "cross_street": "University Library (NU)",
+        "post_code": "60208",
+        "capacity": 15
+      },
+      {
+        "station_id": "619",
+        "name": "Keystone Ave & Fullerton Ave",
+        "lat": 41.924377,
+        "lon": -87.728231,
+        "address": "Keystone Ave & Fullerton Ave",
+        "cross_street": "Keystone Ave & Fullerton Ave",
+        "post_code": "60639",
+        "capacity": 15
+      },
+      {
+        "station_id": "620",
+        "name": "Orleans St & Chestnut St (NEXT Apts)",
+        "lat": 41.898203,
+        "lon": -87.637536,
+        "address": "Orleans St & Chestnut St (NEXT Apts)",
+        "cross_street": "Orleans St & Chestnut St (NEXT Apts)",
+        "post_code": "60610",
+        "capacity": 15
+      },
+      {
+        "station_id": "621",
+        "name": "Aberdeen St & Randolph St",
+        "lat": 41.884114,
+        "lon": -87.654264,
+        "address": "Aberdeen St & Randolph St",
+        "cross_street": "Aberdeen St & Randolph St",
+        "post_code": "60607",
+        "capacity": 15
+      },
+      {
+        "station_id": "622",
+        "name": "California Ave & Cortez St",
+        "lat": 41.900363,
+        "lon": -87.696704,
+        "address": "California Ave & Cortez St",
+        "cross_street": "California Ave & Cortez St",
+        "post_code": "60622",
+        "capacity": 15
+      },
+      {
+        "station_id": "623",
+        "name": "Michigan Ave & 8th St",
+        "lat": 41.872773,
+        "lon": -87.623981,
+        "address": "Michigan Ave & 8th St",
+        "cross_street": "Michigan Ave & 8th St",
+        "post_code": "60605",
+        "capacity": 41
+      },
+      {
+        "station_id": "624",
+        "name": "Dearborn St & Van Buren St (*)",
+        "lat": 41.876268,
+        "lon": -87.629155,
+        "address": "Dearborn St & Van Buren St (*)",
+        "cross_street": "Dearborn St & Van Buren St (*)",
+        "post_code": "60605",
+        "capacity": 16
+      },
+      {
+        "station_id": "625",
+        "name": "Chicago Ave & Dempster St",
+        "lat": 42.041691,
+        "lon": -87.680687,
+        "address": "Chicago Ave & Dempster St",
+        "cross_street": "Chicago Ave & Dempster St",
+        "post_code": "60201",
+        "capacity": 15
+      },
+      {
+        "station_id": "626",
+        "name": "Delano Ct & Roosevelt Rd",
+        "lat": 41.867491,
+        "lon": -87.63219,
+        "address": "Delano Ct & Roosevelt Rd",
+        "cross_street": "Delano Ct & Roosevelt Rd",
+        "post_code": "60605",
+        "capacity": 19
+      },
+      {
+        "station_id": "627",
+        "name": "LaSalle Dr & Huron St (*)",
+        "lat": 41.894877,
+        "lon": -87.632326,
+        "address": "LaSalle Dr & Huron St(*)",
+        "cross_street": "LaSalle Dr & Huron St (*)",
+        "post_code": "60654",
+        "capacity": 20
+      }
+    ]
+  },
+  "system_id": "divvy"
+}

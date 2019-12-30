@@ -1,0 +1,443 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -98.48236,
+        "lat": 29.43701,
+        "address": "200 W. Jones Ave.",
+        "name": "S.A. Museum of Art",
+        "station_id": "bcycle_sanantonio_1813"
+      },
+      {
+        "lon": -98.4922,
+        "lat": 29.43257,
+        "address": "1224 Navarro St.",
+        "name": "S.A. Central Library",
+        "station_id": "bcycle_sanantonio_1815"
+      },
+      {
+        "lon": -98.49825,
+        "lat": 29.4263,
+        "address": "100 N Santa Rosa",
+        "name": "Milam Park",
+        "station_id": "bcycle_sanantonio_1816"
+      },
+      {
+        "lon": -98.49442,
+        "lat": 29.42479,
+        "address": "Main Plaza @ S. Flores St.",
+        "name": "Main Plaza",
+        "station_id": "bcycle_sanantonio_1817"
+      },
+      {
+        "lon": -98.49949,
+        "lat": 29.42454,
+        "address": "Dolorosa St. @ Market Sq.",
+        "name": "Market Square",
+        "station_id": "bcycle_sanantonio_1818"
+      },
+      {
+        "lon": -98.48825,
+        "lat": 29.42093,
+        "address": "S. Alamo @ Nueva St.",
+        "name": "S. Alamo@Nueva",
+        "station_id": "bcycle_sanantonio_1819"
+      },
+      {
+        "lon": -98.48703,
+        "lat": 29.4265,
+        "address": "E. Houston at Alamo St.",
+        "name": "Alamo Plaza",
+        "station_id": "bcycle_sanantonio_1820"
+      },
+      {
+        "lon": -98.48011,
+        "lat": 29.42277,
+        "address": "219 Chestnut St.",
+        "name": "Ellis Alley ",
+        "station_id": "bcycle_sanantonio_1821"
+      },
+      {
+        "lon": -98.48062,
+        "lat": 29.45837,
+        "address": "Valero Place @ Stadium Drive",
+        "name": "S.A.W.S.",
+        "station_id": "bcycle_sanantonio_1822"
+      },
+      {
+        "lon": -98.48487,
+        "lat": 29.41942,
+        "address": "600 Hemisfair Plaza Way",
+        "name": "Hemisfair Park",
+        "station_id": "bcycle_sanantonio_1823"
+      },
+      {
+        "lon": -98.48974,
+        "lat": 29.41595,
+        "address": "825 S. St. Mary's St.",
+        "name": "S. St. Mary's@S. Alamo",
+        "station_id": "bcycle_sanantonio_1824"
+      },
+      {
+        "lon": -98.49501,
+        "lat": 29.40942,
+        "address": "1414 S. Alamo St.",
+        "name": "Blue Star",
+        "station_id": "bcycle_sanantonio_1825"
+      },
+      {
+        "lon": -98.48803,
+        "lat": 29.41909,
+        "address": "S. Alamo @ Cesar Chavez",
+        "name": "Yanaguana Garden",
+        "station_id": "bcycle_sanantonio_1827"
+      },
+      {
+        "lon": -98.48085,
+        "lat": 29.44341,
+        "address": "136 East Grayson St.",
+        "name": "Pearl@Hotel Emma",
+        "station_id": "bcycle_sanantonio_1849"
+      },
+      {
+        "lon": -98.49537,
+        "lat": 29.42265,
+        "address": "S. Flores @ Nueva",
+        "name": "Bexar County Garage",
+        "station_id": "bcycle_sanantonio_1958"
+      },
+      {
+        "lon": -98.48969,
+        "lat": 29.43084,
+        "address": "1015 Navarro St.",
+        "name": "Hotel Havana",
+        "station_id": "bcycle_sanantonio_1959"
+      },
+      {
+        "lon": -98.49194,
+        "lat": 29.41232,
+        "address": "1111 S. Alamo St.",
+        "name": "1111 S. Alamo",
+        "station_id": "bcycle_sanantonio_1960"
+      },
+      {
+        "lon": -98.48729,
+        "lat": 29.42577,
+        "address": "317 Alamo Plaza",
+        "name": "Visitor's Center",
+        "station_id": "bcycle_sanantonio_1961"
+      },
+      {
+        "lon": -98.49002,
+        "lat": 29.41816,
+        "address": "Cesar Chavez @ S. Presa",
+        "name": "Cesar Chavez@S. St. Mary's",
+        "station_id": "bcycle_sanantonio_2000"
+      },
+      {
+        "lon": -98.48084,
+        "lat": 29.4376,
+        "address": "202 Avenue A ",
+        "name": "1221 Broadway",
+        "station_id": "bcycle_sanantonio_2058"
+      },
+      {
+        "lon": -98.48388,
+        "lat": 29.4152,
+        "address": "Labor & Santos",
+        "name": "Labor@Santos",
+        "station_id": "bcycle_sanantonio_2059"
+      },
+      {
+        "lon": -98.49699,
+        "lat": 29.41485,
+        "address": "827 S. Main Ave.",
+        "name": "Main@Sheridan",
+        "station_id": "bcycle_sanantonio_2060"
+      },
+      {
+        "lon": -98.49374,
+        "lat": 29.42849,
+        "address": "Main St. @ E. Pecan St.",
+        "name": "Weston Centre",
+        "station_id": "bcycle_sanantonio_2136"
+      },
+      {
+        "lon": -98.48852,
+        "lat": 29.40058,
+        "address": "42 Mission Road",
+        "name": "Roosevelt Park",
+        "station_id": "bcycle_sanantonio_2137"
+      },
+      {
+        "lon": -98.4974,
+        "lat": 29.38813,
+        "address": "600 E. Theo Ave.",
+        "name": "Concepcion Park",
+        "station_id": "bcycle_sanantonio_2156"
+      },
+      {
+        "lon": -98.49174,
+        "lat": 29.38994,
+        "address": "807 Mission Rd.",
+        "name": "Mission Concepcion",
+        "station_id": "bcycle_sanantonio_2157"
+      },
+      {
+        "lon": -98.48889,
+        "lat": 29.37846,
+        "address": "Mission Rd. at Mission Pkwy",
+        "name": "Mission Road",
+        "station_id": "bcycle_sanantonio_2158"
+      },
+      {
+        "lon": -98.47693,
+        "lat": 29.37011,
+        "address": "800 VFW Blvd.",
+        "name": "VFW Blvd",
+        "station_id": "bcycle_sanantonio_2159"
+      },
+      {
+        "lon": -98.47968,
+        "lat": 29.36014,
+        "address": "6701 San Jose Dr.",
+        "name": "Mission San Jose",
+        "station_id": "bcycle_sanantonio_2160"
+      },
+      {
+        "lon": -98.48728,
+        "lat": 29.41094,
+        "address": "936 S. Presa St.",
+        "name": "Ace Mart",
+        "station_id": "bcycle_sanantonio_2210"
+      },
+      {
+        "lon": -98.5455,
+        "lat": 29.35404,
+        "address": "7400 Barlite Blvd.",
+        "name": "S.W. General Hospital",
+        "station_id": "bcycle_sanantonio_2211"
+      },
+      {
+        "lon": -98.47447,
+        "lat": 29.4611,
+        "address": "3874 N St. Mary's",
+        "name": "SA Zoo",
+        "station_id": "bcycle_sanantonio_2212"
+      },
+      {
+        "lon": -98.48267,
+        "lat": 29.45447,
+        "address": "3233 N St. Mary's",
+        "name": "YMCA Tripoint",
+        "station_id": "bcycle_sanantonio_2213"
+      },
+      {
+        "lon": -98.468,
+        "lat": 29.46125,
+        "address": "3787 N Avenue B",
+        "name": "Witte @ Parking Garage",
+        "station_id": "bcycle_sanantonio_2214"
+      },
+      {
+        "lon": -98.46292,
+        "lat": 29.34678,
+        "address": "400 Mission Trail",
+        "name": "Acequia Park",
+        "station_id": "bcycle_sanantonio_2335"
+      },
+      {
+        "lon": -98.47053,
+        "lat": 29.36202,
+        "address": "Mission Trail",
+        "name": "Padre Park",
+        "station_id": "bcycle_sanantonio_2337"
+      },
+      {
+        "lon": -98.49091,
+        "lat": 29.40452,
+        "address": "423 Blue Star",
+        "name": "423 Blue Star",
+        "station_id": "bcycle_sanantonio_2338"
+      },
+      {
+        "lon": -98.45535,
+        "lat": 29.33424,
+        "address": "9101 Graf Road",
+        "name": "Mission San Juan",
+        "station_id": "bcycle_sanantonio_2339"
+      },
+      {
+        "lon": -98.50094,
+        "lat": 29.4115,
+        "address": "1901 S Alamo",
+        "name": "1901 S Alamo",
+        "station_id": "bcycle_sanantonio_2340"
+      },
+      {
+        "lon": -98.49694,
+        "lat": 29.4193,
+        "address": "524 S Flores",
+        "name": "Flores @ Cesar Chavez",
+        "station_id": "bcycle_sanantonio_2341"
+      },
+      {
+        "lon": -98.48825,
+        "lat": 29.42509,
+        "address": "115 E Crockett Street",
+        "name": "Crockett Street",
+        "station_id": "bcycle_sanantonio_2342"
+      },
+      {
+        "lon": -98.49363,
+        "lat": 29.42651,
+        "address": "200 N Main Street",
+        "name": "Geekdom",
+        "station_id": "bcycle_sanantonio_2407"
+      },
+      {
+        "lon": -98.48903,
+        "lat": 29.42332,
+        "address": "278 W Market",
+        "name": "USO",
+        "station_id": "bcycle_sanantonio_2413"
+      },
+      {
+        "lon": -98.48938,
+        "lat": 29.4265,
+        "address": "305 E Houston",
+        "name": "305 E. Houston",
+        "station_id": "bcycle_sanantonio_2414"
+      },
+      {
+        "lon": -98.4494,
+        "lat": 29.34963,
+        "address": "S. New Braunfels Ave.",
+        "name": "Brooks Greenline Park",
+        "station_id": "bcycle_sanantonio_2415"
+      },
+      {
+        "lon": -98.49362,
+        "lat": 29.44598,
+        "address": "100 E. Locust ",
+        "name": "Eco Centro",
+        "station_id": "bcycle_sanantonio_2416"
+      },
+      {
+        "lon": -98.47669,
+        "lat": 29.4429,
+        "address": "1800 Broadway",
+        "name": "1800 Broadway",
+        "station_id": "bcycle_sanantonio_2420"
+      },
+      {
+        "lon": -98.47618,
+        "lat": 29.36793,
+        "address": "123 Padre Drive",
+        "name": "Mission Park Pavilions",
+        "station_id": "bcycle_sanantonio_2421"
+      },
+      {
+        "lon": -98.4511,
+        "lat": 29.31931,
+        "address": "10040 Espada Drive",
+        "name": "Mission Espada",
+        "station_id": "bcycle_sanantonio_2422"
+      },
+      {
+        "lon": -98.48047,
+        "lat": 29.43634,
+        "address": "103 E Jones Ave",
+        "name": "The Luxury",
+        "station_id": "bcycle_sanantonio_2423"
+      },
+      {
+        "lon": -98.48951,
+        "lat": 29.42764,
+        "address": "301 E Travis St,",
+        "name": "Travis Park",
+        "station_id": "bcycle_sanantonio_2451"
+      },
+      {
+        "lon": -98.46937,
+        "lat": 29.35326,
+        "address": "285 Mission Pkwy.",
+        "name": "285 Mission Parkway",
+        "station_id": "bcycle_sanantonio_2856"
+      },
+      {
+        "lon": -98.49746,
+        "lat": 29.39322,
+        "address": "300 W Mitchell St",
+        "name": "Confluence Park",
+        "station_id": "bcycle_sanantonio_2857"
+      },
+      {
+        "lon": -98.48008,
+        "lat": 29.44276,
+        "address": "312 Pearl Parkway",
+        "name": "Pearl Culinary Gardens",
+        "station_id": "bcycle_sanantonio_3385"
+      },
+      {
+        "lon": -98.49818,
+        "lat": 29.44596,
+        "address": "1300 San Pedro @ Candler",
+        "name": "SAC @ Candler",
+        "station_id": "bcycle_sanantonio_3386"
+      },
+      {
+        "lon": -98.47149,
+        "lat": 29.45322,
+        "address": "2800 Broadway",
+        "name": "The DoSeum",
+        "station_id": "bcycle_sanantonio_3387"
+      },
+      {
+        "lon": -98.48106,
+        "lat": 29.4612,
+        "address": "379 Stadium Dr",
+        "name": "Stadium Dr @ Jesse Jones Rec Area",
+        "station_id": "bcycle_sanantonio_3640"
+      },
+      {
+        "lon": -98.49489,
+        "lat": 29.44284,
+        "address": "101 W Evergreen St",
+        "name": "101 W Evergreen",
+        "station_id": "bcycle_sanantonio_3641"
+      },
+      {
+        "lon": -98.48419,
+        "lat": 29.43277,
+        "address": "502 Brooklyn Ave",
+        "name": "502 Brooklyn Ave",
+        "station_id": "bcycle_sanantonio_3766"
+      },
+      {
+        "lon": -98.48724,
+        "lat": 29.4478,
+        "address": "2332 N St. Mary's",
+        "name": "2332 N St. Mary's",
+        "station_id": "bcycle_sanantonio_3768"
+      },
+      {
+        "lon": -98.48286,
+        "lat": 29.40165,
+        "address": "2000 S Presa Street",
+        "name": "2000 S Presa",
+        "station_id": "bcycle_sanantonio_4019"
+      },
+      {
+        "lon": -98.4718,
+        "lat": 29.42973,
+        "address": "801 North Olive Street",
+        "name": "801 North Olive",
+        "station_id": "bcycle_sanantonio_4020"
+      }
+    ]
+  },
+  "last_updated": 1530239609,
+  "system_id": "bcycle_sanantonio"
+}

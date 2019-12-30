@@ -1,0 +1,651 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -87.89667,
+        "lat": 43.0369,
+        "address": "500 N Harbor Drive",
+        "name": "Discovery World",
+        "station_id": "bcycle_bublr_2383"
+      },
+      {
+        "lon": -87.90996,
+        "lat": 43.04249,
+        "address": "Kilbourn and Water St",
+        "name": "Red Arrow Park",
+        "station_id": "bcycle_bublr_2772"
+      },
+      {
+        "lon": -87.91194,
+        "lat": 43.04923,
+        "address": "123 W Cherry St",
+        "name": "Schlitz Park",
+        "station_id": "bcycle_bublr_2775"
+      },
+      {
+        "lon": -87.91483,
+        "lat": 43.03818,
+        "address": "275 West Wisconsin Ave.  Milwaukee, WI",
+        "name": "Bublr HQ",
+        "station_id": "bcycle_bublr_2776"
+      },
+      {
+        "lon": -87.91615,
+        "lat": 43.03913,
+        "address": "Wisconsin and 4th",
+        "name": "Wisconsin Center",
+        "station_id": "bcycle_bublr_2777"
+      },
+      {
+        "lon": -87.9175,
+        "lat": 43.03462,
+        "address": "W St Paul and N 5th St",
+        "name": "Intermodal Station",
+        "station_id": "bcycle_bublr_2778"
+      },
+      {
+        "lon": -87.90739,
+        "lat": 43.03519,
+        "address": "E St Paul and N Broadway",
+        "name": "Broadway/St Paul",
+        "station_id": "bcycle_bublr_2779"
+      },
+      {
+        "lon": -87.90272,
+        "lat": 43.03886,
+        "address": "Wisconsin and Van Buren",
+        "name": "US Bank Center",
+        "station_id": "bcycle_bublr_2780"
+      },
+      {
+        "lon": -87.90934,
+        "lat": 43.03858,
+        "address": "Wisconsin and Riverwalk",
+        "name": "Water/Wisconsin",
+        "station_id": "bcycle_bublr_2781"
+      },
+      {
+        "lon": -87.90534,
+        "lat": 43.03872,
+        "address": "411 East Wisconsin ",
+        "name": "411 East Wisconsin ",
+        "station_id": "bcycle_bublr_2782"
+      },
+      {
+        "lon": -87.89766,
+        "lat": 43.05304,
+        "address": "1114 East Brady Street",
+        "name": "Brady/Humboldt",
+        "station_id": "bcycle_bublr_3009"
+      },
+      {
+        "lon": -87.90872,
+        "lat": 43.04657,
+        "address": "1245 N. Broadway",
+        "name": "Broadway/Knapp",
+        "station_id": "bcycle_bublr_3319"
+      },
+      {
+        "lon": -87.91254,
+        "lat": 43.02002,
+        "address": "1100 S. 2nd St.",
+        "name": "S. 2nd/Washington",
+        "station_id": "bcycle_bublr_3320"
+      },
+      {
+        "lon": -87.91282,
+        "lat": 43.02948,
+        "address": "200 W. Freshwater Way",
+        "name": "S. 2nd/Freshwater ",
+        "station_id": "bcycle_bublr_3321"
+      },
+      {
+        "lon": -87.90426,
+        "lat": 43.03132,
+        "address": "144 N. Jefferson St.",
+        "name": "Jefferson/Menomonee",
+        "station_id": "bcycle_bublr_3322"
+      },
+      {
+        "lon": -87.90504,
+        "lat": 43.05536,
+        "address": "1880 N. Commerce St.",
+        "name": "Lakefront Brewery",
+        "station_id": "bcycle_bublr_3323"
+      },
+      {
+        "lon": -87.91882,
+        "lat": 43.05112,
+        "address": "1555 N. 6th St.",
+        "name": "Hillside Terrace",
+        "station_id": "bcycle_bublr_3324"
+      },
+      {
+        "lon": -87.90497,
+        "lat": 43.04824,
+        "address": "544 E. Ogden Ave.",
+        "name": "Ogden/Jackson",
+        "station_id": "bcycle_bublr_3325"
+      },
+      {
+        "lon": -87.90086,
+        "lat": 43.0482,
+        "address": "1420 N. Marshall St.",
+        "name": "Ogden/Marshall",
+        "station_id": "bcycle_bublr_3326"
+      },
+      {
+        "lon": -87.92193,
+        "lat": 43.03865,
+        "address": "686 N. 8th St.",
+        "name": "Central Library",
+        "station_id": "bcycle_bublr_3327"
+      },
+      {
+        "lon": -87.89217,
+        "lat": 43.06025,
+        "address": "1440 E. North Ave.",
+        "name": "North/Cambridge",
+        "station_id": "bcycle_bublr_3328"
+      },
+      {
+        "lon": -87.89787,
+        "lat": 43.05839,
+        "address": "2160 N. Humboldt Ave.",
+        "name": "Humboldt/Commerce",
+        "station_id": "bcycle_bublr_3329"
+      },
+      {
+        "lon": -87.90817,
+        "lat": 43.03148,
+        "address": "252 E. Menomonee St.",
+        "name": "Erie/Menomonee",
+        "station_id": "bcycle_bublr_3330"
+      },
+      {
+        "lon": -87.88532,
+        "lat": 43.05862,
+        "address": "2165 N. Prospect Ave. ",
+        "name": "Kenilworth Square",
+        "station_id": "bcycle_bublr_3331"
+      },
+      {
+        "lon": -87.89546,
+        "lat": 43.06033,
+        "address": "2340 N. Commerce St.",
+        "name": "Riverview",
+        "station_id": "bcycle_bublr_3332"
+      },
+      {
+        "lon": -87.88281,
+        "lat": 43.07489,
+        "address": "3100 N. Maryland Ave.",
+        "name": "UWM Student Union ",
+        "station_id": "bcycle_bublr_3333"
+      },
+      {
+        "lon": -87.88262,
+        "lat": 43.07853,
+        "address": "3400 N. Maryland Ave. ",
+        "name": "Sandburg Hall",
+        "station_id": "bcycle_bublr_3334"
+      },
+      {
+        "lon": -87.88002,
+        "lat": 43.07753,
+        "address": "2311 E. Hartford Ave.",
+        "name": "Golda Meir Library",
+        "station_id": "bcycle_bublr_3335"
+      },
+      {
+        "lon": -87.91804,
+        "lat": 43.02647,
+        "address": "530 W. Virginia Ave.",
+        "name": "6th/Virginia",
+        "station_id": "bcycle_bublr_3336"
+      },
+      {
+        "lon": -87.891,
+        "lat": 43.05246,
+        "address": "1706 N. Prospect Ave. ",
+        "name": "Brady/Prospect ",
+        "station_id": "bcycle_bublr_3348"
+      },
+      {
+        "lon": -87.9054,
+        "lat": 43.00475,
+        "address": "2168 S. Kinnickinnic Avenue",
+        "name": "Zillman Park",
+        "station_id": "bcycle_bublr_3417"
+      },
+      {
+        "lon": -87.93211,
+        "lat": 43.04015,
+        "address": "1501 W. Wells St",
+        "name": "Marquette University Student Union",
+        "station_id": "bcycle_bublr_3418"
+      },
+      {
+        "lon": -87.88368,
+        "lat": 43.06029,
+        "address": "2305 N. Prospect Ave",
+        "name": "Prospect/North ",
+        "station_id": "bcycle_bublr_3439"
+      },
+      {
+        "lon": -87.92061,
+        "lat": 43.04032,
+        "address": "800 W. Wells Street",
+        "name": "Public Museum ",
+        "station_id": "bcycle_bublr_3440"
+      },
+      {
+        "lon": -87.90616,
+        "lat": 43.05126,
+        "address": "N. Water St. & E Pleasant Street",
+        "name": "Water/Pleasant ",
+        "station_id": "bcycle_bublr_3441"
+      },
+      {
+        "lon": -87.87774,
+        "lat": 43.06727,
+        "address": "2605 W. Park Place",
+        "name": "Downer/Park Place",
+        "station_id": "bcycle_bublr_3442"
+      },
+      {
+        "lon": -87.91268,
+        "lat": 43.02628,
+        "address": "205 W. Virginia Street",
+        "name": "S. 2nd/Virginia",
+        "station_id": "bcycle_bublr_3443"
+      },
+      {
+        "lon": -87.91448,
+        "lat": 43.05658,
+        "address": "314 W. Brown Street",
+        "name": "MLK/Brown",
+        "station_id": "bcycle_bublr_3444"
+      },
+      {
+        "lon": -87.91874,
+        "lat": 43.05478,
+        "address": "1901 N. 6th Street",
+        "name": "6th/Reservoir ",
+        "station_id": "bcycle_bublr_3445"
+      },
+      {
+        "lon": -88.00884,
+        "lat": 43.05955,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "57 Watson Ave",
+        "name": "City Hall (Wauwatosa)",
+        "station_id": "bcycle_bublr_3479"
+      },
+      {
+        "lon": -88.02735,
+        "lat": 43.06008,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "2286 N Swan Blvd",
+        "name": "W. North Ave/Swan Boulevard",
+        "station_id": "bcycle_bublr_3480"
+      },
+      {
+        "lon": -88.01624,
+        "lat": 43.06044,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "2299 N 83rd Street",
+        "name": "W. North Ave/N. 83rd Street",
+        "station_id": "bcycle_bublr_3481"
+      },
+      {
+        "lon": -88.00194,
+        "lat": 43.06084,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "7172 North Ave",
+        "name": "W. North Ave/N. 72nd Street",
+        "station_id": "bcycle_bublr_3482"
+      },
+      {
+        "lon": -87.99859,
+        "lat": 43.06058,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "2276 N 69th Street",
+        "name": "W. North Ave/N. 69th Street",
+        "station_id": "bcycle_bublr_3483"
+      },
+      {
+        "lon": -88.00848,
+        "lat": 43.04861,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "7751 Harwood Ave",
+        "name": "Village South",
+        "station_id": "bcycle_bublr_3485"
+      },
+      {
+        "lon": -88.01632,
+        "lat": 43.05263,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "1717 Ludington Ave",
+        "name": "Ludington Triangle",
+        "station_id": "bcycle_bublr_3486"
+      },
+      {
+        "lon": -87.90967,
+        "lat": 43.05237,
+        "address": "200 E. Pleasant Street",
+        "name": "Pleasant/Commerce",
+        "station_id": "bcycle_bublr_3487"
+      },
+      {
+        "lon": -87.89976,
+        "lat": 43.04571,
+        "address": "1200 N. Astor Street",
+        "name": "Astor/Juneau",
+        "station_id": "bcycle_bublr_3488"
+      },
+      {
+        "lon": -87.89565,
+        "lat": 43.04782,
+        "address": "1301 N. Prospect Street",
+        "name": "Burns Commons",
+        "station_id": "bcycle_bublr_3489"
+      },
+      {
+        "lon": -87.88064,
+        "lat": 43.0602,
+        "address": "2380 E. North Ave",
+        "name": "North/Lake",
+        "station_id": "bcycle_bublr_3490"
+      },
+      {
+        "lon": -87.8878,
+        "lat": 43.06369,
+        "address": "1805 E. Bradford Ave",
+        "name": "Oakland/Bradford",
+        "station_id": "bcycle_bublr_3491"
+      },
+      {
+        "lon": -87.8882,
+        "lat": 43.07472,
+        "address": "1700 E. Kenwood Blvd",
+        "name": "Oakland/Kenwood",
+        "station_id": "bcycle_bublr_3492"
+      },
+      {
+        "lon": -87.88806,
+        "lat": 43.069,
+        "address": "2780 N. Oakland Ave",
+        "name": "Riverside Park",
+        "station_id": "bcycle_bublr_3493"
+      },
+      {
+        "lon": -87.91662,
+        "lat": 43.02313,
+        "address": "425 W. National Avenue",
+        "name": "5th/National",
+        "station_id": "bcycle_bublr_3494"
+      },
+      {
+        "lon": -87.8773,
+        "lat": 43.05801,
+        "address": "2021 N. Lincoln Memorial Drive",
+        "name": "Bradford Beach",
+        "station_id": "bcycle_bublr_3526"
+      },
+      {
+        "lon": -87.9272,
+        "lat": 43.04157,
+        "address": "1201 W. Kilbourn Ave.",
+        "name": "Aurora",
+        "station_id": "bcycle_bublr_3632"
+      },
+      {
+        "lon": -87.9121,
+        "lat": 43.0386,
+        "address": "161 W. Wisconsin Ave",
+        "name": "W. Wisconsin Ave / N. Plankinton Ave.",
+        "station_id": "bcycle_bublr_3726"
+      },
+      {
+        "lon": -87.9158,
+        "lat": 43.0373,
+        "address": "335 W. Michigan St.",
+        "name": "Zeidler Union Square Park",
+        "station_id": "bcycle_bublr_3727"
+      },
+      {
+        "lon": -87.9829,
+        "lat": 43.0606,
+        "region_id": "bcycle_bublr_region_2",
+        "address": "5531 W. North Ave",
+        "name": "W. North Ave. / N. 56th St.",
+        "station_id": "bcycle_bublr_3728"
+      },
+      {
+        "lon": -87.88753,
+        "lat": 43.098,
+        "region_id": "bcycle_bublr_region_5",
+        "address": "4485 N Oakland",
+        "name": "N Oakland Ave & E Kensington Blvd",
+        "station_id": "bcycle_bublr_3733"
+      },
+      {
+        "lon": -87.88734,
+        "lat": 43.09534,
+        "region_id": "bcycle_bublr_region_5",
+        "address": "4334 N. Oakland Ave",
+        "name": "N Oakland Ave & E Lake Bluff Blvd",
+        "station_id": "bcycle_bublr_3734"
+      },
+      {
+        "lon": -87.88755,
+        "lat": 43.09233,
+        "region_id": "bcycle_bublr_region_5",
+        "address": "4097 N. Oakland Ave",
+        "name": "Metro Market",
+        "station_id": "bcycle_bublr_3735"
+      },
+      {
+        "lon": -87.89522,
+        "lat": 43.08946,
+        "region_id": "bcycle_bublr_region_5",
+        "address": "1200 E. Capitol Drive",
+        "name": "N. Wilson Dr. & E. Capitol Dr",
+        "station_id": "bcycle_bublr_3736"
+      },
+      {
+        "lon": -87.88272,
+        "lat": 43.08931,
+        "region_id": "bcycle_bublr_region_5",
+        "address": "2100 E Capitol Dr",
+        "name": "N. Maryland Ave & E. Capitol Dr",
+        "station_id": "bcycle_bublr_3737"
+      },
+      {
+        "lon": -87.88768,
+        "lat": 43.08755,
+        "region_id": "bcycle_bublr_region_5",
+        "address": "3853 N. Oakland Ave",
+        "name": "N Oakland Ave & E Shorewood Blvd",
+        "station_id": "bcycle_bublr_3738"
+      },
+      {
+        "lon": -87.88809,
+        "lat": 43.08194,
+        "region_id": "bcycle_bublr_region_5",
+        "address": "1770 E. River Park Ct",
+        "name": "N Oakland Ave & E Edgewood Ave",
+        "station_id": "bcycle_bublr_3739"
+      },
+      {
+        "lon": -87.99841,
+        "lat": 43.02115,
+        "region_id": "bcycle_bublr_region_4",
+        "address": "6737 W. Washington St",
+        "name": "W. Washington St at Summit Place",
+        "station_id": "bcycle_bublr_3740"
+      },
+      {
+        "lon": -88.00585,
+        "lat": 43.01605,
+        "region_id": "bcycle_bublr_region_4",
+        "address": "7525 W. Greenfield Ave",
+        "name": "City Hall  (West Allis)",
+        "station_id": "bcycle_bublr_3741"
+      },
+      {
+        "lon": -87.99445,
+        "lat": 43.01663,
+        "region_id": "bcycle_bublr_region_4",
+        "address": "6529 W. Greenfield Ave",
+        "name": "Six Points Crossing & W Greenfield Ave",
+        "station_id": "bcycle_bublr_3742"
+      },
+      {
+        "lon": -87.9999,
+        "lat": 43.01685,
+        "region_id": "bcycle_bublr_region_4",
+        "address": "6900 W. Greenfield Ave",
+        "name": "S. 70th St. & W. Greenfield Ave",
+        "station_id": "bcycle_bublr_3743"
+      },
+      {
+        "lon": -88.00596,
+        "lat": 43.01189,
+        "region_id": "bcycle_bublr_region_4",
+        "address": "7421 W National Ave",
+        "name": "S. 75th St. & W. National Ave.",
+        "station_id": "bcycle_bublr_3744"
+      },
+      {
+        "lon": -87.99065,
+        "lat": 43.01688,
+        "region_id": "bcycle_bublr_region_4",
+        "address": "6212 W Greenfield Ave",
+        "name": "S. 63rd St. & W. Greenfield Ave",
+        "station_id": "bcycle_bublr_3745"
+      },
+      {
+        "lon": -87.99933,
+        "lat": 43.01341,
+        "region_id": "bcycle_bublr_region_4",
+        "address": "6804 W. National Ave",
+        "name": "S. 70th St. & W. National Ave.",
+        "station_id": "bcycle_bublr_3746"
+      },
+      {
+        "lon": -87.99426,
+        "lat": 43.01459,
+        "region_id": "bcycle_bublr_region_4",
+        "address": "6501 W. National Ave.",
+        "name": "Farmers Market ",
+        "station_id": "bcycle_bublr_3747"
+      },
+      {
+        "lon": -87.99209,
+        "lat": 43.06058,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "6331 W. North Ave.",
+        "name": "W. North Ave/N. 64th Street",
+        "station_id": "bcycle_bublr_3748"
+      },
+      {
+        "lon": -88.00735,
+        "lat": 43.05509,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "7500 Milwaukee Ave",
+        "name": "N Wauwatosa Ave & W Hillcrest Dr",
+        "station_id": "bcycle_bublr_3750"
+      },
+      {
+        "lon": -88.00366,
+        "lat": 43.05222,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "7332 Harwood Ave",
+        "name": "Harwood Ave & Milwaukee Ave",
+        "station_id": "bcycle_bublr_3751"
+      },
+      {
+        "lon": -88.03359,
+        "lat": 43.04953,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "1425 Discovery Parkway",
+        "name": "Echelon Station (Discovery Pkwy & Eschweiler Dr)",
+        "station_id": "bcycle_bublr_3752"
+      },
+      {
+        "lon": -88.01542,
+        "lat": 43.04604,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "8211 Harwood Ave",
+        "name": "Robertson St & Harwood Ave",
+        "station_id": "bcycle_bublr_3753"
+      },
+      {
+        "lon": -87.99018,
+        "lat": 43.04711,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "1245 N 62nd Street",
+        "name": "The Reef",
+        "station_id": "bcycle_bublr_3754"
+      },
+      {
+        "lon": -87.99721,
+        "lat": 43.0396,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "6745 W. Wells Street",
+        "name": "N. 68th St. & W. Wells St.",
+        "station_id": "bcycle_bublr_3755"
+      },
+      {
+        "lon": -88.0051,
+        "lat": 43.0488,
+        "region_id": "bcycle_bublr_region_3",
+        "address": "7400 W. State Street",
+        "name": "N. 74th St. & State St.",
+        "station_id": "bcycle_bublr_3756"
+      },
+      {
+        "lon": -87.9421,
+        "lat": 43.0334,
+        "address": "2200 W. Mount Vernon Ave.",
+        "name": "City Lights Brewery",
+        "station_id": "bcycle_bublr_3757"
+      },
+      {
+        "lon": -87.9042,
+        "lat": 43.0413,
+        "address": "801 N. Jackson Street",
+        "name": "Cathedral Square",
+        "station_id": "bcycle_bublr_3758"
+      },
+      {
+        "lon": -87.92276,
+        "lat": 43.02026,
+        "address": "1029 S. 9th Street",
+        "name": "Walker Square",
+        "station_id": "bcycle_bublr_3770"
+      },
+      {
+        "lon": -87.967,
+        "lat": 43.0275,
+        "region_id": "bcycle_bublr_region_2",
+        "address": "Frederick Miller Way",
+        "name": "Brewers",
+        "station_id": "bcycle_bublr_3833"
+      },
+      {
+        "lon": -87.9239,
+        "lat": 43.04562,
+        "region_id": "bcycle_bublr_region_2",
+        "address": "925 W. Juneau Avenue",
+        "name": "The Brewery District",
+        "station_id": "bcycle_bublr_4004"
+      }
+    ]
+  },
+  "last_updated": 1530239565,
+  "system_id": "bcycle_bublr"
+}

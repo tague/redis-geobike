@@ -1,0 +1,2351 @@
+{
+  "last_updated": 1530239447,
+  "ttl": 180,
+  "data": {
+    "stations": [
+      {
+        "station_id": "hub_1512",
+        "name": "SW 10th at Stark",
+        "region_id": "region_241",
+        "lon": -122.68107935786247,
+        "lat": 45.52175423291714,
+        "address": "404 Southwest 10th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1513",
+        "name": "SE Gideon at 12th Ave MAX station",
+        "region_id": "region_241",
+        "lon": -122.65353977680206,
+        "lat": 45.50280905672637,
+        "address": "1201-1241 Southeast Gideon Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1514",
+        "name": "SE Clinton at 26th",
+        "region_id": "region_241",
+        "lon": -122.63952791690826,
+        "lat": 45.5035666478437,
+        "address": "2615 Southeast Clinton Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1515",
+        "name": "SE Elliott at Division",
+        "region_id": "region_241",
+        "lon": -122.65336811542511,
+        "lat": 45.50512503523317,
+        "address": "2454-2498 Southeast Elliott Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1516",
+        "name": "SE Clay at Water",
+        "region_id": "region_241",
+        "lon": -122.66628563404082,
+        "lat": 45.5114765684424,
+        "address": "1601-1799 Southeast Water Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1517",
+        "name": "SE 29th at Belmont",
+        "region_id": "region_241",
+        "lon": -122.63606786727905,
+        "lat": 45.516231760262826,
+        "address": "901-915 Southeast 29th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1518",
+        "name": "SE Water at Taylor",
+        "region_id": "region_241",
+        "lon": -122.66577601432802,
+        "lat": 45.515152949700024,
+        "address": "1028 Southeast Water Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1519",
+        "name": "SE 14th at Stark",
+        "region_id": "region_241",
+        "lon": -122.65168502926826,
+        "lat": 45.518446875178256,
+        "address": "531-699 Southeast 14th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1521",
+        "name": "N Prescott at Interstate",
+        "region_id": "region_241",
+        "lon": -122.68186122179031,
+        "lat": 45.55522232556467,
+        "address": "4350 North Interstate Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1522",
+        "name": "NE Glisan at 24th",
+        "region_id": "region_241",
+        "lon": -122.6416327804327,
+        "lat": 45.526494932914076,
+        "address": "2329-2399 Northeast Glisan Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1523",
+        "name": "NE Wheeler at Multnomah",
+        "region_id": "region_241",
+        "lon": -122.66588866710661,
+        "lat": 45.53086695960325,
+        "address": "1051-1099 Northeast Wheeler Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1524",
+        "name": "N Mississippi at N Skidmore",
+        "region_id": "region_241",
+        "lon": -122.67554126679897,
+        "lat": 45.55458563249236,
+        "address": "4220 North Mississippi Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1527",
+        "name": "SE Taylor at Chavez Community Corral",
+        "region_id": "region_241",
+        "lon": -122.6224422454834,
+        "lat": 45.51502138600713,
+        "address": "3926, Southeast Taylor Street, Hawthorne, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1528",
+        "name": "NW 13th at Marshall",
+        "region_id": "region_241",
+        "lon": -122.68442273139952,
+        "lat": 45.53080401460108,
+        "address": "1100-1124 Northwest 13th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1529",
+        "name": "NW 18th at Northrup",
+        "region_id": "region_241",
+        "lon": -122.68956586718559,
+        "lat": 45.53142500624323,
+        "address": "1801 Northwest Northrup Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1535",
+        "name": "SW Park at Portland Art Museum",
+        "region_id": "region_241",
+        "lon": -122.68331229686736,
+        "lat": 45.515923530681164,
+        "address": "1315 Southwest Park Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1536",
+        "name": "SW 4th at Jefferson (City Hall)",
+        "region_id": "region_241",
+        "lon": -122.67889469861983,
+        "lat": 45.51505333721798,
+        "address": "1221 Southwest 4th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1537",
+        "name": "SW Broadway at Smith Memorial Student Union",
+        "region_id": "region_241",
+        "lon": -122.68371999263763,
+        "lat": 45.51184308962157,
+        "address": "1801-1825 Southwest Broadway, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1538",
+        "name": "Urban Center Plaza at SW 6th St",
+        "region_id": "region_241",
+        "lon": -122.68228098750114,
+        "lat": 45.51158276585015,
+        "address": "1800 Southwest Montgomery Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1539",
+        "name": "SW 4th at College",
+        "region_id": "region_241",
+        "lon": -122.68121212720871,
+        "lat": 45.50936197656999,
+        "address": "TECOTOSH, Southwest 4th Avenue, University District, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1540",
+        "name": "SW Harrison at 1st",
+        "region_id": "region_241",
+        "lon": -122.67771586775778,
+        "lat": 45.50971347423539,
+        "address": "86-98 Southwest Harrison Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1541",
+        "name": "SW Moody at Aerial Tram Terminal",
+        "region_id": "region_241",
+        "lon": -122.67164334654808,
+        "lat": 45.499136569196914,
+        "address": "Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1542",
+        "name": "SW 10th at Columbia",
+        "region_id": "region_241",
+        "lon": -122.68467485904694,
+        "lat": 45.515444268211056,
+        "address": "1001-1023 Southwest Columbia Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1543",
+        "name": "SW 12th at Clay",
+        "region_id": "region_241",
+        "lon": -122.687029838562,
+        "lat": 45.51507401152119,
+        "address": "1520 Southwest 12th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1544",
+        "name": "SW 5th at Main",
+        "region_id": "region_241",
+        "lon": -122.67907708883286,
+        "lat": 45.5160969101757,
+        "address": "512-586 Southwest Main Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1545",
+        "name": "NW Marshall at Tanner Springs Park",
+        "region_id": "region_241",
+        "lon": -122.68159568309783,
+        "lat": 45.5308312594614,
+        "address": "1000 Northwest Marshall Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1546",
+        "name": "NW Thurman at 24th",
+        "region_id": "region_241",
+        "lon": -122.70066082477571,
+        "lat": 45.53550402749139,
+        "address": "2383-2389 Northwest Thurman Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1547",
+        "name": "NW Raleigh at 21st",
+        "region_id": "region_241",
+        "lon": -122.69494235515596,
+        "lat": 45.53409115265501,
+        "address": "2100-2112 Northwest Raleigh Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1548",
+        "name": "SE 34th at Division",
+        "region_id": "region_241",
+        "lon": -122.6296305656433,
+        "lat": 45.504839302777505,
+        "address": "3377-3399 Southeast Division Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1549",
+        "name": "SE 30th at Division",
+        "region_id": "region_241",
+        "lon": -122.63455510139465,
+        "lat": 45.504688916692,
+        "address": "2501-2523 Southeast 30th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1550",
+        "name": "SE Clinton at 21st",
+        "region_id": "region_241",
+        "lon": -122.64473140239714,
+        "lat": 45.50336550181654,
+        "address": "2039-2099 Southeast Clinton Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1551",
+        "name": "SE 29th at Stark",
+        "region_id": "region_241",
+        "lon": -122.63599276542662,
+        "lat": 45.51936282546957,
+        "address": "415 Southeast 29th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1552",
+        "name": "SE Belmont at 20th",
+        "region_id": "region_241",
+        "lon": -122.64604568481445,
+        "lat": 45.516361441804015,
+        "address": "1900-1998 Southeast Belmont Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1554",
+        "name": "SE 34th at Hawthorne",
+        "region_id": "region_241",
+        "lon": -122.62948036193848,
+        "lat": 45.51190699563407,
+        "address": "1510 Southeast 34th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1555",
+        "name": "NE 15th at Broadway",
+        "region_id": "region_241",
+        "lon": -122.65056386590003,
+        "lat": 45.535082235462475,
+        "address": "1711 Northeast 15th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1556",
+        "name": "NE MLK at Knott",
+        "region_id": "region_241",
+        "lon": -122.66148447990417,
+        "lat": 45.5417995312248,
+        "address": "2650 Oregon 99E, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1558",
+        "name": "NW Everett at 22nd",
+        "region_id": "region_241",
+        "lon": -122.69651412963869,
+        "lat": 45.52487653451383,
+        "address": "2201-2209 Northwest Everett Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1559",
+        "name": "N Vancouver at Alberta",
+        "region_id": "region_241",
+        "lon": -122.66852259635925,
+        "lat": 45.55941042223266,
+        "address": "241 North Alberta Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1560",
+        "name": "N Killingsworth at Albina",
+        "region_id": "region_241",
+        "lon": -122.6747466623783,
+        "lat": 45.56282546273442,
+        "address": "North Killingsworth Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1561",
+        "name": "NW Johnson at Jamison Square",
+        "region_id": "region_241",
+        "lon": -122.68201947212219,
+        "lat": 45.52863659670261,
+        "address": "718 Northwest 11th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1562",
+        "name": "NW Station at Irving",
+        "region_id": "region_241",
+        "lon": -122.67662823200226,
+        "lat": 45.5282777010671,
+        "address": "700-746 Northwest 6th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1563",
+        "name": "NW 23rd at Overton",
+        "region_id": "region_241",
+        "lon": -122.69863039255142,
+        "lat": 45.53211645029155,
+        "address": "1310 Northwest 23rd Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1564",
+        "name": "NW 20th at Burnside",
+        "region_id": "region_241",
+        "lon": -122.69326329231262,
+        "lat": 45.52331305636792,
+        "address": "2-90 Northwest 20th Place, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1566",
+        "name": "NW Glisan at 21st",
+        "region_id": "region_241",
+        "lon": -122.69414842128754,
+        "lat": 45.52634601402334,
+        "address": "2066 Northwest Glisan Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1567",
+        "name": "NW 21st at Johnson",
+        "region_id": "region_241",
+        "lon": -122.69456148147583,
+        "lat": 45.52826830586263,
+        "address": "721 Northwest 21st Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1568",
+        "name": "NW 10th at Everett",
+        "region_id": "region_241",
+        "lon": -122.68110483884811,
+        "lat": 45.52500055856427,
+        "address": "230 Northwest 10th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1569",
+        "name": "SW Salmon at Waterfront Park",
+        "region_id": "region_241",
+        "lon": -122.67389237880707,
+        "lat": 45.51556831305477,
+        "address": "25 Southwest Salmon Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1570",
+        "name": "SW River at Montgomery",
+        "region_id": "region_241",
+        "lon": -122.67351686954498,
+        "lat": 45.50910258116327,
+        "address": "Portland Sports Bar and Grill, 1800, Southwest River Drive, University District, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1571",
+        "name": "SW Stark at Burnside",
+        "region_id": "region_241",
+        "lon": -122.68401235342026,
+        "lat": 45.52279251368779,
+        "address": "1250-1298 Southwest Stark Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1572",
+        "name": "SW 18th at Jefferson",
+        "region_id": "region_241",
+        "lon": -122.69204020500185,
+        "lat": 45.51788376661364,
+        "address": "1234, Southwest 18th Avenue, University District, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1574",
+        "name": "SW 2nd at Pine",
+        "region_id": "region_241",
+        "lon": -122.67262905836105,
+        "lat": 45.521420663518754,
+        "address": "128-198 Southwest 2nd Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1575",
+        "name": "SW 3rd at Ankeny",
+        "region_id": "region_241",
+        "lon": -122.67329692840575,
+        "lat": 45.52247868246067,
+        "address": "40 Southwest 3rd Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1576",
+        "name": "SW 3rd at Morrison",
+        "region_id": "region_241",
+        "lon": -122.67558217048645,
+        "lat": 45.51803881572945,
+        "address": "718-732 Southwest 3rd Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1577",
+        "name": "SW 5th at Morrison",
+        "region_id": "region_241",
+        "lon": -122.67740607261656,
+        "lat": 45.518894868231705,
+        "address": "620 Southwest 5th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1578",
+        "name": "SW 5th at Oak",
+        "region_id": "region_241",
+        "lon": -122.67636537551878,
+        "lat": 45.52117259935996,
+        "address": "315 Southwest 5th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1579",
+        "name": "SW Market at Keller Fountain Park",
+        "region_id": "region_241",
+        "lon": -122.67891079187393,
+        "lat": 45.51232050337293,
+        "address": "300-398 Southwest Market Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1580",
+        "name": "SW Morrison at 18th",
+        "region_id": "region_241",
+        "lon": -122.6896771788597,
+        "lat": 45.5219604810172,
+        "address": "Southwest Morrison & 17th, Southwest Morrison Street, Pearl District, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1581",
+        "name": "SW Morrison at Pioneer Courthouse Sq.",
+        "region_id": "region_241",
+        "lon": -122.67924875020981,
+        "lat": 45.519288591549,
+        "address": "625 Southwest Morrison Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1582",
+        "name": "SW Yamhill at Director Park",
+        "region_id": "region_241",
+        "lon": -122.68126845359802,
+        "lat": 45.51898131845628,
+        "address": "800-898 Southwest Yamhill Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1583",
+        "name": "NW 11th at The Fields",
+        "region_id": "region_241",
+        "lon": -122.68242985010147,
+        "lat": 45.53232500919175,
+        "address": "1315 Northwest 11th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1584",
+        "name": "NW 18th at Flanders",
+        "region_id": "region_241",
+        "lon": -122.68925607204436,
+        "lat": 45.525562421670635,
+        "address": "300-398 Northwest 18th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1585",
+        "name": "NW 22nd at Lovejoy",
+        "region_id": "region_241",
+        "lon": -122.69664287567139,
+        "lat": 45.52976024466929,
+        "address": "945-993 Northwest 22nd Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1586",
+        "name": "NW 2nd at Everett",
+        "region_id": "region_241",
+        "lon": -122.67254590988159,
+        "lat": 45.52536699166144,
+        "address": "301-399 Northwest 2nd Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1588",
+        "name": "NW Couch at 11th",
+        "region_id": "region_241",
+        "lon": -122.68181294202805,
+        "lat": 45.523741513819246,
+        "address": "1037 Northwest Couch Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1589",
+        "name": "NW Couch at 2nd",
+        "region_id": "region_241",
+        "lon": -122.67218244960532,
+        "lat": 45.52389221604001,
+        "address": "115-199 Northwest Couch Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1590",
+        "name": "NW Flanders at 14th",
+        "region_id": "region_241",
+        "lon": -122.68550634384154,
+        "lat": 45.52579919173373,
+        "address": "1425 Northwest Flanders Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1591",
+        "name": "Tilikum West at SW Moody",
+        "region_id": "region_241",
+        "lon": -122.67144083976744,
+        "lat": 45.50276769910143,
+        "address": "Tilikum Crossing, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1592",
+        "name": "NW Kearney at 23rd",
+        "region_id": "region_241",
+        "lon": -122.69870281219482,
+        "lat": 45.52914205316425,
+        "address": "2301-2305 Northwest Kearney Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1593",
+        "name": "NW Naito at Ironside",
+        "region_id": "region_241",
+        "lon": -122.67416596412659,
+        "lat": 45.52871175780225,
+        "address": "Northwest Naito Parkway, Pearl District, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1594",
+        "name": "N Failing at Williams",
+        "region_id": "region_241",
+        "lon": -122.66686633229256,
+        "lat": 45.55076344345873,
+        "address": "1-99 North Failing Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1595",
+        "name": "N Mississippi at Beech",
+        "region_id": "region_241",
+        "lon": -122.67565727233887,
+        "lat": 45.549985826258116,
+        "address": "3731-3741 North Mississippi Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1596",
+        "name": "N Morris at Williams",
+        "region_id": "region_241",
+        "lon": -122.6667845249176,
+        "lat": 45.54471502606885,
+        "address": "15 North Morris Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1597",
+        "name": "N Russell at Interstate Community Corral",
+        "region_id": "region_241",
+        "lon": -122.67697155475615,
+        "lat": 45.54107814878315,
+        "address": "955 North Russell Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1598",
+        "name": "N Williams at Fremont",
+        "region_id": "region_241",
+        "lon": -122.66676038503647,
+        "lat": 45.54759280146992,
+        "address": "North Williams at Fremont, North Williams Avenue, Albina, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1599",
+        "name": "NE 11th at Holladay Park",
+        "region_id": "region_241",
+        "lon": -122.65466898679733,
+        "lat": 45.53027884344432,
+        "address": "1015-1199 Northeast 11th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1600",
+        "name": "SW Naito at Ankeny Plaza",
+        "region_id": "region_241",
+        "lon": -122.6703491806984,
+        "lat": 45.52269573362062,
+        "address": "43 Southwest Naito Parkway, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1601",
+        "name": "NE 22nd at Burnside",
+        "region_id": "region_241",
+        "lon": -122.64341175556181,
+        "lat": 45.522972918949336,
+        "address": "14 Northeast 22nd Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1602",
+        "name": "NE Broadway at 12th",
+        "region_id": "region_241",
+        "lon": -122.65363097190857,
+        "lat": 45.534968567136225,
+        "address": "1100-1198 Northeast Broadway Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1603",
+        "name": "NE Holladay at MLK",
+        "region_id": "region_241",
+        "lon": -122.66283631324768,
+        "lat": 45.52990304781991,
+        "address": "242-298 Northeast Holladay Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1604",
+        "name": "NE Multnomah at 9th",
+        "region_id": "region_241",
+        "lon": -122.65746116638182,
+        "lat": 45.531409974756464,
+        "address": "796-842 Northeast Multnomah Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1605",
+        "name": "NE Multnomah at Grand",
+        "region_id": "region_241",
+        "lon": -122.6597410440445,
+        "lat": 45.53146070600817,
+        "address": "564-598 Northeast Multnomah Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1606",
+        "name": "NE Sandy at 16th",
+        "region_id": "region_241",
+        "lon": -122.64976859092711,
+        "lat": 45.52440674396447,
+        "address": "1527-1541 Northeast Sandy Boulevard, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1607",
+        "name": "NE Going at Grand",
+        "region_id": "region_241",
+        "lon": -122.66037940979004,
+        "lat": 45.556454372310554,
+        "address": "4600-4722 Northeast Grand Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1608",
+        "name": "SE 29th at Hawthorne",
+        "region_id": "region_241",
+        "lon": -122.6363119482994,
+        "lat": 45.51202352994066,
+        "address": "2835, Southeast Hawthorne Boulevard, Ladd's Addition, Belmont, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1609",
+        "name": "SE 2nd Pl at Tilikum Way",
+        "region_id": "region_241",
+        "lon": -122.66333788633347,
+        "lat": 45.50624163368495,
+        "address": "2254-2398 Southeast 2nd Place, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1610",
+        "name": "SE 7th at Burnside",
+        "region_id": "region_241",
+        "lon": -122.65875130891799,
+        "lat": 45.52269855246133,
+        "address": "632 East Burnside Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1611",
+        "name": "SE 9th at Belmont",
+        "region_id": "region_241",
+        "lon": -122.65663236379623,
+        "lat": 45.51633325021543,
+        "address": "900-928 Southeast 9th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1612",
+        "name": "SE Alder at 6th",
+        "region_id": "region_241",
+        "lon": -122.66005218029024,
+        "lat": 45.51789880171501,
+        "address": "509-599 Southeast Alder Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1613",
+        "name": "SE Belmont at 33rd",
+        "region_id": "region_241",
+        "lon": -122.63075172901152,
+        "lat": 45.51649676123257,
+        "address": "3301-3333 Southeast Belmont Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1614",
+        "name": "SE Hawthorne at 20th",
+        "region_id": "region_241",
+        "lon": -122.645426094532,
+        "lat": 45.512222765454325,
+        "address": "2003-2033 Southeast Hawthorne Boulevard, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1615",
+        "name": "SE Ladd at Hawthorne",
+        "region_id": "region_241",
+        "lon": -122.653349339962,
+        "lat": 45.51208179700347,
+        "address": "1202-1210 Southeast Hawthorne Boulevard, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1616",
+        "name": "SW Park at W Burnside - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.6789939403534,
+        "lat": 45.52276526498393,
+        "address": "Balfour\u2013Guthrie Building, 733, Southwest Oak Street, Pearl District, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1617",
+        "name": "N Mason at Williams",
+        "region_id": "region_241",
+        "lon": -122.66691461205482,
+        "lat": 45.55335313404383,
+        "address": "4073, North Williams Avenue, Albina, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1713",
+        "name": "NW 19th at Johnson",
+        "region_id": "region_241",
+        "lon": -122.69050732254982,
+        "lat": 45.52862062492286,
+        "address": "801-811 Northwest 19th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2275",
+        "name": "NE 28th at Couch - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.63720646500587,
+        "lat": 45.523734525437575,
+        "address": "108 Northeast 28th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2276",
+        "name": "SE 28th at Pine - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.6372379809618,
+        "lat": 45.52059310322167,
+        "address": "304 Southeast 28th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2598",
+        "name": "Metro Campus - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.66035258769989,
+        "lat": 45.52771962320018,
+        "address": "Apotheker Plaza, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2677",
+        "name": "NE Alberta at 10th - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.65543073415755,
+        "lat": 45.55913676221388,
+        "address": "1006 Northeast Alberta Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2678",
+        "name": "NE Alberta at 14th - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.65143156051636,
+        "lat": 45.55916921652717,
+        "address": "1413 Northeast Alberta Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2679",
+        "name": "NE Alberta at 17th - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.64754369854927,
+        "lat": 45.55907103183479,
+        "address": "Courtesy Janitorial Services, 1705, Northeast Alberta Street, Alameda, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2680",
+        "name": "NE Alberta at 22nd - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.64271035790443,
+        "lat": 45.55905506873501,
+        "address": "2209 Northeast Alberta Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2681",
+        "name": "NE Alberta at 24th - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.64075167477131,
+        "lat": 45.559087669845944,
+        "address": "Northeast Alberta & 24th, Northeast Alberta Street, Alameda, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2682",
+        "name": "NE Alberta at NE 29th/30th - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.63554617762566,
+        "lat": 45.55902314250935,
+        "address": "Ampersand, 2916, Northeast Alberta Street, Alameda, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2683",
+        "name": "NE 33rd at Jarrett (Kennedy School) - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.63053715229033,
+        "lat": 45.56453067448834,
+        "address": "Kennedy School, 5736, Northeast 33rd Avenue, Alameda, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2684",
+        "name": "NE 33rd at Emerson - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.6303306221962,
+        "lat": 45.5613852227624,
+        "address": "5320 Northeast 33rd Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2685",
+        "name": "NE 14th Pl at Prescott - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.6506644487381,
+        "lat": 45.555683524502925,
+        "address": "4520 Northeast 14th Place, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2686",
+        "name": "NE Fremont at 15th - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.65081062912941,
+        "lat": 45.54828551419491,
+        "address": "1441-1499 Northeast Fremont Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2687",
+        "name": "N Michigan at Killingsworth - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.67703056335449,
+        "lat": 45.5625194836866,
+        "address": "5433 North Michigan Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2688",
+        "name": "N Concord at Killingsworth - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.68483579158783,
+        "lat": 45.56244706741791,
+        "address": "5410-5498 North Concord Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2689",
+        "name": "N Killingsworth at Gay - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.68899321556091,
+        "lat": 45.562741896778604,
+        "address": "2116 North Killingsworth Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2695",
+        "name": "NE Killingsworth at 30th - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.6350486278534,
+        "lat": 45.56271654527019,
+        "address": "Cocotte, 2930, Northeast Killingsworth Street, Alameda, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2696",
+        "name": "NE 17th at Killingsworth - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.64805935323238,
+        "lat": 45.562745549855975,
+        "address": "Podnah's BBQ Pit, Northeast Killingsworth Street, Alameda, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2698",
+        "name": "SE 40th at Hawthorne",
+        "region_id": "region_241",
+        "lon": -122.62104749679565,
+        "lat": 45.51186486128098,
+        "address": "4034 Southeast Hawthorne Boulevard, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2707",
+        "name": "SW Naito at Morrison",
+        "region_id": "region_241",
+        "lon": -122.67249628901482,
+        "lat": 45.51782550555786,
+        "address": "679-695 Pacific Highway West, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2708",
+        "name": "N Interstate at Willamette - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.68203690648079,
+        "lat": 45.5619710180186,
+        "address": "Interstate Firehouse Cultural Center, 5340, North Interstate Avenue, Piedmont, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2725",
+        "name": "Blues Fest - SW Waterfront at Clay ",
+        "region_id": "region_241",
+        "lon": -122.67502158880234,
+        "lat": 45.51241244513008,
+        "address": "1400-1498 Pacific Highway West, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2789",
+        "name": "NW Broadway at Everett",
+        "region_id": "region_241",
+        "lon": -122.67755627632141,
+        "lat": 45.52507854324387,
+        "address": "700-748 Northwest Everett Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2798",
+        "name": "NW Pettygrove at 15th",
+        "region_id": "region_241",
+        "lon": -122.68626004457474,
+        "lat": 45.53290423754687,
+        "address": "1497-1499 Northwest Pettygrove Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2875",
+        "name": "SW Moody at Thomas",
+        "region_id": "region_241",
+        "lon": -122.67190484097227,
+        "lat": 45.49429475215752,
+        "address": "4000 Southwest Moody Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3240",
+        "name": "NE Couch at MLK",
+        "region_id": "region_241",
+        "lon": -122.66191765666007,
+        "lat": 45.5235883594578,
+        "address": "Northeast Martin Luther King & East Burnside, Northeast Martin Luther King, Junior Boulevard, Ladd's Addition, Lloyd District, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3929",
+        "name": "SE Belmont at 42nd",
+        "region_id": "region_241",
+        "lon": -122.61899828910826,
+        "lat": 45.51645917253505,
+        "address": "4220 Southeast Belmont Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3957",
+        "name": "NE 2nd at NE Schuyler",
+        "region_id": "region_241",
+        "lon": -122.66363427042961,
+        "lat": 45.53561393714415,
+        "address": "1760-1798 Northeast 2nd Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4034",
+        "name": "SW Park at SW Wright (Oregon Holocaust Memorial) Community Corral",
+        "region_id": "region_241",
+        "lon": -122.7044078707695,
+        "lat": 45.52181824512027,
+        "address": "2609 Southwest Park Place, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4050",
+        "name": "NW Front at 17th",
+        "region_id": "region_241",
+        "lon": -122.68810272216797,
+        "lat": 45.53715171035475,
+        "address": "2035 Northwest Front Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4312",
+        "name": "SE Belmont at 45th - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.61603780090809,
+        "lat": 45.516584889007284,
+        "address": "4505 Southeast Belmont Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4313",
+        "name": "SE 37th at Gladstone - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.6233971118927,
+        "lat": 45.493336544791546,
+        "address": "3816-3824 Southeast Gladstone Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4314",
+        "name": "NE 43rd at Hancock - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.61862009763718,
+        "lat": 45.536585383479576,
+        "address": "4301-4399 Northeast Hancock Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4315",
+        "name": "NE 50th at Fremont - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.61116355657578,
+        "lat": 45.54827571135445,
+        "address": "5005 Northeast Fremont Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4316",
+        "name": "NE Cully at Skidmore - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.60227203369139,
+        "lat": 45.553878617475206,
+        "address": "Northeast Skidmore Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4317",
+        "name": "SE 29th and Gladstone - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.63576209545137,
+        "lat": 45.49334112788896,
+        "address": "2886 Southeast Gladstone Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4318",
+        "name": "SE 50th at Division - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.61088460683823,
+        "lat": 45.50528481919783,
+        "address": "5008-5022 Southeast Division Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4319",
+        "name": "SE 47th at Hawthorne- Community Corral",
+        "region_id": "region_241",
+        "lon": -122.6141595840454,
+        "lat": 45.51195046105081,
+        "address": "4638-4698 Southeast Hawthorne Boulevard, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4320",
+        "name": "NE 28th at Glisan- Community Corral",
+        "region_id": "region_241",
+        "lon": -122.63624489307405,
+        "lat": 45.52643433190143,
+        "address": "2852 Northeast Glisan Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4321",
+        "name": "SE 50th at Hawthorne- Community Corral",
+        "region_id": "region_241",
+        "lon": -122.61130571365356,
+        "lat": 45.51189242870023,
+        "address": "5008 Southeast Hawthorne Boulevard, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4322",
+        "name": "SE 49th at Division - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.61211037635803,
+        "lat": 45.505236179098944,
+        "address": "4846-4848 Southeast Division Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4323",
+        "name": "NE 30th at Glisan - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.63471871614456,
+        "lat": 45.526429751576785,
+        "address": "2948 Northeast Glisan Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4324",
+        "name": "SE 37th at Division - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.62528002262114,
+        "lat": 45.50473238768288,
+        "address": "3652 Southeast Division Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4325",
+        "name": "NE 41st at Sandy Blvd (Hollywood Theatre) Community Corral",
+        "region_id": "region_241",
+        "lon": -122.62061297893524,
+        "lat": 45.5357775095221,
+        "address": "4144-4152 Northeast Sandy Boulevard, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4326",
+        "name": "NE 42nd at Hancock  - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.61996656656264,
+        "lat": 45.53658432672301,
+        "address": "1898 Northeast 42nd Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4327",
+        "name": "NE 48th at Fremont - Community Corral",
+        "region_id": "region_241",
+        "lon": -122.61367678642272,
+        "lat": 45.548307056666516,
+        "address": "4759B Northeast Fremont Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4328",
+        "name": "NE 22nd at Thompson - Community Corral (Irvington Tennis Club)",
+        "region_id": "region_241",
+        "lon": -122.64328837394713,
+        "lat": 45.538936489085174,
+        "address": "2100-2198 Northeast Thompson Street, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4329",
+        "name": "N Burrage at Killingsworth Community Corral",
+        "region_id": "region_241",
+        "lon": -122.69460439682005,
+        "lat": 45.56267617062201,
+        "address": "5425-5499 North Burrage Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4368",
+        "name": "NE 10th at Halsey -- Community Corral",
+        "region_id": "region_241",
+        "lon": -122.65556752681732,
+        "lat": 45.53400578167768,
+        "address": "1541-1599 Northeast 10th Avenue, Portland",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4381",
+        "name": "NW Nicolai at Sherlock Community Corral",
+        "region_id": "region_241",
+        "lon": -122.69667170941828,
+        "lat": 45.54125782022072,
+        "address": "Northwest Nicolai Street, Kings Heights, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4382",
+        "name": "Temporary OHSU Schnitzer Lot Station",
+        "region_id": "region_241",
+        "lon": -122.67285168170928,
+        "lat": 45.50453529916378,
+        "address": "Schnitzer Lot, Southwest Sheridan Street, University District, Portland, Oregon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      }
+    ]
+  },
+  "system_id": "biketownpdx"
+}

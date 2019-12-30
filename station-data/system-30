@@ -1,0 +1,121 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -106.48507,
+        "lat": 31.76148,
+        "address": "300 N Campbell St",
+        "name": "City Hall",
+        "station_id": "bcycle_elpaso_3295"
+      },
+      {
+        "lon": -106.49358,
+        "lat": 31.76324,
+        "address": "100 W Riio Grande Avenue",
+        "name": "EPCC",
+        "station_id": "bcycle_elpaso_3296"
+      },
+      {
+        "lon": -106.48934,
+        "lat": 31.75327,
+        "address": "630 S Santa Fe Street",
+        "name": "Downtown Transfer Center",
+        "station_id": "bcycle_elpaso_3297"
+      },
+      {
+        "lon": -106.4916,
+        "lat": 31.75958,
+        "address": "510 N Santa Fe Street",
+        "name": "Cleveland Square",
+        "station_id": "bcycle_elpaso_3298"
+      },
+      {
+        "lon": -106.50485,
+        "lat": 31.76782,
+        "address": "500 W University Avenue",
+        "name": "UTEP Library",
+        "station_id": "bcycle_elpaso_3299"
+      },
+      {
+        "lon": -106.50101,
+        "lat": 31.77293,
+        "address": "111 W University Ave",
+        "name": "Oregon & University",
+        "station_id": "bcycle_elpaso_3300"
+      },
+      {
+        "lon": -106.48891,
+        "lat": 31.75846,
+        "address": "125 Pioneer Plaza",
+        "name": "Pioneer Plaza",
+        "station_id": "bcycle_elpaso_3301"
+      },
+      {
+        "lon": -106.49418,
+        "lat": 31.75688,
+        "address": "116 Anthony Street",
+        "name": "Anthony Street",
+        "station_id": "bcycle_elpaso_3302"
+      },
+      {
+        "lon": -106.50218,
+        "lat": 31.77752,
+        "address": "300 Cincinnati ",
+        "name": "Kern Place",
+        "station_id": "bcycle_elpaso_3468"
+      },
+      {
+        "lon": -106.50758,
+        "lat": 31.78369,
+        "address": "3350 Sun Bowl Dr.",
+        "name": "UTEP Sun Bowl Drive North",
+        "station_id": "bcycle_elpaso_3470"
+      },
+      {
+        "lon": -106.50209,
+        "lat": 31.76663,
+        "address": "501 W. Schuster Street",
+        "name": "UTEP Academic Services",
+        "station_id": "bcycle_elpaso_3471"
+      },
+      {
+        "lon": -106.50126,
+        "lat": 31.76392,
+        "address": "1299 Yandell Street",
+        "name": "Mundy Park",
+        "station_id": "bcycle_elpaso_3472"
+      },
+      {
+        "lon": -106.4934,
+        "lat": 31.75836,
+        "address": "One Ballpark Plaza",
+        "name": "Ballpark West Durango",
+        "station_id": "bcycle_elpaso_3473"
+      },
+      {
+        "lon": -106.48913,
+        "lat": 31.75992,
+        "address": "300 N Oregon",
+        "name": "San Jacinto Plaza",
+        "station_id": "bcycle_elpaso_3474"
+      },
+      {
+        "lon": -106.48395,
+        "lat": 31.75877,
+        "address": "500 E.San Antonio Street",
+        "name": "El Paso County Courthouse",
+        "station_id": "bcycle_elpaso_3475"
+      },
+      {
+        "lon": -106.50714,
+        "lat": 31.77032,
+        "address": "2200 Sun Bowl Drive",
+        "name": "UTEP Sun Bowl Drive South",
+        "station_id": "bcycle_elpaso_3476"
+      }
+    ]
+  },
+  "last_updated": 1530239581,
+  "system_id": "bcycle_elpaso"
+}

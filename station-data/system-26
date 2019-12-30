@@ -1,0 +1,23 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -96.76546,
+        "lat": 32.78213,
+        "address": "3711 Parry Ave",
+        "name": "Parry Ave./Dart Station",
+        "station_id": "bcycle_dallasfairpark_2905"
+      },
+      {
+        "lon": -96.76118,
+        "lat": 32.77575,
+        "address": "3427 Martin Luther King Jr Blvd",
+        "name": "MLK",
+        "station_id": "bcycle_dallasfairpark_2906"
+      }
+    ]
+  },
+  "last_updated": 1530239577,
+  "system_id": "bcycle_dallasfairpark"
+}

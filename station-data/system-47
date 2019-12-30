@@ -1,0 +1,317 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -89.38527,
+        "lat": 43.07571,
+        "address": "117 Wisconsin Avenue",
+        "name": "Wisconsin & E. Mifflin",
+        "station_id": "bcycle_madison_1874"
+      },
+      {
+        "lon": -89.38355,
+        "lat": 43.07734,
+        "address": "N. Webster & E. Mifflin",
+        "name": "N. Webster & E. Mifflin",
+        "station_id": "bcycle_madison_1878"
+      },
+      {
+        "lon": -89.38295,
+        "lat": 43.0738,
+        "address": "104 Martin Luther King Jr. Blvd",
+        "name": "MLK & Main St.",
+        "station_id": "bcycle_madison_1880"
+      },
+      {
+        "lon": -89.37546,
+        "lat": 43.08634,
+        "address": "988 E. Gorham St.",
+        "name": "E. Gorham & N. Brearly",
+        "station_id": "bcycle_madison_1881"
+      },
+      {
+        "lon": -89.38165,
+        "lat": 43.07244,
+        "address": "22 West Wilson Street",
+        "name": "W. Wilson & MLK",
+        "station_id": "bcycle_madison_1882"
+      },
+      {
+        "lon": -89.40127,
+        "lat": 43.06962,
+        "address": "N. Park & Spring St.",
+        "name": "N. Park & Spring St.",
+        "station_id": "bcycle_madison_1885"
+      },
+      {
+        "lon": -89.37549,
+        "lat": 43.07549,
+        "address": "John Nolen Drive",
+        "name": "John Nolen @ Law Park",
+        "station_id": "bcycle_madison_1887"
+      },
+      {
+        "lon": -89.40053,
+        "lat": 43.07702,
+        "address": "699 N. Park St.",
+        "name": "Memorial Union",
+        "station_id": "bcycle_madison_1888"
+      },
+      {
+        "lon": -89.39433,
+        "lat": 43.06732,
+        "address": "677 W. Washington St.",
+        "name": "W. Washington & Regent St.  ",
+        "station_id": "bcycle_madison_1889"
+      },
+      {
+        "lon": -89.3966,
+        "lat": 43.07476,
+        "address": "619 State Street",
+        "name": "Hawthorne Ct & State Street",
+        "station_id": "bcycle_madison_1890"
+      },
+      {
+        "lon": -89.38357,
+        "lat": 43.08056,
+        "address": "472 E. Gorham St",
+        "name": "E. Gorham @ James Madison Park",
+        "station_id": "bcycle_madison_1891"
+      },
+      {
+        "lon": -89.39258,
+        "lat": 43.07531,
+        "address": "229 W. Gilman St.",
+        "name": "W. Gilman @ Peace Park",
+        "station_id": "bcycle_madison_1892"
+      },
+      {
+        "lon": -89.38885,
+        "lat": 43.06511,
+        "address": "150 North Shore Drive",
+        "name": "N. Shore @ Brittingham Park",
+        "station_id": "bcycle_madison_1893"
+      },
+      {
+        "lon": -89.35138,
+        "lat": 43.09245,
+        "address": "2048 Eastwood Dr. ",
+        "name": "Eastwood & Division",
+        "station_id": "bcycle_madison_1897"
+      },
+      {
+        "lon": -89.40417,
+        "lat": 43.05713,
+        "address": "850 S. Mills St.",
+        "name": "Vilas Park @ Arboretum",
+        "station_id": "bcycle_madison_1898"
+      },
+      {
+        "lon": -89.33673,
+        "lat": 43.09299,
+        "address": "3330 Atwood Avenue",
+        "name": "Olbrich Gardens ",
+        "station_id": "bcycle_madison_1903"
+      },
+      {
+        "lon": -89.36612,
+        "lat": 43.09226,
+        "address": "N. Thornton @ Tenney Park",
+        "name": "N. Thornton @ Tenney Park",
+        "station_id": "bcycle_madison_1904"
+      },
+      {
+        "lon": -89.42028,
+        "lat": 43.07662,
+        "address": "Observatory Dr. @ Natatorium Gym",
+        "name": "Observatory Dr. @ Natatorium Gym",
+        "station_id": "bcycle_madison_1906"
+      },
+      {
+        "lon": -89.43085,
+        "lat": 43.07721,
+        "address": "Observatory Dr. @ UW Hospital",
+        "name": "Observatory Dr. @ UW Hospital",
+        "station_id": "bcycle_madison_1907"
+      },
+      {
+        "lon": -89.40804,
+        "lat": 43.07214,
+        "address": "Union South",
+        "name": "Union South",
+        "station_id": "bcycle_madison_1908"
+      },
+      {
+        "lon": -89.36456,
+        "lat": 43.08336,
+        "address": "387 S. Few ",
+        "name": "S. Few & Williamson",
+        "station_id": "bcycle_madison_1912"
+      },
+      {
+        "lon": -89.40635,
+        "lat": 43.07355,
+        "address": "University St. & Charter St.",
+        "name": "University St. & Charter St. ",
+        "station_id": "bcycle_madison_1913"
+      },
+      {
+        "lon": -89.39686,
+        "lat": 43.07576,
+        "address": "633 Langdon Street",
+        "name": "Langdon St. & N. Lake St.",
+        "station_id": "bcycle_madison_2072"
+      },
+      {
+        "lon": -89.37286,
+        "lat": 43.07705,
+        "address": "706 Willamson St",
+        "name": "Williamson St @ Jenifer St.",
+        "station_id": "bcycle_madison_2124"
+      },
+      {
+        "lon": -89.39727,
+        "lat": 43.073,
+        "address": "381 N. Lake St.",
+        "name": "N. Lake St. @ University Ave.",
+        "station_id": "bcycle_madison_2128"
+      },
+      {
+        "lon": -89.3744,
+        "lat": 43.04764,
+        "address": "1702 Rimrock Road",
+        "name": "Sheraton Hotel ",
+        "station_id": "bcycle_madison_2133"
+      },
+      {
+        "lon": -89.39418,
+        "lat": 43.07329,
+        "address": "504 University Ave.",
+        "name": "University & Bassett",
+        "station_id": "bcycle_madison_2146"
+      },
+      {
+        "lon": -89.41757,
+        "lat": 43.06479,
+        "address": "797 Harrison St.",
+        "name": "Monroe & Harrison",
+        "station_id": "bcycle_madison_2147"
+      },
+      {
+        "lon": -89.38763,
+        "lat": 43.07857,
+        "address": "424 N. Pinckney Street",
+        "name": "Mansion Hill Inn",
+        "station_id": "bcycle_madison_2281"
+      },
+      {
+        "lon": -89.38778,
+        "lat": 43.07369,
+        "address": "126 W. Mifflin Street",
+        "name": "W. Mifflin @ Central Library",
+        "station_id": "bcycle_madison_2394"
+      },
+      {
+        "lon": -89.3954,
+        "lat": 43.07492,
+        "address": "State St. & N. Francis",
+        "name": "State St. & N. Frances",
+        "station_id": "bcycle_madison_2426"
+      },
+      {
+        "lon": -89.45269,
+        "lat": 43.07432,
+        "address": "726 N. Midvale Blvd.",
+        "name": "Hilldale North",
+        "station_id": "bcycle_madison_2457"
+      },
+      {
+        "lon": -89.45083,
+        "lat": 43.07665,
+        "address": "3750 University Ave.",
+        "name": "UW Credit Union",
+        "station_id": "bcycle_madison_2554"
+      },
+      {
+        "lon": -89.43397,
+        "lat": 43.07584,
+        "address": "900 University Bay Dr",
+        "name": "UW Children's Hospital ",
+        "station_id": "bcycle_madison_2556"
+      },
+      {
+        "lon": -89.4691,
+        "lat": 43.07666,
+        "address": "750 University Row",
+        "name": "UW Digestive Health Center",
+        "station_id": "bcycle_madison_2557"
+      },
+      {
+        "lon": -89.43853,
+        "lat": 43.07636,
+        "address": "2880 University Ave.",
+        "name": "University Station Clinic",
+        "station_id": "bcycle_madison_2672"
+      },
+      {
+        "lon": -89.33071,
+        "lat": 43.12127,
+        "address": "1750 Wright St.",
+        "name": "Madison College - Truax Campus",
+        "station_id": "bcycle_madison_3313"
+      },
+      {
+        "lon": -89.38681,
+        "lat": 43.07499,
+        "address": "100 North Carroll St.",
+        "name": "Ian's Pizza on State",
+        "station_id": "bcycle_madison_3694"
+      },
+      {
+        "lon": -89.38672,
+        "lat": 43.07448,
+        "address": "101 W. Mifflin",
+        "name": "Philosopher's Grove",
+        "station_id": "bcycle_madison_3695"
+      },
+      {
+        "lon": -89.39955,
+        "lat": 43.07487,
+        "address": "511 N. Park St.",
+        "name": "Library Mall",
+        "station_id": "bcycle_madison_3696"
+      },
+      {
+        "lon": -89.33017,
+        "lat": 43.08809,
+        "address": "3527 Atwood Ave",
+        "name": "Olbrich Biergarten",
+        "station_id": "bcycle_madison_3725"
+      },
+      {
+        "lon": -89.3841,
+        "lat": 43.07295,
+        "address": "101 S. Carroll St.",
+        "name": "S. Hamilton & S. Carroll St.",
+        "station_id": "bcycle_madison_3759"
+      },
+      {
+        "lon": -89.38251,
+        "lat": 43.07605,
+        "address": "136 E. Washington",
+        "name": "E. Washington & N. Webster",
+        "station_id": "bcycle_madison_3780"
+      },
+      {
+        "lon": -89.34363,
+        "lat": 43.0963,
+        "address": "199 Waubesa St.",
+        "name": "Goodman Community Center",
+        "station_id": "bcycle_madison_3889"
+      }
+    ]
+  },
+  "last_updated": 1530239598,
+  "system_id": "bcycle_madison"
+}

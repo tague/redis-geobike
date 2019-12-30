@@ -1,0 +1,100 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -83.74589,
+        "lat": 42.27846,
+        "address": "343 S. Fifth Ave.",
+        "name": "Library Lane",
+        "station_id": "bcycle_arborbike_2830"
+      },
+      {
+        "lon": -83.74245,
+        "lat": 42.27408,
+        "address": "600 E. Madison St.",
+        "name": "Madison & State",
+        "station_id": "bcycle_arborbike_2831"
+      },
+      {
+        "lon": -83.71988,
+        "lat": 42.29492,
+        "address": "2375 Hubbardd Rd.",
+        "name": "Murfin & Hubbard",
+        "station_id": "bcycle_arborbike_2832"
+      },
+      {
+        "lon": -83.73382,
+        "lat": 42.28307,
+        "address": "1107 Catherine St.",
+        "name": "Zina Pitcher & Catherine",
+        "station_id": "bcycle_arborbike_2833"
+      },
+      {
+        "lon": -83.71855,
+        "lat": 42.29045,
+        "address": "2303 Bonisteel Blvd.",
+        "name": "Murfin & Bonisteel",
+        "station_id": "bcycle_arborbike_2834"
+      },
+      {
+        "lon": -83.73294,
+        "lat": 42.27919,
+        "address": "401 Washtenaw Ave.",
+        "name": "CCRB @ Washtenaw",
+        "station_id": "bcycle_arborbike_2835"
+      },
+      {
+        "lon": -83.74058,
+        "lat": 42.27867,
+        "address": "317 S. State",
+        "name": "State & N. University",
+        "station_id": "bcycle_arborbike_2836"
+      },
+      {
+        "lon": -83.74834,
+        "lat": 42.28055,
+        "address": "101 E. Washington St.",
+        "name": "Washington and Main",
+        "station_id": "bcycle_arborbike_2837"
+      },
+      {
+        "lon": -83.74613,
+        "lat": 42.28392,
+        "address": "315 Detroit St.",
+        "name": "Kerrytown @ Fifth",
+        "station_id": "bcycle_arborbike_2838"
+      },
+      {
+        "lon": -83.73601,
+        "lat": 42.27512,
+        "address": "1101 S. University Ave.",
+        "name": "S. University & E. University",
+        "station_id": "bcycle_arborbike_2839"
+      },
+      {
+        "lon": -83.7459,
+        "lat": 42.28163,
+        "address": "301 E Huron St",
+        "name": "City Hall/Justice Center",
+        "station_id": "bcycle_arborbike_3172"
+      },
+      {
+        "lon": -83.74245,
+        "lat": 42.26965,
+        "address": "580 E Hoover Ave",
+        "name": "Hoover & State",
+        "station_id": "bcycle_arborbike_3173"
+      },
+      {
+        "lon": -83.74081,
+        "lat": 42.2809,
+        "address": "105 S State St",
+        "name": "State & North Quad",
+        "station_id": "bcycle_arborbike_3174"
+      }
+    ]
+  },
+  "last_updated": 1530239554,
+  "system_id": "bcycle_arborbike"
+}

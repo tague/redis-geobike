@@ -1,0 +1,240 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -111.88772,
+        "lat": 40.76735,
+        "address": "123 E 100 S",
+        "name": "Harmons Station",
+        "station_id": "bcycle_greenbikeslc_2248"
+      },
+      {
+        "lon": -111.89126,
+        "lat": 40.76903,
+        "address": "6 S. Main St.",
+        "name": "Key Bank Station",
+        "station_id": "bcycle_greenbikeslc_2251"
+      },
+      {
+        "lon": -111.89544,
+        "lat": 40.76266,
+        "address": "147 W. Broadway",
+        "name": "Squatters Station @ The Rose ",
+        "station_id": "bcycle_greenbikeslc_2252"
+      },
+      {
+        "lon": -111.90149,
+        "lat": 40.76511,
+        "address": "340 W 200 S",
+        "name": "Union Pacific Station",
+        "station_id": "bcycle_greenbikeslc_2253"
+      },
+      {
+        "lon": -111.89419,
+        "lat": 40.76812,
+        "address": "90 S West Temple",
+        "name": "20 S. West Temple",
+        "station_id": "bcycle_greenbikeslc_2254"
+      },
+      {
+        "lon": -111.89091,
+        "lat": 40.76142,
+        "address": "353 S. Main St.",
+        "name": "City Weekly Station",
+        "station_id": "bcycle_greenbikeslc_2255"
+      },
+      {
+        "lon": -111.90274,
+        "lat": 40.76972,
+        "address": "400 W South Temple",
+        "name": "400 W. South Temple @ Gateway",
+        "station_id": "bcycle_greenbikeslc_2256"
+      },
+      {
+        "lon": -111.89095,
+        "lat": 40.7643,
+        "address": "225 S. Main St.",
+        "name": "Rocky Mountain Power Station ",
+        "station_id": "bcycle_greenbikeslc_2257"
+      },
+      {
+        "lon": -111.88512,
+        "lat": 40.7616,
+        "address": "349 S 200 E",
+        "name": "349 S. 200 E. Station",
+        "station_id": "bcycle_greenbikeslc_2258"
+      },
+      {
+        "lon": -111.9085,
+        "lat": 40.76257,
+        "address": "290 S 600 W",
+        "name": "UTA Salt Lake Central Station",
+        "station_id": "bcycle_greenbikeslc_2259"
+      },
+      {
+        "lon": -111.89707,
+        "lat": 40.76906,
+        "address": "215 West South Temple",
+        "name": "Radisson Station",
+        "station_id": "bcycle_greenbikeslc_2400"
+      },
+      {
+        "lon": -111.88648,
+        "lat": 40.76253,
+        "address": "300 South 160 East",
+        "name": "TravelWise Station",
+        "station_id": "bcycle_greenbikeslc_2402"
+      },
+      {
+        "lon": -111.88521,
+        "lat": 40.75943,
+        "address": "450 South 150 East",
+        "name": "UCAIR Station @ City & County Building",
+        "station_id": "bcycle_greenbikeslc_2735"
+      },
+      {
+        "lon": -111.90874,
+        "lat": 40.77132,
+        "address": "640 West North Temple",
+        "name": "640W  North Temple Station",
+        "station_id": "bcycle_greenbikeslc_2736"
+      },
+      {
+        "lon": -111.89124,
+        "lat": 40.76624,
+        "address": "136 South Main Street ",
+        "name": "Energy Development Station",
+        "station_id": "bcycle_greenbikeslc_2737"
+      },
+      {
+        "lon": -111.89593,
+        "lat": 40.75861,
+        "address": "150 West 500 South",
+        "name": "Sheraton Station",
+        "station_id": "bcycle_greenbikeslc_2738"
+      },
+      {
+        "lon": -111.87982,
+        "lat": 40.76539,
+        "address": "190 South 400 East",
+        "name": "CityScape Station",
+        "station_id": "bcycle_greenbikeslc_2739"
+      },
+      {
+        "lon": -111.88286,
+        "lat": 40.76297,
+        "address": "300 South 300 East",
+        "name": "3 & 3 Uncommons Station ",
+        "station_id": "bcycle_greenbikeslc_2740"
+      },
+      {
+        "lon": -111.89427,
+        "lat": 40.76518,
+        "address": "200 South West Temple",
+        "name": "Life Elevated Station @ The Salt Palace",
+        "station_id": "bcycle_greenbikeslc_2741"
+      },
+      {
+        "lon": -111.89248,
+        "lat": 40.76283,
+        "address": "50 W 300 S",
+        "name": "Twilight Concert Series Station @ 50 West 300 South",
+        "station_id": "bcycle_greenbikeslc_2742"
+      },
+      {
+        "lon": -111.90006,
+        "lat": 40.76285,
+        "address": "300S 300W",
+        "name": "UCAIR Station @ Pioneer Park",
+        "station_id": "bcycle_greenbikeslc_3181"
+      },
+      {
+        "lon": -111.88515,
+        "lat": 40.76524,
+        "address": "200S 200E ",
+        "name": "SLUG Mag Station",
+        "station_id": "bcycle_greenbikeslc_3182"
+      },
+      {
+        "lon": -111.90369,
+        "lat": 40.76708,
+        "address": "450W 100S ",
+        "name": "450W 100S Station @ Gateway",
+        "station_id": "bcycle_greenbikeslc_3183"
+      },
+      {
+        "lon": -111.87664,
+        "lat": 40.76746,
+        "address": " 100S 500E ",
+        "name": " 100S 500E Station ",
+        "station_id": "bcycle_greenbikeslc_3184"
+      },
+      {
+        "lon": -111.87697,
+        "lat": 40.76307,
+        "address": "300S 500E",
+        "name": "JF Capital Station",
+        "station_id": "bcycle_greenbikeslc_3185"
+      },
+      {
+        "lon": -111.88959,
+        "lat": 40.76266,
+        "address": "40E 300S ",
+        "name": "40E 300S Station",
+        "station_id": "bcycle_greenbikeslc_3422"
+      },
+      {
+        "lon": -111.89085,
+        "lat": 40.76732,
+        "address": "100S Main St ",
+        "name": "Backcountry.com @ 100S Main Street ",
+        "station_id": "bcycle_greenbikeslc_3423"
+      },
+      {
+        "lon": -111.88849,
+        "lat": 40.76517,
+        "address": "200S State St ",
+        "name": "200S State Street Station",
+        "station_id": "bcycle_greenbikeslc_3424"
+      },
+      {
+        "lon": -111.89659,
+        "lat": 40.76377,
+        "address": "250S 200W ",
+        "name": "Blyncsy Station",
+        "station_id": "bcycle_greenbikeslc_3425"
+      },
+      {
+        "lon": -111.90025,
+        "lat": 40.76738,
+        "address": "100 South 300 West",
+        "name": "100 S. 300 W. Station",
+        "station_id": "bcycle_greenbikeslc_3426"
+      },
+      {
+        "lon": -111.87152,
+        "lat": 40.75791,
+        "address": "510S 700E",
+        "name": "Google Fiber Station @ Trolley Square ",
+        "station_id": "bcycle_greenbikeslc_3427"
+      },
+      {
+        "lon": -111.905,
+        "lat": 40.77187,
+        "address": "500W N. Temple",
+        "name": "UTA North Temple FrontRunner Station",
+        "station_id": "bcycle_greenbikeslc_3428"
+      },
+      {
+        "lon": -111.91133,
+        "lat": 40.76464,
+        "address": "669W 200S",
+        "name": "UTA FrontLines Station",
+        "station_id": "bcycle_greenbikeslc_3430"
+      }
+    ]
+  },
+  "last_updated": 1530239585,
+  "system_id": "bcycle_greenbikeslc"
+}

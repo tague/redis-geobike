@@ -1,0 +1,2489 @@
+{
+  "last_updated": 1530239656,
+  "ttl": 180,
+  "data": {
+    "stations": [
+      {
+        "station_id": "hub_634",
+        "name": "Washburn University - Henderson-Mabee",
+        "region_id": "region_120",
+        "lon": -95.7027213202284,
+        "lat": 39.0337646098385,
+        "address": "Southwest 19th Street, Washburn University, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_635",
+        "name": "Topeka Metro Ryan Admin Building",
+        "region_id": "region_120",
+        "lon": -95.6712623830365,
+        "lat": 39.0609598414429,
+        "address": "200-298 Northwest Crane Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_637",
+        "name": "Gage Park",
+        "region_id": "region_120",
+        "lon": -95.72814166545868,
+        "lat": 39.05244745075553,
+        "address": "Southwest Zoo Parkway, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_639",
+        "name": "Lake Shawnee Campground",
+        "region_id": "region_120",
+        "lon": -95.6230590503792,
+        "lat": 39.0034367918231,
+        "address": "3435 Southeast East Edge Road, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_640",
+        "name": "Topeka and Shawnee County Public Library",
+        "region_id": "region_120",
+        "lon": -95.6970086569238,
+        "lat": 39.0503474336272,
+        "address": "1515 Southwest 10th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_641",
+        "name": "GraceMed between the hospitals",
+        "region_id": "region_120",
+        "lon": -95.6963846385606,
+        "lat": 39.0540476139743,
+        "address": "1615 Southwest 8th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_642",
+        "name": "Shawnee County Health Agency - East",
+        "region_id": "region_120",
+        "lon": -95.6515374840144,
+        "lat": 39.0307633876083,
+        "address": "2025 Southeast California Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_643",
+        "name": "College Hill - PT's Coffee",
+        "region_id": "region_120",
+        "lon": -95.69700121879578,
+        "lat": 39.037132148735864,
+        "address": "1691-1699 Southwest Washburn Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_644",
+        "name": "College Hill - Burger Stand",
+        "region_id": "region_120",
+        "lon": -95.6962554532054,
+        "lat": 39.0388136868598,
+        "address": "1401-1499 Southwest 16th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_645",
+        "name": "Kansas Expocentre",
+        "region_id": "region_120",
+        "lon": -95.6852604043445,
+        "lat": 39.0349653323476,
+        "address": "Capitol Plaza Topeka, 1717, Southwest Topeka Boulevard, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_646",
+        "name": "Annie's Place",
+        "region_id": "region_120",
+        "lon": -95.7268962304101,
+        "lat": 39.0430401638504,
+        "address": "4117, Southwest Huntoon Street, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_647",
+        "name": "Bus Shelter - Fairlawn Plaza",
+        "region_id": "region_120",
+        "lon": -95.7466323050004,
+        "lat": 39.0290962470401,
+        "address": "5467-5487 Southwest 21st Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_648",
+        "name": "Doorstep Inc.",
+        "region_id": "region_120",
+        "lon": -95.6913260917216,
+        "lat": 39.0496911711017,
+        "address": "1119 Southwest 10th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_649",
+        "name": "Old Prairie Town",
+        "region_id": "region_120",
+        "lon": -95.6842178106308,
+        "lat": 39.0633736136613,
+        "address": "123, Northwest Clay Street, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_650",
+        "name": "YMCA Downtown",
+        "region_id": "region_120",
+        "lon": -95.6753382979593,
+        "lat": 39.0549743352889,
+        "address": "421 Southwest Van Buren Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_652",
+        "name": "Topeka West High School",
+        "region_id": "region_120",
+        "lon": -95.7459768384113,
+        "lat": 39.0320485420497,
+        "address": "1939 Southwest Fairmont Road, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_656",
+        "name": "Bus Shelter - Wanamaker at Westport - Denny's",
+        "region_id": "region_120",
+        "lon": -95.7616991035816,
+        "lat": 39.0396298380557,
+        "address": "1636-1638 Southwest Wanamaker Road, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_668",
+        "name": "Topeka Civic Theatre and Academy",
+        "region_id": "region_120",
+        "lon": -95.7148058181932,
+        "lat": 39.0552913938362,
+        "address": "3050-3098 Southwest 8th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_669",
+        "name": "Topeka Crossing Shopping Center (N. Topeka Blvd)",
+        "region_id": "region_120",
+        "lon": -95.663076633943,
+        "lat": 39.0861725432192,
+        "address": "2028 Northwest Topeka Boulevard, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_670",
+        "name": "Walgreens - North Topeka",
+        "region_id": "region_120",
+        "lon": -95.6652938872458,
+        "lat": 39.0879312017274,
+        "address": "400 Northwest Lyman Road, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_671",
+        "name": "YMCA southwest",
+        "region_id": "region_120",
+        "lon": -95.7487678527832,
+        "lat": 39.00095969790529,
+        "address": "Breakpoint Church, Southwest Chelsea Drive, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_672",
+        "name": "Westridge Mall NW entrance",
+        "region_id": "region_120",
+        "lon": -95.7670234503642,
+        "lat": 39.0337414783059,
+        "address": "1781 Southwest Wanamaker Road, West Ridge Mall, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_673",
+        "name": "Target",
+        "region_id": "region_120",
+        "lon": -95.7596259168943,
+        "lat": 39.0285592266384,
+        "address": "2120 Southwest Wanamaker Road, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_674",
+        "name": "Walmart Neighborhood Store 6th & MacVicar",
+        "region_id": "region_120",
+        "lon": -95.7083737850189,
+        "lat": 39.059966398490864,
+        "address": "2700 Southwest 6th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_676",
+        "name": "Brown vs. Board of Education -- Employee Parking in Alley",
+        "region_id": "region_120",
+        "lon": -95.6765691020807,
+        "lat": 39.0381822806196,
+        "address": "1515 Southeast Monroe Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_710",
+        "name": "West Ridge Mall SW entrance",
+        "region_id": "region_120",
+        "lon": -95.7669002465661,
+        "lat": 39.0317945068732,
+        "address": "1801 Southwest Wanamaker Road, West Ridge Mall, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_711",
+        "name": "Bus Shelter on 21st at Wanamaker",
+        "region_id": "region_120",
+        "lon": -95.7629798868615,
+        "lat": 39.0292709106411,
+        "address": "6000-6046 Southwest 21st Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_735",
+        "name": "Lake Shawnee - Marina West",
+        "region_id": "region_120",
+        "lon": -95.6299535281191,
+        "lat": 39.0086050874493,
+        "address": "3071-3081 Southeast West Edge Road, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_736",
+        "name": "Washburn University - Plass Street Station",
+        "region_id": "region_120",
+        "lon": -95.7048229417351,
+        "lat": 39.0352842976921,
+        "address": "1737 Southwest Macvicar Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_739",
+        "name": "Downtown - Quincy Street Station (QSS) ",
+        "region_id": "region_120",
+        "lon": -95.6733930922948,
+        "lat": 39.0470542100847,
+        "address": "200-306 Southeast 9th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_740",
+        "name": "Downtown - Kansas State Capitol Bike Parking",
+        "region_id": "region_120",
+        "lon": -95.6767196539826,
+        "lat": 39.0478766984882,
+        "address": "300 Southwest 10th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_743",
+        "name": "Downtown - Sunflower Bike Racks - 822 S Kansas Ave",
+        "region_id": "region_120",
+        "lon": -95.6748907952502,
+        "lat": 39.0480956298121,
+        "address": "811 South Kansas Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_744",
+        "name": "Downtown - 712 S Kansas Ave",
+        "region_id": "region_120",
+        "lon": -95.67402005195618,
+        "lat": 39.04960212212917,
+        "address": "716 South Kansas Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_745",
+        "name": "Downtown - Visit Topeka, Inc. - 618 S Kansas Ave",
+        "region_id": "region_120",
+        "lon": -95.67344337701797,
+        "lat": 39.050928984368866,
+        "address": "618 South Kansas Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_752",
+        "name": "Downtown - Topeka City Hall",
+        "region_id": "region_120",
+        "lon": -95.6723875675925,
+        "lat": 39.0497756245855,
+        "address": "700-798 Southeast Quincy Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_753",
+        "name": "Dillons Gage / Fleming Place",
+        "region_id": "region_120",
+        "lon": -95.7270283553689,
+        "lat": 39.0503087698915,
+        "address": "4015 Southwest 10th Avenue, Flemming Place Shopping Center, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_761",
+        "name": "Washburn University - Morgan Hall - South",
+        "region_id": "region_120",
+        "lon": -95.70141077041626,
+        "lat": 39.035311256809486,
+        "address": "Morgan Hall, Southwest College Avenue, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_762",
+        "name": "Washburn University - Lee Arena  - NE",
+        "region_id": "region_120",
+        "lon": -95.698579214289,
+        "lat": 39.0342341733007,
+        "address": "1800-1826 Southwest Mulvane Street, Washburn University, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_777",
+        "name": "WIBW",
+        "region_id": "region_120",
+        "lon": -95.7676774279298,
+        "lat": 39.0552801135943,
+        "address": "610-798 Southwest Corporate View, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_781",
+        "name": "Walmart East bike racks",
+        "region_id": "region_120",
+        "lon": -95.6487687385111,
+        "lat": 39.0207152679409,
+        "address": "2201 Southeast 25th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_782",
+        "name": "Dillons East",
+        "region_id": "region_120",
+        "lon": -95.6496576122895,
+        "lat": 39.016225398824,
+        "address": "2800 Southeast Texas Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_783",
+        "name": "Dillons Brookwood",
+        "region_id": "region_120",
+        "lon": -95.7136372659046,
+        "lat": 39.0143403609587,
+        "address": "2827 Southwest 29th Street, Brookwood Shopping Center, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_785",
+        "name": "Dillons Fairlawn",
+        "region_id": "region_120",
+        "lon": -95.7452036800613,
+        "lat": 39.0270135592739,
+        "address": "5311 Southwest 22nd Place, Fairlawn Plaza, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_786",
+        "name": "Dillons North",
+        "region_id": "region_120",
+        "lon": -95.674991212342,
+        "lat": 39.0933001172029,
+        "address": "800 Northwest 25th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_787",
+        "name": "Dillons West",
+        "region_id": "region_120",
+        "lon": -95.7829856669539,
+        "lat": 39.0136104060317,
+        "address": "6829 Southwest 29th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_791",
+        "name": "VA Hospital",
+        "region_id": "region_120",
+        "lon": -95.7236558885051,
+        "lat": 39.0259068294422,
+        "address": "2200 Southwest Gage Boulevard, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_801",
+        "name": "Downtown - KDOT - 7th and Harrison",
+        "region_id": "region_120",
+        "lon": -95.678257282929,
+        "lat": 39.0508484362532,
+        "address": "700-740 Southwest Harrison Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_807",
+        "name": "Crestview Park",
+        "region_id": "region_120",
+        "lon": -95.7351132856117,
+        "lat": 39.0183167513595,
+        "address": "Shunga Trail, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_817",
+        "name": "Downtown - 900 Block SE Quincy",
+        "region_id": "region_120",
+        "lon": -95.67396104335785,
+        "lat": 39.04610050256053,
+        "address": "920-960 Southeast Quincy Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_823",
+        "name": "Community Action - 10th & Branner",
+        "region_id": "region_120",
+        "lon": -95.664526799553,
+        "lat": 39.0439022453399,
+        "address": "1000 Southeast Hancock Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_828",
+        "name": "Washburn University Village",
+        "region_id": "region_120",
+        "lon": -95.7041828700256,
+        "lat": 39.0316551835582,
+        "address": "2001 Southwest Jewell Avenue, Washburn University, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_829",
+        "name": "Westridge Mall north entrance",
+        "region_id": "region_120",
+        "lon": -95.7653892403405,
+        "lat": 39.0339913295783,
+        "address": "Hidden Valley subdivision, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_850",
+        "name": "Bus Shelter 10th & Parkview",
+        "region_id": "region_120",
+        "lon": -95.7222362615702,
+        "lat": 39.0511683411853,
+        "address": "3665-3699 Southwest 10th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_851",
+        "name": "Pizagel's",
+        "region_id": "region_120",
+        "lon": -95.7433703631365,
+        "lat": 39.0153534238513,
+        "address": "2830 Southwest Fairlawn Road, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_853",
+        "name": "Oakland Community Center",
+        "region_id": "region_120",
+        "lon": -95.6447111070189,
+        "lat": 39.0666418835502,
+        "address": "Oakland Community Center, Northeast Sardou Avenue, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_871",
+        "name": "Washburn University - SRWC",
+        "region_id": "region_120",
+        "lon": -95.70100978016853,
+        "lat": 39.03251315864193,
+        "address": "Southwest Durow Road, Washburn University, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_872",
+        "name": "Washburn University - Memorial Union",
+        "region_id": "region_120",
+        "lon": -95.70286519825459,
+        "lat": 39.03548053506226,
+        "address": "1634 Southwest Jewell Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_873",
+        "name": "Washburn University - Lee Arena - NW ",
+        "region_id": "region_120",
+        "lon": -95.69948494434357,
+        "lat": 39.034265368261906,
+        "address": "1992-1996 Southwest College Avenue, Washburn University, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_874",
+        "name": "Washburn University - Bennett Computer Center and Morgan Hall",
+        "region_id": "region_120",
+        "lon": -95.7000133395195,
+        "lat": 39.03603211894959,
+        "address": "1648 Southwest 18th Street, Washburn University, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_875",
+        "name": "Washburn University - Art Building",
+        "region_id": "region_120",
+        "lon": -95.7016883790493,
+        "lat": 39.03249805319762,
+        "address": "Southwest 19th Street, Washburn University, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_876",
+        "name": "Washburn University - International House",
+        "region_id": "region_120",
+        "lon": -95.70293694734573,
+        "lat": 39.03500082544994,
+        "address": "1845 Southwest Jewell Avenue, Washburn University, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_877",
+        "name": "Washburn University - LLC SW",
+        "region_id": "region_120",
+        "lon": -95.70395484566689,
+        "lat": 39.03491748796058,
+        "address": "1845 Southwest Jewell Avenue, Washburn University, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_878",
+        "name": "Washburn University - KTWU",
+        "region_id": "region_120",
+        "lon": -95.70446446537971,
+        "lat": 39.03222771723823,
+        "address": "2001 Southwest Jewell Avenue, Washburn University, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_879",
+        "name": "Downtown - Capitol Federal - 7th & Kansas",
+        "region_id": "region_120",
+        "lon": -95.67362576723099,
+        "lat": 39.0501728634161,
+        "address": "100-112 Southeast 7th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_880",
+        "name": "NOTO - Midblock crossing, 822 N Kansas Ave",
+        "region_id": "region_120",
+        "lon": -95.66669225692749,
+        "lat": 39.06685146925476,
+        "address": "822 North Kansas Avenue, NOTO Arts District, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_881",
+        "name": "Classic Bean - Fairlawn Plaza",
+        "region_id": "region_120",
+        "lon": -95.74660062789917,
+        "lat": 39.02821683105729,
+        "address": "2115 Southwest Fairlawn Plaza Drive, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_883",
+        "name": "Highland Park High School",
+        "region_id": "region_120",
+        "lon": -95.65088868141174,
+        "lat": 39.02402234660697,
+        "address": "2400-2438 Southeast California Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_884",
+        "name": "Downtown - TILRC - railing along 5th at Jackson",
+        "region_id": "region_120",
+        "lon": -95.67450553178787,
+        "lat": 39.05355659784673,
+        "address": "201-299 Southwest 5th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_885",
+        "name": "Topeka High School",
+        "region_id": "region_120",
+        "lon": -95.68650037050246,
+        "lat": 39.05003538587573,
+        "address": "900-998 Southwest Western Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_886",
+        "name": "Washburn University - Theater",
+        "region_id": "region_120",
+        "lon": -95.70207595825195,
+        "lat": 39.036024827003395,
+        "address": "1801-1981 Southwest 17th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_888",
+        "name": "Walgreen's at 37th and Topeka",
+        "region_id": "region_120",
+        "lon": -95.68726882338524,
+        "lat": 39.00148810134978,
+        "address": "3624-3672 Southwest Topeka Boulevard, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_889",
+        "name": "Bus Shelter - 32nd and Topeka ",
+        "region_id": "region_120",
+        "lon": -95.68746596574782,
+        "lat": 39.00895724069964,
+        "address": "3230 Southwest Topeka Boulevard, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_892",
+        "name": "Olive Garden - Employee bike parking",
+        "region_id": "region_120",
+        "lon": -95.76310962438583,
+        "lat": 39.03134534179284,
+        "address": "Southwest Westridge Mall, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_901",
+        "name": "Stormont-Vail at 6th & Gage",
+        "region_id": "region_120",
+        "lon": -95.72314873337746,
+        "lat": 39.05807736415895,
+        "address": "3707 Southwest 6th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_902",
+        "name": "Bus Shelter at Topeka Housing Authority",
+        "region_id": "region_120",
+        "lon": -95.65085917711258,
+        "lat": 39.03182559702738,
+        "address": "1700-1946 Southeast California Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_906",
+        "name": "College Hill - 16th & Lane",
+        "region_id": "region_120",
+        "lon": -95.69579690694809,
+        "lat": 39.039107159114366,
+        "address": "Boca Caf\u00e9, 1414, Southwest 16th Street, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_907",
+        "name": "Gage Park - Blaisdell Pool",
+        "region_id": "region_120",
+        "lon": -95.72993472218513,
+        "lat": 39.055437421817516,
+        "address": "Gage Park, Southwest Reinisch Parkway, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_917",
+        "name": "Bus Shelter - 21st & Fillmore",
+        "region_id": "region_120",
+        "lon": -95.68902768194675,
+        "lat": 39.02967458011581,
+        "address": "1000-1098 Southwest 21st Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_972",
+        "name": "Downtown - Shawnee County Courthouse",
+        "region_id": "region_120",
+        "lon": -95.67160338163376,
+        "lat": 39.049983311148196,
+        "address": "200 Southeast 7th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_974",
+        "name": "Boswell Park",
+        "region_id": "region_120",
+        "lon": -95.70296041667461,
+        "lat": 39.042546889450605,
+        "address": "1300-1398 Southwest Jewell Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_979",
+        "name": "Downtown McDonald's",
+        "region_id": "region_120",
+        "lon": -95.67642599344254,
+        "lat": 39.04375696595395,
+        "address": "1100 South Kansas Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_992",
+        "name": "Downtown - Blue Cross Blue Shield of Kansas",
+        "region_id": "region_120",
+        "lon": -95.68348288536072,
+        "lat": 39.04540682344561,
+        "address": "1135, Southwest Topeka Boulevard, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1073",
+        "name": "Bus Shelter - 34th & Indiana",
+        "region_id": "region_120",
+        "lon": -95.66103413701057,
+        "lat": 39.00630504135409,
+        "address": "3401 Southeast Indiana Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1074",
+        "name": "McDonald's at 29th & California",
+        "region_id": "region_120",
+        "lon": -95.65140634775162,
+        "lat": 39.015340869401356,
+        "address": "1906 Southeast 29th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1075",
+        "name": "Teen Center - Boys and Girls Club - 10th & Indiana",
+        "region_id": "region_120",
+        "lon": -95.66039979457855,
+        "lat": 39.04434441977835,
+        "address": "1100-1104 Southeast 10th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1076",
+        "name": "Bus Shelter - Landon Trail and 37th St",
+        "region_id": "region_120",
+        "lon": -95.6799128651619,
+        "lat": 39.000767929159636,
+        "address": "102 Southwest 37th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1080",
+        "name": "Capitol Federal - 29th & Kansas",
+        "region_id": "region_120",
+        "lon": -95.6823979318142,
+        "lat": 39.01504806458094,
+        "address": "101-105 Southwest 29th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1183",
+        "name": "Bus shelter - 10th & Topeka - Walgreens",
+        "region_id": "region_120",
+        "lon": -95.68188428878784,
+        "lat": 39.04711080323933,
+        "address": "1001 Southwest Topeka Boulevard, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1195",
+        "name": "NOTO Arts Center",
+        "region_id": "region_120",
+        "lon": -95.66593185067177,
+        "lat": 39.06888395701614,
+        "address": "924-998 North Kansas Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1199",
+        "name": "Walgreens - 29th & Gage",
+        "region_id": "region_120",
+        "lon": -95.72699904441833,
+        "lat": 39.01521166031547,
+        "address": "4000 Southwest 29th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1207",
+        "name": "Avondale East - NetReach Center - CRC",
+        "region_id": "region_120",
+        "lon": -95.6729444861412,
+        "lat": 39.008942650998854,
+        "address": "455 Southeast Golf Park Boulevard, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1255",
+        "name": "Washburn Institute of Technology",
+        "region_id": "region_120",
+        "lon": -95.7498662173748,
+        "lat": 39.04383716827699,
+        "address": "5700-5798 Southwest Huntoon Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1256",
+        "name": "Reser's Salad - Loading Dock",
+        "region_id": "region_120",
+        "lon": -95.63362061977386,
+        "lat": 39.03613003871874,
+        "address": "Kellam Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1265",
+        "name": "Faith Lutheran Church 17th and Gage",
+        "region_id": "region_120",
+        "lon": -95.72417065501213,
+        "lat": 39.03668005516857,
+        "address": "3741-3899 Southwest 17th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1266",
+        "name": "YWCA Downtown - 12th st entrance",
+        "region_id": "region_120",
+        "lon": -95.67904114723206,
+        "lat": 39.04351531688845,
+        "address": "Southwest 12th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1298",
+        "name": "Washburn University - KBI Building",
+        "region_id": "region_120",
+        "lon": -95.69772809743881,
+        "lat": 39.032971529198264,
+        "address": "Southwest Mulvane Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1308",
+        "name": "Westboro Mart",
+        "region_id": "region_120",
+        "lon": -95.71662425994873,
+        "lat": 39.043874665408836,
+        "address": "3129 Southwest Huntoon Street, Westboro Shopping Center, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1322",
+        "name": "Capitol Plaza Hotel",
+        "region_id": "region_120",
+        "lon": -95.68436801433563,
+        "lat": 39.035148749299715,
+        "address": "1717 Southwest Topeka Boulevard, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1392",
+        "name": "Downtown - 900 S. Kansas Midblock Crossing Bike Corrals - The Pennant and Cyrus Hotel",
+        "region_id": "region_120",
+        "lon": -95.67549794912338,
+        "lat": 39.04663169337868,
+        "address": "925 South Kansas Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1393",
+        "name": "Downtown - 9th & Kansas Pocket Park",
+        "region_id": "region_120",
+        "lon": -95.67510232329369,
+        "lat": 39.04726703399379,
+        "address": "900, South Kansas Avenue, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1394",
+        "name": "Downtown - 8th & Kansas - Lupita's",
+        "region_id": "region_120",
+        "lon": -95.67430436611176,
+        "lat": 39.04890222870801,
+        "address": "8th & Kansas, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1395",
+        "name": "Downtown - 6th & Kansas",
+        "region_id": "region_120",
+        "lon": -95.6732127070427,
+        "lat": 39.05160594524673,
+        "address": "115 Southeast 6th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1447",
+        "name": "Downtown - City of Topeka - Holliday Building",
+        "region_id": "region_120",
+        "lon": -95.66881388425826,
+        "lat": 39.049431315445915,
+        "address": "620 Southeast Madison Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1465",
+        "name": "First Congregational Church",
+        "region_id": "region_120",
+        "lon": -95.71361348032951,
+        "lat": 39.03638369282106,
+        "address": "1701 Southwest Collins Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1682",
+        "name": "Hanover Pancake House",
+        "region_id": "region_120",
+        "lon": -95.6754121184349,
+        "lat": 39.04465689287201,
+        "address": "1034 South Kansas Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1702",
+        "name": "Dornwood Spray Park",
+        "region_id": "region_120",
+        "lon": -95.64049243927002,
+        "lat": 39.022207368280306,
+        "address": "2801-3399 Southeast 25th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1706",
+        "name": "Downtown - TPD Station",
+        "region_id": "region_120",
+        "lon": -95.6708550453186,
+        "lat": 39.05470321908514,
+        "address": "100-198 Southeast 4th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1707",
+        "name": "GreatLife - YWCA",
+        "region_id": "region_120",
+        "lon": -95.6792825460434,
+        "lat": 39.04281536315515,
+        "address": "200-298 Southwest 13th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1715",
+        "name": "Bus Shelter at Westridge Mall",
+        "region_id": "region_120",
+        "lon": -95.7657864689827,
+        "lat": 39.035496681508604,
+        "address": "Hidden Valley subdivision, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1720",
+        "name": "HyVee Grocery",
+        "region_id": "region_120",
+        "lon": -95.76346635818481,
+        "lat": 39.012685782906075,
+        "address": "3001 Southwest Wanamaker Road, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1721",
+        "name": "Starbucks - South",
+        "region_id": "region_120",
+        "lon": -95.76175510883331,
+        "lat": 39.013181795837845,
+        "address": "2940 Southwest Wanamaker Road, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1789",
+        "name": "Fire Station at Shunga and Fairlawn",
+        "region_id": "region_120",
+        "lon": -95.74344635009766,
+        "lat": 39.019196193691144,
+        "address": "5101-5199 Southwest Shunga Drive, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1790",
+        "name": "Fire Station at Western and 21st",
+        "region_id": "region_120",
+        "lon": -95.68719506263733,
+        "lat": 39.02997331468865,
+        "address": "720 Southwest 21st Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1793",
+        "name": "Midwest Health Aquatic Center - Shawnee County westside pool",
+        "region_id": "region_120",
+        "lon": -95.78276216983795,
+        "lat": 39.02786052834072,
+        "address": "6801-6989 Southwest 21st Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1799",
+        "name": "Washburn - Lincoln Hall",
+        "region_id": "region_120",
+        "lon": -95.69774687290192,
+        "lat": 39.035277921903955,
+        "address": "1648 Southwest 18th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1820",
+        "name": "Valeo - 6th & Frazier",
+        "region_id": "region_120",
+        "lon": -95.71971416473389,
+        "lat": 39.058977108992906,
+        "address": "501-599 Southwest Frazier Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1821",
+        "name": "Natural Grocers",
+        "region_id": "region_120",
+        "lon": -95.7576110959053,
+        "lat": 39.02971286607331,
+        "address": "2031-2099 Southwest Westport Drive, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1837",
+        "name": "19th Street Salon",
+        "region_id": "region_120",
+        "lon": -95.72563648223877,
+        "lat": 39.03295069426123,
+        "address": "3915 Southwest 19th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2047",
+        "name": "Bus Shelters at 19th & Washburn",
+        "region_id": "region_120",
+        "lon": -95.69663912057877,
+        "lat": 39.03364449538002,
+        "address": "1900 Southwest Washburn Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2048",
+        "name": "Blue Dot",
+        "region_id": "region_120",
+        "lon": -95.73065221309662,
+        "lat": 39.00621229071045,
+        "address": "4402 Southwest 34th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2080",
+        "name": "Bus shelter - 2nd & Kansas",
+        "region_id": "region_120",
+        "lon": -95.67103743553162,
+        "lat": 39.05748169341909,
+        "address": "Highway 4, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2126",
+        "name": "Capitol Federal - 21st & Fairlawn",
+        "region_id": "region_120",
+        "lon": -95.7433833181858,
+        "lat": 39.028552295594224,
+        "address": "2126-2150 Southwest Fairlawn Road, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2136",
+        "name": "Bus shelter 8th & Harrison downtown",
+        "region_id": "region_120",
+        "lon": -95.67914307117462,
+        "lat": 39.04994998319181,
+        "address": "400, Southwest 8th Avenue, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2147",
+        "name": "Chick-Fil-A",
+        "region_id": "region_120",
+        "lon": -95.76247930526733,
+        "lat": 39.03692172769081,
+        "address": "1625 Southwest Wanamaker Road, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2148",
+        "name": "Bus stop - Donut District",
+        "region_id": "region_120",
+        "lon": -95.7301814854145,
+        "lat": 39.02953628146591,
+        "address": "4310-4398 Southwest 21st Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2149",
+        "name": "Bus stop - 6th & Washburn - TACO CASA",
+        "region_id": "region_120",
+        "lon": -95.6933882832527,
+        "lat": 39.05691101131315,
+        "address": "1501 Southwest 6th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2159",
+        "name": "Bus Shelter - Security Benefit",
+        "region_id": "region_120",
+        "lon": -95.758096575737,
+        "lat": 39.05702973012335,
+        "address": "Southwest Security Benefit Place, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2160",
+        "name": "Bus Shelter - 6th & Governors Row",
+        "region_id": "region_120",
+        "lon": -95.75191140174866,
+        "lat": 39.05803779172565,
+        "address": "5039 Southwest 6th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2161",
+        "name": "Bus shelter - 8th & Topeka",
+        "region_id": "region_120",
+        "lon": -95.6801287829876,
+        "lat": 39.05036970558358,
+        "address": "728-798 Southwest Topeka Boulevard, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2183",
+        "name": "Bus stop - 10th & Clay",
+        "region_id": "region_120",
+        "lon": -95.6895124912262,
+        "lat": 39.04971460428855,
+        "address": "1000 Southwest 10th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2184",
+        "name": "Bus stop - 6th & Harrison",
+        "region_id": "region_120",
+        "lon": -95.67707508802414,
+        "lat": 39.0528786142461,
+        "address": "516, Southwest Harrison Street, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2185",
+        "name": "Stormont-Vail Hospital",
+        "region_id": "region_120",
+        "lon": -95.69632261991501,
+        "lat": 39.05305357821467,
+        "address": "631 Southwest Horne Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2190",
+        "name": "Shawnee County Health Agency - MacVicar",
+        "region_id": "region_120",
+        "lon": -95.70682346820831,
+        "lat": 39.06321950087359,
+        "address": "101-299 Southwest Macvicar Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2203",
+        "name": "Capital City High School",
+        "region_id": "region_120",
+        "lon": -95.70867419242859,
+        "lat": 39.06214070393011,
+        "address": "2751 Southwest East Circle Drive South, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2334",
+        "name": "SONIC - Huntoon & Gage",
+        "region_id": "region_120",
+        "lon": -95.72516441345213,
+        "lat": 39.04442281594321,
+        "address": "1221-1239 Southwest Gage Boulevard, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2612",
+        "name": "Hope Street Academy",
+        "region_id": "region_120",
+        "lon": -95.7341068983078,
+        "lat": 39.0323643958361,
+        "address": "1900 Southwest Hope Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2613",
+        "name": "Burnett's Mound - Skyline Drive entrance",
+        "region_id": "region_120",
+        "lon": -95.7370975613594,
+        "lat": 39.00389518802592,
+        "address": "Southwest Scenic Drive, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2711",
+        "name": "GreatLife Golf - Berkshire Country Club",
+        "region_id": "region_120",
+        "lon": -95.72464942932129,
+        "lat": 38.98652723267857,
+        "address": "3938-4084 Southwest 45th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2726",
+        "name": "Shawnee County Health - 10th St & Jewell",
+        "region_id": "region_120",
+        "lon": -95.70346534252167,
+        "lat": 39.050973837544674,
+        "address": "1008 Southwest Woodward Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2873",
+        "name": "Washburn University - Morgan west",
+        "region_id": "region_120",
+        "lon": -95.70190697908401,
+        "lat": 39.03575092776897,
+        "address": "1634 Southwest Jewell Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3526",
+        "name": "McDonalds - 12th & Gage",
+        "region_id": "region_120",
+        "lon": -95.7256230711937,
+        "lat": 39.045567675978575,
+        "address": "3901-3999 Southwest 12th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3587",
+        "name": "Bus shelter - Topeka High - 10th & Western",
+        "region_id": "region_120",
+        "lon": -95.68667471408844,
+        "lat": 39.04862650478688,
+        "address": "823 Southwest 10th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3588",
+        "name": "Bus Stops - 21st & Potomac - Mt Vernon Apartments near Washburn",
+        "region_id": "region_120",
+        "lon": -95.70176348090172,
+        "lat": 39.029777526789815,
+        "address": "2101, Southwest College Avenue, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3589",
+        "name": "Bus shelter at 29th & Atwood",
+        "region_id": "region_120",
+        "lon": -95.7247768342495,
+        "lat": 39.01462816710035,
+        "address": "2909, Southwest Atwood Avenue, Topeka, Kansas",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3643",
+        "name": "Downtown - Kansas Health Institute - 212 SW 8th St",
+        "region_id": "region_120",
+        "lon": -95.67684441804886,
+        "lat": 39.04959099537571,
+        "address": "212 Southwest 8th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3648",
+        "name": "Bus Shelter - 6th & Golden",
+        "region_id": "region_120",
+        "lon": -95.64296543598175,
+        "lat": 39.04455176302184,
+        "address": "2616 Southeast 6th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3886",
+        "name": "Bus Shelter at Reser's on Croco",
+        "region_id": "region_120",
+        "lon": -95.6136167049408,
+        "lat": 39.04591774353368,
+        "address": "401-533 Southeast Croco Road, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3955",
+        "name": "Fuzzy's Taco Shop",
+        "region_id": "region_120",
+        "lon": -95.71034252643585,
+        "lat": 39.037027788988425,
+        "address": "2614 Southwest 17th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3956",
+        "name": "Edgewood Park",
+        "region_id": "region_120",
+        "lon": -95.69947957992554,
+        "lat": 39.062081279353166,
+        "address": "200-298 Southwest Edgewood Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3960",
+        "name": "Bus stop - 10th & Weir",
+        "region_id": "region_120",
+        "lon": -95.6399667263031,
+        "lat": 39.03714853774692,
+        "address": "940-998 Southeast Wear Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4106",
+        "name": "Bus stops at 6th & Clay - Tilton's Westside Grocery",
+        "region_id": "region_120",
+        "lon": -95.68786293268204,
+        "lat": 39.0555522551616,
+        "address": "1100 Southwest 6th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4107",
+        "name": "Bus Stops at 6th & Jefferson - Ramada Inn Downtown",
+        "region_id": "region_120",
+        "lon": -95.66823720932007,
+        "lat": 39.05041962737799,
+        "address": "420 Southeast 6th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4124",
+        "name": "Bike station - 25th & Adams",
+        "region_id": "region_120",
+        "lon": -95.66985189914703,
+        "lat": 39.022487571249,
+        "address": "601-699 Southeast 25th Street, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4293",
+        "name": "Marian Clinic on East 6th St",
+        "region_id": "region_120",
+        "lon": -95.63415974378586,
+        "lat": 39.044431530517315,
+        "address": "3164 Southeast 6th Avenue, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4332",
+        "name": "McDonald's at 17th & Wanamaker",
+        "region_id": "region_120",
+        "lon": -95.76172828674316,
+        "lat": 39.03719562214354,
+        "address": "1684-1698 Southwest Wanamaker Road, Topeka",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      }
+    ]
+  },
+  "system_id": "topeka_metro_bikes"
+}

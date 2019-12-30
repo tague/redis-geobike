@@ -1,0 +1,331 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -97.32879,
+        "lat": 32.75159,
+        "address": "137 E. Ninth St.",
+        "name": "Convention Center",
+        "station_id": "bcycle_fortworth_2221"
+      },
+      {
+        "lon": -97.34255,
+        "lat": 32.75158,
+        "address": "603 Penn St.",
+        "name": "5th & Penn",
+        "station_id": "bcycle_fortworth_2222"
+      },
+      {
+        "lon": -97.32741,
+        "lat": 32.74381,
+        "address": "280 W. Vickery Blvd.",
+        "name": "T&P South",
+        "station_id": "bcycle_fortworth_2223"
+      },
+      {
+        "lon": -97.33349,
+        "lat": 32.73055,
+        "address": "907 W. Magnolia Ave.",
+        "name": "Magnolia & Lipscomb",
+        "station_id": "bcycle_fortworth_2224"
+      },
+      {
+        "lon": -97.33773,
+        "lat": 32.73048,
+        "address": "1302 S. Henderson St.",
+        "name": "Magnolia & Henderson",
+        "station_id": "bcycle_fortworth_2225"
+      },
+      {
+        "lon": -97.36943,
+        "lat": 32.74979,
+        "address": "955 Montgomery St.",
+        "name": "UNT Health Science Center",
+        "station_id": "bcycle_fortworth_2226"
+      },
+      {
+        "lon": -97.32626,
+        "lat": 32.75235,
+        "address": "1001 Jones St.",
+        "name": "ITC North",
+        "station_id": "bcycle_fortworth_2227"
+      },
+      {
+        "lon": -97.32603,
+        "lat": 32.73718,
+        "address": "701 S. Main St. ",
+        "name": "Rahr & Sons ",
+        "station_id": "bcycle_fortworth_2228"
+      },
+      {
+        "lon": -97.31137,
+        "lat": 32.74577,
+        "address": "1600 East Lancaster",
+        "name": "The T Offices",
+        "station_id": "bcycle_fortworth_2229"
+      },
+      {
+        "lon": -97.32567,
+        "lat": 32.74245,
+        "address": "120 E. Daggett Ave.",
+        "name": "S. Main & Daggett",
+        "station_id": "bcycle_fortworth_2231"
+      },
+      {
+        "lon": -97.33212,
+        "lat": 32.75395,
+        "address": "237 West 4th St.",
+        "name": "Sundance Square South",
+        "station_id": "bcycle_fortworth_2232"
+      },
+      {
+        "lon": -97.33079,
+        "lat": 32.75621,
+        "address": "228 East 2nd St.",
+        "name": "Sundance Square North",
+        "station_id": "bcycle_fortworth_2233"
+      },
+      {
+        "lon": -97.35377,
+        "lat": 32.75121,
+        "address": "2597 West 7th St.",
+        "name": "Montgomery Plaza",
+        "station_id": "bcycle_fortworth_2234"
+      },
+      {
+        "lon": -97.34539,
+        "lat": 32.72579,
+        "address": "1700 Park Place Ave.",
+        "name": "Park Place and Enderly",
+        "station_id": "bcycle_fortworth_2235"
+      },
+      {
+        "lon": -97.33389,
+        "lat": 32.75558,
+        "address": "264 Throckmorton St.",
+        "name": "City Place",
+        "station_id": "bcycle_fortworth_2236"
+      },
+      {
+        "lon": -97.32377,
+        "lat": 32.74226,
+        "address": "201 South Calhoun St.",
+        "name": "Fort Worth Bike Sharing",
+        "station_id": "bcycle_fortworth_2237"
+      },
+      {
+        "lon": -97.36866,
+        "lat": 32.74558,
+        "address": "1400 Gendy St.",
+        "name": "Gendy & Lansford",
+        "station_id": "bcycle_fortworth_2238"
+      },
+      {
+        "lon": -97.32788,
+        "lat": 32.7483,
+        "address": "1430 Houston St.",
+        "name": "Omni Hotel Fort Worth",
+        "station_id": "bcycle_fortworth_2239"
+      },
+      {
+        "lon": -97.35076,
+        "lat": 32.75092,
+        "address": "2352 W. 7th St.",
+        "name": "W. 7th St. & Stayton",
+        "station_id": "bcycle_fortworth_2240"
+      },
+      {
+        "lon": -97.34309,
+        "lat": 32.73072,
+        "address": "1561 W. Magnolia Ave.",
+        "name": "Magnolia & Hurley",
+        "station_id": "bcycle_fortworth_2241"
+      },
+      {
+        "lon": -97.36433,
+        "lat": 32.74983,
+        "address": "1000 Van Cliburn Way",
+        "name": "Art Museums",
+        "station_id": "bcycle_fortworth_2245"
+      },
+      {
+        "lon": -97.32732,
+        "lat": 32.74681,
+        "address": "220 West Lancaster Ave.",
+        "name": "T&P North",
+        "station_id": "bcycle_fortworth_2261"
+      },
+      {
+        "lon": -97.33076,
+        "lat": 32.75005,
+        "address": "269 West 10th Street",
+        "name": "City Hall",
+        "station_id": "bcycle_fortworth_2262"
+      },
+      {
+        "lon": -97.35175,
+        "lat": 32.74511,
+        "address": "2500 River Drive",
+        "name": "Trinity Park North",
+        "station_id": "bcycle_fortworth_2263"
+      },
+      {
+        "lon": -97.33963,
+        "lat": 32.73598,
+        "address": "822 South Lake Street",
+        "name": "Texas Health Harris Methodist Hospital Fort Worth",
+        "station_id": "bcycle_fortworth_2264"
+      },
+      {
+        "lon": -97.36115,
+        "lat": 32.71164,
+        "address": "3055 West Cantey Street",
+        "name": "TCU",
+        "station_id": "bcycle_fortworth_2265"
+      },
+      {
+        "lon": -97.33503,
+        "lat": 32.75356,
+        "address": "500 West 3rd Street",
+        "name": "Central Library",
+        "station_id": "bcycle_fortworth_2266"
+      },
+      {
+        "lon": -97.33598,
+        "lat": 32.7566,
+        "address": "420 West Belknap Street",
+        "name": "Belknap & Taylor",
+        "station_id": "bcycle_fortworth_2292"
+      },
+      {
+        "lon": -97.33305,
+        "lat": 32.74732,
+        "address": "1146 Lamar Street",
+        "name": "Higginbotham ",
+        "station_id": "bcycle_fortworth_2385"
+      },
+      {
+        "lon": -97.3593,
+        "lat": 32.75094,
+        "address": "2949 Crockett Street",
+        "name": "Crockett Row ",
+        "station_id": "bcycle_fortworth_2387"
+      },
+      {
+        "lon": -97.33407,
+        "lat": 32.7512,
+        "address": "501 W. 7th Street",
+        "name": "Burnett Park",
+        "station_id": "bcycle_fortworth_2443"
+      },
+      {
+        "lon": -97.33272,
+        "lat": 32.75711,
+        "address": "100 East Weatherford St.",
+        "name": "Weatherford & Main",
+        "station_id": "bcycle_fortworth_2444"
+      },
+      {
+        "lon": -97.36319,
+        "lat": 32.75163,
+        "address": "770 Barden St.",
+        "name": "Museum Place",
+        "station_id": "bcycle_fortworth_2445"
+      },
+      {
+        "lon": -97.35943,
+        "lat": 32.70601,
+        "address": "2945 West Berry St.",
+        "name": "W. Berry & University",
+        "station_id": "bcycle_fortworth_2446"
+      },
+      {
+        "lon": -97.39426,
+        "lat": 32.70692,
+        "address": "Clearfork Main St.",
+        "name": "The Trailhead at Clearfork",
+        "station_id": "bcycle_fortworth_2447"
+      },
+      {
+        "lon": -97.33745,
+        "lat": 32.75862,
+        "address": "398 North Taylor Street",
+        "name": "Panther Island Pavilion",
+        "station_id": "bcycle_fortworth_3117"
+      },
+      {
+        "lon": -97.34596,
+        "lat": 32.78868,
+        "address": "642 East Exchange Avenue",
+        "name": "Stockyards Station",
+        "station_id": "bcycle_fortworth_3118"
+      },
+      {
+        "lon": -97.32819,
+        "lat": 32.73091,
+        "address": "307 West Magnolia Avenue",
+        "name": "Moncrief Cancer Institute",
+        "station_id": "bcycle_fortworth_3119"
+      },
+      {
+        "lon": -97.32829,
+        "lat": 32.76068,
+        "address": "290 North Elm Street",
+        "name": "Trinity Uptown",
+        "station_id": "bcycle_fortworth_3120"
+      },
+      {
+        "lon": -97.3596,
+        "lat": 32.7368,
+        "address": "Trinity Park and Old University",
+        "name": "Trinity Park South",
+        "station_id": "bcycle_fortworth_3121"
+      },
+      {
+        "lon": -97.33675,
+        "lat": 32.74903,
+        "address": "910 Texas Street",
+        "name": "Texas & Florence",
+        "station_id": "bcycle_fortworth_3122"
+      },
+      {
+        "lon": -97.3637,
+        "lat": 32.72445,
+        "address": "3187 Riverfront Drive",
+        "name": "Riverfront Drive",
+        "station_id": "bcycle_fortworth_3123"
+      },
+      {
+        "lon": -97.32967,
+        "lat": 32.75406,
+        "address": "643 Commerce Street",
+        "name": "777 Main",
+        "station_id": "bcycle_fortworth_3124"
+      },
+      {
+        "lon": -97.35247,
+        "lat": 32.71589,
+        "address": "2407 Park Hill Drive",
+        "name": "Forest Park & Park Hill",
+        "station_id": "bcycle_fortworth_3125"
+      },
+      {
+        "lon": -97.35961,
+        "lat": 32.72658,
+        "address": "1701 River Run ",
+        "name": "WestBend",
+        "station_id": "bcycle_fortworth_3527"
+      },
+      {
+        "lon": -97.31854,
+        "lat": 32.7334,
+        "address": "1062 Evans Ave.",
+        "name": "Shamblee Library",
+        "station_id": "bcycle_fortworth_3667"
+      }
+    ]
+  },
+  "last_updated": 1530239583,
+  "system_id": "bcycle_fortworth"
+}

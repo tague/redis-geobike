@@ -1,0 +1,23 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -103.22655,
+        "lat": 44.08185,
+        "address": "512 Main St",
+        "name": "Main Street Square",
+        "station_id": "bcycle_rapidcity_2744"
+      },
+      {
+        "lon": -103.20808,
+        "lat": 44.07434,
+        "address": "PC Commons 501 St Joseph St",
+        "name": "South Dakota School of Mines and Technology",
+        "station_id": "bcycle_rapidcity_2745"
+      }
+    ]
+  },
+  "last_updated": 1530239605,
+  "system_id": "bcycle_rapidcity"
+}

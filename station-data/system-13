@@ -1,0 +1,2313 @@
+{
+  "last_updated": 1530239606,
+  "ttl": 180,
+  "data": {
+    "stations": [
+      {
+        "station_id": "hub_981",
+        "name": "22.  Arizona Ave and 4th Street SM",
+        "region_id": "region_446",
+        "lon": -118.4965717792511,
+        "lat": 34.01780925008178,
+        "address": "400-450 Arizona Avenue, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_982",
+        "name": "69.  Barnard Way and Ashland SM",
+        "region_id": "region_446",
+        "lon": -118.48394393920897,
+        "lat": 33.998999015303795,
+        "address": "2701 Barnard Way, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_983",
+        "name": "61. Beach Bike Path and Ocean Park (Drop Zone) SM",
+        "region_id": "region_446",
+        "lon": -118.48631232976912,
+        "lat": 34.000735690267284,
+        "address": "25 Ocean Park Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_985",
+        "name": "01.  Annenberg Community Beach House SM",
+        "region_id": "region_446",
+        "lon": -118.51394712924956,
+        "lat": 34.024529674515236,
+        "address": "Ocean Front Walk, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_986",
+        "name": "35.  Ocean Ave and Colorado SM",
+        "region_id": "region_446",
+        "lon": -118.49557802081107,
+        "lat": 34.01173195411691,
+        "address": "1528-1576 Ocean Avenue, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_987",
+        "name": "14.  Wilshire Boulevard and 4th Street SM",
+        "region_id": "region_446",
+        "lon": -118.49811002612115,
+        "lat": 34.019328783933126,
+        "address": "401-417 Wilshire Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_988",
+        "name": "13.  Wilshire Boulevard and 2nd Street SM",
+        "region_id": "region_446",
+        "lon": -118.50034564733507,
+        "lat": 34.01740907570571,
+        "address": "150-198 Wilshire Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_989",
+        "name": "20.  Ocean Avenue and Arizona Avenue SM",
+        "region_id": "region_446",
+        "lon": -118.4997045993805,
+        "lat": 34.01558381198773,
+        "address": "Shangri-La, Arizona Avenue, Santa Monica, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_990",
+        "name": "21.  2nd Street and Arizona Avenue SM",
+        "region_id": "region_446",
+        "lon": -118.49798798561096,
+        "lat": 34.01564383955503,
+        "address": "2nd Street, Santa Monica, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_991",
+        "name": "28.  2nd Street and Broadway SM",
+        "region_id": "region_446",
+        "lon": -118.49595755338669,
+        "lat": 34.01401196391433,
+        "address": "Hotel Carmel, 201, Broadway, Santa Monica, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_993",
+        "name": "29.  Broadway and 6th Street SM",
+        "region_id": "region_446",
+        "lon": -118.49149301648139,
+        "lat": 34.01643975555836,
+        "address": "6th Street, Santa Monica, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_995",
+        "name": "30. Broadway and Lincoln Boulevard SM",
+        "region_id": "region_446",
+        "lon": -118.48986089229582,
+        "lat": 34.018130499813054,
+        "address": "729 Broadway, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_996",
+        "name": "26.  Santa Monica Boulevard and 5th Street SM",
+        "region_id": "region_446",
+        "lon": -118.49428117275238,
+        "lat": 34.01710894368565,
+        "address": "478-498 Santa Monica Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_997",
+        "name": "03.  4th Street and San Vicente Boulevard SM",
+        "region_id": "region_446",
+        "lon": -118.51082302629948,
+        "lat": 34.02915340875886,
+        "address": "301-347 4th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_998",
+        "name": "02.  San Vicente Boulevard and Ocean Avenue SM",
+        "region_id": "region_446",
+        "lon": -118.51339727640153,
+        "lat": 34.02613467235308,
+        "address": "100-118 San Vicente Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_999",
+        "name": "09.  16th Street and Montana Avenue SM",
+        "region_id": "region_446",
+        "lon": -118.49337726831436,
+        "lat": 34.033854687632505,
+        "address": "761-799 16th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1000",
+        "name": "05.  San Vicente Boulevard and 26th Street SM",
+        "region_id": "region_446",
+        "lon": -118.49257528781891,
+        "lat": 34.04807252663185,
+        "address": "2538 San Vicente Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1001",
+        "name": "04.  San Vicente Boulevard and 14th Street SM",
+        "region_id": "region_446",
+        "lon": -118.50354552268982,
+        "lat": 34.03939919425913,
+        "address": "101-199 14th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1002",
+        "name": "08.  11th Street and Montana Avenue SM",
+        "region_id": "region_446",
+        "lon": -118.49824011325835,
+        "lat": 34.03002033088163,
+        "address": "728 11th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1003",
+        "name": "18.  25th Street and Wilshire Boulevard SM",
+        "region_id": "region_446",
+        "lon": -118.47859963774681,
+        "lat": 34.035528413304746,
+        "address": "1176-1198 25th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1004",
+        "name": "10.  21st Street and Montana Avenue SM",
+        "region_id": "region_446",
+        "lon": -118.48850503563881,
+        "lat": 34.03744326659758,
+        "address": "800-812 21st Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1005",
+        "name": "19.  Wilshire Boulevard and Berkeley Street SM",
+        "region_id": "region_446",
+        "lon": -118.47242653369905,
+        "lat": 34.040164884221234,
+        "address": "3133-3141 Wilshire Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1006",
+        "name": "57.  Strand Street at 4th Street SM",
+        "region_id": "region_446",
+        "lon": -118.48425507545471,
+        "lat": 34.00640131765522,
+        "address": "390-398 Strand Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1007",
+        "name": "82. Main Street and Avenida Mazatlan SM",
+        "region_id": "region_446",
+        "lon": -118.49245190620422,
+        "lat": 34.01181088305177,
+        "address": "Main Street, Santa Monica, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1008",
+        "name": "81. Ocean Avenue and Olympic Place SM",
+        "region_id": "region_446",
+        "lon": -118.49292397499083,
+        "lat": 34.00991879722926,
+        "address": "Olympic Drive, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1009",
+        "name": "70.  Main Street and Kinney Street SM",
+        "region_id": "region_446",
+        "lon": -118.48095595836638,
+        "lat": 33.99913021221948,
+        "address": "2914 Main Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1010",
+        "name": "50.  Ocean Avenue and Bay Street SM",
+        "region_id": "region_446",
+        "lon": -118.48990112543106,
+        "lat": 34.00627902423098,
+        "address": "2001 Ocean Avenue, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1011",
+        "name": "62.  Ocean Park Boulevard and 2nd street SM",
+        "region_id": "region_446",
+        "lon": -118.48328948020934,
+        "lat": 34.00252791938952,
+        "address": "2614 2nd Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1012",
+        "name": "56.  Main Street and Strand Street SM",
+        "region_id": "region_446",
+        "lon": -118.48657786846161,
+        "lat": 34.0047514761566,
+        "address": "2300-2336 Main Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1013",
+        "name": "63.  Ocean Park Boulevard and 6th Street SM",
+        "region_id": "region_446",
+        "lon": -118.47904622554778,
+        "lat": 34.00522508558149,
+        "address": "2607 6th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1014",
+        "name": "58.  Kensington Road and Beverly Avenue SM",
+        "region_id": "region_446",
+        "lon": -118.48110079765318,
+        "lat": 34.00797552930183,
+        "address": "600-642 Kensington Road, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1015",
+        "name": "43.  Michigan Avenue and Lincoln Boulveard SM",
+        "region_id": "region_446",
+        "lon": -118.4848827123642,
+        "lat": 34.01366290742301,
+        "address": "751-799 Michigan Avenue, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1016",
+        "name": "74. 7th Street and Marine Street SM",
+        "region_id": "region_446",
+        "lon": -118.47375154495238,
+        "lat": 34.002227734766144,
+        "address": "672 Marine Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1017",
+        "name": "37.  11th Street and Colorado Avenue SM",
+        "region_id": "region_446",
+        "lon": -118.48559617996214,
+        "lat": 34.01930988719052,
+        "address": "1551 11th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1018",
+        "name": "25.  20th Street and Arizona Avenue SM",
+        "region_id": "region_446",
+        "lon": -118.48131537437438,
+        "lat": 34.02986473012721,
+        "address": "1301 20th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1019",
+        "name": "48. Stewart Street and Exposition Blvd SM",
+        "region_id": "region_446",
+        "lon": -118.46454083919525,
+        "lat": 34.02759514882909,
+        "address": "1838-1870 Stewart Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1020",
+        "name": "39.  Colorado Avenue and Harvard Street SM",
+        "region_id": "region_446",
+        "lon": -118.46935272216795,
+        "lat": 34.03213202719095,
+        "address": "2803 Colorado Avenue, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1021",
+        "name": "17.  14th Street and Wilshire Boulevard SM",
+        "region_id": "region_446",
+        "lon": -118.48862171173097,
+        "lat": 34.026663737010175,
+        "address": "1207 14th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1022",
+        "name": "38.  Colorado Avenue and 17th Street EXPO SM",
+        "region_id": "region_446",
+        "lon": -118.48000645637512,
+        "lat": 34.0230224605439,
+        "address": "1610 Colorado Avenue, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1024",
+        "name": "60.  Pearl Street and 17th Street SM",
+        "region_id": "region_446",
+        "lon": -118.46898257732391,
+        "lat": 34.01584615437675,
+        "address": "1701-1749 Pearl Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1025",
+        "name": "52.  SMC and 17th Street SM",
+        "region_id": "region_446",
+        "lon": -118.4728556871414,
+        "lat": 34.01787372244369,
+        "address": "2069-2099 17th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1026",
+        "name": "24.  Arizona Avenue and 16th Street SM",
+        "region_id": "region_446",
+        "lon": -118.48512947559357,
+        "lat": 34.02684157230721,
+        "address": "16th Street, Santa Monica, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1027",
+        "name": "34. Stanford St and Broadway St SM",
+        "region_id": "region_446",
+        "lon": -118.4688538312912,
+        "lat": 34.03495050416125,
+        "address": "3004 Broadway, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1028",
+        "name": "31.  Broadway Street and 16th Street SM",
+        "region_id": "region_446",
+        "lon": -118.48233729600908,
+        "lat": 34.0242740280128,
+        "address": "1498 16th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1029",
+        "name": "53.  Pico and 22nd Street SM",
+        "region_id": "region_446",
+        "lon": -118.46767902374268,
+        "lat": 34.0205281626946,
+        "address": "2121-2199 Pico Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1030",
+        "name": "49.  Centinela Avenue and Exposition Boulevard SM",
+        "region_id": "region_446",
+        "lon": -118.45744371414185,
+        "lat": 34.0296513340745,
+        "address": "3351-3481 Exposition Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1032",
+        "name": "44.  14th and Olympic SM",
+        "region_id": "region_446",
+        "lon": -118.48105251789093,
+        "lat": 34.020027960452,
+        "address": "1660 14th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1033",
+        "name": "27.  Santa Monica Boulevard and 11th Street SM",
+        "region_id": "region_446",
+        "lon": -118.4884661436081,
+        "lat": 34.02152855833661,
+        "address": "1400-1426 11th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1034",
+        "name": "54. 29th Street and Pico Boulevard SM",
+        "region_id": "region_446",
+        "lon": -118.45909059047698,
+        "lat": 34.024571911689335,
+        "address": "2247 29th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1035",
+        "name": "32.  Broadway Street and 20th Street SM",
+        "region_id": "region_446",
+        "lon": -118.47811281681061,
+        "lat": 34.02751290111855,
+        "address": "Back on Broadway, Broadway Street, Santa Monica, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1037",
+        "name": "33.  Broadway Street and Cloverfield Boulevard SM",
+        "region_id": "region_446",
+        "lon": -118.47525894641876,
+        "lat": 34.03007812537487,
+        "address": "1447 Cloverfield Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1038",
+        "name": "76.  Airport Avenue and Donald Douglas Loop S. SM",
+        "region_id": "region_446",
+        "lon": -118.44757854938507,
+        "lat": 34.015321468788,
+        "address": "3027 Airport Avenue, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1039",
+        "name": "51.  SMC Swim Center SM",
+        "region_id": "region_446",
+        "lon": -118.4736281633377,
+        "lat": 34.01664873919393,
+        "address": "2121-2141 16th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1040",
+        "name": "59.  11th Street and Pearl Street SM",
+        "region_id": "region_446",
+        "lon": -118.47657725214958,
+        "lat": 34.01120279657586,
+        "address": "2301-2351 11th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1041",
+        "name": "64.  Lincoln Blvd and Ocean Park Blvd SM",
+        "region_id": "region_446",
+        "lon": -118.47588926553726,
+        "lat": 34.00669704034364,
+        "address": "2605-2631 Lincoln Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1043",
+        "name": "65.  Ocean Park Boulevard and 16th Street SM",
+        "region_id": "region_446",
+        "lon": -118.46837103366852,
+        "lat": 34.01162189870162,
+        "address": "1601-1627 Ocean Park Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1044",
+        "name": "66.  Clover Park SM",
+        "region_id": "region_446",
+        "lon": -118.45643520355225,
+        "lat": 34.01757581156877,
+        "address": "2600 Ocean Park Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1046",
+        "name": "68.  Santa Monica Business Park  SM",
+        "region_id": "region_446",
+        "lon": -118.4518378973007,
+        "lat": 34.02002129106884,
+        "address": "2822-2930 31st Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1047",
+        "name": "75.  Marine Street and Paula Drive SM",
+        "region_id": "region_446",
+        "lon": -118.46671342849731,
+        "lat": 34.005725375545204,
+        "address": "1406 Marine Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1051",
+        "name": "15.  Lincoln Boulevard and Wilshire Boulevard SM",
+        "region_id": "region_446",
+        "lon": -118.49525749683379,
+        "lat": 34.02269567168294,
+        "address": "1130 Lincoln Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1052",
+        "name": "07.  Montana Avenue and 7th Street SM",
+        "region_id": "region_446",
+        "lon": -118.50190669298172,
+        "lat": 34.02666262511048,
+        "address": "664-698 Montana Avenue, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1053",
+        "name": "06.  Ocean Avenue and Montana Avenue SM",
+        "region_id": "region_446",
+        "lon": -118.50741863250732,
+        "lat": 34.02207765937681,
+        "address": "800 Ocean Avenue, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1054",
+        "name": "16.  11th Street and Wilshire Boulevard SM",
+        "region_id": "region_446",
+        "lon": -118.49222660064697,
+        "lat": 34.02479643526194,
+        "address": "1144-1178 11th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1055",
+        "name": "11.  4th Street and Washington Boulevard SM",
+        "region_id": "region_446",
+        "lon": -118.50146949291229,
+        "lat": 34.02177309759534,
+        "address": "1001 4th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1057",
+        "name": "94. Rose Ave / 5th Ave SM",
+        "region_id": "region_446",
+        "lon": -118.47355842590332,
+        "lat": 33.99827631679711,
+        "address": "512B Rose Avenue, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1058",
+        "name": "84. Ocean Front Walk and Rose Avenue SM",
+        "region_id": "region_446",
+        "lon": -118.48053216934204,
+        "lat": 33.99478059250281,
+        "address": "1 Rose Avenue, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1060",
+        "name": "23.  7th Street and Arizona Avenue SM",
+        "region_id": "region_446",
+        "lon": -118.49314391613007,
+        "lat": 34.019349903816945,
+        "address": "1350 7th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1061",
+        "name": "95. California Avenue and Abbot Kinney SM",
+        "region_id": "region_446",
+        "lon": -118.46591413021088,
+        "lat": 33.99088664972635,
+        "address": "533 California Avenue, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1072",
+        "name": "12.  Ocean Front Walk @ Lot 1 SM",
+        "region_id": "region_446",
+        "lon": -118.4978699684143,
+        "lat": 34.01221775210847,
+        "address": "12 Bike Path, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1242",
+        "name": "45.  26th and Pennsylvania SM",
+        "region_id": "region_446",
+        "lon": -118.47015738487242,
+        "lat": 34.029544636249405,
+        "address": "1658-1676 26th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1243",
+        "name": "47.  Nebraska and Berkeley SM",
+        "region_id": "region_446",
+        "lon": -118.46320644021033,
+        "lat": 34.03185862105174,
+        "address": "3001-3017 Nebraska Avenue, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1249",
+        "name": "08.5 15th and Montana SM",
+        "region_id": "region_446",
+        "lon": -118.49445283412932,
+        "lat": 34.033061156916645,
+        "address": "762-798 15th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1294",
+        "name": "77. SMC Bundy Campus (Drop Zone) SM",
+        "region_id": "region_446",
+        "lon": -118.44525575637817,
+        "lat": 34.015234761959,
+        "address": "3171 South Bundy Drive, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1296",
+        "name": "BH4. City Hall - Crescent Dr/So SM Blvd ",
+        "region_id": "region_446",
+        "lon": -118.40043067932129,
+        "lat": 34.07213318109986,
+        "address": "9376 South Santa Monica Boulevard, Beverly Hills",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1299",
+        "name": "05.5 Montana Over-pass and Beach Bike Path SM",
+        "region_id": "region_446",
+        "lon": -118.50888848304749,
+        "lat": 34.02081272044386,
+        "address": "930 Ocean Front Walk, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1303",
+        "name": "BH3. Camden Dr / So SM Bl",
+        "region_id": "region_446",
+        "lon": -118.40529084205627,
+        "lat": 34.06983140417759,
+        "address": "9604 South Santa Monica Boulevard, Beverly Hills",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1304",
+        "name": "BH8. Roxbury Park (Drop Zone) ",
+        "region_id": "region_446",
+        "lon": -118.40583801269531,
+        "lat": 34.05753272472796,
+        "address": "839-1033 Roxbury Drive, Beverly Hills",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1306",
+        "name": "BH6. La Cienega Tennis Center",
+        "region_id": "region_446",
+        "lon": -118.3764785528183,
+        "lat": 34.06113696744632,
+        "address": "325 La Cienega, Beverly Hills",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1366",
+        "name": "88. 4th St / Civic Center SM",
+        "region_id": "region_446",
+        "lon": -118.48841249942778,
+        "lat": 34.0105413448096,
+        "address": "1818-1842 4th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1367",
+        "name": "83. Arizona and Chelsea SM",
+        "region_id": "region_446",
+        "lon": -118.47752809524535,
+        "lat": 34.03319007841916,
+        "address": "2364-2398 Arizona Avenue, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1424",
+        "name": "BH5. Civic Ctr Dr / Burton Way",
+        "region_id": "region_446",
+        "lon": -118.39852295815945,
+        "lat": 34.07264362945038,
+        "address": "318 Civic Center Drive, Beverly Hills",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1425",
+        "name": "BH10. Wilshire Bl / Beverly Dr",
+        "region_id": "region_446",
+        "lon": -118.39949861168861,
+        "lat": 34.06708518749697,
+        "address": "Sterling Plaza, Wilshire Boulevard, Beverly Hills, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1427",
+        "name": "87. Ocean front walk and Marine SM",
+        "region_id": "region_446",
+        "lon": -118.48189607262611,
+        "lat": 33.99652736080224,
+        "address": "103 Ocean Front Walk, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1432",
+        "name": "BH1. 3rd and Maple ",
+        "region_id": "region_446",
+        "lon": -118.39380830526352,
+        "lat": 34.07357509241035,
+        "address": "9233-9259 West 3rd Street, Beverly Hills",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1433",
+        "name": "BH2. Beverly and Gregory",
+        "region_id": "region_446",
+        "lon": -118.39903324842453,
+        "lat": 34.062439078781026,
+        "address": "268S South Beverly Drive, Beverly Hills",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1434",
+        "name": "78. Bergamot Station EXPO SM",
+        "region_id": "region_446",
+        "lon": -118.46859365701675,
+        "lat": 34.02829870370975,
+        "address": "2600-2774 Olympic Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1446",
+        "name": "79. 4th / Colorado EXPO SM",
+        "region_id": "region_446",
+        "lon": -118.4911496937275,
+        "lat": 34.0131282026081,
+        "address": "1623-1649 4th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1507",
+        "name": "80. 4th Court / Colorado EXPO SM",
+        "region_id": "region_446",
+        "lon": -118.49143266677855,
+        "lat": 34.01429654358215,
+        "address": "1558 5th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1675",
+        "name": "BH9. S. Santa Monica and Wilshire ",
+        "region_id": "region_446",
+        "lon": -118.4091304242611,
+        "lat": 34.06729959965908,
+        "address": "9785 South Santa Monica Boulevard, Beverly Hills",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1785",
+        "name": "WH1. City Hall @ Sweetzer",
+        "region_id": "region_446",
+        "lon": -118.37038993835449,
+        "lat": 34.090200844241785,
+        "address": "1045-1077 North Sweetzer Avenue, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1787",
+        "name": "WH2. Santa Monica Blvd & Olive Dr",
+        "region_id": "region_446",
+        "lon": -118.3741919696331,
+        "lat": 34.090707296445395,
+        "address": "8441 Santa Monica Boulevard, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1788",
+        "name": "WH3. San Vicente Bl @ West Hollywood Park",
+        "region_id": "region_446",
+        "lon": -118.3839176595211,
+        "lat": 34.082603698329436,
+        "address": "657-697 North San Vicente Boulevard, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1797",
+        "name": "WH4. SM Bl & Crescent Heights",
+        "region_id": "region_446",
+        "lon": -118.3657255768776,
+        "lat": 34.090916096014965,
+        "address": "8077-8099 Santa Monica Boulevard, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1814",
+        "name": "86. 12th Street / Michigan Ave SM",
+        "region_id": "region_446",
+        "lon": -118.48073869943619,
+        "lat": 34.016775462183006,
+        "address": "1801 12th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1822",
+        "name": "89. Ocean Front Walk / Park Ave SM",
+        "region_id": "region_446",
+        "lon": -118.47744226455688,
+        "lat": 33.99132697857638,
+        "address": "2-12 Park Avenue, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1832",
+        "name": "WH6. Santa Monica Bl & Westmount Dr",
+        "region_id": "region_446",
+        "lon": -118.37934046983719,
+        "lat": 34.08768186616858,
+        "address": "8584 California 2, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1833",
+        "name": "WH7. Santa Monica Bl & Vista St",
+        "region_id": "region_446",
+        "lon": -118.35258945822714,
+        "lat": 34.09066176028957,
+        "address": "1084-1098 North Vista Street, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1834",
+        "name": "WH8. Santa Monica Bl & San Vicente Bl",
+        "region_id": "region_446",
+        "lon": -118.38394582271575,
+        "lat": 34.084809051184706,
+        "address": "Rage, 8911, North San Vicente Boulevard, West Hollywood, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1841",
+        "name": "WH9. Santa Monica Bl & Hancock Ave",
+        "region_id": "region_446",
+        "lon": -118.38187381625174,
+        "lat": 34.08652342206069,
+        "address": "8763 California 2, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1842",
+        "name": "WH10. Santa Monica Bl & Genesee Ave",
+        "region_id": "region_446",
+        "lon": -118.35823953151703,
+        "lat": 34.090742836827474,
+        "address": "7748 Santa Monica Boulevard, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1843",
+        "name": "WH11. Santa Monica Bl & Robertson Bl",
+        "region_id": "region_446",
+        "lon": -118.3856664597988,
+        "lat": 34.08389714946913,
+        "address": "8951 Santa Monica Boulevard, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1846",
+        "name": "WH21. Doheny Dr & Melrose Ave",
+        "region_id": "region_446",
+        "lon": -118.38973134756088,
+        "lat": 34.08060655748741,
+        "address": "508 North Doheny Drive, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1847",
+        "name": "WH22. Santa Monica Bl & Fuller Ave",
+        "region_id": "region_446",
+        "lon": -118.34926217794417,
+        "lat": 34.09064732200575,
+        "address": "7302-7316 Santa Monica Boulevard, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1856",
+        "name": "WH12. Santa Monica Blvd &Willey",
+        "region_id": "region_446",
+        "lon": -118.38806703686714,
+        "lat": 34.082294910973715,
+        "address": "9033 California 2, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1858",
+        "name": "WH13. Beverly Blvd & San Vicente Bl",
+        "region_id": "region_446",
+        "lon": -118.37996274232863,
+        "lat": 34.07669489117997,
+        "address": "8658-8678 Beverly Boulevard, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1962",
+        "name": "90. 34th St / Pico Blvd SM",
+        "region_id": "region_446",
+        "lon": -118.45394611358643,
+        "lat": 34.027188352488736,
+        "address": "2301-2359 34th Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2058",
+        "name": "WH14. Sunset and Holloway",
+        "region_id": "region_446",
+        "lon": -118.38270798325539,
+        "lat": 34.09116265654565,
+        "address": "8759-8775 Sunset Boulevard, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2059",
+        "name": "WH15. Santa Monica and Fairfax",
+        "region_id": "region_446",
+        "lon": -118.36090430617332,
+        "lat": 34.09093275552676,
+        "address": "7871-7873 Santa Monica Boulevard, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2082",
+        "name": "91. Pearl St and 28th St SM",
+        "region_id": "region_446",
+        "lon": -118.45846295356749,
+        "lat": 34.02140406480707,
+        "address": "2799 Pearl Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2101",
+        "name": "WH16. Plummer Park",
+        "region_id": "region_446",
+        "lon": -118.35132881999016,
+        "lat": 34.09084168344671,
+        "address": "7385 Santa Monica Boulevard, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2144",
+        "name": "BH11. Wilshire and Doheny",
+        "region_id": "region_446",
+        "lon": -118.38927000761032,
+        "lat": 34.06708296549416,
+        "address": "9045-9099 Wilshire Boulevard, Beverly Hills",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2145",
+        "name": "BH7. La Peer and Olympic",
+        "region_id": "region_446",
+        "lon": -118.38686406612396,
+        "lat": 34.059634847871195,
+        "address": "389-399 South La Peer Drive, Beverly Hills",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2165",
+        "name": "93. Aquarium (Drop Zone) SM",
+        "region_id": "region_446",
+        "lon": -118.49597230553627,
+        "lat": 34.0105357863532,
+        "address": "2-76 Santa Monica Pier, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2194",
+        "name": "85. Virginia/ Cloverfield SM",
+        "region_id": "region_446",
+        "lon": -118.4673410654068,
+        "lat": 34.02323587274114,
+        "address": "2316 Virginia Avenue, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2238",
+        "name": "96. Abbot Kinney ave, and Venice Blvd SM",
+        "region_id": "region_446",
+        "lon": -118.4621275216341,
+        "lat": 33.989105257479956,
+        "address": "602 Venice Boulevard, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2239",
+        "name": "WH5. SM Blvd and Formosa (BevMo)",
+        "region_id": "region_446",
+        "lon": -118.3449250459671,
+        "lat": 34.090617959488746,
+        "address": "158 Santa Monica Boulevard, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2614",
+        "name": "UCLA1. Dickson Court North",
+        "region_id": "region_446",
+        "lon": -118.43984574079514,
+        "lat": 34.07364840930491,
+        "address": "315 Portola Plaza, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2615",
+        "name": "UCLA11. Charles E. Young Dr North",
+        "region_id": "region_446",
+        "lon": -118.44483196735384,
+        "lat": 34.0734551192471,
+        "address": "586 Charles E Young Drive North, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2616",
+        "name": "UCLA12. Drake Stadium",
+        "region_id": "region_446",
+        "lon": -118.44945073127745,
+        "lat": 34.07257753240313,
+        "address": "740-798 Charles E Young Drive West, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2617",
+        "name": "UCLA2. Faculty Center",
+        "region_id": "region_446",
+        "lon": -118.43954801559448,
+        "lat": 34.070914674675855,
+        "address": "741 Charles E Young Drive East, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2618",
+        "name": "UCLA3. Powell Library",
+        "region_id": "region_446",
+        "lon": -118.44161331653595,
+        "lat": 34.071115608056125,
+        "address": "460 Portola Plaza, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2619",
+        "name": "UCLA10. Luskin Conference Center",
+        "region_id": "region_446",
+        "lon": -118.4453523159027,
+        "lat": 34.069771415232076,
+        "address": "325 Westwood Plaza, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2620",
+        "name": "UCLA4. Court of Sciences",
+        "region_id": "region_446",
+        "lon": -118.44195127487183,
+        "lat": 34.069813629876535,
+        "address": "Portola Plaza, Franz Hall, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2621",
+        "name": "UCLA9. PS-9 / Westwood Plaza",
+        "region_id": "region_446",
+        "lon": -118.44471126794815,
+        "lat": 34.06791519964922,
+        "address": "570 Westwood Plaza, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2622",
+        "name": "UCLA8. Neuroscience Research Center",
+        "region_id": "region_446",
+        "lon": -118.44369471073149,
+        "lat": 34.06713851294556,
+        "address": "633 Charles E Young Drive South, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2623",
+        "name": "UCLA5. Life Sciences",
+        "region_id": "region_446",
+        "lon": -118.44165489077568,
+        "lat": 34.06705914965584,
+        "address": "617 Charles E Young Drive South, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2624",
+        "name": "UCLA7. Medical Plaza",
+        "region_id": "region_446",
+        "lon": -118.44545759260654,
+        "lat": 34.065176871144175,
+        "address": "781-799 Westwood Plaza, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2625",
+        "name": "UCLA6. Geffen Hall",
+        "region_id": "region_446",
+        "lon": -118.44256550073622,
+        "lat": 34.064296664153105,
+        "address": "10833 Le Conte Avenue, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2626",
+        "name": "UCLA15. Westwood Village - Glendon/Kinross",
+        "region_id": "region_446",
+        "lon": -118.44437062740326,
+        "lat": 34.060796993059434,
+        "address": "1070-1082 Glendon Avenue, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2627",
+        "name": "UCLA14. Westwood Village - Broxton",
+        "region_id": "region_446",
+        "lon": -118.44678729772568,
+        "lat": 34.06202133887504,
+        "address": "1009 Broxton Avenue, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_2629",
+        "name": "UCLA16. KREC / Lot 36",
+        "region_id": "region_446",
+        "lon": -118.44800904393196,
+        "lat": 34.05922660751075,
+        "address": "11055-11071 Kinross Avenue, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2630",
+        "name": "UCLA13. Dykstra Hall / De Neve",
+        "region_id": "region_446",
+        "lon": -118.44922006130217,
+        "lat": 34.07003581186918,
+        "address": "417 Charles E Young Drive West, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2640",
+        "name": "36. Ocean Avenue and California Avenue  SM",
+        "region_id": "region_446",
+        "lon": -118.50268185138704,
+        "lat": 34.01797598884837,
+        "address": "1100 Ocean Avenue, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2659",
+        "name": "71. Fairview Library (Drop Zone) SM",
+        "region_id": "region_446",
+        "lon": -118.4635055065155,
+        "lat": 34.014509321312545,
+        "address": "2101-2145 Ocean Park Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2795",
+        "name": "WH17. Runyon Canyon (Drop Zone)",
+        "region_id": "region_446",
+        "lon": -118.34891147911547,
+        "lat": 34.105184200927226,
+        "address": "1860-1998 North Fuller Avenue, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2899",
+        "name": "UCLA18. Sunset Village",
+        "region_id": "region_446",
+        "lon": -118.4490430355072,
+        "lat": 34.073319593771124,
+        "address": "745 Charles E Young Drive North, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3123",
+        "name": "WH19. Gilmore & 3rd",
+        "region_id": "region_446",
+        "lon": -118.35908442735672,
+        "lat": 34.07162786756189,
+        "address": "188-298 South Gilmore Lane, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3124",
+        "name": "WH18. Farmers Market & Gilmore",
+        "region_id": "region_446",
+        "lon": -118.35836827754974,
+        "lat": 34.07289427005591,
+        "address": "Farmers Market Place, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3284",
+        "name": "UCLA17. Weyburn Terrace",
+        "region_id": "region_446",
+        "lon": -118.45006495714186,
+        "lat": 34.06186579683028,
+        "address": "945 Weyburn Terrace, Los Angeles",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3331",
+        "name": "WH20. Melrose Ave & La Cienega",
+        "region_id": "region_446",
+        "lon": -118.37605208158492,
+        "lat": 34.082250481101724,
+        "address": "8493 Melrose Avenue, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3668",
+        "name": "46. Stewart / Pennsylvania SM",
+        "region_id": "region_446",
+        "lon": -118.46758246438183,
+        "lat": 34.03138272046963,
+        "address": "1660 Stewart Street, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4029",
+        "name": "67. Ocean Park and 29th Street SM",
+        "region_id": "region_446",
+        "lon": -118.4547346830368,
+        "lat": 34.01965919805262,
+        "address": "2901 Ocean Park Boulevard, Santa Monica",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4045",
+        "name": "WH23. Fairfax and Willoughby (Drop Zone)",
+        "region_id": "region_446",
+        "lon": -118.36144879460335,
+        "lat": 34.0873967340339,
+        "address": "900 North Fairfax Avenue, West Hollywood",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      }
+    ]
+  },
+  "system_id": "bike_share_connect"
+}

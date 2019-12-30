@@ -1,0 +1,37 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -85.18833,
+        "lat": 42.32423,
+        "address": "200 West Michigan Avenue",
+        "name": "Burnham Brook",
+        "station_id": "bcycle_battlecreek_2401"
+      },
+      {
+        "lon": -85.18427,
+        "lat": 42.31993,
+        "address": "34 West Jackson Street",
+        "name": "Riverwalk Centre",
+        "station_id": "bcycle_battlecreek_2840"
+      },
+      {
+        "lon": -85.17814,
+        "lat": 42.33446,
+        "address": "450 North Ave",
+        "name": "Kellogg Community College",
+        "station_id": "bcycle_battlecreek_3235"
+      },
+      {
+        "lon": -85.19967,
+        "lat": 42.30387,
+        "address": "660 Capital Ave SW",
+        "name": "Old Lakeview Station",
+        "station_id": "bcycle_battlecreek_3477"
+      }
+    ]
+  },
+  "last_updated": 1530239557,
+  "system_id": "bcycle_battlecreek"
+}

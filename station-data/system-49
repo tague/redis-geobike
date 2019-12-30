@@ -1,0 +1,969 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -118.25854,
+        "lat": 34.0485,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "723 Flower Street",
+        "name": "7th & Flower",
+        "station_id": "bcycle_lametro_3005"
+      },
+      {
+        "lon": -118.25667,
+        "lat": 34.04554,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "729 S Olive Street",
+        "name": "Olive & 8th",
+        "station_id": "bcycle_lametro_3006"
+      },
+      {
+        "lon": -118.25459,
+        "lat": 34.05048,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "557 S 5th Street",
+        "name": "5th & Grand",
+        "station_id": "bcycle_lametro_3007"
+      },
+      {
+        "lon": -118.26273,
+        "lat": 34.04661,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "865 S Figueroa Street",
+        "name": "Figueroa & 9th",
+        "station_id": "bcycle_lametro_3008"
+      },
+      {
+        "lon": -118.25487,
+        "lat": 34.03705,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "401 East 11th Street",
+        "name": "11th & Maple",
+        "station_id": "bcycle_lametro_3010"
+      },
+      {
+        "lon": -118.26798,
+        "lat": 34.04113,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1259-1299 S Figueroa Street",
+        "name": "Figueroa & Pico",
+        "station_id": "bcycle_lametro_3011"
+      },
+      {
+        "lon": -118.26302,
+        "lat": 33.77982,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "128 W Anaheim St",
+        "name": "Anaheim & Avalon ",
+        "station_id": "bcycle_lametro_3013"
+      },
+      {
+        "lon": -118.23721,
+        "lat": 34.05661,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "834 N Alameda St",
+        "name": "Union Station West Portal",
+        "station_id": "bcycle_lametro_3014"
+      },
+      {
+        "lon": -118.24156,
+        "lat": 34.0529,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "201 N Los Angeles Street",
+        "name": "Los Angeles & Temple",
+        "station_id": "bcycle_lametro_3016"
+      },
+      {
+        "lon": -118.26014,
+        "lat": 34.04373,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "919 S Grand Ave",
+        "name": "Grand & Olympic",
+        "station_id": "bcycle_lametro_3018"
+      },
+      {
+        "lon": -118.26086,
+        "lat": 34.03861,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "129 W 12th Street",
+        "name": "12th & Hill",
+        "station_id": "bcycle_lametro_3019"
+      },
+      {
+        "lon": -118.26709,
+        "lat": 34.03105,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1950 S Hill Street",
+        "name": "Hill & Washington",
+        "station_id": "bcycle_lametro_3020"
+      },
+      {
+        "lon": -118.23309,
+        "lat": 34.04607,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "999 E Third Street",
+        "name": "3rd & Santa Fe",
+        "station_id": "bcycle_lametro_3022"
+      },
+      {
+        "lon": -118.24097,
+        "lat": 34.05091,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "134 Judge John Aiso Street",
+        "name": "1st & Judge John Aiso",
+        "station_id": "bcycle_lametro_3023"
+      },
+      {
+        "lon": -118.24897,
+        "lat": 34.05772,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "111 N Hope Street",
+        "name": "Hope & 1st",
+        "station_id": "bcycle_lametro_3024"
+      },
+      {
+        "lon": -118.26808,
+        "lat": 34.03286,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1014 S Grand Ave",
+        "name": "Grand & Washington",
+        "station_id": "bcycle_lametro_3025"
+      },
+      {
+        "lon": -118.24588,
+        "lat": 34.06318,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "668 N Figueroa Street",
+        "name": "Figueroa & Cesar Chavez",
+        "station_id": "bcycle_lametro_3026"
+      },
+      {
+        "lon": -118.24716,
+        "lat": 34.04998,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "300 S Spring Street",
+        "name": "Spring & 3rd",
+        "station_id": "bcycle_lametro_3027"
+      },
+      {
+        "lon": -118.24609,
+        "lat": 34.05832,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "310 N Grand Ave",
+        "name": "Grand & Temple",
+        "station_id": "bcycle_lametro_3028"
+      },
+      {
+        "lon": -118.24642,
+        "lat": 34.04885,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "334 S Main Street",
+        "name": "Main & 4th",
+        "station_id": "bcycle_lametro_3029"
+      },
+      {
+        "lon": -118.24353,
+        "lat": 34.05194,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "120 S Main Street",
+        "name": "Main & 1st",
+        "station_id": "bcycle_lametro_3030"
+      },
+      {
+        "lon": -118.25244,
+        "lat": 34.0447,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "201 W 7th Street",
+        "name": "7th & Spring",
+        "station_id": "bcycle_lametro_3031"
+      },
+      {
+        "lon": -118.25588,
+        "lat": 34.04989,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "557 S Hope Street",
+        "name": "Hope & 6th",
+        "station_id": "bcycle_lametro_3032"
+      },
+      {
+        "lon": -118.2558,
+        "lat": 34.04099,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "110 E 9th Street",
+        "name": "Main & 9th",
+        "station_id": "bcycle_lametro_3033"
+      },
+      {
+        "lon": -118.26338,
+        "lat": 34.04206,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1113 S Hope St",
+        "name": "Hope & 11th",
+        "station_id": "bcycle_lametro_3034"
+      },
+      {
+        "lon": -118.26095,
+        "lat": 34.0484,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "735 S Figueroa Street",
+        "name": "Figueroa & 8th",
+        "station_id": "bcycle_lametro_3035"
+      },
+      {
+        "lon": -118.23253,
+        "lat": 34.03919,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1301 Willow Street",
+        "name": "Willow St & Mateo St",
+        "station_id": "bcycle_lametro_3036"
+      },
+      {
+        "lon": -118.23128,
+        "lat": 34.0348,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "699 S Imperial St",
+        "name": "Imperial & 7th",
+        "station_id": "bcycle_lametro_3037"
+      },
+      {
+        "lon": -118.24835,
+        "lat": 34.04682,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "458 S Main Street",
+        "name": "Main & 5th",
+        "station_id": "bcycle_lametro_3038"
+      },
+      {
+        "lon": -118.26636,
+        "lat": 34.05357,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1234 Wilshire Blvd",
+        "name": "Wilshire & Witmer",
+        "station_id": "bcycle_lametro_3040"
+      },
+      {
+        "lon": -118.23881,
+        "lat": 34.0493,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "369 E First Street",
+        "name": "1st & Central",
+        "station_id": "bcycle_lametro_3042"
+      },
+      {
+        "lon": -118.25667,
+        "lat": 34.02851,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1850 San Pedro St",
+        "name": "18th & San Pedro",
+        "station_id": "bcycle_lametro_3045"
+      },
+      {
+        "lon": -118.24795,
+        "lat": 34.05302,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "201 South Hill Street",
+        "name": "2nd & Hill",
+        "station_id": "bcycle_lametro_3046"
+      },
+      {
+        "lon": -118.2664,
+        "lat": 34.03998,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "515 W Pico Street",
+        "name": "Pico & Flower",
+        "station_id": "bcycle_lametro_3047"
+      },
+      {
+        "lon": -118.23535,
+        "lat": 34.04169,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1210 East 5th Street",
+        "name": "5th & Hewitt",
+        "station_id": "bcycle_lametro_3048"
+      },
+      {
+        "lon": -118.25359,
+        "lat": 34.05697,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "945 W 2nd Street",
+        "name": "2nd & Figueroa",
+        "station_id": "bcycle_lametro_3049"
+      },
+      {
+        "lon": -118.25352,
+        "lat": 34.04542,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "307 W 7th Street",
+        "name": "7th & Broadway",
+        "station_id": "bcycle_lametro_3051"
+      },
+      {
+        "lon": -118.26456,
+        "lat": 34.0511,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1107 W 7th Street",
+        "name": "7th & Bixel",
+        "station_id": "bcycle_lametro_3052"
+      },
+      {
+        "lon": -118.23649,
+        "lat": 34.03922,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1245 Factory Place",
+        "name": "Factory Place & Alameda",
+        "station_id": "bcycle_lametro_3054"
+      },
+      {
+        "lon": -118.25158,
+        "lat": 34.04416,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "111 W 7th Street",
+        "name": "7th & Main",
+        "station_id": "bcycle_lametro_3055"
+      },
+      {
+        "lon": -118.26538,
+        "lat": 34.03746,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1375 S Grand Ave",
+        "name": "Grand & 14th",
+        "station_id": "bcycle_lametro_3056"
+      },
+      {
+        "lon": -118.27081,
+        "lat": 34.03568,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "512 W 18th Street",
+        "name": "18th & Figueroa",
+        "station_id": "bcycle_lametro_3057"
+      },
+      {
+        "lon": -118.23317,
+        "lat": 34.0358,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1855 Industrial Street",
+        "name": "Industrial St & Mateo St",
+        "station_id": "bcycle_lametro_3058"
+      },
+      {
+        "lon": -118.24317,
+        "lat": 34.04775,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "350 E Third Street",
+        "name": "3rd & San Pedro",
+        "station_id": "bcycle_lametro_3062"
+      },
+      {
+        "lon": -118.25374,
+        "lat": 34.04804,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "532 W Olive Street",
+        "name": "Olive & 5th",
+        "station_id": "bcycle_lametro_3063"
+      },
+      {
+        "lon": -118.25698,
+        "lat": 34.04681,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "700 S Grand Ave",
+        "name": "Grand & 7th",
+        "station_id": "bcycle_lametro_3064"
+      },
+      {
+        "lon": -118.23833,
+        "lat": 34.06056,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "725 New High Street",
+        "name": "New High & Ord",
+        "station_id": "bcycle_lametro_3065"
+      },
+      {
+        "lon": -118.23616,
+        "lat": 34.06339,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "870 N Spring Street",
+        "name": "Spring & College",
+        "station_id": "bcycle_lametro_3066"
+      },
+      {
+        "lon": -118.25024,
+        "lat": 34.04518,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "640 S Spring Street",
+        "name": "Main & 6th",
+        "station_id": "bcycle_lametro_3067"
+      },
+      {
+        "lon": -118.25095,
+        "lat": 34.0532,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "250 S Grand Ave",
+        "name": "Grand & 3rd",
+        "station_id": "bcycle_lametro_3068"
+      },
+      {
+        "lon": -118.24825,
+        "lat": 34.05088,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "303 S Broadway Street",
+        "name": "Broadway & 3rd",
+        "station_id": "bcycle_lametro_3069"
+      },
+      {
+        "lon": -118.26117,
+        "lat": 34.04417,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "960 S Hope Street",
+        "name": "Hope & Olympic",
+        "station_id": "bcycle_lametro_3074"
+      },
+      {
+        "lon": -118.25619,
+        "lat": 34.04211,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "900 South Broadway Street",
+        "name": "Broadway & 9th",
+        "station_id": "bcycle_lametro_3075"
+      },
+      {
+        "lon": -118.25384,
+        "lat": 34.0406,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "201 East 9th Street",
+        "name": "9th & Los Angeles",
+        "station_id": "bcycle_lametro_3076"
+      },
+      {
+        "lon": -118.25004,
+        "lat": 34.03987,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "517 East 8th Street",
+        "name": "8th & Wall",
+        "station_id": "bcycle_lametro_3077"
+      },
+      {
+        "lon": -118.23894,
+        "lat": 34.06428,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "881 N Hill Street",
+        "name": "Hill & College",
+        "station_id": "bcycle_lametro_3078"
+      },
+      {
+        "lon": -118.23324,
+        "lat": 34.05014,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "720 East Temple Street",
+        "name": "Temple & Vignes",
+        "station_id": "bcycle_lametro_3079"
+      },
+      {
+        "lon": -118.25459,
+        "lat": 34.03421,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "526 E 12th Street",
+        "name": "San Julian & 12th",
+        "station_id": "bcycle_lametro_3080"
+      },
+      {
+        "lon": -118.25018,
+        "lat": 34.03189,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "800 E 12th Street",
+        "name": "Stanford & 12th",
+        "station_id": "bcycle_lametro_3081"
+      },
+      {
+        "lon": -118.23741,
+        "lat": 34.04652,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "599 Traction Ave",
+        "name": "Traction & Rose",
+        "station_id": "bcycle_lametro_3082"
+      },
+      {
+        "lon": -118.26102,
+        "lat": 33.76666,
+        "region_id": "bcycle_lametro_region_3",
+        "address": "100 E Water St",
+        "name": "Banning's Landing",
+        "station_id": "bcycle_lametro_4125"
+      },
+      {
+        "lon": -118.28467,
+        "lat": 33.71098,
+        "region_id": "bcycle_lametro_region_3",
+        "address": "3700 Shoshonean Rd",
+        "name": "Cabrillo Beach",
+        "station_id": "bcycle_lametro_4126"
+      },
+      {
+        "lon": -118.27519,
+        "lat": 33.74892,
+        "region_id": "bcycle_lametro_region_3",
+        "address": "100 Swinford St",
+        "name": "Catalina Express",
+        "station_id": "bcycle_lametro_4127"
+      },
+      {
+        "lon": -118.28051,
+        "lat": 33.72582,
+        "region_id": "bcycle_lametro_region_3",
+        "address": "110 E 22nd St",
+        "name": "Crafted 22nd St Park",
+        "station_id": "bcycle_lametro_4129"
+      },
+      {
+        "lon": -118.28272,
+        "lat": 33.71926,
+        "region_id": "bcycle_lametro_region_3",
+        "address": "30 Via Cabrillo Marina",
+        "name": "DoubleTree Hotel",
+        "station_id": "bcycle_lametro_4130"
+      },
+      {
+        "lon": -118.27927,
+        "lat": 33.73898,
+        "region_id": "bcycle_lametro_region_3",
+        "address": "110 E 6th St",
+        "name": "Downtown Harbor",
+        "station_id": "bcycle_lametro_4131"
+      },
+      {
+        "lon": -118.28018,
+        "lat": 33.74913,
+        "region_id": "bcycle_lametro_region_3",
+        "address": "199 Regan St",
+        "name": "Fanfare Fountain",
+        "station_id": "bcycle_lametro_4132"
+      },
+      {
+        "lon": -118.27779,
+        "lat": 33.73352,
+        "region_id": "bcycle_lametro_region_3",
+        "address": "1191 Nagoya Way",
+        "name": "Ports O'Call",
+        "station_id": "bcycle_lametro_4133"
+      },
+      {
+        "lon": -118.27807,
+        "lat": 33.74136,
+        "region_id": "bcycle_lametro_region_3",
+        "address": "444 S Harbor Blvd",
+        "name": "USS IOWA",
+        "station_id": "bcycle_lametro_4134"
+      },
+      {
+        "lon": -118.26804,
+        "lat": 33.7723,
+        "region_id": "bcycle_lametro_region_3",
+        "address": "512 W C St",
+        "name": "Waterfront Park (East)",
+        "station_id": "bcycle_lametro_4135"
+      },
+      {
+        "lon": -118.27654,
+        "lat": 33.77176,
+        "region_id": "bcycle_lametro_region_3",
+        "address": "1206 W C St",
+        "name": "Waterfront Park (West)",
+        "station_id": "bcycle_lametro_4136"
+      },
+      {
+        "lon": -118.14824,
+        "lat": 34.14569,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "102 E Colorado Blvd",
+        "name": "Old Pasadena",
+        "station_id": "bcycle_lametro_4138"
+      },
+      {
+        "lon": -118.14459,
+        "lat": 34.14459,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "300 E Green St",
+        "name": "Pasadena Convention Center",
+        "station_id": "bcycle_lametro_4142"
+      },
+      {
+        "lon": -118.13265,
+        "lat": 34.1424,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "868 Cordova St",
+        "name": "Cordova & Lake",
+        "station_id": "bcycle_lametro_4144"
+      },
+      {
+        "lon": -118.14504,
+        "lat": 34.14783,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "235 E Holly St",
+        "name": "City Hall West",
+        "station_id": "bcycle_lametro_4146"
+      },
+      {
+        "lon": -118.15007,
+        "lat": 34.14525,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "2 Mercantile Pl",
+        "name": "Fair Oaks & Mercantile Alley",
+        "station_id": "bcycle_lametro_4147"
+      },
+      {
+        "lon": -118.14511,
+        "lat": 34.14967,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "212 Garfield Ave",
+        "name": "Pasadena Central Library",
+        "station_id": "bcycle_lametro_4148"
+      },
+      {
+        "lon": -118.14708,
+        "lat": 34.13821,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "151 E Bellevue Dr",
+        "name": "Arroyo Parkway & Bellevue",
+        "station_id": "bcycle_lametro_4149"
+      },
+      {
+        "lon": -118.14215,
+        "lat": 34.15427,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "439 E Villa St",
+        "name": "Villa Parke",
+        "station_id": "bcycle_lametro_4150"
+      },
+      {
+        "lon": -118.14151,
+        "lat": 34.14236,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "217 S Los Robles Ave",
+        "name": "Los Robles & Cordova",
+        "station_id": "bcycle_lametro_4151"
+      },
+      {
+        "lon": -118.16017,
+        "lat": 34.14971,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "476 W Walnut St",
+        "name": "Pasadena Museum",
+        "station_id": "bcycle_lametro_4152"
+      },
+      {
+        "lon": -118.16669,
+        "lat": 34.15618,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "600 Seco St",
+        "name": "Rose Bowl",
+        "station_id": "bcycle_lametro_4153"
+      },
+      {
+        "lon": -118.15119,
+        "lat": 34.15612,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "615 N Fair Oaks Ave",
+        "name": "Fair Oaks & Peoria",
+        "station_id": "bcycle_lametro_4154"
+      },
+      {
+        "lon": -118.13222,
+        "lat": 34.14781,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "878 E Union St",
+        "name": "Lake & Union",
+        "station_id": "bcycle_lametro_4155"
+      },
+      {
+        "lon": -118.13839,
+        "lat": 34.14991,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "250 N Madison Ave",
+        "name": "Madison & Walnut",
+        "station_id": "bcycle_lametro_4156"
+      },
+      {
+        "lon": -118.13209,
+        "lat": 34.141,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "270 S Lake Ave",
+        "name": "Lake & Del Mar",
+        "station_id": "bcycle_lametro_4157"
+      },
+      {
+        "lon": -118.13237,
+        "lat": 34.13525,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "621 S Lake Ave",
+        "name": "Lake & California",
+        "station_id": "bcycle_lametro_4158"
+      },
+      {
+        "lon": -118.11654,
+        "lat": 34.1459,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "1606 E Colorado Blvd",
+        "name": "Pasadena City College",
+        "station_id": "bcycle_lametro_4159"
+      },
+      {
+        "lon": -118.14856,
+        "lat": 34.13301,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "95 Filmore St",
+        "name": "Fillmore Station",
+        "station_id": "bcycle_lametro_4160"
+      },
+      {
+        "lon": -118.14801,
+        "lat": 34.1475,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "110 E Holly St",
+        "name": "Memorial Park Station",
+        "station_id": "bcycle_lametro_4162"
+      },
+      {
+        "lon": -118.13202,
+        "lat": 34.15047,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "888 Locust Street",
+        "name": "Lake & Locust",
+        "station_id": "bcycle_lametro_4163"
+      },
+      {
+        "lon": -118.14906,
+        "lat": 34.14175,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "Del Mar Station @ Central Park",
+        "name": "Del Mar Station",
+        "station_id": "bcycle_lametro_4165"
+      },
+      {
+        "lon": -118.12175,
+        "lat": 34.14591,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "1400 Colorado Blvd",
+        "name": "Colorado & Hill",
+        "station_id": "bcycle_lametro_4166"
+      },
+      {
+        "lon": -118.1541,
+        "lat": 34.14382,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "110 Pasadena Ave",
+        "name": "Pasadena & Dayton",
+        "station_id": "bcycle_lametro_4167"
+      },
+      {
+        "lon": -118.13984,
+        "lat": 34.14696,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "1 N Oakland Ave",
+        "name": "Oakland & Union",
+        "station_id": "bcycle_lametro_4169"
+      },
+      {
+        "lon": -118.1324,
+        "lat": 34.16071,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "900 N Lake Ave",
+        "name": "Lake & Merrett",
+        "station_id": "bcycle_lametro_4170"
+      },
+      {
+        "lon": -118.15097,
+        "lat": 34.16529,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "1141 N. Fair Oaks Ave",
+        "name": "Fair Oaks & Hammond",
+        "station_id": "bcycle_lametro_4174"
+      },
+      {
+        "lon": -118.12241,
+        "lat": 34.13786,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "1345 San Pasqual St",
+        "name": "Caltech East",
+        "station_id": "bcycle_lametro_4176"
+      },
+      {
+        "lon": -118.13826,
+        "lat": 34.14498,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "45 S Madison Ave",
+        "name": "Madison & Colorado",
+        "station_id": "bcycle_lametro_4177"
+      },
+      {
+        "lon": -118.1285,
+        "lat": 34.13795,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "1001 San Pasqual St",
+        "name": "Caltech West",
+        "station_id": "bcycle_lametro_4180"
+      },
+      {
+        "lon": -118.13526,
+        "lat": 34.14622,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "10 N Oak Knoll Ave",
+        "name": "Oak Knoll & Colorado",
+        "station_id": "bcycle_lametro_4181"
+      },
+      {
+        "lon": -118.12918,
+        "lat": 34.14607,
+        "region_id": "bcycle_lametro_region_4",
+        "address": "1051 E Colorado Blvd",
+        "name": "Catalina & Colorado",
+        "station_id": "bcycle_lametro_4183"
+      },
+      {
+        "lon": -118.46829,
+        "lat": 33.99116,
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1222 Abbot Kinney Blvd",
+        "name": "Abbot Kinney & Cadiz",
+        "station_id": "bcycle_lametro_4202"
+      },
+      {
+        "lon": -118.45163,
+        "lat": 33.98842,
+        "region_id": "bcycle_lametro_region_2",
+        "address": "2901 W Washington Blvd",
+        "name": "Washington & Abbot Kinney",
+        "station_id": "bcycle_lametro_4204"
+      },
+      {
+        "lon": -118.45367,
+        "lat": 33.99377,
+        "region_id": "bcycle_lametro_region_2",
+        "address": "923 Venice Blvd",
+        "name": "Venice & Lincoln",
+        "station_id": "bcycle_lametro_4205"
+      },
+      {
+        "lon": -118.46101,
+        "lat": 33.99834,
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1000 California Ave",
+        "name": "California & Lincoln",
+        "station_id": "bcycle_lametro_4206"
+      },
+      {
+        "lon": -118.46891,
+        "lat": 34.00088,
+        "region_id": "bcycle_lametro_region_2",
+        "address": "715 Rose Ave",
+        "name": "Rose & 7th",
+        "station_id": "bcycle_lametro_4207"
+      },
+      {
+        "lon": -118.47298,
+        "lat": 33.99868,
+        "region_id": "bcycle_lametro_region_2",
+        "address": "529 Rose Ave",
+        "name": "Rose & Rennie",
+        "station_id": "bcycle_lametro_4208"
+      },
+      {
+        "lon": -118.47745,
+        "lat": 33.99624,
+        "region_id": "bcycle_lametro_region_2",
+        "address": "200 Rose Ave",
+        "name": "Rose & Main",
+        "station_id": "bcycle_lametro_4209"
+      },
+      {
+        "lon": -118.47155,
+        "lat": 33.98434,
+        "region_id": "bcycle_lametro_region_2",
+        "address": "2100 Ocean Front Walk",
+        "name": "Ocean Front Walk & North Venice",
+        "station_id": "bcycle_lametro_4210"
+      },
+      {
+        "lon": -118.46996,
+        "lat": 33.98493,
+        "region_id": "bcycle_lametro_region_2",
+        "address": "2100 Pacific Ave",
+        "name": "Pacific & North Venice",
+        "station_id": "bcycle_lametro_4211"
+      },
+      {
+        "lon": -118.47174,
+        "lat": 33.98813,
+        "region_id": "bcycle_lametro_region_2",
+        "address": "140 Windward Ave",
+        "name": "Windward & Main",
+        "station_id": "bcycle_lametro_4212"
+      },
+      {
+        "lon": -118.4648,
+        "lat": 33.99537,
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1150 7th Ave",
+        "name": "7th & Westminster",
+        "station_id": "bcycle_lametro_4213"
+      },
+      {
+        "lon": -118.48155,
+        "lat": 33.99556,
+        "region_id": "bcycle_lametro_region_2",
+        "address": "Ocean Front Walk @ Navy St",
+        "name": "Ocean Front Walk & Navy",
+        "station_id": "bcycle_lametro_4214"
+      },
+      {
+        "lon": -118.49134,
+        "lat": 34.01431,
+        "region_id": "bcycle_lametro_region_2",
+        "address": "1621 4th St",
+        "name": "Downtown Santa Monica Expo Line Station",
+        "station_id": "bcycle_lametro_4215"
+      },
+      {
+        "lon": -118.47964,
+        "lat": 34.02339,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1610 Colorado Ave",
+        "name": "17th St / SMC Expo Line Station",
+        "station_id": "bcycle_lametro_4216"
+      },
+      {
+        "lon": -118.25873,
+        "lat": 34.07483,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "1610 Park Ave",
+        "name": "Park & Echo Park",
+        "station_id": "bcycle_lametro_4220"
+      },
+      {
+        "lon": -118.27031,
+        "lat": 34.0298,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "2117 S Grand Ave",
+        "name": "Grand / LATTC",
+        "station_id": "bcycle_lametro_4227"
+      },
+      {
+        "lon": -118.28673,
+        "lat": 34.01806,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "701 Exposition Blvd",
+        "name": "Expo Park/USC Station",
+        "station_id": "bcycle_lametro_4244"
+      },
+      {
+        "lon": -118.28411,
+        "lat": 34.02868,
+        "region_id": "bcycle_lametro_region_1",
+        "address": "2817 Hoover St",
+        "name": "Hoover & 29th",
+        "station_id": "bcycle_lametro_4254"
+      }
+    ]
+  },
+  "last_updated": 1530239600,
+  "system_id": "bcycle_lametro"
+}

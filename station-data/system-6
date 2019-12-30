@@ -1,0 +1,450 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -97.74355,
+        "lat": 30.26408,
+        "address": "151 E. 2nd St",
+        "name": "2nd & Congress",
+        "station_id": "bcycle_austin_2494"
+      },
+      {
+        "lon": -97.74378,
+        "lat": 30.26634,
+        "address": "120 W. 4th St.",
+        "name": "4th & Congress",
+        "station_id": "bcycle_austin_2495"
+      },
+      {
+        "lon": -97.74224,
+        "lat": 30.26978,
+        "address": "111 E. 8th St.",
+        "name": "8th & Congress",
+        "station_id": "bcycle_austin_2496"
+      },
+      {
+        "lon": -97.74127,
+        "lat": 30.2726,
+        "address": "1090 Congress Ave.",
+        "name": "Capitol Station / Congress & 11th",
+        "station_id": "bcycle_austin_2497"
+      },
+      {
+        "lon": -97.739,
+        "lat": 30.26483,
+        "address": "499 E. 4th St",
+        "name": "Convention Center / 4th St. @ MetroRail",
+        "station_id": "bcycle_austin_2498"
+      },
+      {
+        "lon": -97.74678,
+        "lat": 30.26476,
+        "address": "Presented by Graves Dougherty Hearon & Moody",
+        "name": "City Hall / Lavaca & 2nd",
+        "station_id": "bcycle_austin_2499"
+      },
+      {
+        "lon": -97.75308,
+        "lat": 30.27001,
+        "address": "Presented by Whole Foods Market",
+        "name": "5th & Bowie",
+        "station_id": "bcycle_austin_2501"
+      },
+      {
+        "lon": -97.74872,
+        "lat": 30.2587,
+        "address": "400 Barton Springs Rd.",
+        "name": "Barton Springs & Riverside",
+        "station_id": "bcycle_austin_2502"
+      },
+      {
+        "lon": -97.74926,
+        "lat": 30.25103,
+        "address": "1300 South Congress Ave",
+        "name": "South Congress & James",
+        "station_id": "bcycle_austin_2503"
+      },
+      {
+        "lon": -97.75019,
+        "lat": 30.24891,
+        "address": "101 Elizabeth St. W",
+        "name": "South Congress & Elizabeth",
+        "station_id": "bcycle_austin_2504"
+      },
+      {
+        "lon": -97.75046,
+        "lat": 30.27041,
+        "address": "603 West Ave.",
+        "name": "West & 6th St.",
+        "station_id": "bcycle_austin_2537"
+      },
+      {
+        "lon": -97.74023,
+        "lat": 30.26426,
+        "address": "212 Trinity",
+        "name": "Convention Center / 3rd & Trinity",
+        "station_id": "bcycle_austin_2539"
+      },
+      {
+        "lon": -97.74254,
+        "lat": 30.27974,
+        "address": "411 W. 17th St.",
+        "name": "17th & Guadalupe",
+        "station_id": "bcycle_austin_2540"
+      },
+      {
+        "lon": -97.72743,
+        "lat": 30.26217,
+        "address": "1501 E. 5th St.",
+        "name": "Plaza Saltillo",
+        "station_id": "bcycle_austin_2542"
+      },
+      {
+        "lon": -97.71475,
+        "lat": 30.25895,
+        "address": "2498 E. 6th St.",
+        "name": "East 6th & Pedernales St.",
+        "station_id": "bcycle_austin_2544"
+      },
+      {
+        "lon": -97.74198,
+        "lat": 30.28395,
+        "address": "2100 Guadalupe St.",
+        "name": "Guadalupe & 21st",
+        "station_id": "bcycle_austin_2547"
+      },
+      {
+        "lon": -97.74181,
+        "lat": 30.28576,
+        "address": "2242 Guadalupe St.",
+        "name": "UT West Mall @ Guadalupe",
+        "station_id": "bcycle_austin_2548"
+      },
+      {
+        "lon": -97.74971,
+        "lat": 30.25941,
+        "address": "Presented by Austin Energy",
+        "name": "Long Center @ South 1st & Riverside",
+        "station_id": "bcycle_austin_2549"
+      },
+      {
+        "lon": -97.75189,
+        "lat": 30.2678,
+        "address": "652 W. 3rd St",
+        "name": "3rd & West",
+        "station_id": "bcycle_austin_2552"
+      },
+      {
+        "lon": -97.73805,
+        "lat": 30.27336,
+        "address": "1201 San Jacinto Blvd.",
+        "name": "State Capitol Visitors Garage @ San Jacinto & 12th",
+        "station_id": "bcycle_austin_2561"
+      },
+      {
+        "lon": -97.73986,
+        "lat": 30.26912,
+        "address": "782 San Jacinto Blvd.",
+        "name": "San Jacinto & 8th Street",
+        "station_id": "bcycle_austin_2562"
+      },
+      {
+        "lon": -97.73845,
+        "lat": 30.26019,
+        "address": "698 Davis St.",
+        "name": "Davis at Rainey Street",
+        "station_id": "bcycle_austin_2563"
+      },
+      {
+        "lon": -97.73933,
+        "lat": 30.26735,
+        "address": "606 Trinity Street",
+        "name": "Trinity & 6th Street",
+        "station_id": "bcycle_austin_2565"
+      },
+      {
+        "lon": -97.75484,
+        "lat": 30.26717,
+        "address": "Presented by Austin Parks Foundation",
+        "name": "Pfluger Bridge @ W 2nd Street",
+        "station_id": "bcycle_austin_2566"
+      },
+      {
+        "lon": -97.75346,
+        "lat": 30.25971,
+        "address": "900 Barton Springs Rd.",
+        "name": "Palmer Auditorium",
+        "station_id": "bcycle_austin_2567"
+      },
+      {
+        "lon": -97.72843,
+        "lat": 30.26896,
+        "address": "1106 E. 11th St.",
+        "name": "East 11th St. at Victory Grill",
+        "station_id": "bcycle_austin_2568"
+      },
+      {
+        "lon": -97.73074,
+        "lat": 30.26968,
+        "address": "1001 E. 11th St.",
+        "name": "East 11th St. & San Marcos",
+        "station_id": "bcycle_austin_2569"
+      },
+      {
+        "lon": -97.74881,
+        "lat": 30.25222,
+        "address": "1199 S. Congress Ave.",
+        "name": "South Congress & Academy",
+        "station_id": "bcycle_austin_2570"
+      },
+      {
+        "lon": -97.73646,
+        "lat": 30.26854,
+        "address": "761 Red River St.",
+        "name": "Red River & 8th Street",
+        "station_id": "bcycle_austin_2571"
+      },
+      {
+        "lon": -97.7712,
+        "lat": 30.26452,
+        "address": "2200 William Barton Dr.",
+        "name": "Barton Springs Pool",
+        "station_id": "bcycle_austin_2572"
+      },
+      {
+        "lon": -97.76822,
+        "lat": 30.2659,
+        "address": "Barton Springs & William Barton Drive",
+        "name": "Zilker Park",
+        "station_id": "bcycle_austin_2574"
+      },
+      {
+        "lon": -97.75665,
+        "lat": 30.26446,
+        "address": "Presented by Austin Parks Foundation",
+        "name": "Riverside @ S. Lamar",
+        "station_id": "bcycle_austin_2575"
+      },
+      {
+        "lon": -97.73982,
+        "lat": 30.25579,
+        "address": "1 Rainey St",
+        "name": "Rainey St @ Cummings",
+        "station_id": "bcycle_austin_2707"
+      },
+      {
+        "lon": -97.76118,
+        "lat": 30.262,
+        "address": "1530 Barton Springs Road",
+        "name": "Barton Springs @ Kinney Ave",
+        "station_id": "bcycle_austin_2711"
+      },
+      {
+        "lon": -97.71899,
+        "lat": 30.26032,
+        "address": "2120 East 6th St",
+        "name": "East 6th at Robert Martinez",
+        "station_id": "bcycle_austin_2822"
+      },
+      {
+        "lon": -97.71007,
+        "lat": 30.2563,
+        "address": "2910 E 5th St",
+        "name": "Capital Metro HQ - East 5th at Broadway",
+        "station_id": "bcycle_austin_2823"
+      },
+      {
+        "lon": -97.73854,
+        "lat": 30.27193,
+        "address": "310 E. 11th St.",
+        "name": "11th & San Jacinto",
+        "station_id": "bcycle_austin_3291"
+      },
+      {
+        "lon": -97.72308,
+        "lat": 30.25968,
+        "address": "1819 East 4th St.",
+        "name": "East 4th & Chicon",
+        "station_id": "bcycle_austin_3292"
+      },
+      {
+        "lon": -97.71665,
+        "lat": 30.25542,
+        "address": "2414 E 2nd St",
+        "name": "East 2nd & Pedernales",
+        "station_id": "bcycle_austin_3293"
+      },
+      {
+        "lon": -97.74525,
+        "lat": 30.26889,
+        "address": "601 Lavaca St.",
+        "name": "Lavaca & 6th",
+        "station_id": "bcycle_austin_3294"
+      },
+      {
+        "lon": -97.77028,
+        "lat": 30.27466,
+        "address": "2105 Veterans Dr.",
+        "name": "MoPac Pedestrian Bridge @ Veterans Drive",
+        "station_id": "bcycle_austin_3377"
+      },
+      {
+        "lon": -97.74162,
+        "lat": 30.26766,
+        "address": "584 Brazos St.",
+        "name": "Brazos & 6th",
+        "station_id": "bcycle_austin_3390"
+      },
+      {
+        "lon": -97.7469,
+        "lat": 30.26808,
+        "address": "401 W. 5th St.",
+        "name": "Republic Square @ 5th & Guadalupe",
+        "station_id": "bcycle_austin_3455"
+      },
+      {
+        "lon": -97.74592,
+        "lat": 30.25839,
+        "address": "305 S. Congress Ave.",
+        "name": "South Congress & Barton Springs at the Austin American-Statesman",
+        "station_id": "bcycle_austin_3513"
+      },
+      {
+        "lon": -97.74285,
+        "lat": 30.26822,
+        "address": "600 Congress Ave.",
+        "name": "6th & Congress",
+        "station_id": "bcycle_austin_3619"
+      },
+      {
+        "lon": -97.74929,
+        "lat": 30.26697,
+        "address": "311 Nueces St.",
+        "name": "Nueces & 3rd",
+        "station_id": "bcycle_austin_3621"
+      },
+      {
+        "lon": -97.74488,
+        "lat": 30.27616,
+        "address": "1285 San Antonio St.",
+        "name": "13th & San Antonio",
+        "station_id": "bcycle_austin_3635"
+      },
+      {
+        "lon": -97.73165,
+        "lat": 30.26455,
+        "address": "590 Medina St.",
+        "name": "Medina & East 6th",
+        "station_id": "bcycle_austin_3660"
+      },
+      {
+        "lon": -97.74508,
+        "lat": 30.26332,
+        "address": "124 W Cesar Chavez St",
+        "name": "Congress & Cesar Chavez",
+        "station_id": "bcycle_austin_3684"
+      },
+      {
+        "lon": -97.75246,
+        "lat": 30.27217,
+        "address": "672 Henderson Street",
+        "name": "Henderson & 9th",
+        "station_id": "bcycle_austin_3685"
+      },
+      {
+        "lon": -97.76385,
+        "lat": 30.26406,
+        "address": "1872 Barton Springs Rd",
+        "name": "Sterzing at Barton Springs",
+        "station_id": "bcycle_austin_3686"
+      },
+      {
+        "lon": -97.74258,
+        "lat": 30.25457,
+        "address": "300 E. Riverside Dr.",
+        "name": "Boardwalk West",
+        "station_id": "bcycle_austin_3687"
+      },
+      {
+        "lon": -97.77272,
+        "lat": 30.27807,
+        "address": "2401 Lake Austin Blvd",
+        "name": "Lake Austin Blvd @ Deep Eddy",
+        "station_id": "bcycle_austin_3790"
+      },
+      {
+        "lon": -97.78375,
+        "lat": 30.29439,
+        "address": "3825 Lake Austin Blvd",
+        "name": "Lake Austin & Enfield",
+        "station_id": "bcycle_austin_3791"
+      },
+      {
+        "lon": -97.7467,
+        "lat": 30.2853,
+        "address": "900 W. 22nd",
+        "name": "22nd & Pearl",
+        "station_id": "bcycle_austin_3792"
+      },
+      {
+        "lon": -97.74412,
+        "lat": 30.29333,
+        "address": "2717 Rio Grande St.",
+        "name": "Rio Grande & 28th",
+        "station_id": "bcycle_austin_3793"
+      },
+      {
+        "lon": -97.73695,
+        "lat": 30.28953,
+        "address": "180 E. Dean Keeton St.",
+        "name": "Dean Keeton & Speedway ",
+        "station_id": "bcycle_austin_3794"
+      },
+      {
+        "lon": -97.74041,
+        "lat": 30.2898,
+        "address": "300 W. Dean Keeton St.",
+        "name": "Dean Keeton & Whitis",
+        "station_id": "bcycle_austin_3795"
+      },
+      {
+        "lon": -97.73953,
+        "lat": 30.28354,
+        "address": "2007 University Ave. ",
+        "name": "21st & University",
+        "station_id": "bcycle_austin_3797"
+      },
+      {
+        "lon": -97.7375,
+        "lat": 30.283,
+        "address": "E. 21st St.",
+        "name": "21st & Speedway @PCL",
+        "station_id": "bcycle_austin_3798"
+      },
+      {
+        "lon": -97.7335,
+        "lat": 30.2856,
+        "address": "E. 23rd St.",
+        "name": "23rd & San Jacinto @ DKR Stadium",
+        "station_id": "bcycle_austin_3799"
+      },
+      {
+        "lon": -97.74292,
+        "lat": 30.29068,
+        "address": "600 W. 26th",
+        "name": "Nueces & 26th",
+        "station_id": "bcycle_austin_3838"
+      },
+      {
+        "lon": -97.74495,
+        "lat": 30.28728,
+        "address": "2308 Rio Grande St. ",
+        "name": "23rd & Rio Grande",
+        "station_id": "bcycle_austin_3841"
+      }
+    ]
+  },
+  "last_updated": 1530239555,
+  "system_id": "bcycle_austin"
+}

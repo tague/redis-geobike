@@ -1,0 +1,1324 @@
+{
+  "last_updated": 1530239603,
+  "ttl": 180,
+  "data": {
+    "stations": [
+      {
+        "station_id": "hub_683",
+        "name": "TVCCC - Borah Post Office",
+        "region_id": "region_159",
+        "lon": -116.20162546634673,
+        "lat": 43.61732785773481,
+        "address": "300-394 North 8th Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_684",
+        "name": "YMCA",
+        "region_id": "region_159",
+        "lon": -116.203509457114,
+        "lat": 43.6204074833528,
+        "address": "950-996 West State Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_685",
+        "name": "13th & Main",
+        "region_id": "region_159",
+        "lon": -116.209214916003,
+        "lat": 43.6184439812208,
+        "address": "1227-1343 West Main Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_687",
+        "name": "Boise Co-op ",
+        "region_id": "region_159",
+        "lon": -116.19853019714354,
+        "lat": 43.622236580347796,
+        "address": "808-880 West Fort Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_688",
+        "name": "5th & State",
+        "region_id": "region_159",
+        "lon": -116.197117590418,
+        "lat": 43.6167171444809,
+        "address": "400-498 North 5th Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_692",
+        "name": "ICCU - Student Union Building",
+        "region_id": "region_159",
+        "lon": -116.20166033506392,
+        "lat": 43.602053497611095,
+        "address": "1700 West University Drive, Boise State University, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_693",
+        "name": "ICCU - Interactive Learning Center",
+        "region_id": "region_159",
+        "lon": -116.20644271373749,
+        "lat": 43.604149217914006,
+        "address": "(PAAW) Public Affairs and Arts West Building, 2100, West University Drive, Boise City, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_694",
+        "name": "Shoreline",
+        "region_id": "region_159",
+        "lon": -116.21904373168945,
+        "lat": 43.61545979710503,
+        "address": "1468-1484 Shoreline Drive, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_695",
+        "name": "Ada County Courthouse",
+        "region_id": "region_159",
+        "lon": -116.1984497308731,
+        "lat": 43.610818522108495,
+        "address": "216 West Front Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_697",
+        "name": "U of I - Boise",
+        "region_id": "region_159",
+        "lon": -116.1942708492279,
+        "lat": 43.608806544338876,
+        "address": "374 East Front Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_698",
+        "name": "St. Luke's Main Campus",
+        "region_id": "region_159",
+        "lon": -116.19313895702362,
+        "lat": 43.611975961447996,
+        "address": "100-156 East Bannock Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_699",
+        "name": "Fulton Street",
+        "region_id": "region_159",
+        "lon": -116.20623886585236,
+        "lat": 43.61143996881833,
+        "address": "600-798 West Fulton Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_700",
+        "name": "BodyBuilding.com 6th & Broad",
+        "region_id": "region_159",
+        "lon": -116.20352983474733,
+        "lat": 43.61231386738993,
+        "address": "600-698 West Broad Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_947",
+        "name": "Basque Block Bike Corral",
+        "region_id": "region_159",
+        "lon": -116.20282709598541,
+        "lat": 43.61416260651972,
+        "address": "648-698 West Grove Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1186",
+        "name": "10 Barrel",
+        "region_id": "region_159",
+        "lon": -116.20292365550996,
+        "lat": 43.61767350084443,
+        "address": "10 Barrel Brewpub and Restaurant, West Bannock Street, Boise City, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1187",
+        "name": "Modern Hotel",
+        "region_id": "region_159",
+        "lon": -116.21069669723511,
+        "lat": 43.61819001987773,
+        "address": "1314 West Grove Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1200",
+        "name": "Business & Economics Bldg",
+        "region_id": "region_159",
+        "lon": -116.20976865291595,
+        "lat": 43.605165004071324,
+        "address": "2300-2324 West University Drive, Boise State University, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1201",
+        "name": "Morrison Center",
+        "region_id": "region_159",
+        "lon": -116.20692014694214,
+        "lat": 43.60637887517937,
+        "address": "1362-1390 South Brady Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1202",
+        "name": "Albertsons Library",
+        "region_id": "region_159",
+        "lon": -116.20380878448486,
+        "lat": 43.60481346227348,
+        "address": "1942 Campus Lane, Boise State University, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1203",
+        "name": "Bronco Lane",
+        "region_id": "region_159",
+        "lon": -116.19834780693054,
+        "lat": 43.60238563238829,
+        "address": "1402 Bronco Lane, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1204",
+        "name": "Environmental Research",
+        "region_id": "region_159",
+        "lon": -116.1967733502388,
+        "lat": 43.600499626269716,
+        "address": "1010 South Euclid Avenue, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1263",
+        "name": "BSU Downtown",
+        "region_id": "region_159",
+        "lon": -116.20399117469788,
+        "lat": 43.61348292962241,
+        "address": "The Grove Hotel, 245, South Capitol Boulevard, Boise City, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1264",
+        "name": "Yanke Research Center",
+        "region_id": "region_159",
+        "lon": -116.18381023406982,
+        "lat": 43.599786774473365,
+        "address": "220 Parkcenter Boulevard, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1360",
+        "name": "BoDo Hub",
+        "region_id": "region_159",
+        "lon": -116.206716299057,
+        "lat": 43.613708194816596,
+        "address": "855-881 West Broad Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1365",
+        "name": "Boise Bicycle Project",
+        "region_id": "region_159",
+        "lon": -116.211941242218,
+        "lat": 43.60811126996436,
+        "address": "1059 South Lusk Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1382",
+        "name": "River Quarry",
+        "region_id": "region_159",
+        "lon": -116.17565631866455,
+        "lat": 43.59619713589244,
+        "address": "412 East Parkcenter Boulevard, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1440",
+        "name": "CCDC - Grove Plaza",
+        "region_id": "region_159",
+        "lon": -116.20462417602539,
+        "lat": 43.614368450007376,
+        "address": "249 South 8th Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1676",
+        "name": "Dutch Bros - 15th & State",
+        "region_id": "region_159",
+        "lon": -116.20877623558044,
+        "lat": 43.62257442863451,
+        "address": "1423 West State Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1677",
+        "name": "Hyde Park",
+        "region_id": "region_159",
+        "lon": -116.20300412178041,
+        "lat": 43.62933876139778,
+        "address": "Alturas Street, Boise City, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1678",
+        "name": "Payette Brewing",
+        "region_id": "region_159",
+        "lon": -116.21495068073273,
+        "lat": 43.613475161842054,
+        "address": "733 South Pioneer Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1679",
+        "name": "Telaya Winery",
+        "region_id": "region_159",
+        "lon": -116.23483657836914,
+        "lat": 43.62283460935435,
+        "address": "299 East 32nd Street, Garden City",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1680",
+        "name": "Highlands Hollow",
+        "region_id": "region_159",
+        "lon": -116.20852947235107,
+        "lat": 43.64245753282772,
+        "address": "2493-2551 North Harrison Hollow Lane, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1681",
+        "name": "Fort Boise Community Center",
+        "region_id": "region_159",
+        "lon": -116.19074642658232,
+        "lat": 43.616178288830454,
+        "address": "178-298 Fort Place, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1694",
+        "name": "Idaho Botanical Garden Super Hub",
+        "region_id": "region_159",
+        "lon": -116.1624813079834,
+        "lat": 43.60162036002996,
+        "address": "2445 Old Penitentiary Road, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2244",
+        "name": "Main Street Station",
+        "region_id": "region_159",
+        "lon": -116.20304435491563,
+        "lat": 43.615387947460306,
+        "address": "Piper Pub, North 8th Street, Boise City, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2298",
+        "name": "CCDC - Red Lion Downtowner",
+        "region_id": "region_159",
+        "lon": -116.21591359376907,
+        "lat": 43.620859076106925,
+        "address": "1800 West Fairview Avenue, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2392",
+        "name": "Banner Bank - City Hall",
+        "region_id": "region_159",
+        "lon": -116.20159864425659,
+        "lat": 43.61544426205398,
+        "address": "150 South Capitol Boulevard, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2393",
+        "name": "Olympic Hotel/Mulligan's",
+        "region_id": "region_159",
+        "lon": -116.20656877756119,
+        "lat": 43.61708427983475,
+        "address": "1017 Main Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2600",
+        "name": "Library! at Bown Crossing",
+        "region_id": "region_159",
+        "lon": -116.15578651428223,
+        "lat": 43.574576228477554,
+        "address": "2153 East Riverwalk Drive, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2702",
+        "name": "Municipal Park",
+        "region_id": "region_159",
+        "lon": -116.18385851383208,
+        "lat": 43.60130181739738,
+        "address": "Boise City, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2797",
+        "name": "ACHD Station Hub",
+        "region_id": "region_159",
+        "lon": -116.23957872390747,
+        "lat": 43.62819427059654,
+        "address": "3775 North Adams Street, Garden City",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2818",
+        "name": "Ann Morrison Park - Gym",
+        "region_id": "region_159",
+        "lon": -116.21557831764221,
+        "lat": 43.6113020858839,
+        "address": "1101 Boise River Greenbelt, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2819",
+        "name": "Julia Davis Park - 5th Street Entrance",
+        "region_id": "region_159",
+        "lon": -116.20340913534164,
+        "lat": 43.610277785370535,
+        "address": "599 South 5th Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2820",
+        "name": "Julia Davis Park - Zoo Boise",
+        "region_id": "region_159",
+        "lon": -116.20330452919006,
+        "lat": 43.608320168608245,
+        "address": "355 Julia Davis Drive, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2928",
+        "name": "Ann Morrison Park - Playground ",
+        "region_id": "region_159",
+        "lon": -116.2203124165535,
+        "lat": 43.61346351016961,
+        "address": "1101 Boise River Greenbelt, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3146",
+        "name": "Esther Simplot Pathway",
+        "region_id": "region_159",
+        "lon": -116.23199343681335,
+        "lat": 43.62648199622747,
+        "address": "Boise River Greenbelt, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3147",
+        "name": "Harris Ranch",
+        "region_id": "region_159",
+        "lon": -116.12108945846558,
+        "lat": 43.569114736740055,
+        "address": "Boise River Greenbelt, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3148",
+        "name": "Ann Morrison Park - SE",
+        "region_id": "region_159",
+        "lon": -116.21521890163422,
+        "lat": 43.60583409301776,
+        "address": "815 Ann Morrison Park Drive, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3322",
+        "name": "The Handlebar",
+        "region_id": "region_159",
+        "lon": -116.21268153190613,
+        "lat": 43.62019197520509,
+        "address": "1583-1699 West Main Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3330",
+        "name": "Midas Gold - Camel's Back",
+        "region_id": "region_159",
+        "lon": -116.20259642601013,
+        "lat": 43.63388263456531,
+        "address": "1200-1298 Heron Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3337",
+        "name": "Trailhead Boise",
+        "region_id": "region_159",
+        "lon": -116.20661973953247,
+        "lat": 43.61252020260818,
+        "address": "501 South 8th Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3343",
+        "name": "Water Cooler",
+        "region_id": "region_159",
+        "lon": -116.21017098426817,
+        "lat": 43.62011236429174,
+        "address": "1401 West Idaho Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3350",
+        "name": "Bleymaier Football Center",
+        "region_id": "region_159",
+        "lon": -116.19460880756378,
+        "lat": 43.60347331239095,
+        "address": "(OPAL) Opaline Schoolhouse, 1012, West Cesar Chavez Lane, Boise City, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3468",
+        "name": "St Luke's, Healthy U",
+        "region_id": "region_159",
+        "lon": -116.19773358106613,
+        "lat": 43.61353451185424,
+        "address": "325 West Idaho Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3506",
+        "name": "Boise Parks & Recreation HQ Flex Hub",
+        "region_id": "region_159",
+        "lon": -116.21399581432341,
+        "lat": 43.60995819622162,
+        "address": "1104 West Royal Boulevard, Boise, ID",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3507",
+        "name": "Kathyrn Albertson Park Flex Hub",
+        "region_id": "region_159",
+        "lon": -116.22403264045715,
+        "lat": 43.61510164009486,
+        "address": "3393-3449 West Americana Terrace, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3534",
+        "name": "Riverside Hotel ",
+        "region_id": "region_159",
+        "lon": -116.2334418296814,
+        "lat": 43.62089293503829,
+        "address": "2288 North Garden Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3538",
+        "name": "Clairvoyant Brewing Flex Hub",
+        "region_id": "region_159",
+        "lon": -116.22551321983336,
+        "lat": 43.62290560046614,
+        "address": "2800 West Idaho Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3543",
+        "name": "Esther Simplot - Play Wave",
+        "region_id": "region_159",
+        "lon": -116.23421430587767,
+        "lat": 43.62526549719376,
+        "address": "Boise River Greenbelt, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3545",
+        "name": "St. Luke's - URS Plaza",
+        "region_id": "region_159",
+        "lon": -116.19193196296692,
+        "lat": 43.606103086000104,
+        "address": "400 South Broadway Avenue, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3556",
+        "name": "Julia Davis Park - Tennis Court",
+        "region_id": "region_159",
+        "lon": -116.19957894086838,
+        "lat": 43.60713741081787,
+        "address": "Boise City, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3872",
+        "name": "Lost Grove Temporary Hub",
+        "region_id": "region_159",
+        "lon": -116.21304631233215,
+        "lat": 43.60841812389137,
+        "address": "1055-1099 South La Pointe Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3873",
+        "name": "Cloud 9 Brewing",
+        "region_id": "region_159",
+        "lon": -116.21087104082106,
+        "lat": 43.62560830342977,
+        "address": "1786 West State Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3874",
+        "name": "Liquid District",
+        "region_id": "region_159",
+        "lon": -116.2086796760559,
+        "lat": 43.61627149793873,
+        "address": "1108 West Front Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4019",
+        "name": "Theatre Lane",
+        "region_id": "region_159",
+        "lon": -116.20142698287962,
+        "lat": 43.604219684917744,
+        "address": "1559 West Cesar Chavez Lane, (DSTH) Taylor Hall, Boise City",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4020",
+        "name": "University Square",
+        "region_id": "region_159",
+        "lon": -116.2091463804245,
+        "lat": 43.603987161184165,
+        "address": "1301 Chrisway Drive, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4021",
+        "name": "Micron Engineering Building",
+        "region_id": "region_159",
+        "lon": -116.19792938232423,
+        "lat": 43.60024517610127,
+        "address": "Morrison Civil Engineering, Belmont Street, Boise City, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4022",
+        "name": "Barnes Towers",
+        "region_id": "region_159",
+        "lon": -116.20861262083054,
+        "lat": 43.607230634116995,
+        "address": "South Earle Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4023",
+        "name": "Education Building",
+        "region_id": "region_159",
+        "lon": -116.20569840073586,
+        "lat": 43.60589096267021,
+        "address": "2133 West Cesar Chavez Lane, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4024",
+        "name": "Honors College",
+        "region_id": "region_159",
+        "lon": -116.20266616344452,
+        "lat": 43.60081732322901,
+        "address": "1001 Lincoln Avenue, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4025",
+        "name": "Brady Street",
+        "region_id": "region_159",
+        "lon": -116.20710253715514,
+        "lat": 43.6055487112642,
+        "address": "(ILC) Interactive Learning Center, 2120, West University Drive, Boise City, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4026",
+        "name": "Raptor Research Center",
+        "region_id": "region_159",
+        "lon": -116.21121972799301,
+        "lat": 43.60910520133197,
+        "address": "915 South Lusk Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4027",
+        "name": "Recreation Center",
+        "region_id": "region_159",
+        "lon": -116.20058879256248,
+        "lat": 43.60087310535137,
+        "address": "1519-1599 West University Drive, Boise State University, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4028",
+        "name": "Norco Building",
+        "region_id": "region_159",
+        "lon": -116.20106220245361,
+        "lat": 43.599412135179236,
+        "address": "1121 Michigan Avenue, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4035",
+        "name": "Taco Bell Arena - Northeast",
+        "region_id": "region_159",
+        "lon": -116.19821906089783,
+        "lat": 43.604012410516546,
+        "address": "1201 West Cesar Chavez Lane, Boise State University, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4036",
+        "name": "Liberal Arts Building",
+        "region_id": "region_159",
+        "lon": -116.20390802621841,
+        "lat": 43.60349576966172,
+        "address": "Unnamed Road, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4037",
+        "name": "Business and Economics Building Northwest",
+        "region_id": "region_159",
+        "lon": -116.21028900146483,
+        "lat": 43.60613416092415,
+        "address": "1208 South Capitol Boulevard, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4038",
+        "name": "University Park Apartments",
+        "region_id": "region_159",
+        "lon": -116.21182858943939,
+        "lat": 43.60679559155458,
+        "address": "860 West Sherwood Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4041",
+        "name": "Flying M Coffee House",
+        "region_id": "region_159",
+        "lon": -116.19919538497925,
+        "lat": 43.614809505964665,
+        "address": "500 West Idaho Street, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4042",
+        "name": "Falcon Building",
+        "region_id": "region_159",
+        "lon": -116.19053453207016,
+        "lat": 43.60285675847529,
+        "address": "815 East Park Boulevard, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4043",
+        "name": "Roosevelt Market",
+        "region_id": "region_159",
+        "lon": -116.18357419967651,
+        "lat": 43.61037100326715,
+        "address": "317 North Elm Avenue, Boise",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4294",
+        "name": "5th & Main Flex Hub",
+        "region_id": "region_159",
+        "lon": -116.20029509067535,
+        "lat": 43.61384024635312,
+        "address": "Main Street, Boise City, Idaho",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      }
+    ]
+  },
+  "system_id": "boise_greenbike"
+}

@@ -1,0 +1,191 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -80.83827,
+        "lat": 35.22732,
+        "address": "300 E. 7th Street",
+        "name": "7th St. Public Market",
+        "station_id": "bcycle_charlotte_2093"
+      },
+      {
+        "lon": -80.84278,
+        "lat": 35.22681,
+        "address": "102 E. Trade St.",
+        "name": "Trade & Tryon",
+        "station_id": "bcycle_charlotte_2094"
+      },
+      {
+        "lon": -80.83564,
+        "lat": 35.21358,
+        "address": "722 Charlottetowne Ave.",
+        "name": "Metropolitan",
+        "station_id": "bcycle_charlotte_2099"
+      },
+      {
+        "lon": -80.83734,
+        "lat": 35.20373,
+        "address": "1101 Blythe Blvd.",
+        "name": "Carolinas Medical Center",
+        "station_id": "bcycle_charlotte_2100"
+      },
+      {
+        "lon": -80.84509,
+        "lat": 35.19034,
+        "address": "2399 Freedom Park Service Rd.",
+        "name": "Freedom Park",
+        "station_id": "bcycle_charlotte_2101"
+      },
+      {
+        "lon": -80.84005,
+        "lat": 35.22473,
+        "address": "411 E. Trade Street",
+        "name": "Trade at Arena",
+        "station_id": "bcycle_charlotte_2102"
+      },
+      {
+        "lon": -80.84396,
+        "lat": 35.23152,
+        "address": "410 W. 6th St.",
+        "name": "6th & Pine",
+        "station_id": "bcycle_charlotte_2103"
+      },
+      {
+        "lon": -80.83905,
+        "lat": 35.22169,
+        "address": "600 E. 4th Street",
+        "name": "Government Center",
+        "station_id": "bcycle_charlotte_2105"
+      },
+      {
+        "lon": -80.85116,
+        "lat": 35.23411,
+        "address": "898 W. Trade Street",
+        "name": "Gateway Village",
+        "station_id": "bcycle_charlotte_2106"
+      },
+      {
+        "lon": -80.84299,
+        "lat": 35.22533,
+        "address": "401 South College St.",
+        "name": "4th & College",
+        "station_id": "bcycle_charlotte_2107"
+      },
+      {
+        "lon": -80.8456,
+        "lat": 35.22314,
+        "address": "501 S. College Street",
+        "name": "Convention Center",
+        "station_id": "bcycle_charlotte_2108"
+      },
+      {
+        "lon": -80.83959,
+        "lat": 35.22956,
+        "address": "400 N. Tryon St.",
+        "name": "Tryon & 7th",
+        "station_id": "bcycle_charlotte_2110"
+      },
+      {
+        "lon": -80.83199,
+        "lat": 35.21797,
+        "address": "1140 Elizabeth Ave.",
+        "name": "Kings Dr./CPCC",
+        "station_id": "bcycle_charlotte_2112"
+      },
+      {
+        "lon": -80.85543,
+        "lat": 35.21573,
+        "address": "1509 Camden Rd.",
+        "name": "Bland St.",
+        "station_id": "bcycle_charlotte_2113"
+      },
+      {
+        "lon": -80.84805,
+        "lat": 35.22473,
+        "address": "430 S. Tryon St.",
+        "name": "Levine Ave. of the Arts",
+        "station_id": "bcycle_charlotte_2114"
+      },
+      {
+        "lon": -80.85769,
+        "lat": 35.24449,
+        "address": "282 Beatties Ford Rd.",
+        "name": "Johnson C. Smith University",
+        "station_id": "bcycle_charlotte_2115"
+      },
+      {
+        "lon": -80.83482,
+        "lat": 35.22853,
+        "address": "320 E. 9th St.",
+        "name": "UNC Charlotte Uptown",
+        "station_id": "bcycle_charlotte_2116"
+      },
+      {
+        "lon": -80.85858,
+        "lat": 35.21234,
+        "address": "100 West Blvd.",
+        "name": "East/West Blvd.",
+        "station_id": "bcycle_charlotte_2117"
+      },
+      {
+        "lon": -80.84526,
+        "lat": 35.22505,
+        "address": "301 S. Tryon Street",
+        "name": "Tryon & 3rd",
+        "station_id": "bcycle_charlotte_2118"
+      },
+      {
+        "lon": -80.82683,
+        "lat": 35.21382,
+        "address": "1532 Elizabeth Ave.",
+        "name": "Elizabeth Ave./Presbyterian Hospital",
+        "station_id": "bcycle_charlotte_2119"
+      },
+      {
+        "lon": -80.86884,
+        "lat": 35.20028,
+        "address": "129 New Bern St.",
+        "name": "New Bern",
+        "station_id": "bcycle_charlotte_2398"
+      },
+      {
+        "lon": -80.85097,
+        "lat": 35.22109,
+        "address": "941 S. Tryon St. ",
+        "name": "S. Tryon & Morehead",
+        "station_id": "bcycle_charlotte_2649"
+      },
+      {
+        "lon": -80.84809,
+        "lat": 35.2265,
+        "address": "282 W. Martin Luther King Jr. Blvd.",
+        "name": "Romare Bearden Park",
+        "station_id": "bcycle_charlotte_2650"
+      },
+      {
+        "lon": -80.85091,
+        "lat": 35.23192,
+        "address": "725 W. 4th St.",
+        "name": "4th & Cedar",
+        "station_id": "bcycle_charlotte_2651"
+      },
+      {
+        "lon": -80.83694,
+        "lat": 35.20708,
+        "address": "1400 Harding Place",
+        "name": "Berkshire Dilworth ",
+        "station_id": "bcycle_charlotte_3356"
+      },
+      {
+        "lon": -80.81633,
+        "lat": 35.22101,
+        "address": "1305 Central Avenue",
+        "name": "ONE305",
+        "station_id": "bcycle_charlotte_3617"
+      }
+    ]
+  },
+  "last_updated": 1530239567,
+  "system_id": "bcycle_charlotte"
+}

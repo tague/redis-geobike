@@ -1,0 +1,156 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -93.61675,
+        "lat": 41.58974,
+        "address": "520 Robert D Ray Dr.",
+        "name": "Brenton Skating Plaza ",
+        "station_id": "bcycle_desmoines_1786"
+      },
+      {
+        "lon": -93.63374,
+        "lat": 41.58577,
+        "address": "401 13th St.",
+        "name": "13th & Grand ",
+        "station_id": "bcycle_desmoines_1788"
+      },
+      {
+        "lon": -93.72799,
+        "lat": 41.55555,
+        "address": "2500 Grand Ave",
+        "name": "Raccoon River Park",
+        "station_id": "bcycle_desmoines_2065"
+      },
+      {
+        "lon": -93.62457,
+        "lat": 41.58388,
+        "address": "620 Cherry St.",
+        "name": "DART Central Station",
+        "station_id": "bcycle_desmoines_2316"
+      },
+      {
+        "lon": -93.61905,
+        "lat": 41.58574,
+        "address": "155 Court Ave.",
+        "name": "2nd & Court",
+        "station_id": "bcycle_desmoines_2322"
+      },
+      {
+        "lon": -93.61215,
+        "lat": 41.58939,
+        "address": "417 E. Locust St.",
+        "name": "E. 4th & Locust",
+        "station_id": "bcycle_desmoines_3166"
+      },
+      {
+        "lon": -93.6294,
+        "lat": 41.58497,
+        "address": "901 Walnut St.",
+        "name": "10th & Walnut",
+        "station_id": "bcycle_desmoines_3167"
+      },
+      {
+        "lon": -93.62425,
+        "lat": 41.58809,
+        "address": "501 Grand Ave.",
+        "name": "5th & Grand/YMCA",
+        "station_id": "bcycle_desmoines_3168"
+      },
+      {
+        "lon": -93.60152,
+        "lat": 41.59199,
+        "address": "321 E. 12th St.",
+        "name": "Iowa State Capitol",
+        "station_id": "bcycle_desmoines_3169"
+      },
+      {
+        "lon": -93.64441,
+        "lat": 41.58588,
+        "address": "2020 Ingersoll Ave.",
+        "name": "ML King & Ingersoll",
+        "station_id": "bcycle_desmoines_3170"
+      },
+      {
+        "lon": -93.62175,
+        "lat": 41.58494,
+        "address": "400 Court Ave.",
+        "name": "Hy-Vee - 4th & Court Ave. ",
+        "station_id": "bcycle_desmoines_3622"
+      },
+      {
+        "lon": -93.62563,
+        "lat": 41.57795,
+        "address": "SW 9th & Murphy",
+        "name": "Cityville SW 9th & Murphy",
+        "station_id": "bcycle_desmoines_3665"
+      },
+      {
+        "lon": -93.6586,
+        "lat": 41.60212,
+        "address": "1315 31st St",
+        "name": "30th St. & Carpenter Ave. ",
+        "station_id": "bcycle_desmoines_3712"
+      },
+      {
+        "lon": -93.65014,
+        "lat": 41.6005,
+        "address": "2401 University Ave",
+        "name": "University Ave. & 24th St. ",
+        "station_id": "bcycle_desmoines_3713"
+      },
+      {
+        "lon": -93.65339,
+        "lat": 41.60417,
+        "address": "2601 Forest Ave",
+        "name": "Forest Ave. & 27th St. ",
+        "station_id": "bcycle_desmoines_3714"
+      },
+      {
+        "lon": -93.66187,
+        "lat": 41.60407,
+        "address": "3221 Forest Ave",
+        "name": "33rd St. & Forest Ave. ",
+        "station_id": "bcycle_desmoines_3715"
+      },
+      {
+        "lon": -93.63943,
+        "lat": 41.58425,
+        "address": "1722 Grand Ave",
+        "name": "1722 Grand Ave. - Meredith Corporation ",
+        "station_id": "bcycle_desmoines_3716"
+      },
+      {
+        "lon": -93.64857,
+        "lat": 41.58585,
+        "address": "2301 Ingersoll Ave",
+        "name": "Ingersoll & 23rd St. ",
+        "station_id": "bcycle_desmoines_3717"
+      },
+      {
+        "lon": -93.61973,
+        "lat": 41.58302,
+        "address": "198 SW 3rd St",
+        "name": "3rd St. & Market St. ",
+        "station_id": "bcycle_desmoines_3718"
+      },
+      {
+        "lon": -93.64266,
+        "lat": 41.59344,
+        "address": "1910 Cottage Grove Ave",
+        "name": "19th St. & Cottage Grove ",
+        "station_id": "bcycle_desmoines_3719"
+      },
+      {
+        "lon": -93.61681,
+        "lat": 41.57617,
+        "address": "101 Jackson Ave",
+        "name": "Jackson & Indianola",
+        "station_id": "bcycle_desmoines_3724"
+      }
+    ]
+  },
+  "last_updated": 1530239579,
+  "system_id": "bcycle_desmoines"
+}

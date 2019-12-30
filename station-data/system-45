@@ -1,0 +1,156 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -115.15682,
+        "lat": 36.14383,
+        "address": "100 E Sahara Ave",
+        "name": "Sahara & Las Vegas",
+        "station_id": "bcycle_rtcbikeshare_3546"
+      },
+      {
+        "lon": -115.15378,
+        "lat": 36.15343,
+        "address": "1501 South Main Street",
+        "name": "Main & Utah",
+        "station_id": "bcycle_rtcbikeshare_3547"
+      },
+      {
+        "lon": -115.15401,
+        "lat": 36.15754,
+        "address": "818 S Main St ",
+        "name": "California & Main",
+        "station_id": "bcycle_rtcbikeshare_3548"
+      },
+      {
+        "lon": -115.15312,
+        "lat": 36.15973,
+        "address": "150 S Main Street",
+        "name": "Arts District",
+        "station_id": "bcycle_rtcbikeshare_3550"
+      },
+      {
+        "lon": -115.14881,
+        "lat": 36.16105,
+        "address": "300 Hoover Ave",
+        "name": "3rd & Hoover ",
+        "station_id": "bcycle_rtcbikeshare_3551"
+      },
+      {
+        "lon": -115.14483,
+        "lat": 36.16202,
+        "address": "521 Garces",
+        "name": "PAWN STARS    Garces & Las Vegas ",
+        "station_id": "bcycle_rtcbikeshare_3552"
+      },
+      {
+        "lon": -115.15549,
+        "lat": 36.16636,
+        "address": "509 S. Grand Central Parkway",
+        "name": "Premium Outlets",
+        "station_id": "bcycle_rtcbikeshare_3553"
+      },
+      {
+        "lon": -115.14885,
+        "lat": 36.16501,
+        "address": "101 Bonneville",
+        "name": "Bonneville Transit Center",
+        "station_id": "bcycle_rtcbikeshare_3554"
+      },
+      {
+        "lon": -115.14679,
+        "lat": 36.16418,
+        "address": "115 E Bonneville",
+        "name": "3rd & Bonneville",
+        "station_id": "bcycle_rtcbikeshare_3555"
+      },
+      {
+        "lon": -115.13488,
+        "lat": 36.16684,
+        "address": "10th & Fremont 10th Street Garage",
+        "name": "10th & Fremont",
+        "station_id": "bcycle_rtcbikeshare_3558"
+      },
+      {
+        "lon": -115.14817,
+        "lat": 36.16688,
+        "address": "428 S. 1st",
+        "name": "City Hall",
+        "station_id": "bcycle_rtcbikeshare_3559"
+      },
+      {
+        "lon": -115.14379,
+        "lat": 36.16685,
+        "address": "300 S. 4th",
+        "name": "BANK OF AMERICA    4th & Bridger ",
+        "station_id": "bcycle_rtcbikeshare_3560"
+      },
+      {
+        "lon": -115.13853,
+        "lat": 36.16557,
+        "address": "201 S 8th",
+        "name": "CITY CENTER APTS 8th & Bridger ",
+        "station_id": "bcycle_rtcbikeshare_3561"
+      },
+      {
+        "lon": -115.14051,
+        "lat": 36.16746,
+        "address": "200 S. Carson",
+        "name": "6th & Carson ",
+        "station_id": "bcycle_rtcbikeshare_3562"
+      },
+      {
+        "lon": -115.13303,
+        "lat": 36.1655,
+        "address": "100 S Maryland ",
+        "name": "PublicUs   Maryland & Fremont ",
+        "station_id": "bcycle_rtcbikeshare_3563"
+      },
+      {
+        "lon": -115.13941,
+        "lat": 36.17178,
+        "address": "400 Stewart Ave",
+        "name": "Zappos",
+        "station_id": "bcycle_rtcbikeshare_3565"
+      },
+      {
+        "lon": -115.14146,
+        "lat": 36.17236,
+        "address": "206 N Stewart",
+        "name": "GRAND HOTEL         Stewart & 3rd",
+        "station_id": "bcycle_rtcbikeshare_3566"
+      },
+      {
+        "lon": -115.13838,
+        "lat": 36.15939,
+        "address": "605 South 11th",
+        "name": "11th & Garces",
+        "station_id": "bcycle_rtcbikeshare_3835"
+      },
+      {
+        "lon": -115.14541,
+        "lat": 36.16654,
+        "address": "200 Lewis Ave",
+        "name": "Regional Justice Center",
+        "station_id": "bcycle_rtcbikeshare_3921"
+      },
+      {
+        "lon": -115.15546,
+        "lat": 36.14631,
+        "address": "2205 South Las Vegas Blvd",
+        "name": "Stratosphere",
+        "station_id": "bcycle_rtcbikeshare_3922"
+      },
+      {
+        "lon": -115.13868,
+        "lat": 36.16832,
+        "address": "698 Fremont",
+        "name": "7th & Fremont",
+        "station_id": "bcycle_rtcbikeshare_3923"
+      }
+    ]
+  },
+  "last_updated": 1530239597,
+  "system_id": "bcycle_rtcbikeshare"
+}

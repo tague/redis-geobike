@@ -1,0 +1,408 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -84.51164,
+        "lat": 39.10139,
+        "address": "82 E. 5th St. ",
+        "name": "Fountain Square",
+        "station_id": "bcycle_cincyredbike_2786"
+      },
+      {
+        "lon": -84.51894,
+        "lat": 39.10435,
+        "address": "801 Plum St",
+        "name": "City Hall",
+        "station_id": "bcycle_cincyredbike_2787"
+      },
+      {
+        "lon": -84.51187,
+        "lat": 39.10385,
+        "address": "653 Walnut St. ",
+        "name": "Aronoff Center",
+        "station_id": "bcycle_cincyredbike_2788"
+      },
+      {
+        "lon": -84.50932,
+        "lat": 39.09849,
+        "address": "122 E. 2nd St.",
+        "name": "Ball Park",
+        "station_id": "bcycle_cincyredbike_2789"
+      },
+      {
+        "lon": -84.51056,
+        "lat": 39.09722,
+        "address": "97 E. Freedom Way",
+        "name": "Freedom Center",
+        "station_id": "bcycle_cincyredbike_2790"
+      },
+      {
+        "lon": -84.49994,
+        "lat": 39.10113,
+        "address": "704 Ohio River Scenic Byway ",
+        "name": "Sawyer Point",
+        "station_id": "bcycle_cincyredbike_2791"
+      },
+      {
+        "lon": -84.51641,
+        "lat": 39.10077,
+        "address": "221 US HWY 27",
+        "name": "Convention Center",
+        "station_id": "bcycle_cincyredbike_2792"
+      },
+      {
+        "lon": -84.50849,
+        "lat": 39.1085,
+        "address": "362 Reading Rd. ",
+        "name": "Casino",
+        "station_id": "bcycle_cincyredbike_2793"
+      },
+      {
+        "lon": -84.51721,
+        "lat": 39.09789,
+        "address": "102 W. 3rd St.",
+        "name": "3rd & Plum",
+        "station_id": "bcycle_cincyredbike_2794"
+      },
+      {
+        "lon": -84.51373,
+        "lat": 39.10457,
+        "address": "804 Vine St",
+        "name": "Public Library",
+        "station_id": "bcycle_cincyredbike_2795"
+      },
+      {
+        "lon": -84.51411,
+        "lat": 39.1063,
+        "address": "1 E. Court St",
+        "name": "Vine & Court",
+        "station_id": "bcycle_cincyredbike_2796"
+      },
+      {
+        "lon": -84.5064,
+        "lat": 39.10248,
+        "address": "550 Broadway St.",
+        "name": "P & G",
+        "station_id": "bcycle_cincyredbike_2798"
+      },
+      {
+        "lon": -84.50746,
+        "lat": 39.1052,
+        "address": "356 E. 8th St.",
+        "name": "8th & Broadway",
+        "station_id": "bcycle_cincyredbike_2799"
+      },
+      {
+        "lon": -84.51144,
+        "lat": 39.10777,
+        "address": "192 E. Central Parkway",
+        "name": "Main & Central Parkway",
+        "station_id": "bcycle_cincyredbike_2800"
+      },
+      {
+        "lon": -84.51472,
+        "lat": 39.1086,
+        "address": "1208 Vine St.",
+        "name": "12th & Vine",
+        "station_id": "bcycle_cincyredbike_2801"
+      },
+      {
+        "lon": -84.51219,
+        "lat": 39.11194,
+        "address": "1425 Main St.",
+        "name": "Main & Orchard",
+        "station_id": "bcycle_cincyredbike_2802"
+      },
+      {
+        "lon": -84.51548,
+        "lat": 39.11153,
+        "address": "1412 Vine St.",
+        "name": "15th & Vine",
+        "station_id": "bcycle_cincyredbike_2803"
+      },
+      {
+        "lon": -84.51833,
+        "lat": 39.10998,
+        "address": "1384 Elm St.",
+        "name": "Washington Park",
+        "station_id": "bcycle_cincyredbike_2804"
+      },
+      {
+        "lon": -84.519,
+        "lat": 39.11455,
+        "address": "1723 Pleasant St",
+        "name": "Findlay Market",
+        "station_id": "bcycle_cincyredbike_2805"
+      },
+      {
+        "lon": -84.51388,
+        "lat": 39.12824,
+        "address": "123 Calhoun St.",
+        "name": "Calhoun & Dennis",
+        "station_id": "bcycle_cincyredbike_2806"
+      },
+      {
+        "lon": -84.51861,
+        "lat": 39.12778,
+        "address": "166 W McMillan St",
+        "name": "McMillan & W Clifton",
+        "station_id": "bcycle_cincyredbike_2807"
+      },
+      {
+        "lon": -84.50948,
+        "lat": 39.12924,
+        "address": "2600 Vine St. ",
+        "name": "Short Vine & Corry",
+        "station_id": "bcycle_cincyredbike_2808"
+      },
+      {
+        "lon": -84.50944,
+        "lat": 39.13177,
+        "address": "4 W. Daniels St. ",
+        "name": "Short Vine & Daniels",
+        "station_id": "bcycle_cincyredbike_2809"
+      },
+      {
+        "lon": -84.52042,
+        "lat": 39.13134,
+        "address": "2664 Clifton Ave",
+        "name": "Clifton at Stratford Heights",
+        "station_id": "bcycle_cincyredbike_2810"
+      },
+      {
+        "lon": -84.5111,
+        "lat": 39.13348,
+        "address": "2902 Jefferson Ave",
+        "name": "Jefferson & University",
+        "station_id": "bcycle_cincyredbike_2812"
+      },
+      {
+        "lon": -84.50997,
+        "lat": 39.14222,
+        "address": "3400 Vine St.",
+        "name": "Zoo",
+        "station_id": "bcycle_cincyredbike_2813"
+      },
+      {
+        "lon": -84.52042,
+        "lat": 39.14274,
+        "address": "321 Howell Ave",
+        "name": "Howell & Clifton",
+        "station_id": "bcycle_cincyredbike_2814"
+      },
+      {
+        "lon": -84.5075,
+        "lat": 39.13726,
+        "address": "126 Goodman Dr.",
+        "name": "Kingsgate",
+        "station_id": "bcycle_cincyredbike_2817"
+      },
+      {
+        "lon": -84.50585,
+        "lat": 39.13534,
+        "address": "153 E. MLK Drive",
+        "name": "MLK & Eden",
+        "station_id": "bcycle_cincyredbike_2820"
+      },
+      {
+        "lon": -84.51295,
+        "lat": 39.09996,
+        "address": "2 W 4th Street",
+        "name": "4th & Vine",
+        "station_id": "bcycle_cincyredbike_3040"
+      },
+      {
+        "lon": -84.50821,
+        "lat": 39.11247,
+        "address": "1609 Cumber St.",
+        "name": "Prospect Hill",
+        "station_id": "bcycle_cincyredbike_3041"
+      },
+      {
+        "lon": -84.52477,
+        "lat": 39.10918,
+        "address": "600 Ezzard Charles Dr.",
+        "name": "Ezzard Charles",
+        "station_id": "bcycle_cincyredbike_3042"
+      },
+      {
+        "lon": -84.50856,
+        "lat": 39.10994,
+        "address": "1249 Broadway St.",
+        "name": "Pendleton",
+        "station_id": "bcycle_cincyredbike_3043"
+      },
+      {
+        "lon": -84.50105,
+        "lat": 39.13655,
+        "address": "399 Goodman St",
+        "name": "UC Health",
+        "station_id": "bcycle_cincyredbike_3236"
+      },
+      {
+        "lon": -84.49332,
+        "lat": 39.1149,
+        "address": "2109 Eden Park Dr",
+        "name": "Eden Park",
+        "station_id": "bcycle_cincyredbike_3237"
+      },
+      {
+        "lon": -84.53973,
+        "lat": 39.16019,
+        "address": "1600 Blue Rock",
+        "name": "Hoffner Park",
+        "station_id": "bcycle_cincyredbike_3238"
+      },
+      {
+        "lon": -84.53414,
+        "lat": 39.15075,
+        "address": "897 Ludlow Ave",
+        "name": "Cincy State",
+        "station_id": "bcycle_cincyredbike_3239"
+      },
+      {
+        "lon": -84.51537,
+        "lat": 39.1423,
+        "address": "3402 Brookline Ave,",
+        "name": "Clifton Library & Burnet Woods",
+        "station_id": "bcycle_cincyredbike_3240"
+      },
+      {
+        "lon": -84.52666,
+        "lat": 39.11904,
+        "address": "453 Bank Street,",
+        "name": "CityLink Center",
+        "station_id": "bcycle_cincyredbike_3241"
+      },
+      {
+        "lon": -84.51151,
+        "lat": 39.08306,
+        "address": "31 W 7th St",
+        "name": "Duveneck Square",
+        "station_id": "bcycle_cincyredbike_3242"
+      },
+      {
+        "lon": -84.50893,
+        "lat": 39.08505,
+        "address": "535 Scott Blvd",
+        "name": "Gateway College & Library ",
+        "station_id": "bcycle_cincyredbike_3243"
+      },
+      {
+        "lon": -84.50796,
+        "lat": 39.08866,
+        "address": "306 Greenup St",
+        "name": "Roebling Point",
+        "station_id": "bcycle_cincyredbike_3244"
+      },
+      {
+        "lon": -84.51161,
+        "lat": 39.08969,
+        "address": "2 E Rivercenter Blvd",
+        "name": "Rivercenter & NKY Convention Center",
+        "station_id": "bcycle_cincyredbike_3245"
+      },
+      {
+        "lon": -84.51759,
+        "lat": 39.08441,
+        "address": "529 Main St",
+        "name": "MainStrasse",
+        "station_id": "bcycle_cincyredbike_3246"
+      },
+      {
+        "lon": -84.51871,
+        "lat": 39.08752,
+        "address": "W 3rd St",
+        "name": "West 3rd & Bakewell",
+        "station_id": "bcycle_cincyredbike_3247"
+      },
+      {
+        "lon": -84.49515,
+        "lat": 39.09484,
+        "address": "129 East 3rd St",
+        "name": "Newport on the Levee East",
+        "station_id": "bcycle_cincyredbike_3248"
+      },
+      {
+        "lon": -84.49637,
+        "lat": 39.09417,
+        "address": "55 East 3rd St",
+        "name": "Newport on the Levee West",
+        "station_id": "bcycle_cincyredbike_3249"
+      },
+      {
+        "lon": -84.49187,
+        "lat": 39.09008,
+        "address": "707 Monmouth St",
+        "name": "Monmouth",
+        "station_id": "bcycle_cincyredbike_3250"
+      },
+      {
+        "lon": -84.49064,
+        "lat": 39.09325,
+        "address": "317 East 6th St",
+        "name": "East Row Historic District",
+        "station_id": "bcycle_cincyredbike_3251"
+      },
+      {
+        "lon": -84.48891,
+        "lat": 39.10216,
+        "address": "401 Riverboat Row",
+        "name": "Port Bellevue",
+        "station_id": "bcycle_cincyredbike_3252"
+      },
+      {
+        "lon": -84.51102,
+        "lat": 39.09571,
+        "address": "5 W Mehring Way",
+        "name": "Smale Riverfront Park",
+        "station_id": "bcycle_cincyredbike_3495"
+      },
+      {
+        "lon": -84.4931,
+        "lat": 39.10599,
+        "address": "1117 Riverside Drive",
+        "name": "Theodore M. Berry International Friendship Park",
+        "station_id": "bcycle_cincyredbike_3496"
+      },
+      {
+        "lon": -84.51796,
+        "lat": 39.10679,
+        "address": "215 W Central Parkway,",
+        "name": "YMCA",
+        "station_id": "bcycle_cincyredbike_3498"
+      },
+      {
+        "lon": -84.52447,
+        "lat": 39.0956,
+        "address": "700 W Pete Rose Way",
+        "name": "Longworth Hall",
+        "station_id": "bcycle_cincyredbike_3499"
+      },
+      {
+        "lon": -84.48128,
+        "lat": 39.10783,
+        "address": "200 Ward Avenue",
+        "name": "Fairfield & Ward",
+        "station_id": "bcycle_cincyredbike_3501"
+      },
+      {
+        "lon": -84.51271,
+        "lat": 39.09783,
+        "address": "25 W 2nd Street",
+        "name": "2nd & Rosa Parks",
+        "station_id": "bcycle_cincyredbike_3502"
+      },
+      {
+        "lon": -84.5204,
+        "lat": 39.11733,
+        "address": "1952 Elm Street",
+        "name": "Elm & Henry",
+        "station_id": "bcycle_cincyredbike_3503"
+      }
+    ]
+  },
+  "last_updated": 1530239568,
+  "system_id": "bcycle_cincyredbike"
+}

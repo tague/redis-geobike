@@ -1,0 +1,324 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -105.26385,
+        "lat": 40.00811,
+        "address": "SE corner of Folsom & Colorado",
+        "name": "Folsom & Colorado",
+        "station_id": "bcycle_boulder_1855"
+      },
+      {
+        "lon": -105.27584,
+        "lat": 40.01872,
+        "address": "15th Street & Pearl Street",
+        "name": "15th & Pearl",
+        "station_id": "bcycle_boulder_1858"
+      },
+      {
+        "lon": -105.28116,
+        "lat": 40.01747,
+        "address": "11th Street & Pearl Street ",
+        "name": "11th & Pearl",
+        "station_id": "bcycle_boulder_1859"
+      },
+      {
+        "lon": -105.2789,
+        "lat": 40.01909,
+        "address": "13th Street & Spruce Street",
+        "name": "13th & Spruce",
+        "station_id": "bcycle_boulder_1860"
+      },
+      {
+        "lon": -105.24611,
+        "lat": 40.03154,
+        "address": "3080 Center Green Drive",
+        "name": "UCAR Center Green",
+        "station_id": "bcycle_boulder_1861"
+      },
+      {
+        "lon": -105.28087,
+        "lat": 40.01377,
+        "address": "1015 Arapahoe",
+        "name": "Library @ Arapahoe",
+        "station_id": "bcycle_boulder_1866"
+      },
+      {
+        "lon": -105.25984,
+        "lat": 40.0216,
+        "address": "2600 Pearl Street",
+        "name": "26th @ Pearl",
+        "station_id": "bcycle_boulder_1867"
+      },
+      {
+        "lon": -105.27959,
+        "lat": 40.01508,
+        "address": "1777 Broadway",
+        "name": "Municipal Building",
+        "station_id": "bcycle_boulder_1869"
+      },
+      {
+        "lon": -105.24226,
+        "lat": 40.03643,
+        "address": "3375 Mitchell Lane",
+        "name": "UCAR Mitchell Lane",
+        "station_id": "bcycle_boulder_1870"
+      },
+      {
+        "lon": -105.28144,
+        "lat": 40.02543,
+        "address": "1290 Alpine Avenue",
+        "name": "Broadway & Alpine",
+        "station_id": "bcycle_boulder_1871"
+      },
+      {
+        "lon": -105.27006,
+        "lat": 40.01177,
+        "address": "Boulder Creek Path",
+        "name": "19th @ Boulder Creek",
+        "station_id": "bcycle_boulder_1872"
+      },
+      {
+        "lon": -105.25807,
+        "lat": 40.0161,
+        "address": "1600 28th Street",
+        "name": "Twenty Ninth Street South",
+        "station_id": "bcycle_boulder_1873"
+      },
+      {
+        "lon": -105.26061,
+        "lat": 40.01491,
+        "address": "The Village",
+        "name": "The Village",
+        "station_id": "bcycle_boulder_1943"
+      },
+      {
+        "lon": -105.28729,
+        "lat": 40.01506,
+        "address": "601 Canyon Blvd.",
+        "name": "6th & Canyon",
+        "station_id": "bcycle_boulder_2021"
+      },
+      {
+        "lon": -105.27646,
+        "lat": 40.01663,
+        "address": "1400 Walnut St.",
+        "name": "14th & Canyon",
+        "station_id": "bcycle_boulder_2022"
+      },
+      {
+        "lon": -105.25351,
+        "lat": 40.03751,
+        "address": "30th Street",
+        "name": "30th & Diagonal Highway",
+        "station_id": "bcycle_boulder_2132"
+      },
+      {
+        "lon": -105.28038,
+        "lat": 40.03206,
+        "address": "3170 Broadway",
+        "name": "North Boulder Recreation Center",
+        "station_id": "bcycle_boulder_2141"
+      },
+      {
+        "lon": -105.2724,
+        "lat": 40.00638,
+        "address": "950 Regent Drive",
+        "name": "Broadway & Euclid",
+        "station_id": "bcycle_boulder_2144"
+      },
+      {
+        "lon": -105.27669,
+        "lat": 40.01062,
+        "address": "1402 Broadway",
+        "name": "Broadway & University",
+        "station_id": "bcycle_boulder_2145"
+      },
+      {
+        "lon": -105.28128,
+        "lat": 40.03652,
+        "address": "1271 Iris St.",
+        "name": "Broadway & Iris",
+        "station_id": "bcycle_boulder_2161"
+      },
+      {
+        "lon": -105.28396,
+        "lat": 40.01688,
+        "address": "9th Street",
+        "name": "9th & Pearl",
+        "station_id": "bcycle_boulder_2182"
+      },
+      {
+        "lon": -105.25596,
+        "lat": 40.01881,
+        "address": "1737 29th St.",
+        "name": "Twenty Ninth Street North",
+        "station_id": "bcycle_boulder_2198"
+      },
+      {
+        "lon": -105.2625,
+        "lat": 40.0001,
+        "address": "2616 Baseline Road",
+        "name": "Broadway & Baseline",
+        "station_id": "bcycle_boulder_2756"
+      },
+      {
+        "lon": -105.25647,
+        "lat": 40.02288,
+        "address": "2835 Pearl St. ",
+        "name": "29th & Pearl",
+        "station_id": "bcycle_boulder_2757"
+      },
+      {
+        "lon": -105.26732,
+        "lat": 40.01453,
+        "address": "2130 Arapahoe Ave. ",
+        "name": "21st & Arapahoe",
+        "station_id": "bcycle_boulder_2759"
+      },
+      {
+        "lon": -105.27668,
+        "lat": 40.00739,
+        "address": "1275 E. College Ave.",
+        "name": "13th & College",
+        "station_id": "bcycle_boulder_2760"
+      },
+      {
+        "lon": -105.24697,
+        "lat": 40.01508,
+        "address": "1613 38th St.",
+        "name": "38th & Arapahoe",
+        "station_id": "bcycle_boulder_2761"
+      },
+      {
+        "lon": -105.25393,
+        "lat": 40.03387,
+        "address": "3285 30th St.",
+        "name": "30th & Glenwood",
+        "station_id": "bcycle_boulder_2762"
+      },
+      {
+        "lon": -105.26952,
+        "lat": 40.01988,
+        "address": "1986 20th St.",
+        "name": "20th & Pearl",
+        "station_id": "bcycle_boulder_2763"
+      },
+      {
+        "lon": -105.26364,
+        "lat": 40.02144,
+        "address": "2479 Pearl St.",
+        "name": "Folsom & Pearl",
+        "station_id": "bcycle_boulder_2764"
+      },
+      {
+        "lon": -105.25894,
+        "lat": 40.01067,
+        "address": "2789 Taft Dr.",
+        "name": "28th & Boulder Creek",
+        "station_id": "bcycle_boulder_2765"
+      },
+      {
+        "lon": -105.27778,
+        "lat": 40.0146,
+        "address": "Boulder Creek Path",
+        "name": "13th & Arapahoe",
+        "station_id": "bcycle_boulder_2766"
+      },
+      {
+        "lon": -105.23269,
+        "lat": 39.98657,
+        "address": "5170 Table Mesa Drive",
+        "name": "Table Mesa Park-n-Ride",
+        "station_id": "bcycle_boulder_2767"
+      },
+      {
+        "lon": -105.23558,
+        "lat": 40.0149,
+        "address": "4791 Arapahoe Ave.",
+        "name": "48th & Arapahoe",
+        "station_id": "bcycle_boulder_2768"
+      },
+      {
+        "lon": -105.25175,
+        "lat": 40.02308,
+        "address": "1973 31st St.",
+        "name": "31st & Pearl",
+        "station_id": "bcycle_boulder_2769"
+      },
+      {
+        "lon": -105.29497,
+        "lat": 40.01436,
+        "address": "220 Pearl St.",
+        "name": "Settlers' Park",
+        "station_id": "bcycle_boulder_2770"
+      },
+      {
+        "lon": -105.25264,
+        "lat": 39.99915,
+        "address": "630 30th St.",
+        "name": "Williams Village",
+        "station_id": "bcycle_boulder_2771"
+      },
+      {
+        "lon": -105.24793,
+        "lat": 40.00767,
+        "address": "35th & Colorado Streets",
+        "name": "35th & Colorado",
+        "station_id": "bcycle_boulder_2875"
+      },
+      {
+        "lon": -105.20226,
+        "lat": 40.07488,
+        "address": "5510 Spine Rd.",
+        "name": "Gunbarrel North",
+        "station_id": "bcycle_boulder_3318"
+      },
+      {
+        "lon": -105.25856,
+        "lat": 40.0262,
+        "address": "28th & Mapleton",
+        "name": "28th & Mapleton",
+        "station_id": "bcycle_boulder_3379"
+      },
+      {
+        "lon": -105.25354,
+        "lat": 40.01356,
+        "address": "1570 30th St.",
+        "name": "30th & Marine",
+        "station_id": "bcycle_boulder_3589"
+      },
+      {
+        "lon": -105.25143,
+        "lat": 40.02455,
+        "address": "1",
+        "name": "Boulder Junction",
+        "station_id": "bcycle_boulder_3675"
+      },
+      {
+        "lon": -105.2539,
+        "lat": 40.02185,
+        "address": "2930 Pearl Street",
+        "name": "Pearl Place",
+        "station_id": "bcycle_boulder_3676"
+      },
+      {
+        "lon": -105.24874,
+        "lat": 40.02145,
+        "address": "3333 Walnut Street",
+        "name": "33rd & Walnut",
+        "station_id": "bcycle_boulder_3876"
+      },
+      {
+        "lon": -105.26385,
+        "lat": 40.00421,
+        "address": "Regent Drive",
+        "name": "Center for Community @ Regent Drive",
+        "station_id": "bcycle_boulder_3894"
+      }
+    ]
+  },
+  "last_updated": 1530239561,
+  "system_id": "bcycle_boulder"
+}

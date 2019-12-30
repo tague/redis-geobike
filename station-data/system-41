@@ -1,0 +1,212 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -86.16216,
+        "lat": 39.76593,
+        "address": "50 S. Capitol Ave.",
+        "name": "Convention Center - Maryland and Capitol",
+        "station_id": "bcycle_pacersbikeshare_2605"
+      },
+      {
+        "lon": -86.16689,
+        "lat": 39.76595,
+        "address": "99 S. West St.",
+        "name": "Victory Field",
+        "station_id": "bcycle_pacersbikeshare_2607"
+      },
+      {
+        "lon": -86.17022,
+        "lat": 39.76845,
+        "address": "650 S. Washington St.",
+        "name": "White River State Park",
+        "station_id": "bcycle_pacersbikeshare_2608"
+      },
+      {
+        "lon": -86.16627,
+        "lat": 39.78131,
+        "address": "1325 Canal Walk",
+        "name": "North End of Canal",
+        "station_id": "bcycle_pacersbikeshare_2609"
+      },
+      {
+        "lon": -86.16981,
+        "lat": 39.77474,
+        "address": "525 N. Blackford St.",
+        "name": "Michigan and Blackford",
+        "station_id": "bcycle_pacersbikeshare_2610"
+      },
+      {
+        "lon": -86.17543,
+        "lat": 39.77338,
+        "address": "401 University Blvd.",
+        "name": "IUPUI Campus Center",
+        "station_id": "bcycle_pacersbikeshare_2611"
+      },
+      {
+        "lon": -86.16351,
+        "lat": 39.77415,
+        "address": "300 N. Michigan St.",
+        "name": "Michigan and Senate",
+        "station_id": "bcycle_pacersbikeshare_2612"
+      },
+      {
+        "lon": -86.15457,
+        "lat": 39.76707,
+        "address": "200 E. Washington St.",
+        "name": "City County Building",
+        "station_id": "bcycle_pacersbikeshare_2613"
+      },
+      {
+        "lon": -86.13997,
+        "lat": 39.75239,
+        "address": "1066 Virginia Ave.",
+        "name": "Fountain Square",
+        "station_id": "bcycle_pacersbikeshare_2614"
+      },
+      {
+        "lon": -86.14546,
+        "lat": 39.75737,
+        "address": "749 Virginia Ave.",
+        "name": "Fletcher Place - Virginia and Norwood",
+        "station_id": "bcycle_pacersbikeshare_2615"
+      },
+      {
+        "lon": -86.14661,
+        "lat": 39.75852,
+        "address": "531 Virginia Ave.",
+        "name": "Fletcher Place - Virginia and Merrill",
+        "station_id": "bcycle_pacersbikeshare_2616"
+      },
+      {
+        "lon": -86.16016,
+        "lat": 39.76701,
+        "address": "101 W. Washington St. ",
+        "name": "Washington and Illinois",
+        "station_id": "bcycle_pacersbikeshare_2617"
+      },
+      {
+        "lon": -86.15833,
+        "lat": 39.76718,
+        "address": "2 W. Washington St.",
+        "name": "Washington and Meridian",
+        "station_id": "bcycle_pacersbikeshare_2618"
+      },
+      {
+        "lon": -86.15284,
+        "lat": 39.76866,
+        "address": "108 N. Alabama St.",
+        "name": "City Market",
+        "station_id": "bcycle_pacersbikeshare_2619"
+      },
+      {
+        "lon": -86.1526,
+        "lat": 39.77224,
+        "address": "372 N. Alabama St.",
+        "name": "Mass Ave. and Alabama",
+        "station_id": "bcycle_pacersbikeshare_2620"
+      },
+      {
+        "lon": -86.14212,
+        "lat": 39.77964,
+        "address": "949 Massachusetts Ave.",
+        "name": "North End of Mass Ave.",
+        "station_id": "bcycle_pacersbikeshare_2621"
+      },
+      {
+        "lon": -86.15043,
+        "lat": 39.77383,
+        "address": "401 E. Michigan St.",
+        "name": "Athenaeum",
+        "station_id": "bcycle_pacersbikeshare_2622"
+      },
+      {
+        "lon": -86.16161,
+        "lat": 39.76423,
+        "address": "151 W. Georgia St.",
+        "name": "Convention Center at Georgia Street",
+        "station_id": "bcycle_pacersbikeshare_2623"
+      },
+      {
+        "lon": -86.15637,
+        "lat": 39.76534,
+        "address": "169 S. Pennsylvania St.",
+        "name": "Bankers Life Fieldhouse",
+        "station_id": "bcycle_pacersbikeshare_2624"
+      },
+      {
+        "lon": -86.15631,
+        "lat": 39.77803,
+        "address": "40 E. St. Clair St.",
+        "name": "Central Library",
+        "station_id": "bcycle_pacersbikeshare_2625"
+      },
+      {
+        "lon": -86.1473,
+        "lat": 39.77645,
+        "address": "680 Massachusetts Ave.",
+        "name": "Mass Ave. and Park",
+        "station_id": "bcycle_pacersbikeshare_2626"
+      },
+      {
+        "lon": -86.15736,
+        "lat": 39.76885,
+        "address": "121 Monument Circle",
+        "name": "Monument Circle",
+        "station_id": "bcycle_pacersbikeshare_2627"
+      },
+      {
+        "lon": -86.16473,
+        "lat": 39.76735,
+        "address": "364 W. Washington St. ",
+        "name": "Indiana Government Center",
+        "station_id": "bcycle_pacersbikeshare_2628"
+      },
+      {
+        "lon": -86.1522,
+        "lat": 39.7756,
+        "address": "605 N. Alabama St.",
+        "name": "North and Alabama",
+        "station_id": "bcycle_pacersbikeshare_2629"
+      },
+      {
+        "lon": -86.1613,
+        "lat": 39.77673,
+        "address": "625 N. Capitol Ave. ",
+        "name": "Glick Peace Walk",
+        "station_id": "bcycle_pacersbikeshare_2630"
+      },
+      {
+        "lon": -86.16133,
+        "lat": 39.77356,
+        "address": "433 N. Capitol Ave.",
+        "name": "Gibson Building",
+        "station_id": "bcycle_pacersbikeshare_2873"
+      },
+      {
+        "lon": -86.16048,
+        "lat": 39.77009,
+        "address": "202 N. Illinois St.",
+        "name": "One America Building",
+        "station_id": "bcycle_pacersbikeshare_3366"
+      },
+      {
+        "lon": -86.14545,
+        "lat": 39.77759,
+        "address": "798 Massachusetts Ave.",
+        "name": "Mass Ave. and College",
+        "station_id": "bcycle_pacersbikeshare_3573"
+      },
+      {
+        "lon": -86.18302,
+        "lat": 39.77639,
+        "address": "720 Eskenazi Ave.",
+        "name": "Eskenazi Health",
+        "station_id": "bcycle_pacersbikeshare_3574"
+      }
+    ]
+  },
+  "last_updated": 1530239592,
+  "system_id": "bcycle_pacersbikeshare"
+}

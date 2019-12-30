@@ -1,0 +1,281 @@
+{
+  "last_updated": 1530239601,
+  "ttl": 180,
+  "data": {
+    "stations": [
+      {
+        "station_id": "hub_516",
+        "name": "BR 7",
+        "region_id": "region_107",
+        "lon": -121.96133270859717,
+        "lat": 37.771557513543236,
+        "address": "USPS, San Ramon Valley Iron Horse Trail, San Ramon, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_662",
+        "name": "San Ramon Permit Center / Police Station ",
+        "region_id": "region_122",
+        "lon": -121.992872431289,
+        "lat": 37.7714624826912,
+        "address": "2401 Crow Canyon Road, San Ramon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1458",
+        "name": "San Ramon City Hall",
+        "region_id": "region_107",
+        "lon": -121.95507645606993,
+        "lat": 37.76444079795254,
+        "address": "Iron Horse Regional Trail, San Ramon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1461",
+        "name": "BR 2600 Visitor Lot",
+        "region_id": "region_107",
+        "lon": -121.96319282054901,
+        "lat": 37.766851630534205,
+        "address": "2600 Camino Ramon, San Ramon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1732",
+        "name": "BR 3 North",
+        "region_id": "region_107",
+        "lon": -121.95952892303467,
+        "lat": 37.76856481823885,
+        "address": "2613 Camino Ramon, San Ramon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1733",
+        "name": "BR 3 South",
+        "region_id": "region_107",
+        "lon": -121.95842921733856,
+        "lat": 37.76695339964549,
+        "address": "2623 Camino Ramon, San Ramon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1985",
+        "name": "BR 12 North",
+        "region_id": "region_107",
+        "lon": -121.9721420109272,
+        "lat": 37.773450277034094,
+        "address": "Annabel Lane, Bishop Ranch Business Park, San Ramon, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2005",
+        "name": "BR 15 North",
+        "region_id": "region_107",
+        "lon": -121.96133136749268,
+        "lat": 37.77477693179412,
+        "address": "USPS, San Ramon Valley Iron Horse Trail, San Ramon, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2006",
+        "name": "BR 15 South",
+        "region_id": "region_107",
+        "lon": -121.95986688137053,
+        "lat": 37.77319109165642,
+        "address": "12657 Alcosta Boulevard, San Ramon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2007",
+        "name": "BR 9",
+        "region_id": "region_107",
+        "lon": -121.96375474333762,
+        "lat": 37.77424584757111,
+        "address": "Camino Ramon, Bishop Ranch Business Park, San Ramon, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2008",
+        "name": "BR 11",
+        "region_id": "region_107",
+        "lon": -121.96482360363005,
+        "lat": 37.776129533267145,
+        "address": "2303 Camino Ramon, San Ramon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2009",
+        "name": "BR 6",
+        "region_id": "region_107",
+        "lon": -121.96497917175292,
+        "lat": 37.77163700493346,
+        "address": "2400-2440 Camino Ramon, San Ramon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2010",
+        "name": "BR 8",
+        "region_id": "region_107",
+        "lon": -121.96746289730072,
+        "lat": 37.76863691244044,
+        "address": "Executive Parkway, Bishop Ranch Business Park, San Ramon, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2011",
+        "name": "Transit Hub",
+        "region_id": "region_107",
+        "lon": -121.96021154522894,
+        "lat": 37.7701984677794,
+        "address": "San Ramon Valley Iron Horse Trail, San Ramon, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2102",
+        "name": "3001 Bishop Drive",
+        "region_id": "region_107",
+        "lon": -121.96177661418915,
+        "lat": 37.76487653487407,
+        "address": "2684 Bishop Drive, San Ramon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2103",
+        "name": "San Ramon Marriot",
+        "region_id": "region_107",
+        "lon": -121.96503549814224,
+        "lat": 37.76314841454804,
+        "address": "2600 Bishop Drive, San Ramon",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2108",
+        "name": "BR1",
+        "region_id": "region_107",
+        "lon": -121.95513278245926,
+        "lat": 37.75971006952753,
+        "address": "San Ramon, California",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      }
+    ]
+  },
+  "system_id": "bishop_ranch"
+}

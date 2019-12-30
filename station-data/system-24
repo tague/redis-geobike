@@ -1,0 +1,16 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -82.13133,
+        "lat": 33.54338,
+        "address": "Evans Towne Center",
+        "name": "Evans Towne Center Park",
+        "station_id": "bcycle_columbiacounty_2555"
+      }
+    ]
+  },
+  "last_updated": 1530239575,
+  "system_id": "bcycle_columbiacounty"
+}

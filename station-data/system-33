@@ -1,0 +1,86 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -96.80095,
+        "lat": 46.89248,
+        "address": "1401 Administrative Ave",
+        "name": "Memorial Union",
+        "station_id": "bcycle_greatrides_2878"
+      },
+      {
+        "lon": -96.7978,
+        "lat": 46.90244,
+        "address": "1811 University Drive N",
+        "name": "University Village",
+        "station_id": "bcycle_greatrides_2977"
+      },
+      {
+        "lon": -96.80257,
+        "lat": 46.89695,
+        "address": "1470 Albrecht Blvd",
+        "name": "High Rise Complex",
+        "station_id": "bcycle_greatrides_2978"
+      },
+      {
+        "lon": -96.80781,
+        "lat": 46.89569,
+        "address": "1707 Centennial Blvd",
+        "name": "Wallman Wellness Center",
+        "station_id": "bcycle_greatrides_2979"
+      },
+      {
+        "lon": -96.78766,
+        "lat": 46.88471,
+        "address": "811 Broadway",
+        "name": "Sanford Medical Center",
+        "station_id": "bcycle_greatrides_2982"
+      },
+      {
+        "lon": -96.7874,
+        "lat": 46.8811,
+        "address": "425 Broadway N",
+        "name": "Great Northern Bicycle Co.",
+        "station_id": "bcycle_greatrides_2983"
+      },
+      {
+        "lon": -96.78745,
+        "lat": 46.8783,
+        "address": "243 Broadway",
+        "name": "US Bank Plaza",
+        "station_id": "bcycle_greatrides_2984"
+      },
+      {
+        "lon": -96.79275,
+        "lat": 46.87917,
+        "address": "811 2nd Ave N",
+        "name": "Barry Hall",
+        "station_id": "bcycle_greatrides_2986"
+      },
+      {
+        "lon": -96.78996,
+        "lat": 46.87581,
+        "address": "650 NP Ave N",
+        "name": "Renaissance Hall",
+        "station_id": "bcycle_greatrides_2988"
+      },
+      {
+        "lon": -96.78567,
+        "lat": 46.8758,
+        "address": "NP Ave & 5th St N",
+        "name": "MATBUS Center Downtown",
+        "station_id": "bcycle_greatrides_2989"
+      },
+      {
+        "lon": -96.78644,
+        "lat": 46.8731,
+        "address": "400 1st Ave S",
+        "name": "Fercho YMCA",
+        "station_id": "bcycle_greatrides_2991"
+      }
+    ]
+  },
+  "last_updated": 1530239584,
+  "system_id": "bcycle_greatrides"
+}

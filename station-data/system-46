@@ -1,0 +1,198 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -84.21119,
+        "lat": 39.75626,
+        "address": "1024 West Third St",
+        "name": "Wright Dunbar",
+        "station_id": "bcycle_linkdayton_3011"
+      },
+      {
+        "lon": -84.19666,
+        "lat": 39.76601,
+        "address": "Riverview and Floral Ave.",
+        "name": "McPherson Town",
+        "station_id": "bcycle_linkdayton_3012"
+      },
+      {
+        "lon": -84.20257,
+        "lat": 39.76591,
+        "address": "456 Belmonte Park N",
+        "name": "Grafton Hill @ Dayton Art Institute",
+        "station_id": "bcycle_linkdayton_3013"
+      },
+      {
+        "lon": -84.1928,
+        "lat": 39.76256,
+        "address": "N Main St. and W First St. ",
+        "name": "N Main St. ",
+        "station_id": "bcycle_linkdayton_3014"
+      },
+      {
+        "lon": -84.19223,
+        "lat": 39.76045,
+        "address": "N Main St.",
+        "name": "Courthouse Square",
+        "station_id": "bcycle_linkdayton_3015"
+      },
+      {
+        "lon": -84.19188,
+        "lat": 39.75925,
+        "address": "Market St",
+        "name": "Wright Stop Plaza ",
+        "station_id": "bcycle_linkdayton_3016"
+      },
+      {
+        "lon": -84.18669,
+        "lat": 39.7606,
+        "address": "Third St. and Patterson St. ",
+        "name": "Patterson Canal",
+        "station_id": "bcycle_linkdayton_3017"
+      },
+      {
+        "lon": -84.18161,
+        "lat": 39.7626,
+        "address": "Webster St. and Second St. ",
+        "name": "2nd Street Market",
+        "station_id": "bcycle_linkdayton_3018"
+      },
+      {
+        "lon": -84.18811,
+        "lat": 39.76498,
+        "address": "Patterson and E Monument Ave. ",
+        "name": "RiverScape",
+        "station_id": "bcycle_linkdayton_3019"
+      },
+      {
+        "lon": -84.19846,
+        "lat": 39.75859,
+        "address": "361 W Third Street ",
+        "name": "West Third",
+        "station_id": "bcycle_linkdayton_3020"
+      },
+      {
+        "lon": -84.19967,
+        "lat": 39.75654,
+        "address": "444 W Fourth St.",
+        "name": "West Fourth @ Sinclair Building 3",
+        "station_id": "bcycle_linkdayton_3021"
+      },
+      {
+        "lon": -84.18594,
+        "lat": 39.75735,
+        "address": "E Fifth St. ",
+        "name": "Oregon District W ",
+        "station_id": "bcycle_linkdayton_3022"
+      },
+      {
+        "lon": -84.18233,
+        "lat": 39.75703,
+        "address": "E Fifth St. and Wayne Ave.",
+        "name": "Oregon District E",
+        "station_id": "bcycle_linkdayton_3023"
+      },
+      {
+        "lon": -84.17478,
+        "lat": 39.7583,
+        "address": "E Fifth and High St",
+        "name": "St. Anne\u2019s Hill ",
+        "station_id": "bcycle_linkdayton_3024"
+      },
+      {
+        "lon": -84.17578,
+        "lat": 39.74991,
+        "address": "Theobald Ct. and Clover St. ",
+        "name": "Historic South Park",
+        "station_id": "bcycle_linkdayton_3025"
+      },
+      {
+        "lon": -84.19431,
+        "lat": 39.74959,
+        "address": "600 Longworth Street",
+        "name": "600 Longworth @ Greater Dayton RTA",
+        "station_id": "bcycle_linkdayton_3026"
+      },
+      {
+        "lon": -84.18219,
+        "lat": 39.74173,
+        "address": "Brown St. and Stewart St. ",
+        "name": "University Place ",
+        "station_id": "bcycle_linkdayton_3027"
+      },
+      {
+        "lon": -84.17434,
+        "lat": 39.73624,
+        "address": "Evanston Ave. and Kiefaber St. ",
+        "name": "RecPlex",
+        "station_id": "bcycle_linkdayton_3028"
+      },
+      {
+        "lon": -84.18123,
+        "lat": 39.73699,
+        "address": "Brown St. and Caldwell St. ",
+        "name": "Stonemill",
+        "station_id": "bcycle_linkdayton_3029"
+      },
+      {
+        "lon": -84.18045,
+        "lat": 39.73389,
+        "address": "Brown St. and Irving St.",
+        "name": "Brown St.",
+        "station_id": "bcycle_linkdayton_3030"
+      },
+      {
+        "lon": -84.17515,
+        "lat": 39.73862,
+        "address": "alumni lane",
+        "name": "Central Campus",
+        "station_id": "bcycle_linkdayton_3031"
+      },
+      {
+        "lon": -84.1785,
+        "lat": 39.74029,
+        "address": "Zehler Ave. ",
+        "name": "Roesch Library",
+        "station_id": "bcycle_linkdayton_3032"
+      },
+      {
+        "lon": -84.19091,
+        "lat": 39.75709,
+        "address": "Main St. and Fifth St.",
+        "name": "Convention Center ",
+        "station_id": "bcycle_linkdayton_3033"
+      },
+      {
+        "lon": -84.19604,
+        "lat": 39.76333,
+        "address": "W Monument Ave. and Wilkinson St.",
+        "name": "W Monument ",
+        "station_id": "bcycle_linkdayton_3034"
+      },
+      {
+        "lon": -84.18087,
+        "lat": 39.76575,
+        "address": "Monument Ave and Taylor St. (NE corner)",
+        "name": "Tech Town",
+        "station_id": "bcycle_linkdayton_3504"
+      },
+      {
+        "lon": -84.1831,
+        "lat": 39.74651,
+        "address": "Warren St & Oak St.",
+        "name": "Miami Valley Hospital",
+        "station_id": "bcycle_linkdayton_3505"
+      },
+      {
+        "lon": -84.19539,
+        "lat": 39.7432,
+        "address": "1111 S Edwin C Moses Blvd",
+        "name": "Job Center",
+        "station_id": "bcycle_linkdayton_3506"
+      }
+    ]
+  },
+  "last_updated": 1530239597,
+  "system_id": "bcycle_linkdayton"
+}

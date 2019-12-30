@@ -1,0 +1,170 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -80.14819,
+        "lat": 26.12026,
+        "address": "490 SW 2nd St.",
+        "name": "Esplanade Park",
+        "station_id": "bcycle_broward_1955"
+      },
+      {
+        "lon": -80.10672,
+        "lat": 26.11892,
+        "address": "10 Las Olas Circle",
+        "name": "Seabreeze & Las Olas",
+        "station_id": "bcycle_broward_1964"
+      },
+      {
+        "lon": -80.1041,
+        "lat": 26.12431,
+        "address": "3089 Sebastian St.",
+        "name": "Sebastian Lot",
+        "station_id": "bcycle_broward_1966"
+      },
+      {
+        "lon": -80.10109,
+        "lat": 26.15495,
+        "address": "2086 N. Ocean Blvd.",
+        "name": "Willingham Park",
+        "station_id": "bcycle_broward_1967"
+      },
+      {
+        "lon": -80.10032,
+        "lat": 26.16739,
+        "address": "3098 N. Ocean Blvd.",
+        "name": "Earl Lifshey",
+        "station_id": "bcycle_broward_1969"
+      },
+      {
+        "lon": -80.12981,
+        "lat": 26.13707,
+        "address": "1384 E. Sunrise Blvd.",
+        "name": "Holiday Park at Sunrise",
+        "station_id": "bcycle_broward_1970"
+      },
+      {
+        "lon": -80.1157,
+        "lat": 26.13813,
+        "address": "2331 E. Sunrise Blvd.",
+        "name": "George English Park",
+        "station_id": "bcycle_broward_1971"
+      },
+      {
+        "lon": -80.10515,
+        "lat": 26.11657,
+        "address": "3056 SE 5th St.",
+        "name": "DC Alexander Park",
+        "station_id": "bcycle_broward_1972"
+      },
+      {
+        "lon": -80.14008,
+        "lat": 26.11501,
+        "address": "303 SE 6th St.",
+        "name": "Courthouse (540 Bldg)",
+        "station_id": "bcycle_broward_1977"
+      },
+      {
+        "lon": -80.10325,
+        "lat": 26.13778,
+        "address": "957 N. Ft. Lauderdale Beach Blvd.",
+        "name": "Sunrise & Ocean",
+        "station_id": "bcycle_broward_1978"
+      },
+      {
+        "lon": -80.12385,
+        "lat": 26.10032,
+        "address": "1738 SE 17th St",
+        "name": "Convention Center @ 17th St. ",
+        "station_id": "bcycle_broward_1979"
+      },
+      {
+        "lon": -80.116,
+        "lat": 26.00656,
+        "address": "208 Jefferson St.",
+        "name": "Broadwalk at Jefferson St.",
+        "station_id": "bcycle_broward_1986"
+      },
+      {
+        "lon": -80.11239,
+        "lat": 26.05412,
+        "address": "65 N Beach Road",
+        "name": "Dania Beach Pier",
+        "station_id": "bcycle_broward_1994"
+      },
+      {
+        "lon": -80.09666,
+        "lat": 26.19081,
+        "address": "4383 Florida A1A",
+        "name": "Lauderdale by the Sea",
+        "station_id": "bcycle_broward_1995"
+      },
+      {
+        "lon": -80.11836,
+        "lat": 25.98615,
+        "address": "2801 E. Hallandale Beach Blvd. ",
+        "name": "Hallandale Beach Water Tower",
+        "station_id": "bcycle_broward_1997"
+      },
+      {
+        "lon": -80.11455,
+        "lat": 26.03444,
+        "address": "3669 N. Ocean Dr.",
+        "name": "Hollywood North Beach",
+        "station_id": "bcycle_broward_1998"
+      },
+      {
+        "lon": -80.08965,
+        "lat": 26.23237,
+        "address": "East Atlantic Blvd & Briny Ave",
+        "name": "Atlantic & Briny",
+        "station_id": "bcycle_broward_2534"
+      },
+      {
+        "lon": -80.10472,
+        "lat": 26.11847,
+        "address": "Las Olas and A1A",
+        "name": "Las Olas & A1A",
+        "station_id": "bcycle_broward_2635"
+      },
+      {
+        "lon": -80.10363,
+        "lat": 26.12875,
+        "address": "Bayshore and A1A",
+        "name": "The Residences @ W Ft Lauderdale",
+        "station_id": "bcycle_broward_2645"
+      },
+      {
+        "lon": -80.10482,
+        "lat": 26.11414,
+        "address": "South Beach Lot",
+        "name": "South Beach Lot",
+        "station_id": "bcycle_broward_2646"
+      },
+      {
+        "lon": -80.11248,
+        "lat": 26.13776,
+        "address": "2532 East Sunrise Blvd.",
+        "name": "Galleria",
+        "station_id": "bcycle_broward_2950"
+      },
+      {
+        "lon": -80.13271,
+        "lat": 26.11937,
+        "address": "297 SE 10th Terrace",
+        "name": "Las Olas & SE 10th Terr",
+        "station_id": "bcycle_broward_2951"
+      },
+      {
+        "lon": -80.10608,
+        "lat": 26.10985,
+        "address": "1100 Seabreeze Blvd",
+        "name": "South Beach Lot #2",
+        "station_id": "bcycle_broward_2952"
+      }
+    ]
+  },
+  "last_updated": 1530239564,
+  "system_id": "bcycle_broward"
+}

@@ -1,0 +1,303 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -94.5857,
+        "lat": 39.0999,
+        "address": "1202 Wyandotte St.",
+        "name": "12th & Wyandotte",
+        "station_id": "bcycle_kc_2073"
+      },
+      {
+        "lon": -94.58979,
+        "lat": 39.10252,
+        "address": "498 W. 10th St.",
+        "name": "10th & Washington",
+        "station_id": "bcycle_kc_2074"
+      },
+      {
+        "lon": -94.5887,
+        "lat": 39.10481,
+        "address": "801 Broadway ",
+        "name": "8th & Broadway",
+        "station_id": "bcycle_kc_2075"
+      },
+      {
+        "lon": -94.58074,
+        "lat": 39.11054,
+        "address": "222 E. 3rd St.",
+        "name": "3rd & Grand",
+        "station_id": "bcycle_kc_2076"
+      },
+      {
+        "lon": -94.58082,
+        "lat": 39.0987,
+        "address": "1233 Grand Blvd.",
+        "name": "13th & Grand",
+        "station_id": "bcycle_kc_2077"
+      },
+      {
+        "lon": -94.5834,
+        "lat": 39.10202,
+        "address": "1016 Main St.",
+        "name": "10th & Main",
+        "station_id": "bcycle_kc_2078"
+      },
+      {
+        "lon": -94.58421,
+        "lat": 39.08527,
+        "address": "2136 Main Street",
+        "name": "Union Station",
+        "station_id": "bcycle_kc_2079"
+      },
+      {
+        "lon": -94.58201,
+        "lat": 39.08312,
+        "address": "2446 Grand Blvd.",
+        "name": "Crown Center",
+        "station_id": "bcycle_kc_2080"
+      },
+      {
+        "lon": -94.57765,
+        "lat": 39.09859,
+        "address": "416 E. 13th",
+        "name": "13th & Locust",
+        "station_id": "bcycle_kc_2081"
+      },
+      {
+        "lon": -94.58682,
+        "lat": 39.09108,
+        "address": "208 W. 19th St.",
+        "name": "19th & Wyandotte",
+        "station_id": "bcycle_kc_2082"
+      },
+      {
+        "lon": -94.57911,
+        "lat": 39.09155,
+        "address": "1800 Oak St.",
+        "name": "18th & Oak",
+        "station_id": "bcycle_kc_2083"
+      },
+      {
+        "lon": -94.58132,
+        "lat": 39.08929,
+        "address": "1975 Grand Blvd.",
+        "name": "20th & Grand",
+        "station_id": "bcycle_kc_2084"
+      },
+      {
+        "lon": -94.57984,
+        "lat": 39.04014,
+        "address": "800 E. 48th St.",
+        "name": "Kauffman Foundation",
+        "station_id": "bcycle_kc_2654"
+      },
+      {
+        "lon": -94.5945,
+        "lat": 39.05439,
+        "address": "4001 Mill St.",
+        "name": "Westport Sunfresh",
+        "station_id": "bcycle_kc_2860"
+      },
+      {
+        "lon": -94.59122,
+        "lat": 39.05412,
+        "address": "400 40th Terrace",
+        "name": "40th & Broadway",
+        "station_id": "bcycle_kc_2861"
+      },
+      {
+        "lon": -94.57839,
+        "lat": 39.09964,
+        "address": "415 E. 12th St",
+        "name": "12th and Oak",
+        "station_id": "bcycle_kc_2862"
+      },
+      {
+        "lon": -94.58643,
+        "lat": 39.05514,
+        "address": "1 Westport Rd.",
+        "name": "Westport & Main",
+        "station_id": "bcycle_kc_2863"
+      },
+      {
+        "lon": -94.58178,
+        "lat": 39.04611,
+        "address": "4525 Oak St.",
+        "name": "The Nelson-Atkins Museum of Art",
+        "station_id": "bcycle_kc_2864"
+      },
+      {
+        "lon": -94.59759,
+        "lat": 39.03997,
+        "address": "4870 Roanoke Pkwy.",
+        "name": "Plaza Vista",
+        "station_id": "bcycle_kc_2865"
+      },
+      {
+        "lon": -94.58792,
+        "lat": 39.04191,
+        "address": "4701 Baltimore St.",
+        "name": "47th & JC Nichols Pkwy.",
+        "station_id": "bcycle_kc_2867"
+      },
+      {
+        "lon": -94.59189,
+        "lat": 39.04039,
+        "address": "400 Ward Parkway",
+        "name": "Ward Parkway & Broadway",
+        "station_id": "bcycle_kc_2868"
+      },
+      {
+        "lon": -94.59028,
+        "lat": 39.015,
+        "address": "194 W. 62nd Terrace",
+        "name": "Brookside Shops",
+        "station_id": "bcycle_kc_3275"
+      },
+      {
+        "lon": -94.59351,
+        "lat": 38.99975,
+        "address": "397 W. Gregory Blvd.",
+        "name": "Gregory and Wornall",
+        "station_id": "bcycle_kc_3276"
+      },
+      {
+        "lon": -94.56222,
+        "lat": 39.09101,
+        "address": "1812 Highland Ave.",
+        "name": "Jazz District",
+        "station_id": "bcycle_kc_3277"
+      },
+      {
+        "lon": -94.58002,
+        "lat": 39.07095,
+        "address": "3099 Oak St.",
+        "name": "Martini Corner",
+        "station_id": "bcycle_kc_3278"
+      },
+      {
+        "lon": -94.58508,
+        "lat": 39.07234,
+        "address": "3013 Main St.",
+        "name": "Buttonwood at Union Hill",
+        "station_id": "bcycle_kc_3279"
+      },
+      {
+        "lon": -94.59401,
+        "lat": 38.99424,
+        "address": "397 W. 74th St.",
+        "name": "Waldo",
+        "station_id": "bcycle_kc_3280"
+      },
+      {
+        "lon": -94.59543,
+        "lat": 39.08158,
+        "address": "2534 Madison Avenue ",
+        "name": "Boulevard Brewing Co.",
+        "station_id": "bcycle_kc_3400"
+      },
+      {
+        "lon": -94.58445,
+        "lat": 39.04722,
+        "address": "4410 Warwick Blvd.",
+        "name": "Kansas City Art Institute",
+        "station_id": "bcycle_kc_3524"
+      },
+      {
+        "lon": -94.58383,
+        "lat": 39.04199,
+        "address": "209 Emmanuel Cleaver II Blvd.",
+        "name": "Plaza 209",
+        "station_id": "bcycle_kc_3525"
+      },
+      {
+        "lon": -94.5772,
+        "lat": 39.14041,
+        "address": "1801 Swift St.",
+        "name": "18th & Swift",
+        "station_id": "bcycle_kc_3672"
+      },
+      {
+        "lon": -94.57731,
+        "lat": 39.14975,
+        "address": "2898 Swift St. ",
+        "name": "29th & Swift",
+        "station_id": "bcycle_kc_3673"
+      },
+      {
+        "lon": -94.57132,
+        "lat": 39.14289,
+        "address": "1999 Iron St.",
+        "name": "Armour and Iron",
+        "station_id": "bcycle_kc_3674"
+      },
+      {
+        "lon": -94.60063,
+        "lat": 39.05719,
+        "address": "1204 W 39th Street",
+        "name": "39th & Roanoke",
+        "station_id": "bcycle_kc_3702"
+      },
+      {
+        "lon": -94.60719,
+        "lat": 39.0569,
+        "address": "3919 State Line Road ",
+        "name": "39th & State Line",
+        "station_id": "bcycle_kc_3703"
+      },
+      {
+        "lon": -94.58444,
+        "lat": 39.10871,
+        "address": "408 Delaware Street",
+        "name": "4th & Delaware ",
+        "station_id": "bcycle_kc_3704"
+      },
+      {
+        "lon": -94.58549,
+        "lat": 39.06387,
+        "address": "2 E Armour Blvd.",
+        "name": "Armour & Main",
+        "station_id": "bcycle_kc_3705"
+      },
+      {
+        "lon": -94.58406,
+        "lat": 39.03468,
+        "address": "301 E 51st Street",
+        "name": "Brookside51",
+        "station_id": "bcycle_kc_3706"
+      },
+      {
+        "lon": -94.57807,
+        "lat": 39.03564,
+        "address": "5030 Holmes",
+        "name": "51st & Holmes (UMKC)",
+        "station_id": "bcycle_kc_3707"
+      },
+      {
+        "lon": -94.47483,
+        "lat": 38.91474,
+        "address": "9898 Longview Road",
+        "name": "Longview Lake ",
+        "station_id": "bcycle_kc_3708"
+      },
+      {
+        "lon": -94.58544,
+        "lat": 39.10809,
+        "address": "498 Wyandotte Street",
+        "name": "4th & Wyandotte ",
+        "station_id": "bcycle_kc_3709"
+      },
+      {
+        "lon": -94.5778,
+        "lat": 39.06628,
+        "address": "3269 Gillham Rd",
+        "name": "Office",
+        "station_id": "bcycle_kc_3781"
+      }
+    ]
+  },
+  "last_updated": 1530239596,
+  "system_id": "bcycle_kc"
+}

@@ -1,0 +1,709 @@
+{
+  "last_updated": 1530239541,
+  "ttl": 10,
+  "data": {
+    "stations": [
+      {
+        "station_id": "3",
+        "name": "Yas Marina",
+        "short_name": "Yas Marina",
+        "lat": 24.465793,
+        "lon": 54.60961,
+        "region_id": 6,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "4",
+        "name": "Yas Beach Station",
+        "short_name": "Yas Beach Station",
+        "lat": 24.461865,
+        "lon": 54.59336909999999,
+        "region_id": 6,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "5",
+        "name": "Yas Waterworld",
+        "short_name": "Yas Waterworld",
+        "lat": 24.489678,
+        "lon": 54.60011209999999,
+        "region_id": 6,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "6",
+        "name": "Yas Links",
+        "short_name": "Yas Links",
+        "lat": 24.478217,
+        "lon": 54.6002551,
+        "region_id": 6,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "7",
+        "name": "Al Zeina",
+        "short_name": "Al Zeina",
+        "lat": 24.456953,
+        "lon": 54.615754100000004,
+        "region_id": 5,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 13,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "8",
+        "name": "Ferrari World",
+        "short_name": "Ferrari World",
+        "lat": 24.485254,
+        "lon": 54.60806099999999,
+        "region_id": 6,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "9",
+        "name": "Yas Plaza",
+        "short_name": "Yas Plaza",
+        "lat": 24.465954,
+        "lon": 54.598305100000005,
+        "region_id": 6,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 27,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "10",
+        "name": "Al Bandar",
+        "short_name": "Al Bandar",
+        "lat": 24.449757,
+        "lon": 54.60056610000001,
+        "region_id": 5,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 14,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "11",
+        "name": "Al Muneera South",
+        "short_name": "Al Muneera South",
+        "lat": 24.450142,
+        "lon": 54.6052761,
+        "region_id": 5,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "12",
+        "name": "Al Muneera North",
+        "short_name": "Al Muneera North",
+        "lat": 24.452079,
+        "lon": 54.60465099999999,
+        "region_id": 5,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "13",
+        "name": "Yas Viceroy",
+        "short_name": "Yas Viceroy",
+        "lat": 24.467541523262938,
+        "lon": 54.60465708378251,
+        "region_id": 6,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "16",
+        "name": "Masdar City",
+        "short_name": "Masdar City",
+        "lat": 24.441122,
+        "lon": 54.619692999999984,
+        "region_id": 8,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 9,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "17",
+        "name": "Golf Gardens",
+        "short_name": "Golf Gardens",
+        "lat": 24.42067,
+        "lon": 54.53155799999999,
+        "region_id": 5,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "18",
+        "name": "Gardens Plaza",
+        "short_name": "Gardens Plaza",
+        "lat": 24.432552,
+        "lon": 54.566438000000005,
+        "region_id": 5,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "19",
+        "name": "Louvre Boulevard",
+        "short_name": "Louvre Boulevard",
+        "lat": 24.530481,
+        "lon": 54.403925000000015,
+        "region_id": 9,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "20",
+        "name": "ARG Gate 13",
+        "short_name": "ARG Gate 13",
+        "lat": 24.440487,
+        "lon": 54.598675000000014,
+        "region_id": 5,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "21",
+        "name": "ARG Gate 18",
+        "short_name": "ARG Gate 18",
+        "lat": 24.43432,
+        "lon": 54.579065000000014,
+        "region_id": 5,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "22",
+        "name": "Irena HQ",
+        "short_name": "Irena HQ",
+        "lat": 24.426488,
+        "lon": 54.61844400000001,
+        "region_id": 8,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 9,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "23",
+        "name": "Tower 1-3",
+        "short_name": "Tower 1-3",
+        "lat": 24.49232,
+        "lon": 54.39324500000001,
+        "region_id": 3,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "24",
+        "name": "City of Lights",
+        "short_name": "City of Lights",
+        "lat": 24.499195,
+        "lon": 54.403549999999996,
+        "region_id": 3,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "25",
+        "name": "Gate Tower",
+        "short_name": "Gate Tower",
+        "lat": 24.493276,
+        "lon": 54.40830700000001,
+        "region_id": 3,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "26",
+        "name": "Paragon Bay Mall",
+        "short_name": "Paragon Bay Mall",
+        "lat": 24.490807,
+        "lon": 54.394041000000016,
+        "region_id": 3,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "27",
+        "name": "Arc Tower",
+        "short_name": "Arc Tower",
+        "lat": 24.495467,
+        "lon": 54.409504,
+        "region_id": 3,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "28",
+        "name": "Sky Tower",
+        "short_name": "Sky Tower",
+        "lat": 24.496565,
+        "lon": 54.408766000000014,
+        "region_id": 3,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "29",
+        "name": "ADIA HQ 2",
+        "short_name": "ADIA HQ 2",
+        "lat": 24.486457,
+        "lon": 54.352081999999996,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "30",
+        "name": "ADIA HQ",
+        "short_name": "ADIA HQ",
+        "lat": 24.486103,
+        "lon": 54.350087,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "31",
+        "name": "Al Amanah Khalidiya",
+        "short_name": "Al Amanah Khalidiya",
+        "lat": 24.471668,
+        "lon": 54.346034,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "32",
+        "name": "Rayhaan Rotana",
+        "short_name": "Rayhaan Rotana",
+        "lat": 24.456118,
+        "lon": 54.318692,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "33",
+        "name": "WTC",
+        "short_name": "WTC",
+        "lat": 24.48652,
+        "lon": 54.35793799999999,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "34",
+        "name": "Al Aryam Tower",
+        "short_name": "Al Aryam Tower",
+        "lat": 24.507333,
+        "lon": 54.376300000000015,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "35",
+        "name": "Saadiyat Beach",
+        "short_name": "Saadiyat Beach",
+        "lat": 24.54696,
+        "lon": 54.435824,
+        "region_id": 9,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "36",
+        "name": "Marasy",
+        "short_name": "Marasy",
+        "lat": 24.451202,
+        "lon": 54.334509999999995,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "37",
+        "name": "Nation Towers",
+        "short_name": "Nation Towers",
+        "lat": 24.465272,
+        "lon": 54.328835,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "38",
+        "name": "Nation Riviera",
+        "short_name": "Nation Riviera",
+        "lat": 24.46568,
+        "lon": 54.32818900000001,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "39",
+        "name": "Capital Plaza",
+        "short_name": "Capital Plaza",
+        "lat": 24.498709,
+        "lon": 54.368071999999984,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "40",
+        "name": "Louvre",
+        "short_name": "Louvre",
+        "lat": 24.532724,
+        "lon": 54.40223499999999,
+        "region_id": 9,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "41",
+        "name": "Saadiyat Beach Golf Club",
+        "short_name": "Saadiyat Beach Golf Club",
+        "lat": 24.543122,
+        "lon": 54.43949700000002,
+        "region_id": 9,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "42",
+        "name": "Saadiyat Beach Residences",
+        "short_name": "Saadiyat Beach Residences",
+        "lat": 24.552982,
+        "lon": 54.450552000000016,
+        "region_id": 9,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "43",
+        "name": "InterContinental Hotel",
+        "short_name": "InterContinental Hotel",
+        "lat": 24.457339,
+        "lon": 54.32734099999999,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "44",
+        "name": "Saadiyat Beach Club",
+        "short_name": "Saadiyat Beach Club",
+        "lat": 24.557154,
+        "lon": 54.450361999999984,
+        "region_id": 9,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "45",
+        "name": "NYU West",
+        "short_name": "NYU West",
+        "lat": 24.525562,
+        "lon": 54.432075999999995,
+        "region_id": 9,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "46",
+        "name": "Siemens Building",
+        "short_name": "Siemens Building",
+        "lat": 24.434351,
+        "lon": 54.61689899999999,
+        "region_id": 8,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "47",
+        "name": "Rosewood Hotel",
+        "short_name": "Rosewood Hotel",
+        "lat": 24.499484,
+        "lon": 54.387652,
+        "region_id": 3,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "48",
+        "name": "NYU East",
+        "short_name": "NYU East",
+        "lat": 24.52174,
+        "lon": 54.43561600000001,
+        "region_id": 9,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "50",
+        "name": "SBV 14",
+        "short_name": "SBV 14",
+        "lat": 24.549218,
+        "lon": 54.45022800000001,
+        "region_id": 9,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "51",
+        "name": "St. Regis",
+        "short_name": "St. Regis",
+        "lat": 24.537567,
+        "lon": 54.42835099999999,
+        "region_id": 9,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 11,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "53",
+        "name": "Corniche Plaza",
+        "short_name": "Corniche Plaza",
+        "lat": 24.4736005,
+        "lon": 54.3411577,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 35,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "54",
+        "name": "Corniche East",
+        "short_name": "Corniche East",
+        "lat": 24.495613,
+        "lon": 54.358322999999984,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 19,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "55",
+        "name": "Hamdan - Salam",
+        "short_name": "Hamdan - Salam",
+        "lat": 24.496235913154564,
+        "lon": 54.37363654375076,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "56",
+        "name": "Al Yousuf Center",
+        "short_name": "Al Yousuf Center",
+        "lat": 24.49209,
+        "lon": 54.366101000000015,
+        "region_id": 7,
+        "rental_methods": [
+          "KEY",
+          "CREDITCARD"
+        ],
+        "capacity": 15,
+        "eightd_has_key_dispenser": true
+      }
+    ]
+  },
+  "system_id": "ABU"
+}

@@ -1,0 +1,65 @@
+{
+  "ttl": 60,
+  "data": {
+    "stations": [
+      {
+        "lon": -97.50906,
+        "lat": 35.46452,
+        "address": "208 Johnny Bench Drive",
+        "name": "Bricktown Ballpark",
+        "station_id": "bcycle_spokies_3514"
+      },
+      {
+        "lon": -97.5091,
+        "lat": 35.4698,
+        "address": "123 NE 2nd Street",
+        "name": "Deep Deuce",
+        "station_id": "bcycle_spokies_3515"
+      },
+      {
+        "lon": -97.51394,
+        "lat": 35.477,
+        "address": "90 NW 9th Street",
+        "name": "Automobile Alley",
+        "station_id": "bcycle_spokies_3516"
+      },
+      {
+        "lon": -97.52124,
+        "lat": 35.47919,
+        "address": "1115 N. Walker Avenue",
+        "name": "Midtown Circle",
+        "station_id": "bcycle_spokies_3517"
+      },
+      {
+        "lon": -97.51938,
+        "lat": 35.47602,
+        "address": "815 N Hudson Avenue",
+        "name": "Elemental",
+        "station_id": "bcycle_spokies_3518"
+      },
+      {
+        "lon": -97.51763,
+        "lat": 35.47206,
+        "address": "225 NW 4th Street",
+        "name": "OKC Memorial ",
+        "station_id": "bcycle_spokies_3519"
+      },
+      {
+        "lon": -97.51971,
+        "lat": 35.46907,
+        "address": "300 Park Avenue",
+        "name": "Downtown Library ",
+        "station_id": "bcycle_spokies_3520"
+      },
+      {
+        "lon": -97.51598,
+        "lat": 35.46445,
+        "address": "99 W Reno Avenue",
+        "name": "COX Convention Center",
+        "station_id": "bcycle_spokies_3521"
+      }
+    ]
+  },
+  "last_updated": 1530239604,
+  "system_id": "bcycle_spokies"
+}

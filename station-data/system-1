@@ -1,0 +1,970 @@
+{
+  "last_updated": 1530239591,
+  "ttl": 180,
+  "data": {
+    "stations": [
+      {
+        "station_id": "hub_1064",
+        "name": "Monash Sport",
+        "region_id": "region_95",
+        "lon": 145.1362281292677,
+        "lat": -37.91238410208696,
+        "address": "Bicycle Lockers, Scenic Boulevard, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1065",
+        "name": "Menzies E",
+        "region_id": "region_95",
+        "lon": 145.133110396564,
+        "lat": -37.912613437541644,
+        "address": "Chancellors Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1066",
+        "name": "Menzies W",
+        "region_id": "region_95",
+        "lon": 145.1321069151163,
+        "lat": -37.91235659240465,
+        "address": "Humanities (11) (CL_20Chn), Chancellors Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1067",
+        "name": "Campus Centre N",
+        "region_id": "region_95",
+        "lon": 145.1328257471323,
+        "lat": -37.911341370489716,
+        "address": "Monash Eyecare, Rainforest Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1068",
+        "name": "Campus Centre S",
+        "region_id": "region_95",
+        "lon": 145.1330316066742,
+        "lat": -37.912214811382185,
+        "address": "Chancellors Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1069",
+        "name": "Hargrave-Andrew Library",
+        "region_id": "region_95",
+        "lon": 145.13211214537478,
+        "lat": -37.910136470837806,
+        "address": "College Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1070",
+        "name": "Medicine Offices - East",
+        "region_id": "region_95",
+        "lon": 145.13137131929398,
+        "lat": -37.91307395804395,
+        "address": "Faculty of Medicine Offices (64) (CL_43Rnf), Ancora Imparo Way, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1071",
+        "name": "35 Rainforest Walk",
+        "region_id": "region_95",
+        "lon": 145.13142094016075,
+        "lat": -37.91240949574139,
+        "address": "Medicine (13D) (CL_35Rnf), Chancellors Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1639",
+        "name": "Bus Loop W",
+        "region_id": "region_95",
+        "lon": 145.13114869594574,
+        "lat": -37.91443883789687,
+        "address": "49 Rainforest Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1640",
+        "name": "Campbell Hall W",
+        "region_id": "region_95",
+        "lon": 145.13427950441837,
+        "lat": -37.91124085280106,
+        "address": "Union Loop Road, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1641",
+        "name": "Information Technology N",
+        "region_id": "region_95",
+        "lon": 145.1339727267623,
+        "lat": -37.91049013938797,
+        "address": "Westgate Bridge parts, College Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1642",
+        "name": "Halls",
+        "region_id": "region_95",
+        "lon": 145.139749199152,
+        "lat": -37.90779830056271,
+        "address": "Roberts Hall (44), College Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1643",
+        "name": "738 Blackburn Rd",
+        "region_id": "region_95",
+        "lon": 145.14228992164135,
+        "lat": -37.9093415700725,
+        "address": "3 Duerdin Street, Notting Hill",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1644",
+        "name": "211 Wellington Rd",
+        "region_id": "region_228",
+        "lon": 145.15098497271538,
+        "lat": -37.91675484351535,
+        "address": "211-223 Wellington Road, Mulgrave",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1645",
+        "name": "Turner Hall",
+        "region_id": "region_95",
+        "lon": 145.1377871632576,
+        "lat": -37.909641543428364,
+        "address": "38 College Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1646",
+        "name": "Innovation Walk S",
+        "region_id": "region_95",
+        "lon": 145.12964766472578,
+        "lat": -37.91367651858394,
+        "address": "39 Innovation Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1647",
+        "name": "Monash College W",
+        "region_id": "region_95",
+        "lon": 145.12981832027435,
+        "lat": -37.91450655219599,
+        "address": "39 Innovation Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1648",
+        "name": "700 Blackburn Rd",
+        "region_id": "region_95",
+        "lon": 145.14212496578693,
+        "lat": -37.907666563034226,
+        "address": "700 Blackburn Road, Notting Hill",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1649",
+        "name": "Scenic Blvd S",
+        "region_id": "region_95",
+        "lon": 145.13526320457458,
+        "lat": -37.914318750629974,
+        "address": "59 Scenic Boulevard, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1650",
+        "name": "Car Park OC1 West at 800 Blackburn Rd",
+        "region_id": "region_95",
+        "lon": 145.14058001339436,
+        "lat": -37.915870876432706,
+        "address": "800 Blackburn Road, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1651",
+        "name": "Campbell Hall S",
+        "region_id": "region_95",
+        "lon": 145.13492792844772,
+        "lat": -37.91120752320808,
+        "address": "24 Sports Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1652",
+        "name": "Sports Walk E",
+        "region_id": "region_95",
+        "lon": 145.13642862439156,
+        "lat": -37.91119270997656,
+        "address": "8 Scenic Boulevard, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1653",
+        "name": "Engineering SE",
+        "region_id": "region_95",
+        "lon": 145.13430767849968,
+        "lat": -37.909837237866455,
+        "address": "22 Alliance Lane, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1654",
+        "name": "Information Technology S",
+        "region_id": "region_95",
+        "lon": 145.13363912701607,
+        "lat": -37.91106679802696,
+        "address": "1-131 Wellington Road, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1655",
+        "name": "MSI",
+        "region_id": "region_95",
+        "lon": 145.13787607450013,
+        "lat": -37.90700483851278,
+        "address": "8 Scenic Boulevard, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1656",
+        "name": "24 Research Way",
+        "region_id": "region_95",
+        "lon": 145.13414070010185,
+        "lat": -37.90796624579958,
+        "address": "Research Way, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1657",
+        "name": "Earth Sciences",
+        "region_id": "region_95",
+        "lon": 145.13088315725324,
+        "lat": -37.909370668091675,
+        "address": "9 Rainforest Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE",
+          "CREDITCARD"
+        ]
+      },
+      {
+        "station_id": "hub_1658",
+        "name": "5 Rainforest Walk - Car Park N1",
+        "region_id": "region_95",
+        "lon": 145.13192894537497,
+        "lat": -37.90865437925672,
+        "address": "14 Rainforest Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1659",
+        "name": "Biotechnology E",
+        "region_id": "region_95",
+        "lon": 145.1295047325675,
+        "lat": -37.910293719593376,
+        "address": "12 Innovation Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1660",
+        "name": "Biomedical",
+        "region_id": "region_95",
+        "lon": 145.12960816926352,
+        "lat": -37.91161275261377,
+        "address": "School of Biomedical Sciences (76) 19 Innovation Wk, Innovation Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1661",
+        "name": "South East Flats",
+        "region_id": "region_95",
+        "lon": 145.1388051500635,
+        "lat": -37.91523921906192,
+        "address": "52 Ancora Imparo Way, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1664",
+        "name": "Campus Centre W",
+        "region_id": "region_95",
+        "lon": 145.13203650712967,
+        "lat": -37.9117735954442,
+        "address": "Rainforest Garden, Rainforest Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1665",
+        "name": "Biotechnology W",
+        "region_id": "region_95",
+        "lon": 145.1290163397789,
+        "lat": -37.910254184185774,
+        "address": "Boundary Road, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1666",
+        "name": "Engineering S",
+        "region_id": "region_95",
+        "lon": 145.1332763582468,
+        "lat": -37.91005552625134,
+        "address": "Engineering Building (32) (CL_21Col), College Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_1667",
+        "name": "Engineering W",
+        "region_id": "region_95",
+        "lon": 145.13240799307823,
+        "lat": -37.90957012145712,
+        "address": "Yummy Kitchen, College Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2077",
+        "name": "Car Park OC1 at 800 Blackburn Rd",
+        "region_id": "region_95",
+        "lon": 145.14222588390112,
+        "lat": -37.9156404931267,
+        "address": "800 Blackburn Road, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2078",
+        "name": "Normanby House",
+        "region_id": "region_95",
+        "lon": 145.1387269422412,
+        "lat": -37.90592564752298,
+        "address": "101 Normanby Road, Notting Hill",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2572",
+        "name": "321 Ferntree Gully",
+        "region_id": "region_329",
+        "lon": 145.1338630914688,
+        "lat": -37.89985222539082,
+        "address": "321 Ferntree Gully Road, Mount Waverley",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2578",
+        "name": "Education",
+        "region_id": "region_95",
+        "lon": 145.13435125350952,
+        "lat": -37.913740530438204,
+        "address": "Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2579",
+        "name": "Medicine Offices - North",
+        "region_id": "region_95",
+        "lon": 145.13104140758514,
+        "lat": -37.91278533957923,
+        "address": "Faculty of Medicine Offices (64) (CL_43Rnf), Ancora Imparo Way, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2580",
+        "name": "16 Rainforest Walk",
+        "region_id": "region_95",
+        "lon": 145.13192921876905,
+        "lat": -37.91077159169722,
+        "address": "Sports Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2709",
+        "name": "25 Rainforest Walk",
+        "region_id": "region_95",
+        "lon": 145.1311232149601,
+        "lat": -37.91160053373241,
+        "address": "Biochemistry Teaching Laboratories (16) (CL_11Chn), Chancellors Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2710",
+        "name": "Briggs Hall",
+        "region_id": "region_95",
+        "lon": 145.1391537487507,
+        "lat": -37.91035728231564,
+        "address": "College Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_2712",
+        "name": "738 Blackburn Rd - Car Park",
+        "region_id": "region_95",
+        "lon": 145.14193922281265,
+        "lat": -37.909643891289406,
+        "address": "738, Blackburn Road, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3238",
+        "name": "Mannix College ",
+        "region_id": "region_95",
+        "lon": 145.1316036656499,
+        "lat": -37.91592283494326,
+        "address": "1 Cobain Street, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3734",
+        "name": "Roberts Hall ",
+        "region_id": "region_95",
+        "lon": 145.1392544992268,
+        "lat": -37.907248983916006,
+        "address": "61 College Way, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3735",
+        "name": "Richardson Hall",
+        "region_id": "region_95",
+        "lon": 145.13871520757675,
+        "lat": -37.907127144204814,
+        "address": "63 College Way, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3736",
+        "name": "Deakin Hall",
+        "region_id": "region_95",
+        "lon": 145.14072288796797,
+        "lat": -37.90823382200142,
+        "address": "54 College Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3737",
+        "name": "Farrer Hall",
+        "region_id": "region_95",
+        "lon": 145.1404509320855,
+        "lat": -37.907387595415244,
+        "address": "62 College Way, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3800",
+        "name": "Monash Nanofabrication",
+        "region_id": "region_95",
+        "lon": 145.14368131756783,
+        "lat": -37.916307769608196,
+        "address": "153 Wellington Road, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3801",
+        "name": "Monash Biomedical Imaging",
+        "region_id": "region_95",
+        "lon": 145.1413825806435,
+        "lat": -37.912369341469486,
+        "address": "770 Blackburn Road, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3915",
+        "name": "Green Chemical Futures",
+        "region_id": "region_95",
+        "lon": 145.1313203573227,
+        "lat": -37.910041506439704,
+        "address": "13, Rainforest Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3944",
+        "name": "Physics",
+        "region_id": "region_95",
+        "lon": 145.1303467154503,
+        "lat": -37.91054877532408,
+        "address": "Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3945",
+        "name": "Robert Blackwood",
+        "region_id": "region_95",
+        "lon": 145.1352310180664,
+        "lat": -37.91317632490493,
+        "address": "55 Scenic Boulevard, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3946",
+        "name": "Teaching and Learning S",
+        "region_id": "region_95",
+        "lon": 145.13271242380142,
+        "lat": -37.91460829971457,
+        "address": "113-121 Wellington Road, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3958",
+        "name": "Youlendj Hub",
+        "region_id": "region_95",
+        "lon": 145.1302682608366,
+        "lat": -37.91320819879664,
+        "address": "South Ring Road, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_3969",
+        "name": "Childcare",
+        "region_id": "region_95",
+        "lon": 145.1379668712616,
+        "lat": -37.90545529433324,
+        "address": "56 Howleys Road, Notting Hill",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4015",
+        "name": "Engineering N",
+        "region_id": "region_95",
+        "lon": 145.13334810733795,
+        "lat": -37.9097277130268,
+        "address": "Engineering Building (33) (CL_21Col), College Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4030",
+        "name": "Campbell Hall E",
+        "region_id": "region_95",
+        "lon": 145.13553142547607,
+        "lat": -37.91124161330811,
+        "address": "27 Sports Walk, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      },
+      {
+        "station_id": "hub_4031",
+        "name": "Engineering NE",
+        "region_id": "region_95",
+        "lon": 145.13427883386612,
+        "lat": -37.909365377544106,
+        "address": "21 Alliance Lane, Clayton",
+        "rental_methods": [
+          "KEY",
+          "APPLEPAY",
+          "ANDROIDPAY",
+          "TRANSITCARD",
+          "ACCOUNTNUMBER",
+          "PHONE"
+        ]
+      }
+    ]
+  },
+  "system_id": "monash_bike_share"
+}
